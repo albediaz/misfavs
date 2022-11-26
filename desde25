@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:0, Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://45.232.211.196:1080/play/a023
+#EXTINF:0, Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+http://45.232.211.196:1080/play/a05s
 #EXTINF:11,  A&E
 #EXTVLCOPT:network-caching=1000
 http://189.203.160.152:10803/play/a0bv/index.m3u8
@@ -21,24 +27,13 @@ http://189.203.160.152:10803/play/a0b9/index.m3u8
 #EXTINF:0,  BOOMERAN
 #EXTVLCOPT:network-caching=1000
 http://189.203.160.152:10803/play/a0c1/index.m3u8
-#EXTINF:0,  C
+#EXTINF:0, Clover HD
+#EXTVLCOPT:network-caching=1000
+http://45.232.211.196:1080/play/a044
+#EXTINF:0,  Cinecanal
 #EXTVLCOPT:network-caching=1000
 http://189.203.160.152:10803/play/a0cq/index.m3u8
-#EXTINF:0,  D KIDS
-#EXTVLCOPT:network-caching=1000
-http://189.203.160.152:10803/play/a0an/index.m3u8
-#EXTINF:0,  DICOVERY CHANNEL
-#EXTVLCOPT:network-caching=1000
-http://189.203.160.152:10803/play/a0ep/index.m3u8
-#EXTINF:0,  DISCOVERY TURBO
-#EXTVLCOPT:network-caching=1000
-http://189.203.160.152:10803/play/a0c4/index.m3u8
-#EXTINF:0,  DISNEY CHANNEL
-#EXTVLCOPT:network-caching=1000
-http://189.203.160.152:10803/play/a0al/index.m3u8
-#EXTINF:0,  DISNEY JR
-#EXTVLCOPT:network-caching=1000
-http://189.203.160.152:10803/play/a0bz/index.m3u8
+
 #EXTINF:0,  ESPN
 #EXTVLCOPT:network-caching=1000
 http://189.203.160.152:10803/play/a091/index.m3u8
@@ -77,25 +72,9 @@ http://189.203.160.152:10803/play/a0cl/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://189.203.160.152:10803/play/a0am/index.m3u8
 
-#EXTINF:0,  SONY
-#EXTVLCOPT:network-caching=1000
-http://189.203.160.152:10803/play/a0aj/index.m3u8
-#EXTINF:0,  STUDIO UNIVERSAL
-#EXTVLCOPT:network-caching=1000
-http://189.203.160.152:10803/play/a0bh/index.m3u8
-#EXTINF:0,  TLR
-#EXTVLCOPT:network-caching=1000
-http://189.203.160.152:10803/play/a0em/index.m3u8
-#EXTINF:0,  TNT SERIES
-#EXTVLCOPT:network-caching=1000
-http://189.203.160.152:10803/play/a0da/index.m3u8
 
-#EXTINF:0,  VH1
-#EXTVLCOPT:network-caching=1000
-http://189.203.160.152:10803/play/a0b6/index.m3u8
-#EXTINF:0,  VIDEO ROLA
-#EXTVLCOPT:network-caching=1000
-http://189.203.160.152:10803/play/a0b5/index.m3u8
+
+
 
 #EXTINF:0,  hola tv
 #EXTVLCOPT:network-caching=1000
@@ -163,9 +142,39 @@ http://189.203.160.152:10803/play/a0b3/index.m3u8
 #EXTINF:0, Cartonito
 #EXTVLCOPT:network-caching=1000
 http://189.203.160.152:10803/play/a0kc/index.m3u8
-#EXTINF:0, DISCOVERY ID
+#EXTINF:0, Discovery Channel
 #EXTVLCOPT:network-caching=1000
-http://189.203.160.152:10803/play/a0ch/index.m3u8
+http://45.232.211.196:1080/play/a022
+#EXTINF:0, Discovery H&H HD
+#EXTVLCOPT:network-caching=1000
+http://45.232.211.196:1080/play/a04w
+#EXTINF:0, Discovery Kids
+#EXTVLCOPT:network-caching=1000
+http://45.232.211.196:1080/play/a009
+#EXTINF:0, Discovery Kids HD
+#EXTVLCOPT:network-caching=1000
+http://45.232.211.196:1080/play/a04v
+#EXTINF:0, Discovery Theater HD
+#EXTVLCOPT:network-caching=1000
+http://45.232.211.196:1080/play/a04x
+#EXTINF:0, Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://45.232.211.196:1080/play/a018
+#EXTINF:0, Discovery World HD
+#EXTVLCOPT:network-caching=1000
+http://45.232.211.196:1080/play/a05f
+#EXTINF:0, Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://45.232.211.196:1080/play/a021
+#EXTINF:0, Disney HD
+#EXTVLCOPT:network-caching=1000
+http://45.232.211.196:1080/play/a04f
+#EXTINF:0, Disney Jr
+#EXTVLCOPT:network-caching=1000
+http://45.232.211.196:1080/play/a00m
+#EXTINF:0, Disney Junior HD
+#EXTVLCOPT:network-caching=1000
+http://45.232.211.196:1080/play/a04k
 #EXTINF:0, EL 6
 #EXTVLCOPT:network-caching=1000
 http://189.203.160.152:10803/play/a0bp/index.m3u8
@@ -235,9 +244,47 @@ http://189.203.160.152:10803/play/a0ck/index.m3u8
 #EXTINF:0, PARAMOUNT
 #EXTVLCOPT:network-caching=1000
 http://189.203.160.152:10803/play/a0cs/index.m3u8
+
 #EXTINF:0, RT
 #EXTVLCOPT:network-caching=1000
 http://189.203.160.152:10803/play/a0cn/index.m3u8
+
+#EXTINF:0,  SONY
+#EXTVLCOPT:network-caching=1000
+http://189.203.160.152:10803/play/a0aj/index.m3u8
+#EXTINF:0,  STUDIO UNIVERSAL
+#EXTVLCOPT:network-caching=1000
+http://189.203.160.152:10803/play/a0bh/index.m3u8
+
+#EXTINF:0, TELEHIT
+#EXTVLCOPT:network-caching=1000
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/653.ts
+#EXTINF:0, TELEMUNDO 44
+#EXTVLCOPT:network-caching=1000
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654.ts
+#EXTINF:0, TELEMUNDO 48
+#EXTVLCOPT:network-caching=1000
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/655.ts
+#EXTINF:0, TELEMUNDO LA
+#EXTVLCOPT:network-caching=1000
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/656.ts
+#EXTINF:0, TELEMUNDO MIAMI
+#EXTVLCOPT:network-caching=1000
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657.ts
+#EXTINF:0, TELEMUNDONEWYORK
+#EXTVLCOPT:network-caching=1000
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/658.ts
+#EXTINF:0, TELEXITOS
+#EXTVLCOPT:network-caching=1000
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/659.ts
+#EXTINF:0,  TLR
+#EXTVLCOPT:network-caching=1000
+http://189.203.160.152:10803/play/a0em/index.m3u8
+#EXTINF:0,  TNT SERIES
+#EXTVLCOPT:network-caching=1000
+http://189.203.160.152:10803/play/a0da/index.m3u8
+
+
 #EXTINF:0, SPACE
 #EXTVLCOPT:network-caching=1000
 http://189.203.160.152:10803/play/a0cg/index.m3u8
@@ -265,3 +312,9 @@ http://189.203.160.152:10803/play/a0kf/index.m3u8
 #EXTINF:0, fox channel
 #EXTVLCOPT:network-caching=1000
 http://189.203.160.152:10803/play/a08v/index.m3u8
+#EXTINF:0,  VH1
+#EXTVLCOPT:network-caching=1000
+http://189.203.160.152:10803/play/a0b6/index.m3u8
+#EXTINF:0,  VIDEO ROLA
+#EXTVLCOPT:network-caching=1000
+http://189.203.160.152:10803/play/a0b5/index.m3u8
