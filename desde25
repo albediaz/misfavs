@@ -296,7 +296,7 @@ http://189.203.160.152:10803/play/a0b1/index.m3u8
 http://189.203.160.152:10803/play/a0bx/index.m3u8
 #EXTINF:0, TNT
 #EXTVLCOPT:network-caching=1000
-http://189.203.160.152:10803/play/a0aq/index.m3u8
+http://45.232.211.196:1080/play/a04h
 #EXTINF:0, UNIVERSAL
 #EXTVLCOPT:network-caching=1000
 http://189.203.160.152:10803/play/a0bt/index.m3u8
