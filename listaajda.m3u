@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="2721" group="ADULTO" tvg-country="MX" size="Medium", Venus
+#EXTINF:0 type="stream" channelId="2721" group="ADULTO" tvg-country="MX" size="Medium" tvg-logo "https://los40.com.co/los40/imagenes/2014/03/07/album/1394146800_223028_1394146800_album_normal.jpg", Venus
 http://170.83.242.9:5350/play/a00z
 #EXTINF:0 type="stream" channelId="517" group="ADULTO" tvg-country="MX", Playboy
 http://45.162.135.1:1080/play/a05l
