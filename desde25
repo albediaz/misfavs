@@ -36,7 +36,7 @@ http://190.187.247.206:8000/play/a06g/index.m3u8
 http://170.83.242.9:5350/play/a02r
 #EXTINF:0 type="stream" channelId="2585" group="CINE", HBO Plus
 http://170.83.242.9:5350/play/a02p
-#EXTINF:0 type="stream" channelId="361" group="Lista 21 Chile" audio-track="lat", HBO POP HD
+#EXTINF:0 type="stream" channelId="361" group="Lista 21 Chile" audio-track="lat,spa", HBO POP HD
 http://45.232.211.196:1080/play/a042
 #EXTINF:0 type="stream" channelId="-1" group="CINE", Universal Premiere SD
 http://170.83.242.9:5350/play/a0ko
