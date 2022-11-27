@@ -26,11 +26,11 @@ http://160.20.164.171:8001/play/a01y/index.m3u8
 http://170.83.242.9:5350/play/a001
 #EXTINF:0 type="stream" channelId="1330" group="CINE", HBO HD
 http://45.232.211.196:1080/play/a05t
-#EXTINF:0 type="stream" channelId="935" group="CINE" logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmi.tv%2Fco%2Fcanales%2Fhbo-2&psig=AOvVaw3zejcq5H3EM1sgvfRx-zI5&ust=1669424188863000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOCCwKCQyPsCFQAAAAAdAAAAABAE", HBO 2 HD
+#EXTINF:0 type="stream" channelId="935" group="CINE", HBO 2 HD
 http://190.187.247.206:8000/play/a06y/index.m3u8
 #EXTINF:0 type="stream" channelId="935" group="CINE", HBO 2 HD
 http://45.232.211.196:1080/play/a05q
-#EXTINF:0 type="stream" channelId="2584" group="CINE" logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO Family HD
+#EXTINF:0 type="stream" channelId="2584" group="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO Family HD
 http://190.187.247.206:8000/play/a06g/index.m3u8
 #EXTINF:0 type="stream" channelId="2584" group="CINE" logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO Family
 http://170.83.242.9:5350/play/a02r
