@@ -1,15 +1,3 @@
-#EXTM3U
-#EXTINF:0 type="stream" channelId="2721" group="ADULTO", Venus
-http://170.83.242.9:5350/play/a00z
-#EXTINF:0 type="stream" channelId="517" group="ADULTO", Playboy
-http://45.162.135.1:1080/play/a05l
-#EXTINF:0 type="stream" channelId="-1" group="ADULTO", Playboy HD
-http://190.187.247.206:8000/play/a08f/index.m3u8
-#EXTINF:0 type="stream" channelId="518" group="ADULTO", Brazzers_Tv
-https://m3ukodi.com/developer/transco/app_trans.php?Brazzers_Tv
-#EXTINF:0 type="stream" channelId="-1" group="ADULTO", SEX XTREME
-http://189.203.160.152:10803/play/a09c/index.m3u8
-
 #EXTINF:0, A3 INTERNACIONAL
 #EXTVLCOPT:network-caching=1000
 http://189.203.160.152:10803/play/a0bu/index.m3u8
@@ -26,12 +14,10 @@ http://160.20.164.171:8001/play/a01y/index.m3u8
 http://170.83.242.9:5350/play/a001
 #EXTINF:0 type="stream" channelId="1330" group="CINE", HBO HD
 http://45.232.211.196:1080/play/a05t
-#EXTINF:0 type="stream" channelId="935" group="CINE", HBO 2 HD
-http://190.187.247.206:8000/play/a06y/index.m3u8
+
 #EXTINF:0 type="stream" channelId="935" group="CINE", HBO 2 HD
 http://45.232.211.196:1080/play/a05q
-#EXTINF:0 type="stream" channelId="2584" group="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO Family HD
-http://190.187.247.206:8000/play/a06g/index.m3u8
+
 #EXTINF:0 type="stream" channelId="2584" group="CINE" logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO Family
 http://170.83.242.9:5350/play/a02r
 #EXTINF:0 type="stream" channelId="2585" group="CINE", HBO Plus
@@ -118,8 +104,7 @@ http://190.83.119.67:8000/play/a0r1/index.m3u8
 http://170.83.242.9:5350/play/a03d
 #EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO" logo="https://ott-gateway.sinclairstoryline.com/resources/media2/16x9/full/600/center/90/1e10006e-3cb9-4686-88ca-8bd03c32af06-medium16x9_STIRR_0721_EPG_StingrayFlashback70s_1920x1080.png?1625778767220?cb=c4ca4238a0b923820dcc509a6f75849b", Stingray Flashback 70s
 https://dai.google.com/linear/hls/event/Y3O1azbASfKxO4gdleMbmQ/master.m3u8
-#EXTINF:0 type="stream" channelId="2124" group="ENTRETENIMIENTO", ANTENA3
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/484.ts
+
 #EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO", CHV HD
 http://45.232.211.196:1080/play/a04d
 #EXTINF:0 type="stream" channelId="1202" group="ENTRETENIMIENTO", History 2 HD
@@ -128,6 +113,14 @@ http://190.187.247.206:8000/play/a092/index.m3u8
 http://45.232.211.196:1080/play/a00f
 #EXTINF:0 type="stream" channelId="-1" group="DEPORTES", TELEMUNDO 48
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/655.ts
+#EXTINF:0 type="stream" channelId="-1" group="Lista 24", TELEMUNDONEWYORK
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/658.ts
+#EXTINF:0 type="stream" channelId="-1" group="Lista 24", TELEMUNDO MIAMI
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657.ts
+#EXTINF:0 type="stream" channelId="-1" group="Lista 24", TELEMUNDO LA
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/656.ts
+#EXTINF:0 type="stream" channelId="-1" group="Lista 24", TELEMUNDO 44
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654.ts
 #EXTINF:0 type="stream" channelId="4781" group="ENTRETENIMIENTO", Sin Limites
 http://200.41.79.165:8000/play/a0j1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO" logo="https://ott-gateway.sinclairstoryline.com/resources/media2/16x9/full/600/center/90/c3b3a7cb-b27b-4879-97ca-00afa9ea1c7a-medium16x9_STIRR_0721_EPG_StingrayRemember80s_1920x1080.png?1625778768861?cb=c4ca4238a0b923820dcc509a6f75849b", Stingray Everything 80s
@@ -164,14 +157,7 @@ http://45.232.211.196:1080/play/a026
 http://45.232.211.196:1080/play/a051
 #EXTINF:0 type="stream" channelId="-1" group="DEPORTES", ESPN EXTRA HD
 http://45.232.211.196:1080/play/a05i
-#EXTINF:0 type="stream" channelId="-1" group="Lista 24", TELEMUNDONEWYORK
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/658.ts
-#EXTINF:0 type="stream" channelId="-1" group="Lista 24", TELEMUNDO MIAMI
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657.ts
-#EXTINF:0 type="stream" channelId="-1" group="Lista 24", TELEMUNDO LA
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/656.ts
-#EXTINF:0 type="stream" channelId="-1" group="Lista 24", TELEMUNDO 44
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654.ts
+
 #EXTINF:0 type="stream" channelId="2894" group="DEPORTES", NFL NETWORK
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616.ts
 #EXTINF:0 type="stream" channelId="-1" group="DEPORTES", PAC12ARIZONA
