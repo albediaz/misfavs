@@ -6,20 +6,22 @@ http://189.203.160.152:10803/play/a0bu/index.m3u8
 #EXTINF:0,  A3 SERIES
 #EXTVLCOPT:network-caching=1000
 http://189.203.160.152:10803/play/a0b0/index.m3u8
-#EXTINF:0,  tbs
-#EXTVLCOPT:network-caching=1000
-http://189.203.160.152:10803/play/a0dc/index.m3u8
-
+#EXTINF:0, TBS
+http://190.61.102.67:8000/play/a043
 #EXTINF:0 type="stream" channelId="291" group="CINE", DHE
-http://160.20.164.171:8001/play/a01y/index.m3u8
+http://190.61.102.67:8000/play/a04x
+
+
+
+
+#EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO" logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r1.png", VTV Canal 35 ESA
+http://190.83.119.67:8000/play/a0r1/index.m3u8
 #EXTINF:0 type="stream" channelId="1330" group="CINE", HBO
 http://170.83.242.9:5350/play/a001
 #EXTINF:0 type="stream" channelId="1330" group="CINE", HBO HD
 http://45.232.211.196:1080/play/a05t
-
 #EXTINF:0 type="stream" channelId="935" group="CINE", HBO 2 HD
 http://45.232.211.196:1080/play/a05q
-
 #EXTINF:0 type="stream" channelId="2584" group="CINE" logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO Family
 http://170.83.242.9:5350/play/a02r
 #EXTINF:0 type="stream" channelId="2585" group="CINE", HBO Plus
@@ -30,7 +32,7 @@ http://45.232.211.196:1080/play/a042
 http://170.83.242.9:5350/play/a0ko
 #EXTINF:0 type="stream" channelId="-1" group="CINE", Universal Cinema SD
 http://170.83.242.9:5350/play/a0kp
-#EXTINF:0 type="stream" channelId="-1" group="CINE" audio-track="lat", Universal Comedy SD
+#EXTINF:0 type="stream" channelId="-1" group="CINE" audio-track="lat, spa", Universal Comedy SD
 http://170.83.242.9:5350/play/a0kq
 #EXTINF:0 type="stream" channelId="-1" group="CINE", UNIVERSAL COMEDY
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/702.ts
@@ -38,9 +40,10 @@ http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQ
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/700.ts
 #EXTINF:0 type="stream" channelId="-1" group="CINE", UNIVERSAL CRIME
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/701.ts
-
 #EXTINF:0 type="stream" channelId="2147" group="CINE", Studio Universal HD
 http://45.232.211.196:1080/play/a05n
+#EXTINF:0 type="stream" channelId="291" group="CINE", STAR TVE
+http://190.61.102.67:8000/play/a04z
 #EXTINF:0 type="stream" channelId="-1" group="CINE", STAR CHANNEL HD
 http://190.187.247.206:8000/play/a08v/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CINE", STAR CHANNEL 2 HD
@@ -52,6 +55,11 @@ http://170.83.242.9:5350/play/a006
 #EXTINF:0 type="stream" channelId="1304" group="CINE", FX HD
 http://45.232.211.196:1080/play/a057
 
+#EXTINF:0 type="stream" channelId="1304" group="CINE" audio-track="lat, spa", CINECANAL HD
+http://190.131.228.59:8000/play/a0ro/index.m3u8
+#EXTINF:0 type="stream" channelId="1304" group="CINE", CINEMAX
+http://190.60.39.62:8000/play/a046
+
 #EXTINF:0 type="stream" channelId="3797" group="CINE" audio-track="lat", TNT Series HD
 http://45.232.211.196:1080/play/a056
 #EXTINF:0 type="stream" channelId="2900" group="CINE", TNT HD
@@ -62,7 +70,6 @@ http://45.232.211.196:1080/play/a03z
 http://45.232.211.196:1080/play/a020
 #EXTINF:0 type="stream" channelId="74" group="CINE" audio-track="lat,spa", SyFy2
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:0 type="stream" channelId="2888" group="CINE", Cinemax HD
 http://45.232.211.196:1080/play/a04o
 #EXTINF:0 type="stream" channelId="292" group="CINE", MULTI PREMIER
@@ -100,37 +107,49 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1" group="CINE", Clover HD
 http://45.232.211.196:1080/play/a044
-#EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO" logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r1.png", VTV Canal 35 ESA
-http://190.83.119.67:8000/play/a0r1/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO", Nat Geo
+http://190.61.102.67:31589/play/a01l/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO", Investigaton Discovery
+http://190.61.102.67:31589/play/a04y/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO", Discovery H&H HD
+http://45.232.211.196:1080/play/a04w
+
 #EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO", SNT
 http://170.83.242.9:5350/play/a03d
+#EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO" logo="https://ott-gateway.sinclairstoryline.com/resources/media2/16x9/full/600/center/90/c3b3a7cb-b27b-4879-97ca-00afa9ea1c7a-medium16x9_STIRR_0721_EPG_StingrayRemember80s_1920x1080.png?1625778768861?cb=c4ca4238a0b923820dcc509a6f75849b", Stingray Everything 80s
+https://dai.google.com/linear/hls/event/XiPZx9vFS8i6lgkNnprjtQ/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO" logo="https://ott-gateway.sinclairstoryline.com/resources/media2/16x9/full/600/center/90/1e10006e-3cb9-4686-88ca-8bd03c32af06-medium16x9_STIRR_0721_EPG_StingrayFlashback70s_1920x1080.png?1625778767220?cb=c4ca4238a0b923820dcc509a6f75849b", Stingray Flashback 70s
 https://dai.google.com/linear/hls/event/Y3O1azbASfKxO4gdleMbmQ/master.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO", CHV HD
-http://45.232.211.196:1080/play/a04d
+#EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO", History Ch
+http://190.61.102.67:31589/play/a017/index.m3u8
 #EXTINF:0 type="stream" channelId="1202" group="ENTRETENIMIENTO", History 2 HD
 http://190.187.247.206:8000/play/a092/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO", CHV HD
+http://45.232.211.196:1080/play/a04d
+#EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO", Unicable
+http://190.61.102.67:31589/play/a08f/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO", CANAL 13
 http://45.232.211.196:1080/play/a00f
-#EXTINF:0 type="stream" channelId="-1" group="DEPORTES", TELEMUNDO 48
+#EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO", TELEMUNDO 48
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/655.ts
-#EXTINF:0 type="stream" channelId="-1" group="Lista 24", TELEMUNDONEWYORK
+#EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO", TELEMUNDONEWYORK
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/658.ts
-#EXTINF:0 type="stream" channelId="-1" group="Lista 24", TELEMUNDO MIAMI
+#EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO", TELEMUNDO MIAMI
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657.ts
-#EXTINF:0 type="stream" channelId="-1" group="Lista 24", TELEMUNDO LA
+#EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO", TELEMUNDO LA
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/656.ts
-#EXTINF:0 type="stream" channelId="-1" group="Lista 24", TELEMUNDO 44
+#EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO", TELEMUNDO 44
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654.ts
 #EXTINF:0 type="stream" channelId="4781" group="ENTRETENIMIENTO", Sin Limites
 http://200.41.79.165:8000/play/a0j1/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO" logo="https://ott-gateway.sinclairstoryline.com/resources/media2/16x9/full/600/center/90/c3b3a7cb-b27b-4879-97ca-00afa9ea1c7a-medium16x9_STIRR_0721_EPG_StingrayRemember80s_1920x1080.png?1625778768861?cb=c4ca4238a0b923820dcc509a6f75849b", Stingray Everything 80s
-https://dai.google.com/linear/hls/event/XiPZx9vFS8i6lgkNnprjtQ/master.m3u8
 #EXTINF:0 type="stream" channelId="3779" group="ENTRETENIMIENTO", UNIVERSO
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665.ts
+
 #EXTINF:0 type="stream" channelId="-1" group="DEPORTES", UNIVISION SPORTS
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666.ts
+#EXTINF:0 type="stream" channelId="-1" group="DEPORTES", Claro sports
+http://190.61.102.67:31589/play/a053/index.m3u8
 #EXTINF:0 type="stream" channelId="1329" group="DEPORTES", Fox Sports 1
 http://45.232.211.196:1080/play/a00h
 #EXTINF:0 type="stream" channelId="170" group="DEPORTES", Fox Sports 2
@@ -141,8 +160,6 @@ http://45.232.211.196:1080/play/a04j
 http://45.232.211.196:1080/play/a040
 #EXTINF:0 type="stream" channelId="3802" group="DEPORTES", TYC sports
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/662.ts
-#EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO", Discovery H&H HD
-http://45.232.211.196:1080/play/a04w
 #EXTINF:0 type="stream" channelId="1263" group="DEPORTES", ESPN HD
 http://45.232.211.196:1080/play/a058
 #EXTINF:0 type="stream" channelId="3746" group="DEPORTES", ESPN 2 HD
@@ -159,7 +176,6 @@ http://45.232.211.196:1080/play/a026
 http://45.232.211.196:1080/play/a051
 #EXTINF:0 type="stream" channelId="-1" group="DEPORTES", ESPN EXTRA HD
 http://45.232.211.196:1080/play/a05i
-
 #EXTINF:0 type="stream" channelId="2894" group="DEPORTES", NFL NETWORK
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616.ts
 #EXTINF:0 type="stream" channelId="-1" group="DEPORTES", PAC12ARIZONA
