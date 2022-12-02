@@ -18,10 +18,13 @@ http://189.203.160.152:10803/play/a0bu/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://189.203.160.152:10803/play/a0b0/index.m3u8
 #EXTINF:0, TBS
-#EXTVLCOPT:network-caching=1000
-http://189.203.160.152:10803/play/a0dc/index.m3u8
+http://190.61.102.67:8000/play/a043
 #EXTINF:0 type="stream" channelId="291" group="CINE", DHE
-http://160.20.164.171:8001/play/a01y/index.m3u8
+http://190.61.102.67:8000/play/a04x
+
+
+
+
 #EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO" logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r1.png", VTV Canal 35 ESA
 http://190.83.119.67:8000/play/a0r1/index.m3u8
 #EXTINF:0 type="stream" channelId="1330" group="CINE", HBO
@@ -40,7 +43,7 @@ http://45.232.211.196:1080/play/a042
 http://170.83.242.9:5350/play/a0ko
 #EXTINF:0 type="stream" channelId="-1" group="CINE", Universal Cinema SD
 http://170.83.242.9:5350/play/a0kp
-#EXTINF:0 type="stream" channelId="-1" group="CINE" audio-track="lat", Universal Comedy SD
+#EXTINF:0 type="stream" channelId="-1" group="CINE" audio-track="lat, spa", Universal Comedy SD
 http://170.83.242.9:5350/play/a0kq
 #EXTINF:0 type="stream" channelId="-1" group="CINE", UNIVERSAL COMEDY
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/702.ts
@@ -50,6 +53,8 @@ http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQ
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/701.ts
 #EXTINF:0 type="stream" channelId="2147" group="CINE", Studio Universal HD
 http://45.232.211.196:1080/play/a05n
+#EXTINF:0 type="stream" channelId="291" group="CINE", STAR TVE
+http://190.61.102.67:8000/play/a04z
 #EXTINF:0 type="stream" channelId="-1" group="CINE", STAR CHANNEL HD
 http://190.187.247.206:8000/play/a08v/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CINE", STAR CHANNEL 2 HD
@@ -60,6 +65,12 @@ http://45.232.211.196:1080/play/a046
 http://170.83.242.9:5350/play/a006
 #EXTINF:0 type="stream" channelId="1304" group="CINE", FX HD
 http://45.232.211.196:1080/play/a057
+
+#EXTINF:0 type="stream" channelId="1304" group="CINE" audio-track="lat, spa", CINECANAL HD
+http://190.131.228.59:8000/play/a0ro/index.m3u8
+#EXTINF:0 type="stream" channelId="1304" group="CINE", CINEMAX
+http://190.60.39.62:8000/play/a046
+
 #EXTINF:0 type="stream" channelId="3797" group="CINE" audio-track="lat", TNT Series HD
 http://45.232.211.196:1080/play/a056
 #EXTINF:0 type="stream" channelId="2900" group="CINE", TNT HD
