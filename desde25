@@ -94,8 +94,7 @@ http://190.61.102.67:31589/play/a01d/index.m3u8
 #EXTINF:0, PARAMOUNT
 #EXTVLCOPT:network-caching=1000
 http://189.203.160.152:10803/play/a0cs/index.m3u8
-#EXTINF:0 type="stream" channelId="291" group="CINE", GOLDEN EDGE
-http://190.61.102.67:31589/play/a01o/index.m3u8
+
 #EXTINF:0 type="stream" channelId="291" group="CINE", WARNER CHANNEL
 http://45.232.211.196:1080/play/a024
 #EXTINF:0 type="stream" channelId="-1" group="CINE", Nuestro Cine
@@ -120,15 +119,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1" group="CINE", Clover HD
 http://45.232.211.196:1080/play/a044
-
-
-#EXTINF:0 type="stream" channelId="291" group="ENTRETENIMIENTO", ESTRELLA TV
-http://190.61.102.67:31589/play/a04n/index.m3u8
-
-#EXTINF:-1, 360 Judicial
-http://190.61.102.67:31589/play/a04n/index.m3u8
-#EXTINF:-1, TUDN
-http://190.61.102.67:31589/play/a08j/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO", Nat Geo
@@ -168,6 +158,9 @@ http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQ
 http://200.41.79.165:8000/play/a0j1/index.m3u8
 #EXTINF:0 type="stream" channelId="3779" group="ENTRETENIMIENTO", UNIVERSO
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665.ts
+
+#EXTINF:-1, group="DEPORTES", TUDN
+http://190.61.102.67:31589/play/a08j/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="DEPORTES", UNIVISION SPORTS
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666.ts
