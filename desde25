@@ -11,6 +11,9 @@ http://190.187.247.206:8000/play/a08f/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ADULTO", SEX XTREME
 http://170.83.242.152:5350/play/a0u1
 
+#EXTINF:0 type="favorites" channelId="-1", XHTDMX1
+dtv://antenna:11/atsc/6/1
+
 #EXTINF:0, A3 INTERNACIONAL
 #EXTVLCOPT:network-caching=1000
 http://189.203.160.152:10803/play/a0bu/index.m3u8
