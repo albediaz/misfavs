@@ -20,7 +20,7 @@ http://189.203.160.152:10803/play/a0b0/index.m3u8
 #EXTINF:0, TBS
 http://190.61.102.67:8000/play/a043
 #EXTINF:0 type="stream" channelId="291" tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group="CINE", DHE
-http://190.61.102.67:8000/play/a04x
+http://181.176.148.142:8000/play/a027
 
 
 
@@ -60,7 +60,7 @@ http://190.187.247.206:8000/play/a08v/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CINE", STAR CHANNEL 2 HD
 http://45.232.211.196:1080/play/a04y
 #EXTINF:0 type="stream" channelId="-1" group="CINE", STAR CHANNEL HD
-http://45.232.211.196:1080/play/a046
+http://190.131.247.82:8000/play/a05x
 #EXTINF:0 type="stream" channelId="1303" group="Lista 46 Paraguay", FX
 http://170.83.242.9:5350/play/a006
 #EXTINF:0 type="stream" channelId="1304" group="CINE", FX HD
