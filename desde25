@@ -84,13 +84,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f91
 #EXTINF:0 type="stream" channelId="2888" group="CINE", Cinemax HD
 http://45.232.211.196:1080/play/a04o
 #EXTINF:0 type="stream" channelId="292" group="CINE", MULTI PREMIER
-http://189.203.160.152:10803/play/a0cp/index.m3u8
+http://190.61.102.67:31589/play/a01e/index.m3u8
 #EXTINF:0 type="stream" channelId="283" group="CINE", cine latino
-http://189.203.160.152:10803/play/a08u/index.m3u8
+http://190.61.102.67:31589/play/a05v/index.m3u8
 #EXTINF:0 type="stream" channelId="2501" group="CINE", AMC HD
 http://45.232.211.196:1080/play/a05h
 #EXTINF:0 type="stream" channelId="291" group="CINE", MC
-http://189.203.160.152:10803/play/a0co/index.m3u8
+http://190.61.102.67:31589/play/a01d/index.m3u8
 #EXTINF:0, PARAMOUNT
 #EXTVLCOPT:network-caching=1000
 http://189.203.160.152:10803/play/a0cs/index.m3u8
