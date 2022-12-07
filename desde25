@@ -137,7 +137,7 @@ https://dai.google.com/linear/hls/event/Y3O1azbASfKxO4gdleMbmQ/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO", History Ch
 http://190.61.102.67:31589/play/a017/index.m3u8
 #EXTINF:0 type="stream" channelId="1202" group="ENTRETENIMIENTO", History 2 HD
-http://190.187.247.206:8000/play/a092/index.m3u8
+http://190.131.247.82:8000/play/a073
 #EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO", CHV HD
 http://45.232.211.196:1080/play/a04d
 #EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO", Unicable
