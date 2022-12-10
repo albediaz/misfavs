@@ -12,7 +12,7 @@ http://190.187.247.206:8000/play/a08f/index.m3u8
 http://170.83.242.152:5350/play/a0u1
 
 #EXTINF:0 type="favorites" channelId="-1", XHTDMX1
-https://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream/5f2d9d6ff17144074bd8a284/media_400_20221210T001617_3707428.ts?aid=579bd29dc99290cf08362c3b&uid=femmdps1f1UN5bBV0Wy2rBHYykxcCsm2&sid=LdmSYWOkr7NbXMRXdFCl0Ib5jpUm3B44&pid=LMKUpf5QobK50sokNJl0ZikLrejWFE9n&ref=https%3A%2F%2Fwww.multimedios.com%2F&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-mg17.cdn.mdstrm.com&ote=1670717656590&ot=cOw18L0EEYpPI4lgwWlESg&proto=https&pz=us
+dtv://antenna:11/atsc/6/1
 
 #EXTINF:0, A3 INTERNACIONAL
 #EXTVLCOPT:network-caching=1000
