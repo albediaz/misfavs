@@ -1,25 +1,21 @@
 #EXTM3U
 
-#EXTINF:0 type="stream" channelId="518" group="ADULTO", Brazzers_Tv
-https://m3ukodi.com/developer/transco/app_trans.php?Brazzers_Tv
-#EXTINF:0 type="stream" channelId="2721" group="ADULTO", Venus
-http://170.83.242.9:5350/play/a00z
+
+
 #EXTINF:0 type="stream" channelId="517" group="ADULTO", Playboy
 http://45.162.135.1:1080/play/a05l
 #EXTINF:0 type="stream" channelId="-1" group="ADULTO", Playboy HD
 http://190.187.247.206:8000/play/a08f/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ADULTO", SEX XTREME
 http://170.83.242.152:5350/play/a0u1
-
-#EXTINF:0 type="favorites" channelId="-1", XHTDMX1
-dtv://antenna:11/atsc/6/1
+#EXTINF:0 type="stream" channelId="2721" group="ADULTO", Venus
+http://170.83.242.9:5350/play/a00z
 
 #EXTINF:0, A3 INTERNACIONAL
 #EXTVLCOPT:network-caching=1000
 http://189.203.160.152:10803/play/a0bu/index.m3u8
 #EXTINF:0,  A3 SERIES
-#EXTVLCOPT:network-caching=1000
-http://189.203.160.152:10803/play/a0b0/index.m3u8
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/675.ts
 #EXTINF:0, TBS
 http://190.61.102.67:8000/play/a043
 #EXTINF:0 type="stream" channelId="291" tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group="CINE", DHE
@@ -69,6 +65,9 @@ http://170.83.242.9:5350/play/a006
 #EXTINF:0 type="stream" channelId="1304" group="CINE", FX HD
 http://45.232.211.196:1080/play/a057
 
+#EXTINF:0 type="stream" channelId="-1" group="CINE", Clover HD
+http://45.232.211.196:1080/play/a044
+
 #EXTINF:0 type="stream" channelId="1304" group="CINE" audio-track="lat, spa", CINECANAL HD
 http://190.131.228.59:8000/play/a0ro/index.m3u8
 #EXTINF:0 type="stream" channelId="1304" group="CINE", CINEMAX
@@ -95,7 +94,6 @@ http://45.232.211.196:1080/play/a05h
 #EXTINF:0 type="stream" channelId="291" group="CINE", MC
 http://190.61.102.67:31589/play/a01d/index.m3u8
 #EXTINF:0, PARAMOUNT
-#EXTVLCOPT:network-caching=1000
 http://189.203.160.152:10803/play/a0cs/index.m3u8
 
 #EXTINF:0 type="stream" channelId="291" group="CINE", WARNER CHANNEL
@@ -120,8 +118,18 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f368
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1" group="CINE", Cine Terror
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 type="stream" channelId="-1" group="CINE", Clover HD
-http://45.232.211.196:1080/play/a044
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png" group="ENTRETENIMIENTO", EL ENCANTADOR DE PERROS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png" group="ENTRETENIMIENTO", RETRO CARTOON
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:0 type="stream" channelId="1329" group="INFANTIL", Nickelodeon HD
+http://190.131.247.82:8000/play/a05z
+
+#EXTINF:0 type="stream" channelId="1329" group="INFANTIL", CARTOON NETWORK
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683.ts
 
 
 #EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO", Nat Geo
@@ -170,9 +178,9 @@ http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQ
 #EXTINF:0 type="stream" channelId="-1" group="DEPORTES", Claro sports
 http://190.61.102.67:31589/play/a053/index.m3u8
 #EXTINF:0 type="stream" channelId="1329" group="DEPORTES", Fox Sports 1
-http://45.232.211.196:1080/play/a00h
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/706.ts
 #EXTINF:0 type="stream" channelId="170" group="DEPORTES", Fox Sports 2
-http://45.232.211.196:1080/play/a02h
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/707.ts
 #EXTINF:0 type="stream" channelId="213" group="DEPORTES", Fox Sports 3 HD
 http://45.232.211.196:1080/play/a04j
 #EXTINF:0 type="stream" channelId="-1" group="DEPORTES", TNT SPORTS HD
@@ -197,6 +205,27 @@ http://45.232.211.196:1080/play/a051
 http://45.232.211.196:1080/play/a05i
 #EXTINF:0 type="stream" channelId="2894" group="DEPORTES", NFL NETWORK
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616.ts
+
+#EXTINF:0 type="stream" channelId="-1" group="DEPORTES", NFL GAME PASS 05
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/743.ts
+
+#EXTINF:0 type="stream" channelId="-1" group="DEPORTES", NFL GAME PASS 08
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/746.ts
+
+#EXTINF:0 type="stream" channelId="-1" group="DEPORTES", NFL GAME PASS 09
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/747.ts
+
+#EXTINF:0 type="stream" channelId="-1" group="DEPORTES", NFL GAME PASS 10
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/748.ts
+
+#EXTINF:0 type="stream" channelId="-1" group="DEPORTES", NFL GAME PASS 14
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/752.ts
+
+#EXTINF:0 type="stream" channelId="-1" group="DEPORTES", NFL RED ZONE
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/753.ts
+
+
+
 #EXTINF:0 type="stream" channelId="-1" group="DEPORTES", PAC12ARIZONA
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/630.ts
 #EXTINF:0 type="stream" channelId="-1" group="DEPORTES", PAC12MOUNTAIN
