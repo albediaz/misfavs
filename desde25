@@ -11,6 +11,10 @@ http://170.83.242.152:5350/play/a0u1
 #EXTINF:0 type="stream" channelId="2721" group="ADULTO", Venus
 http://170.83.242.9:5350/play/a00z
 
+#EXTINF:0, MULTIMEDIOS 6
+http://190.61.102.67:31589/play/a039/index.m3u8
+#EXTINF:0, IMAGEN TV 3
+http://190.61.102.67:31589/play/a00h/index.m3u8
 #EXTINF:0, A3 INTERNACIONAL
 #EXTVLCOPT:network-caching=1000
 http://189.203.160.152:10803/play/a0bu/index.m3u8
@@ -60,7 +64,7 @@ http://190.187.247.206:8000/play/a08v/index.m3u8
 http://45.232.211.196:1080/play/a04y
 #EXTINF:0 type="stream" channelId="-1" group="CINE", STAR CHANNEL HD
 http://190.131.247.82:8000/play/a05x
-#EXTINF:0 type="stream" channelId="1303" group="Lista 46 Paraguay", FX
+#EXTINF:0 type="stream" channelId="1303" group="CINE", FX
 http://170.83.242.9:5350/play/a006
 #EXTINF:0 type="stream" channelId="1304" group="CINE", FX HD
 http://45.232.211.196:1080/play/a057
@@ -68,12 +72,15 @@ http://45.232.211.196:1080/play/a057
 #EXTINF:0 type="stream" channelId="-1" group="CINE", Clover HD
 http://45.232.211.196:1080/play/a044
 
-#EXTINF:0 type="stream" channelId="1304" group="CINE" audio-track="spa", CINECANAL HD
-http://190.131.228.59:8000/play/a0ro/index.m3u8
+#EXTINF:0 type="stream" channelId="1304" group="CINE", SONY
+http://190.61.102.67:31589/play/a002/index.m3u8
+
+#EXTINF:0 type="stream" channelId="1304" group="CINE" audio-track="spa", CINECANAL
+http://190.61.102.67:31589/play/a04q/index.m3u8
 #EXTINF:0 type="stream" channelId="1304" group="CINE", CINEMAX
 http://190.60.39.62:8000/play/a046
 
-#EXTINF:0 type="stream" channelId="3797" group="CINE" audio-track="lat", TNT Series HD
+#EXTINF:0 type="stream" channelId="3797" group="CINE" audio-track="lat, spa", TNT Series HD
 http://45.232.211.196:1080/play/a056
 #EXTINF:0 type="stream" channelId="2900" group="CINE", TNT HD
 http://45.232.211.196:1080/play/a04h
@@ -94,7 +101,7 @@ http://45.232.211.196:1080/play/a05h
 #EXTINF:0 type="stream" channelId="291" group="CINE", MC
 http://190.61.102.67:31589/play/a01d/index.m3u8
 #EXTINF:0, PARAMOUNT
-http://189.203.160.152:10803/play/a0cs/index.m3u8
+http://190.61.102.67:31589/play/a01s/index.m3u8
 
 #EXTINF:0 type="stream" channelId="291" group="CINE", WARNER CHANNEL
 http://45.232.211.196:1080/play/a024
@@ -234,3 +241,4 @@ http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQ
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/630.ts
 #EXTINF:0 type="stream" channelId="-1" group="DEPORTES", PAC12MOUNTAIN
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/633.ts
+
