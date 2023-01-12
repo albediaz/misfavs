@@ -8,7 +8,6 @@ http://170.83.242.152:5350/play/a0u1
 #EXTINF:0 type="stream" channelId="2721" group="ADULTO", Venus
 http://170.83.242.9:5350/play/a00z
 
-
 #EXTINF:0 type="favorites" channelId="-1" group="ENTRETENIMIENTO" logo="https://canal44.com/wp-content/uploads/2022/12/XHIJ_TV_Canal_44_2012_Logo-1.png", Canal 44 Juarez
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 
@@ -223,9 +222,9 @@ http://45.232.211.196:1080/play/a045
 #EXTINF:0 type="stream" channelId="357" group="DEPORTES", ESPN 3 HD
 http://45.232.211.196:1080/play/a04i
 #EXTINF:0 type="stream" channelId="1263" group="DEPORTES", ESPN 4
-http://45.232.211.196:1080/play/a026
+http://190.61.102.67:8000/play/a06r
 #EXTINF:0 type="stream" channelId="-1" group="DEPORTES", ESPN 4 HD
-http://45.232.211.196:1080/play/a051
+http://190.61.102.67:8000/play/a079
 #EXTINF:0 type="stream" channelId="-1" group="DEPORTES", ESPN EXTRA HD
 http://45.232.211.196:1080/play/a05i
 #EXTINF:0 type="stream" channelId="2894" group="DEPORTES", NFL NETWORK
