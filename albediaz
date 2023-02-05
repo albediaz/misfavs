@@ -6,8 +6,9 @@ http://170.83.242.9:5350/play/a00z
 #EXTINF:0 type="stream" channelId="517" group="ADULTO" logo="https://4.bp.blogspot.com/-zoABwtfCqyI/VnH8ehrNSwI/AAAAAAAAAdU/qZU8akpmPfE/s1600/PLAYBOYTVHD-2012.png", Playboy HD
 http://190.187.247.206:8000/play/a08f/index.m3u8
 #EXTINF:0 type="stream" channelId="2152" group="ADULTO" tvg-country="MX", SEX XTREME
-http://170.83.242.152:5350/play/a0u1
-
+http://45.5.8.78:8000/play/a029
+#EXTINF:0 type="favorites" channelId="-1" group="Otros Canales", BRAZZERS
+http://45.5.8.78:8000/play/a029
 
 
 #EXTINF:0 type="favorites" channelId="-1" group="ENTRETENIMIENTO" logo="https://upload.wikimedia.org/wikipedia/commons/4/45/XHIJ_TV_Canal_44_2012_Logo.png", Canal 44 Cd. Juarez
