@@ -31,6 +31,7 @@ http://170.83.242.152:5350/play/a02r
 http://170.83.242.152:5350/play/a02p
 #EXTINF:0 type="favorites" channelId="2587" group="CINE", HBO XTREME
 http://170.83.242.152:5350/play/a02q
+
 #EXTINF:0 type="stream" channelId="361" group="CINE" audio-track="lat,spa", HBO POP HD
 http://45.232.211.196:1080/play/a042
 
