@@ -1,8 +1,6 @@
 #EXTM3U
 
-
-
-#EXTINF:0 type="favorites" channelId="-1" group="ENTRETENIMIENTO" logo="https://upload.wikimedia.org/wikipedia/commons/4/45/XHIJ_TV_Canal_44_2012_Logo.png", Canal 44 Chihuahua
+#EXTINF:0 type="favorites" channelId="-1" group="ENTRETENIMIENTO" logo="https://upload.wikimedia.org/wikipedia/commons/4/45/XHIJ_TV_Canal_44_2012_Logo.png", Canal 44 Cd. Juarez
 https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://image.multimedios.com/sites/all/themes/multimedioslaguna/images/img_default_fb_c6.png", MULTIMEDIOS 6
