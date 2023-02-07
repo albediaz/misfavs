@@ -6,9 +6,57 @@ http://170.83.242.9:5350/play/a00z
 #EXTINF:0 type="stream" channelId="517" group="ADULTO" logo="https://4.bp.blogspot.com/-zoABwtfCqyI/VnH8ehrNSwI/AAAAAAAAAdU/qZU8akpmPfE/s1600/PLAYBOYTVHD-2012.png", Playboy HD
 http://190.187.247.206:8000/play/a08f/index.m3u8
 #EXTINF:0 type="stream" channelId="2152" group="ADULTO" tvg-country="MX", SEX XTREME
-http://45.5.8.78:8000/play/a029
-#EXTINF:0 type="favorites" channelId="-1" group="ADULTO", BRAZZERS
-http://45.5.8.78:8000/play/a029
+http://170.83.242.152:5350/play/a0u1
+
+
+#EXTINF:0 type="stream" channelId="2501" group="Lista 3 Guatemala", AMC HD
+http://190.149.66.90:16000/play/a01m/index.m3u8
+#EXTINF:0 type="stream" channelId="284" group="Lista 3 Guatemala", CINECANAL HD
+http://190.149.66.90:16000/play/a03h/index.m3u8
+#EXTINF:0 type="stream" channelId="4774" group="Lista 3 Guatemala", Canal Claro
+http://190.149.66.90:16000/play/a00j/index.m3u8
+#EXTINF:0 type="stream" channelId="283" group="Lista 3 Guatemala", Cine Latino
+http://190.149.66.90:16000/play/a04k/index.m3u8
+#EXTINF:0 type="stream" channelId="4751" group="Lista 3 Guatemala", Claro Musica
+http://190.149.66.90:16000/play/a02j/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 3 Guatemala", Claro Sports 1 HD
+http://190.149.66.90:16000/play/a008/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 3 Guatemala", Claro Sports 2 HD
+http://190.149.66.90:16000/play/a009/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 3 Guatemala", Color Vision 9 - RD
+http://190.149.66.90:16000/play/a02w/index.m3u8
+#EXTINF:0 type="stream" channelId="2640" group="Lista 3 Guatemala", Concert Channel
+http://190.149.66.90:16000/play/a04g/index.m3u8
+#EXTINF:0 type="stream" channelId="3743" group="Lista 3 Guatemala", DHE HD
+http://190.149.66.90:16000/play/a01r/index.m3u8
+#EXTINF:0 type="stream" channelId="3770" group="Lista 3 Guatemala", Discovery ID HD
+http://190.149.66.90:16000/play/a055/index.m3u8
+#EXTINF:0 type="stream" channelId="1304" group="Lista 3 Guatemala", FX HD
+http://190.149.66.90:16000/play/a01o/index.m3u8
+#EXTINF:0 type="stream" channelId="333" group="Lista 3 Guatemala", Golden
+http://190.149.66.90:16000/play/a02l/index.m3u8
+#EXTINF:0 type="stream" channelId="292" group="Lista 3 Guatemala", Multipremier
+http://190.149.66.90:16000/play/a04j/index.m3u8
+#EXTINF:0 type="stream" channelId="1719" group="Lista 3 Guatemala", Paramount
+http://190.149.66.90:16000/play/a007/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 3 Guatemala", STAR CHANNEL HD
+http://190.149.66.90:16000/play/a03e/index.m3u8
+#EXTINF:0 type="stream" channelId="4696" group="Lista 3 Guatemala", Star TVE HD
+http://190.149.66.90:16000/play/a01t/index.m3u8
+#EXTINF:0 type="stream" channelId="2625" group="Lista 3 Guatemala", Studio Universal
+http://190.149.66.90:16000/play/a04m/index.m3u8
+#EXTINF:0 type="stream" channelId="73" group="Lista 3 Guatemala", SyFy
+http://190.149.66.90:16000/play/a035/index.m3u8
+#EXTINF:0 type="stream" channelId="3228" group="Lista 3 Guatemala", TBS
+http://190.149.66.90:16000/play/a00y/index.m3u8
+#EXTINF:0 type="stream" channelId="2900" group="Lista 3 Guatemala", TNT HD
+http://190.149.66.90:16000/play/a03m/index.m3u8
+#EXTINF:0 type="stream" channelId="2903" group="Lista 3 Guatemala", WARNER HD
+http://190.149.66.90:16000/play/a03f/index.m3u8
+
+
+
+
 
 
 #EXTINF:0 type="favorites" channelId="-1" group="ENTRETENIMIENTO" logo="https://upload.wikimedia.org/wikipedia/commons/4/45/XHIJ_TV_Canal_44_2012_Logo.png", Canal 44 Cd. Juarez
@@ -150,15 +198,15 @@ http://170.83.242.152:5350/play/a01c
 #EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO" logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png", EL ENCANTADOR DE PERROS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 type="stream" channelId="-1" group="CINE", PLUTO Nuestro Cine
+#EXTINF:0 type="stream" channelId="-1" group="CINE", Nuestro Cine
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1" group="CINE" logo="data:image/png;base64,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", Cine Comedia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 type="stream" channelId="-1" group="CINE", PLUTO Cine Familia
+#EXTINF:0 type="stream" channelId="-1" group="CINE", Cine Familia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 type="stream" channelId="-1" group="CINE", PLUTO Cine Romance
+#EXTINF:0 type="stream" channelId="-1" group="CINE", Cine Romance
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 type="stream" channelId="-1" group="CINE", PLUTO Cine Drama
+#EXTINF:0 type="stream" channelId="-1" group="CINE", Cine Drama
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1" group="CINE", Estrellas de Accion
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -168,7 +216,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1" group="CINE", Cine Estelar
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:0 type="stream" channelId="-1" group="CINE", PLUTO Cine Terror
+#EXTINF:0 type="stream" channelId="-1" group="CINE", Cine Terror
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO" logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png", RETRO CARTOON
@@ -261,7 +309,3 @@ http://45.232.211.196:1080/play/a051
 http://45.232.211.196:1080/play/a05i
 #EXTINF:0 type="stream" channelId="2894" group="DEPORTES", NFL NETWORK
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616.ts
-
-#EXTINF:0 type="stream" channelId="4591" group="DEPORTES", NFL RED ZONE
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/753.ts
-
