@@ -54,6 +54,141 @@ http://190.149.66.90:16000/play/a03m/index.m3u8
 #EXTINF:0 type="stream" channelId="2903" group="Lista 3 Guatemala", WARNER HD
 http://190.149.66.90:16000/play/a03f/index.m3u8
 
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 35 (Stirr)" logo="https://ott-gateway.sinclairstoryline.com/resources/media2/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-medium16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b", Stingray Greatest Hits
+https://dai.google.com/linear/hls/event/_2NUNA_qTSyd70FTD_lqyw/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 35 (Stirr)" logo="https://ott-gateway.sinclairstoryline.com/resources/media2/16x9/full/600/center/90/60923a0a-414b-4635-968d-4d8be76f6f50-medium16x9_STIRR_0721_EPG_StingrayClassicRock_1920x1080.png?1625778767623?cb=c4ca4238a0b923820dcc509a6f75849b", Stingray Classic Rock
+https://dai.google.com/linear/hls/event/vlqVJJSkQKW6IB7bQSGZ5A/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 35 (Stirr)" logo="https://ott-gateway.sinclairstoryline.com/resources/media2/16x9/full/600/center/90/066abb90-0cc1-43e8-9c62-e8064b215a9e-medium16x9_STIRR_0721_EPG_StingrayRockAlternative_1920x1080.png?1625778768910?cb=c4ca4238a0b923820dcc509a6f75849b", Stingray Rock Alternative
+https://dai.google.com/linear/hls/event/k446WemXQgSbP0IsuZrM7w/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 35 (Stirr)" logo="https://ott-gateway.sinclairstoryline.com/resources/media2/16x9/full/600/center/90/1e10006e-3cb9-4686-88ca-8bd03c32af06-medium16x9_STIRR_0721_EPG_StingrayFlashback70s_1920x1080.png?1625778767220?cb=c4ca4238a0b923820dcc509a6f75849b", Stingray Flashback 70s
+https://dai.google.com/linear/hls/event/Y3O1azbASfKxO4gdleMbmQ/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 35 (Stirr)" logo="https://ott-gateway.sinclairstoryline.com/resources/media2/16x9/full/600/center/90/c3b3a7cb-b27b-4879-97ca-00afa9ea1c7a-medium16x9_STIRR_0721_EPG_StingrayRemember80s_1920x1080.png?1625778768861?cb=c4ca4238a0b923820dcc509a6f75849b", Stingray Everything 80s
+https://dai.google.com/linear/hls/event/XiPZx9vFS8i6lgkNnprjtQ/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 34 (Chile)" logo="https://i2.paste.pics/fb661547262e362a034610ad74c17441.png", ADN 40 | MX
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:0 type="favorites" channelId="1954" group="Lista 31 Colombia", Canal de Las estrellas
+http://190.131.228.59:8000/play/a064/index.m3u8
+#EXTINF:0 type="favorites" channelId="1303" group="Lista 31 Colombia", FX
+http://190.131.228.59:8000/play/a04k/index.m3u8
+#EXTINF:0 type="favorites" channelId="2632" group="Lista 31 Colombia", Film&Arts
+http://190.131.228.59:8000/play/a0qv/index.m3u8
+#EXTINF:0 type="favorites" channelId="935" group="Lista 31 Colombia", HBO 2 HD
+http://190.131.228.59:8000/play/a0jh/index.m3u8
+#EXTINF:0 type="favorites" channelId="1330" group="Lista 31 Colombia", HBO HD
+http://190.131.228.59:8000/play/a0rp/index.m3u8
+#EXTINF:0 type="favorites" channelId="188" group="Lista 31 Colombia", Sony
+http://190.131.228.59:8000/play/a04h/index.m3u8
+#EXTINF:0 type="favorites" channelId="187" group="Lista 31 Colombia", Universal
+http://190.131.228.59:8000/play/a040/index.m3u8
+#EXTINF:0 type="favorites" channelId="1365" group="Lista 29", Movistar Deportes
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/121227
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 29", Direct TV Sports
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/121234
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 29", M+ Deportes
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126962
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 29", M+ Liga de Campeones
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126981
+#EXTINF:0 type="favorites" channelId="344" group="Lista 29", ESPN 2
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127169
+#EXTINF:0 type="favorites" channelId="1328" group="Lista 29", Fox Sports
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127173
+#EXTINF:0 type="favorites" channelId="2686" group="Lista 29", TNT Series
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127152
+#EXTINF:0 type="favorites" channelId="3640" group="Lista 29", A3 SERIES
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127156
+#EXTINF:0 type="favorites" channelId="1044" group="Lista 29", Kanal D
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127157
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 29", Cine - HBO Signature
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127162
+#EXTINF:0 type="favorites" channelId="1963" group="Lista 29", Golden Premier
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127163
+#EXTINF:0 type="favorites" channelId="361" group="Lista 29", HBO Pop
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127166
+#EXTINF:0 type="favorites" channelId="2725" group="Lista 29", HBO Mundi
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127167
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 29", Universal Crime
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127180
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 29", Universal Cinema
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127181
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 29", Universal Comedy
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127182
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 29", Cine - Universal Reality
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127183
+#EXTINF:0 type="favorites" channelId="40" group="Lista 29", Cartoon Network
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127286
+#EXTINF:0 type="favorites" channelId="2639" group="Lista 29", Tooncast
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127292
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 29", Discovery H&H
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127305
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 29", Culturales - Discovery ID
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127308
+#EXTINF:0 type="favorites" channelId="1326" group="Lista 23 Paraguay", Cinemax
+http://170.83.242.152:5350/play/a002
+#EXTINF:0 type="favorites" channelId="59" group="Lista 23 Paraguay", Discovery ID
+http://170.83.242.152:5350/play/a017
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 21 Ecuador", 1026 MULTICINEMA
+http://160.20.165.245:8000/play/a00a/index.m3u8
+#EXTINF:0 type="favorites" channelId="2124" group="Lista 21 Ecuador", 1029 ANTENA 3
+http://160.20.165.245:8000/play/a00e/index.m3u8
+#EXTINF:0 type="favorites" channelId="3640" group="Lista 21 Ecuador", 1030 A3 SERIES
+http://160.20.165.245:8000/play/a00f/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 21 Ecuador", MI MUSICA ROMANTICA
+http://160.20.165.245:8000/play/a01b/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 21 Ecuador", MI MUSICA SALSA
+http://160.20.165.245:8000/play/a01a/index.m3u8
+#EXTINF:0 type="favorites" channelId="3731" group="Lista 19", Azteca uno
+https://s99.dr691652.repl.co/tv507/telelatinohd_bym3ukodi.php?num=52&f=.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 17", Alf
+https://app.ultimate2019.com/stream/get/426&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 17", Dinosaurios
+https://app.ultimate2019.com/stream/get/670&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 17", El Gallo Claudio
+https://app.ultimate2019.com/stream/get/845&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 17", Game Of Thrones
+https://app.ultimate2019.com/stream/get/515&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 17", Los Años Maravillosos
+https://app.ultimate2019.com/stream/get/810&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 17", Los Picapiedra
+https://app.ultimate2019.com/stream/get/669&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 17", Pinky Y Cerebro
+https://app.ultimate2019.com/stream/get/721&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 17", Smallville
+https://app.ultimate2019.com/stream/get/673&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 17", Animaniacs
+https://app.ultimate2019.com/stream/get/677&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 17", Cine Accion
+https://app.ultimate2019.com/stream/get/699&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 17", Cine Accion Hd
+https://app.ultimate2019.com/stream/get/706&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 17", Cine Accion Sagas
+https://app.ultimate2019.com/stream/get/700&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 17", Cine Comedia 1
+https://app.ultimate2019.com/stream/get/695&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 17", Cine Comedia 2
+https://app.ultimate2019.com/stream/get/696&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 17", Cine Fission Fantasia 1
+https://app.ultimate2019.com/stream/get/709&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 17", Cine Fission Fantasia 2
+https://app.ultimate2019.com/stream/get/710&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 17", Cine Fission Fantasia Hd
+https://app.ultimate2019.com/stream/get/712&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 17", Cine Infantil
+https://app.ultimate2019.com/stream/get/687&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 17", Cine Infantil Hd
+https://app.ultimate2019.com/stream/get/702&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 17", Cine Infantil Sagas
+https://app.ultimate2019.com/stream/get/694&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 17", Cine Infantil Sagas Hd
+https://app.ultimate2019.com/stream/get/703&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 17", Cine Marvel
+https://app.ultimate2019.com/stream/get/697&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 17", Cine Marvel Hd
+https://app.ultimate2019.com/stream/get/701&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 17", Cine Romance
+https://app.ultimate2019.com/stream/get/689&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 17", Cine Terror
+https://app.ultimate2019.com/stream/get/693&f=.m3u8|user-agent=Dalvik/2.1.0
+
 
 
 
@@ -81,7 +216,7 @@ http://170.83.242.9:5350/play/a001
 #EXTINF:0 type="stream" channelId="1330" group="CINE", HBO HD
 http://190.61.102.67:8000/play/a015
 #EXTINF:0 type="stream" channelId="935" group="CINE", HBO 2 HD
-http://45.228.234.77:4430/play/hbodoshd
+http://190.131.228.59:8000/play/a0jh/index.m3u8
 #EXTINF:0 type="stream" channelId="2584" group="CINE" logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png", HBO Family
 http://170.83.242.152:5350/play/a02r
 #EXTINF:0 type="stream" channelId="2585" group="CINE", HBO Plus
