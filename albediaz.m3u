@@ -1,354 +1,304 @@
 #EXTM3U
-
-#EXTINF:0 type="stream" channelId="517" group="ADULTO", Playboy
+#EXTINF:0 type="stream" channelId="517" group="ADULTO", Playboy 
 http://190.149.66.90:16000/play/a00h/index.m3u8
-#EXTINF:0 type="stream" channelId="2721" group="ADULTO", Venus
+#EXTINF:0 type="stream" channelId="2721" group="ADULTO", Venus 
 http://170.83.242.9:5350/play/a00z
-#EXTINF:0 type="stream" channelId="517" group="ADULTO" logo="https://4.bp.blogspot.com/-zoABwtfCqyI/VnH8ehrNSwI/AAAAAAAAAdU/qZU8akpmPfE/s1600/PLAYBOYTVHD-2012.png", Playboy HD
+#EXTINF:0 type="stream" channelId="517" group="ADULTO" logo="https://4.bp.blogspot.com/-zoABwtfCqyI/VnH8ehrNSwI/AAAAAAAAAdU/qZU8akpmPfE/s1600/PLAYBOYTVHD-2012.png",  Playboy HD
 http://190.187.247.206:8000/play/a08f/index.m3u8
-#EXTINF:0 type="stream" channelId="2721" group="ADULTO", VENUS
+#EXTINF:0 type="stream" channelId="2721" group="ADULTO", VENUS 
 http://190.149.66.90:16000/play/a02p/index.m3u8
-#EXTINF:0 type="stream" channelId="2152" group="ADULTO" tvg-country="MX", SEX XTREME
+#EXTINF:0 type="stream" channelId="2152" group="ADULTO" tvg-country="MX", SEX XTREME 
 http://170.83.242.152:5350/play/a0u1
-
-
-#EXTINF:0 type="stream" channelId="2501", AMC HD
+#EXTINF:0 type="stream" channelId="1330",  HBO 
+http://170.83.242.9:5350/play/a001
+#EXTINF:0 type="stream" channelId="1330", HBO HD 
+http://190.131.228.59:8000/play/a0rp/index.m3u8
+#EXTINF:0 type="stream" channelId="935", HBO 2 HD 
+http://190.131.228.59:8000/play/a0jh/index.m3u8
+#EXTINF:0 type="stream" channelId="3804", HBO 2. 
+http://45.228.234.77:4430/play/hbodoshd
+#EXTINF:0 type="stream" channelId="2584", HBO Family 
+http://170.83.242.152:5350/play/a02r
+#EXTINF:0 type="stream" channelId="361" audio-track="spa, lat" subtitles="spa" tvg-country="MX", HBO Pop 
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127166
+#EXTINF:0 type="stream" channelId="2725" audio-track="spa, lat" subtitles="spa" tvg-country="MX", HBO Mundi 
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127167
+#EXTINF:0 type="stream" channelId="2587", HBO XTREME 
+http://170.83.242.152:5350/play/a02q
+#EXTINF:0 type="stream" channelId="2585", HBO Plus 
+http://170.83.242.152:5350/play/a02p
+#EXTINF:0 type="stream" channelId="2583" audio-track="spa, lat", HBO Signature 
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127162
+#EXTINF:0 type="stream" channelId="2501", AMC HD 
 http://190.149.66.90:16000/play/a01m/index.m3u8
-#EXTINF:0 type="stream" channelId="284", CINECANAL HD
+#EXTINF:0 type="stream" channelId="284", CINECANAL HD 
 http://190.149.66.90:16000/play/a03h/index.m3u8
-#EXTINF:0 type="stream" channelId="4774", Canal Claro
-http://190.149.66.90:16000/play/a00j/index.m3u8
+#EXTINF:0 type="stream" channelId="64" audio-track="spa", CINECANAL 
+http://190.61.102.67:31589/play/a04q/index.m3u8
 #EXTINF:0 type="stream" channelId="283", Cine Latino
 http://190.149.66.90:16000/play/a04k/index.m3u8
-#EXTINF:0 type="stream" channelId="4751", Claro Musica
-http://190.149.66.90:16000/play/a02j/index.m3u8
-#EXTINF:0 type="stream" channelId="287", Claro Sports 1 HD
-http://190.149.66.90:16000/play/a008/index.m3u8
-#EXTINF:0 type="stream" channelId="287", Claro Sports 2 HD
-http://190.149.66.90:16000/play/a009/index.m3u8
-#EXTINF:0 type="stream" channelId="2640", Concert Channel
-http://190.149.66.90:16000/play/a04g/index.m3u8
-#EXTINF:0 type="stream" channelId="3743", DHE HD
+#EXTINF:0 type="stream" channelId="283", CINE LATINO 
+http://190.61.102.67:31589/play/a05v/index.m3u8
+
+#EXTINF:0 type="stream" channelId="3743", DHE HD 
 http://190.149.66.90:16000/play/a01r/index.m3u8
-#EXTINF:0 type="stream" channelId="3770", Discovery ID HD
-http://190.149.66.90:16000/play/a055/index.m3u8
-#EXTINF:0 type="stream" channelId="1304", FX HD
-http://190.149.66.90:16000/play/a01o/index.m3u8
-#EXTINF:0 type="stream" channelId="333", Golden
-http://190.149.66.90:16000/play/a02l/index.m3u8
-#EXTINF:0 type="stream" channelId="292", Multipremier
-http://190.149.66.90:16000/play/a04j/index.m3u8
-#EXTINF:0 type="stream" channelId="1719", Paramount
-http://190.149.66.90:16000/play/a007/index.m3u8
-#EXTINF:0 type="stream" channelId="208" logo="https://i.blogs.es/f4fa98/star-channel-llega-a-mexico/1366_2000.jpg", STAR CHANNEL HD
-http://190.149.66.90:16000/play/a03e/index.m3u8
-#EXTINF:0 type="stream" channelId="4696", Star TVE HD
-http://190.149.66.90:16000/play/a01t/index.m3u8
-#EXTINF:0 type="stream" channelId="2625", Studio Universal
-http://190.149.66.90:16000/play/a04m/index.m3u8
-#EXTINF:0 type="stream" channelId="73" audio-track="lat, spa" tvg-country="MX", SyFy
-http://190.149.66.90:16000/play/a035/index.m3u8
-#EXTINF:0 type="stream" channelId="3228", TBS
-http://190.149.66.90:16000/play/a00y/index.m3u8
-#EXTINF:0 type="stream" channelId="2900" audio-track="lat" subtitles="spa" tvg-country="MX", TNT HD
-http://190.149.66.90:16000/play/a03m/index.m3u8
-#EXTINF:0 type="stream" channelId="2903", WARNER HD
-http://190.149.66.90:16000/play/a03f/index.m3u8
-#EXTINF:0 type="stream" channelId="329" logo="https://ott-gateway.sinclairstoryline.com/resources/media2/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-medium16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b", Stingray Greatest Hits
-https://dai.google.com/linear/hls/event/_2NUNA_qTSyd70FTD_lqyw/master.m3u8
-#EXTINF:0 type="stream" channelId="329" logo="https://ott-gateway.sinclairstoryline.com/resources/media2/16x9/full/600/center/90/60923a0a-414b-4635-968d-4d8be76f6f50-medium16x9_STIRR_0721_EPG_StingrayClassicRock_1920x1080.png?1625778767623?cb=c4ca4238a0b923820dcc509a6f75849b", Stingray Classic Rock
-https://dai.google.com/linear/hls/event/vlqVJJSkQKW6IB7bQSGZ5A/master.m3u8
-#EXTINF:0 type="stream" channelId="329" logo="https://ott-gateway.sinclairstoryline.com/resources/media2/16x9/full/600/center/90/066abb90-0cc1-43e8-9c62-e8064b215a9e-medium16x9_STIRR_0721_EPG_StingrayRockAlternative_1920x1080.png?1625778768910?cb=c4ca4238a0b923820dcc509a6f75849b", Stingray Rock Alternative
-https://dai.google.com/linear/hls/event/k446WemXQgSbP0IsuZrM7w/master.m3u8
-#EXTINF:0 type="stream" channelId="329" logo="https://ott-gateway.sinclairstoryline.com/resources/media2/16x9/full/600/center/90/1e10006e-3cb9-4686-88ca-8bd03c32af06-medium16x9_STIRR_0721_EPG_StingrayFlashback70s_1920x1080.png?1625778767220?cb=c4ca4238a0b923820dcc509a6f75849b", Stingray Flashback 70s
-https://dai.google.com/linear/hls/event/Y3O1azbASfKxO4gdleMbmQ/master.m3u8
-#EXTINF:0 type="stream" channelId="329" logo="https://ott-gateway.sinclairstoryline.com/resources/media2/16x9/full/600/center/90/c3b3a7cb-b27b-4879-97ca-00afa9ea1c7a-medium16x9_STIRR_0721_EPG_StingrayRemember80s_1920x1080.png?1625778768861?cb=c4ca4238a0b923820dcc509a6f75849b", Stingray Everything 80s
-https://dai.google.com/linear/hls/event/XiPZx9vFS8i6lgkNnprjtQ/master.m3u8
-#EXTINF:0 type="stream" channelId="2689" logo="https://i2.paste.pics/fb661547262e362a034610ad74c17441.png", ADN 40 | MX
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:0 type="stream" channelId="1954", Canal de Las estrellas
-http://190.131.228.59:8000/play/a064/index.m3u8
-#EXTINF:0 type="stream" channelId="1303" tvg-country="MX", FX
-http://190.131.228.59:8000/play/a04k/index.m3u8
-#EXTINF:0 type="stream" channelId="2632" audio-track="lat, spa" tvg-country="MX", Film&Arts
-http://190.131.228.59:8000/play/a0qv/index.m3u8
-#EXTINF:0 type="stream" channelId="935" tvg-country="MX", HBO 2 HD
-http://190.131.228.59:8000/play/a0jh/index.m3u8
-#EXTINF:0 type="stream" channelId="1330", HBO HD
-http://190.131.228.59:8000/play/a0rp/index.m3u8
-#EXTINF:0 type="stream" channelId="188" audio-track="lat, spa" subtitles="spa" tvg-country="MX", Sony
-http://190.131.228.59:8000/play/a04h/index.m3u8
-#EXTINF:0 type="stream" channelId="187" audio-track="lat, spa" subtitles="spa" tvg-country="MX", Universal
-http://190.131.228.59:8000/play/a040/index.m3u8
-#EXTINF:0 type="stream" channelId="1365", Movistar Deportes
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/121227
-#EXTINF:0 type="stream" channelId="1365", M+ Deportes
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126962
-#EXTINF:0 type="stream" channelId="1368", M+ Liga de Campeones
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126981
-#EXTINF:0 type="stream" channelId="344", ESPN 2
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127169
-#EXTINF:0 type="stream" channelId="1328", Fox Sports
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127173
-#EXTINF:0 type="stream" channelId="2686" audio-track="lat, spa", TNT Series
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127152
-#EXTINF:0 type="stream" channelId="3640", A3 SERIES
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127156
-#EXTINF:0 type="stream" channelId="1044", Kanal D
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127157
-#EXTINF:0 type="stream" channelId="2583" audio-track="spa, lat", HBO Signature
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127162
-#EXTINF:0 type="stream" channelId="1963", Golden Premier
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127163
-#EXTINF:0 type="stream" channelId="361" audio-track="spa, lat" subtitles="spa" tvg-country="MX", HBO Pop
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127166
-#EXTINF:0 type="stream" channelId="2725" audio-track="spa, lat" subtitles="spa" tvg-country="MX", HBO Mundi
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127167
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ytimg.com/vi/SCKn8k0sqok/maxresdefault.jpg", Universal Crime
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127180
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.universalplus.com/files/channels/731381553.png", Universal Cinema
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127181
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.universalplus.com/files/channels/172050409.png", Universal Comedy
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127182
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.universalplus.com/files/channels/120254749.png", Universal Reality
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127183
-#EXTINF:0 type="stream" channelId="40", Cartoon Network
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127286
-#EXTINF:0 type="stream" channelId="2639", Tooncast
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127292
-#EXTINF:0 type="stream" channelId="2620", Discovery H&H
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127305
-#EXTINF:0 type="stream" channelId="59", Discovery ID
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127308
-#EXTINF:0 type="stream" channelId="1326", Cinemax
-http://170.83.242.152:5350/play/a002
-#EXTINF:0 type="stream" channelId="59", Discovery ID
-http://170.83.242.152:5350/play/a017
-#EXTINF:0 type="stream" channelId="291" logo="https://pbs.twimg.com/profile_images/434292249719885824/RYy0Zc69_400x400.png", MULTICINEMA
-http://160.20.165.245:8000/play/a00a/index.m3u8
-#EXTINF:0 type="stream" channelId="2124" audio-track="spa", ANTENA 3
-http://160.20.165.245:8000/play/a00e/index.m3u8
-#EXTINF:0 type="stream" channelId="3640", A3 SERIES
-http://160.20.165.245:8000/play/a00f/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://cablemio.com/wp-content/uploads/2020/09/mimusicapopular.png", MI MUSICA POPULAR
-http://160.20.165.245:8000/play/a01b/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.vimeocdn.com/video/1163578680-31e679509c035d60b656569a93c6872611ef27bad5367de3c22f72c15f4c9d81-d_640", MI MUSICA SALSA
-http://160.20.165.245:8000/play/a01a/index.m3u8
-#EXTINF:0 type="stream" channelId="3731", Azteca uno
-https://s99.dr691652.repl.co/tv507/telelatinohd_bym3ukodi.php?num=52&f=.m3u8
-#EXTINF:0 type="stream" channelId="2659" logo="https://image.multimedios.com/sites/all/themes/multimedioslaguna/images/img_default_fb_c6.png", MULTIMEDIOS 6
-http://190.61.102.67:31589/play/a039/index.m3u8
-#EXTINF:0 type="stream" channelId="3127" logo="https://selectra.mx/sites/selectra.mx/files/styles/_default/public/images/logos/imagen-tv-200x300.png?itok=2YZVNHgb", IMAGEN TV 3
-http://190.61.102.67:31589/play/a00h/index.m3u8
 #EXTINF:0 type="stream" channelId="3743" logo="https://static.wikia.nocookie.net/doblaje/images/0/00/DHE2017.png/revision/latest/scale-to-width-down/750?cb=20190115044758&path-prefix=es", DHE
 http://181.176.148.142:8000/play/a027
-#EXTINF:0 type="stream" channelId="4844" logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r1.png", VTV Canal 35 ESA
-http://190.83.119.67:8000/play/a0r1/index.m3u8
-#EXTINF:0 type="stream" channelId="1330", HBO
-http://170.83.242.9:5350/play/a001
-#EXTINF:0 type="stream" channelId="1330", HBO HD
-http://190.61.102.67:8000/play/a015
-#EXTINF:0 type="stream" channelId="935", HBO 2 HD
-http://190.131.228.59:8000/play/a0jh/index.m3u8
-#EXTINF:0 type="stream" channelId="2584" logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png", HBO Family
-http://170.83.242.152:5350/play/a02r
-#EXTINF:0 type="stream" channelId="2585", HBO Plus
-http://170.83.242.152:5350/play/a02p
-#EXTINF:0 type="stream" channelId="2587", HBO XTREME
-http://170.83.242.152:5350/play/a02q
-#EXTINF:0 type="stream" channelId="361" audio-track="lat,spa", HBO POP HD
-http://45.232.211.196:1080/play/a042
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.universalplus.com/files/channels/398064723.png", Universal Premiere SD
-http://170.83.242.152:5350/play/a0ko
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.universalplus.com/files/channels/731381553.png", UNIVERSAL CINEMA
-http://190.61.102.67:8000/play/a05f
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.universalplus.com/files/channels/172050409.png" audio-track="spa, lat" tvg-country="MX", Universal Comedy SD
-http://170.83.242.9:5350/play/a0kq
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.universalplus.com/files/channels/172050409.png", UNIVERSAL COMEDY
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/702.ts
-#EXTINF:0 type="stream" channelId="3754", UNIVERSAL REALITY
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/700.ts
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.universalplus.com/files/channels/780277389.png", UNIVERSAL CRIME
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/701.ts
-#EXTINF:0 type="stream" channelId="2147", Studio Universal HD
-http://190.131.247.82:8000/play/a06g
-#EXTINF:0 type="stream" channelId="-1" logo="https://imagenes.elpais.com/resizer/WEjO07Zfv0S9UVwJKPt1aeAzBdw=/414x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/NB2YXKCVGGB4IDAUTTGFNXWKAQ.jpg", STAR TVE
-http://190.61.102.67:8000/play/a04z
-#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4zvVFi0pQPJ5RqMGszoe1y6B3nsUOqZTngvl6CwSJ9mZ_awKbOkFREbmA6RctRhhy104&usqp=CAU", STAR CHANNEL HD
-http://190.131.247.82:8000/play/a05x
-#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4zvVFi0pQPJ5RqMGszoe1y6B3nsUOqZTngvl6CwSJ9mZ_awKbOkFREbmA6RctRhhy104&usqp=CAU", STAR CHANNEL 2 HD
-http://190.61.102.67:8000/play/a06m
-#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4zvVFi0pQPJ5RqMGszoe1y6B3nsUOqZTngvl6CwSJ9mZ_awKbOkFREbmA6RctRhhy104&usqp=CAU", STAR CHANNEL HD
-http://190.131.247.82:8000/play/a05x
-#EXTINF:0 type="stream" channelId="1303", FX
-http://190.149.66.90:16000/play/a01o/index.m3u8
-#EXTINF:0 type="stream" channelId="1304", FX HD
-http://190.131.247.82:8000/play/a0dy
-#EXTINF:0 type="stream" channelId="333", Golden
-http://190.149.66.90:16000/play/a02l/index.m3u8
-#EXTINF:0 type="stream" channelId="3765", Golden Plus
-http://190.131.247.82:8000/play/a0h8
-#EXTINF:0 type="stream" channelId="-1" logo="data:image/png;base64,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", Clover HD
-http://190.131.247.82:8000/play/a0jo
-#EXTINF:0 type="stream" channelId="188", SONY
-http://160.20.165.245:8000/play/a00o/index.m3u8
-#EXTINF:0 type="stream" channelId="1214", Sony Movies HD
-http://190.61.102.67:8000/play/a04w
-#EXTINF:0 type="stream" channelId="64" audio-track="spa", CINECANAL
-http://190.61.102.67:31589/play/a04q/index.m3u8
-#EXTINF:0 type="stream" channelId="1326", CINEMAX
-http://190.60.39.62:8000/play/a046
-#EXTINF:0 type="stream" channelId="2888", Cinemax HD
-http://45.232.211.196:1080/play/a04o
-#EXTINF:0 type="stream" channelId="3797" audio-track="lat, spa", TNT Series HD
-http://190.131.247.82:8000/play/a0dx
-#EXTINF:0 type="stream" channelId="2900", TNT HD
-http://190.131.247.82:8000/play/a09b
-#EXTINF:0 type="stream" channelId="2896", Space HD
-http://190.131.247.82:8000/play/a05n
-#EXTINF:0 type="stream" channelId="291", MC
-http://190.61.102.67:31589/play/a01d/index.m3u8
-#EXTINF:0 type="stream" channelId="292", MULTI PREMIER
-http://190.61.102.67:31589/play/a01e/index.m3u8
-#EXTINF:0 type="stream" channelId="283", CINE LATINO
-http://190.61.102.67:31589/play/a05v/index.m3u8
-#EXTINF:0 type="stream" channelId="2501", AMC HD
-http://190.61.102.67:8000/play/a04s
-#EXTINF:0 type="stream" channelId="1719", PARAMOUNT
-http://190.61.102.67:31589/play/a01s/index.m3u8
-#EXTINF:0 type="stream" channelId="2557", WARNER CHANNEL
-http://170.83.242.152:5350/play/a00q
-#EXTINF:0 type="stream" channelId="1204", History Ch
-http://170.83.242.152:5350/play/a02z
-#EXTINF:0 type="stream" channelId="1202", History 2 HD
-http://190.131.247.82:8000/play/a073
-#EXTINF:0 type="stream" channelId="73" audio-track="lat,spa" subtitles="spa", SyFy
-http://45.232.211.196:1080/play/a020
-#EXTINF:0 type="stream" channelId="73" audio-track="lat,spa" subtitles="spa", SyFy2
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 type="stream" channelId="2621" audio-track="lat, spa" subtitles="spa", EURO Channel
-http://190.61.102.67:8000/play/a020
-#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png", ESTRELLA TV
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", CARTOONS
-http://181.176.148.142:8000/play/a021
-#EXTINF:0 type="stream" channelId="-1" logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png", CINE FAMILIAR
-http://181.176.148.142:8000/play/a023
-#EXTINF:0 type="stream" channelId="-1" logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinehispano.png", CINE HISPANO
-http://181.176.148.142:8000/play/a024
-#EXTINF:0 type="stream" channelId="-1" logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png", CINE PREMIUM
-http://181.176.148.142:8000/play/a025
-#EXTINF:0 type="stream" channelId="57", DISCOVERY CHANNEL
-http://181.176.148.142:8000/play/a028
-#EXTINF:0 type="stream" channelId="2035", LOVE NATURE
-http://181.176.148.142:8000/play/a02q
-#EXTINF:0 type="stream" channelId="-1" logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png", RETRO TV
-http://181.176.148.142:8000/play/a02x
-#EXTINF:0 type="stream" channelId="56", Nat Geo
-http://190.61.102.67:31589/play/a01l/index.m3u8
-#EXTINF:0 type="stream" channelId="59", Investigaton Discovery
+#EXTINF:0 type="stream" channelId="59", Discovery ID 
+http://170.83.242.152:5350/play/a017
+#EXTINF:0 type="stream" channelId="3770", Discovery ID HD 
+http://190.149.66.90:16000/play/a055/index.m3u8
+#EXTINF:0 type="stream" channelId="59", Discovery ID 
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127308
+#EXTINF:0 type="stream" channelId="59", Discovery ID 
 http://190.61.102.67:31589/play/a04y/index.m3u8
-#EXTINF:0 type="stream" channelId="2620", Discovery H&H HD
+#EXTINF:0 type="stream" channelId="2620", Discovery H&H 
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127305
+#EXTINF:0 type="stream" channelId="333", Golden 
+http://190.149.66.90:16000/play/a02l/index.m3u8
+#EXTINF:0 type="stream" channelId="333", Golden 
+http://190.149.66.90:16000/play/a02l/index.m3u8
+#EXTINF:0 type="stream" channelId="1963", Golden Premier 
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127163
+#EXTINF:0 type="stream" channelId="3765", Golden Plus 
+http://190.131.247.82:8000/play/a0h8
+#EXTINF:0 type="stream" channelId="292", Multipremier 
+http://190.149.66.90:16000/play/a04j/index.m3u8
+#EXTINF:0 type="stream" channelId="292", MULTI PREMIER 
+http://190.61.102.67:31589/play/a01e/index.m3u8
+#EXTINF:0 type="stream" channelId="291" logo="https://pbs.twimg.com/profile_images/434292249719885824/RYy0Zc69_400x400.png", MULTICINEMA 
+http://160.20.165.245:8000/play/a00a/index.m3u8
+#EXTINF:0 type="stream" channelId="291", MC 
+http://190.61.102.67:31589/play/a01d/index.m3u8
+#EXTINF:0 type="stream" channelId="188" audio-track="lat, spa" subtitles="spa" tvg-country="MX", Sony 
+http://190.131.228.59:8000/play/a04h/index.m3u8
+#EXTINF:0 type="stream" channelId="188", SONY 
+http://160.20.165.245:8000/play/a00o/index.m3u8
+#EXTINF:0 type="stream" channelId="1214", Sony Movies HD 
+http://190.61.102.67:8000/play/a04w
+#EXTINF:0 type="stream" channelId="1303" tvg-country="MX", FX 
+http://190.131.228.59:8000/play/a04k/index.m3u8
+#EXTINF:0 type="stream" channelId="1303", FX 
+http://190.149.66.90:16000/play/a01o/index.m3u8
+#EXTINF:0 type="stream" channelId="1304", FX HD 
+http://190.131.247.82:8000/play/a0dy
+#EXTINF:0 type="stream" channelId="1304", FX HD 
+http://190.149.66.90:16000/play/a01o/index.m3u8
+#EXTINF:0 type="stream" channelId="1719", Paramount 
+http://190.149.66.90:16000/play/a007/index.m3u8
+#EXTINF:0 type="stream" channelId="1719", PARAMOUNT 
+http://190.61.102.67:31589/play/a01s/index.m3u8
+#EXTINF:0 type="stream" channelId="3228", TBS 
+http://190.149.66.90:16000/play/a00y/index.m3u8
+#EXTINF:0 type="stream" channelId="2900" audio-track="lat" subtitles="spa" tvg-country="MX", TNT HD 
+http://190.149.66.90:16000/play/a03m/index.m3u8
+#EXTINF:0 type="stream" channelId="2557", WARNER CHANNEL 
+http://170.83.242.152:5350/play/a00q
+#EXTINF:0 type="stream" channelId="2903", WARNER HD 
+http://190.149.66.90:16000/play/a03f/index.m3u8
+#EXTINF:0 type="stream" channelId="73" audio-track="lat, spa" tvg-country="MX", SyFy 
+http://190.149.66.90:16000/play/a035/index.m3u8
+#EXTINF:0 type="stream" channelId="2632" audio-track="lat, spa" tvg-country="MX", Film&Arts 
+http://190.131.228.59:8000/play/a0qv/index.m3u8
+
+#EXTINF:0 type="stream" channelId="1044", Kanal D 
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127157
+#EXTINF:0 type="stream" channelId="187" audio-track="lat, spa" subtitles="spa" tvg-country="MX", Universal 
+http://190.131.228.59:8000/play/a040/index.m3u8
+#EXTINF:0 type="stream" channelId="2625", Studio Universal 
+http://190.149.66.90:16000/play/a04m/index.m3u8
+#EXTINF:0 type="stream" channelId="2147", Studio Universal HD 
+http://190.131.247.82:8000/play/a06g
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.universalplus.com/files/channels/398064723.png", Universal Premiere SD 
+http://170.83.242.152:5350/play/a0ko
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.universalplus.com/files/channels/731381553.png", UNIVERSAL CINEMA 
+http://190.61.102.67:8000/play/a05f
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.universalplus.com/files/channels/731381553.png", Universal Cinema 
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127181
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.ytimg.com/vi/SCKn8k0sqok/maxresdefault.jpg", Universal Crime 
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127180
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.universalplus.com/files/channels/172050409.png", Universal Comedy 
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127182
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.universalplus.com/files/channels/120254749.png", Universal Reality 
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127183
+#EXTINF:0 type="stream" channelId="2639", Tooncast 
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127292
+#EXTINF:0 type="stream" channelId="1326", Cinemax 
+http://170.83.242.152:5350/play/a002
+
+#EXTINF:0 type="stream" channelId="2124" audio-track="spa", ANTENA 3 
+http://160.20.165.245:8000/play/a00e/index.m3u8
+#EXTINF:0 type="stream" channelId="3640", A3 SERIES 
+http://160.20.165.245:8000/play/a00f/index.m3u8
+#EXTINF:0 type="stream" channelId="3640", A3 SERIES 
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127156
+#EXTINF:0 type="stream" channelId="-1" logo="https://cablemio.com/wp-content/uploads/2020/09/mimusicapopular.png", MI MUSICA POPULAR 
+http://160.20.165.245:8000/play/a01b/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.vimeocdn.com/video/1163578680-31e679509c035d60b656569a93c6872611ef27bad5367de3c22f72c15f4c9d81-d_640", MI MUSICA SALSA 
+http://160.20.165.245:8000/play/a01a/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.universalplus.com/files/channels/172050409.png" audio-track="spa, lat" tvg-country="MX", Universal Comedy SD 
+http://170.83.242.9:5350/play/a0kq
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.universalplus.com/files/channels/172050409.png", UNIVERSAL COMEDY 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/702.ts
+#EXTINF:0 type="stream" channelId="3754", UNIVERSAL REALITY 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/700.ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.universalplus.com/files/channels/780277389.png", UNIVERSAL CRIME 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/701.ts
+#EXTINF:0 type="stream" channelId="208" logo="https://i.blogs.es/f4fa98/star-channel-llega-a-mexico/1366_2000.jpg", STAR CHANNEL HD 
+http://190.149.66.90:16000/play/a03e/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4zvVFi0pQPJ5RqMGszoe1y6B3nsUOqZTngvl6CwSJ9mZ_awKbOkFREbmA6RctRhhy104&usqp=CAU", STAR CHANNEL HD 
+http://190.131.247.82:8000/play/a05x
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4zvVFi0pQPJ5RqMGszoe1y6B3nsUOqZTngvl6CwSJ9mZ_awKbOkFREbmA6RctRhhy104&usqp=CAU", STAR CHANNEL 2 HD 
+http://190.61.102.67:8000/play/a06m
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4zvVFi0pQPJ5RqMGszoe1y6B3nsUOqZTngvl6CwSJ9mZ_awKbOkFREbmA6RctRhhy104&usqp=CAU", STAR CHANNEL HD 
+http://190.131.247.82:8000/play/a05x
+#EXTINF:0 type="stream" channelId="4696", STAR TVE 
+http://190.61.102.67:8000/play/a04z
+#EXTINF:0 type="stream" channelId="4696", Star TVE HD 
+http://190.149.66.90:16000/play/a01t/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://yt3.googleusercontent.com/ytc/AL5GRJXHWhljNSS32rolwDdiINS3leQTSwALGt8dQr4P=s900-c-k-c0x00ffffff-no-rj", Clover HD 
+http://190.131.247.82:8000/play/a0jo
+#EXTINF:0 type="stream" channelId="1326", CINEMAX 
+http://190.60.39.62:8000/play/a046
+#EXTINF:0 type="stream" channelId="2888", Cinemax HD 
+http://45.232.211.196:1080/play/a04o
+#EXTINF:0 type="stream" channelId="2686" audio-track="lat, spa", TNT Series 
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127152
+#EXTINF:0 type="stream" channelId="3797" audio-track="lat, spa", TNT Series HD 
+http://190.131.247.82:8000/play/a0dx
+#EXTINF:0 type="stream" channelId="2900", TNT HD 
+http://190.131.247.82:8000/play/a09b
+#EXTINF:0 type="stream" channelId="2896", Space HD 
+http://190.131.247.82:8000/play/a05n
+
+#EXTINF:0 type="stream" channelId="73" audio-track="lat,spa" subtitles="spa", SyFy 
+http://45.232.211.196:1080/play/a020
+#EXTINF:0 type="stream" channelId="73" audio-track="lat,spa" subtitles="spa", SyFy2 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="2621" audio-track="lat, spa" subtitles="spa", EURO Channel 
+http://190.61.102.67:8000/play/a020
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png", ESTRELLA TV 
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", CARTOONS 
+http://181.176.148.142:8000/play/a021
+#EXTINF:0 type="stream" channelId="-1" logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png", CINE FAMILIAR 
+http://181.176.148.142:8000/play/a023
+#EXTINF:0 type="stream" channelId="-1" logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinehispano.png", CINE HISPANO 
+http://181.176.148.142:8000/play/a024
+#EXTINF:0 type="stream" channelId="-1" logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png", CINE PREMIUM 
+http://181.176.148.142:8000/play/a025
+#EXTINF:0 type="stream" channelId="56", Nat Geo 
+http://190.61.102.67:31589/play/a01l/index.m3u8
+#EXTINF:0 type="stream" channelId="2620", Discovery H&H HD 
 http://170.83.242.152:5350/play/a01c
-#EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://www.eluniversal.com.mx/sites/default/files/2016/03/11/investigan_cesar_millan.jpg", EL ENCANTADOR DE PERROS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://i.blogs.es/999ffa/comediar/450_1000.webp", Cine Comedia Pluto
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://cdn.teleon.tv/logo/pluto-tv-cine-familia-ptv-br.png", CINE FAMILIAR PLUTO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://i.ytimg.com/vi/472K2H60UAc/maxresdefault.jpg", Cine Romance Pluto
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png", Cine Drama Pluto
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://www.techgames.com.mx/wp-content/uploads/2020/05/Estrellas-de-Accion-Pluto-TV.jpg", Estrellas de Acción Pluto
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://i.blogs.es/c4fc2a/thrillers/450_1000.webp", Cine Suspenso Pluto
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://i.ytimg.com/vi/oCMkE0482Fg/maxresdefault.jpg", Cine Acción Pluto
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://pbs.twimg.com/media/Eo6sdnRU0AEn7qu.jpg", Cine Estelar Pluto
-https://stitcher.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://i.ytimg.com/vi/K1IDy_rQ2eY/maxresdefault.jpg", Cine Terror Pluto
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://static.wikia.nocookie.net/nicthic/images/b/b0/Retro_Cartoons_Logo_2005-2015.png/revision/latest?cb=20171003231210", RETRO CARTOON PLUTO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png", PLUTO VIDA REAL
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 type="stream" channelId="-1" logo="https://archive.org/download/Dongatoysupandilla_live24hrs/IMG_20220814_225413.png", Don Gato y su pandilla 24hrs
+#EXTINF:0 type="stream" channelId="2035", LOVE NATURE 
+http://181.176.148.142:8000/play/a02q
+#EXTINF:0 type="stream" channelId="57", DISCOVERY CHANNEL 
+http://181.176.148.142:8000/play/a028
+#EXTINF:0 type="stream" channelId="1204", History Ch 
+http://170.83.242.152:5350/play/a02z
+#EXTINF:0 type="stream" channelId="1202", History 2 HD 
+http://190.131.247.82:8000/play/a073
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png", RETRO TV 
+http://181.176.148.142:8000/play/a02x
+#EXTINF:0 type="stream" channelId="-1" logo="https://archive.org/download/Dongatoysupandilla_live24hrs/IMG_20220814_225413.png", Don Gato y su pandilla 24hrs 
 https://m3ukodi.com/developer/telelatinohds/telelatinohd.php?71#&f=.m3u8
-#EXTINF:0 type="stream" channelId="41", Nickelodeon HD
-http://190.131.247.82:8000/play/a05z
-#EXTINF:0 type="stream" channelId="40", CARTOON NETWORK
+#EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://www.eluniversal.com.mx/sites/default/files/2016/03/11/investigan_cesar_millan.jpg", EL ENCANTADOR DE PERROS 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://i.blogs.es/999ffa/comediar/450_1000.webp", Cine Comedia Pluto 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://cdn.teleon.tv/logo/pluto-tv-cine-familia-ptv-br.png", CINE FAMILIAR PLUTO 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://i.ytimg.com/vi/472K2H60UAc/maxresdefault.jpg", Cine Romance Pluto 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png", Cine Drama Pluto 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://www.techgames.com.mx/wp-content/uploads/2020/05/Estrellas-de-Accion-Pluto-TV.jpg", Estrellas de Acción Pluto 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://i.blogs.es/c4fc2a/thrillers/450_1000.webp", Cine Suspenso Pluto 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://i.ytimg.com/vi/oCMkE0482Fg/maxresdefault.jpg", Cine Acción Pluto 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://pbs.twimg.com/media/Eo6sdnRU0AEn7qu.jpg", Cine Estelar Pluto 
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://i.ytimg.com/vi/K1IDy_rQ2eY/maxresdefault.jpg", Cine Terror Pluto 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png", PLUTO VIDA REAL 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://static.wikia.nocookie.net/nicthic/images/b/b0/Retro_Cartoons_Logo_2005-2015.png/revision/latest?cb=20171003231210", RETRO CARTOON PLUTO 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="40", CARTOON NETWORK 
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683.ts
-#EXTINF:0 type="stream" channelId="4781", Sin Limites
+#EXTINF:0 type="stream" channelId="40", Cartoon Network 
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127286
+#EXTINF:0 type="stream" channelId="41", Nickelodeon HD 
+http://190.131.247.82:8000/play/a05z
+#EXTINF:0 type="stream" channelId="4781", Sin Limites 
 http://200.41.79.165:8000/play/a0j1/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://cdn.tvpassport.com/image/station/240x135/stingray.png", Stingray Everything 80s
-https://dai.google.com/linear/hls/event/XiPZx9vFS8i6lgkNnprjtQ/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://cdn.tvpassport.com/image/station/240x135/stingray.png", Stingray Flashback 70s
-https://dai.google.com/linear/hls/event/Y3O1azbASfKxO4gdleMbmQ/master.m3u8
-#EXTINF:0 type="stream" channelId="2640", Concert Channel
+#EXTINF:0 type="stream" channelId="4774", Canal Claro 
+http://190.149.66.90:16000/play/a00j/index.m3u8
+#EXTINF:0 type="stream" channelId="4751", Claro Musica 
+http://190.149.66.90:16000/play/a02j/index.m3u8
+
+#EXTINF:0 type="stream" channelId="2640", Concert Channel 
+http://190.149.66.90:16000/play/a04g/index.m3u8
+#EXTINF:0 type="stream" channelId="2640", Concert Channel 
 http://190.61.102.67:8000/play/a06t
-#EXTINF:0 type="stream" channelId="-1" logo="https://cdn.tvpassport.com/image/station/240x135/stingray.png", Stingray Greatest Hits
+#EXTINF:0 type="stream" channelId="329" logo="https://ott-gateway.sinclairstoryline.com/resources/media2/16x9/full/600/center/90/c3b3a7cb-b27b-4879-97ca-00afa9ea1c7a-medium16x9_STIRR_0721_EPG_StingrayRemember80s_1920x1080.png?1625778768861?cb=c4ca4238a0b923820dcc509a6f75849b", Stingray Everything 80s 
+https://dai.google.com/linear/hls/event/XiPZx9vFS8i6lgkNnprjtQ/master.m3u8
+#EXTINF:0 type="stream" channelId="329" logo="https://ott-gateway.sinclairstoryline.com/resources/media2/16x9/full/600/center/90/1e10006e-3cb9-4686-88ca-8bd03c32af06-medium16x9_STIRR_0721_EPG_StingrayFlashback70s_1920x1080.png?1625778767220?cb=c4ca4238a0b923820dcc509a6f75849b", Stingray Flashback 70s 
+https://dai.google.com/linear/hls/event/Y3O1azbASfKxO4gdleMbmQ/master.m3u8
+#EXTINF:0 type="stream" channelId="329" logo="https://ott-gateway.sinclairstoryline.com/resources/media2/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-medium16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b", Stingray Greatest Hits 
 https://dai.google.com/linear/hls/event/_2NUNA_qTSyd70FTD_lqyw/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://cdn.tvpassport.com/image/station/240x135/stingray.png", Stingray Classic Rock
+#EXTINF:0 type="stream" channelId="329" logo="https://ott-gateway.sinclairstoryline.com/resources/media2/16x9/full/600/center/90/60923a0a-414b-4635-968d-4d8be76f6f50-medium16x9_STIRR_0721_EPG_StingrayClassicRock_1920x1080.png?1625778767623?cb=c4ca4238a0b923820dcc509a6f75849b", Stingray Classic Rock 
 https://dai.google.com/linear/hls/event/vlqVJJSkQKW6IB7bQSGZ5A/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://cdn.tvpassport.com/image/station/240x135/stingray.png", Stingray Rock Alternative
+#EXTINF:0 type="stream" channelId="329" logo="https://ott-gateway.sinclairstoryline.com/resources/media2/16x9/full/600/center/90/066abb90-0cc1-43e8-9c62-e8064b215a9e-medium16x9_STIRR_0721_EPG_StingrayRockAlternative_1920x1080.png?1625778768910?cb=c4ca4238a0b923820dcc509a6f75849b", Stingray Rock Alternative 
 https://dai.google.com/linear/hls/event/k446WemXQgSbP0IsuZrM7w/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://cdn.tvpassport.com/image/station/240x135/stingray.png", Stingray Today's Latin Pop
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn.tvpassport.com/image/station/240x135/stingray.png", Stingray Today's Latin Pop 
 https://dai.google.com/linear/hls/event/M-6M5FGMRUegPLdsgkF7KA/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/en/2/20/Qello_Concerts_Logo.png", Qello
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/en/2/20/Qello_Concerts_Logo.png", Qello 
 https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
-#EXTINF:0 type="stream" channelId="3338" logo="https://cdn.tvpassport.com/image/station/240x135/stingray.png", Classica
+#EXTINF:0 type="stream" channelId="3338" logo="https://cdn.tvpassport.com/image/station/240x135/stingray.png", Classica 
 https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
-#EXTINF:0 type="stream" channelId="3804", TUDN
-http://190.61.102.67:31589/play/a08j/index.m3u8
-#EXTINF:0 type="stream" channelId="388", Unicable
-http://190.61.102.67:31589/play/a08f/index.m3u8
-#EXTINF:0 type="stream" channelId="1967", TELEMUNDO 48
-http://190.60.39.62:8000/play/a02g
-#EXTINF:0 type="stream" channelId="1967", TELEMUNDO NEW YORK
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/658.ts
-#EXTINF:0 type="stream" channelId="1967", TELEMUNDO MIAMI
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657.ts
-#EXTINF:0 type="stream" channelId="1967", TELEMUNDO LA
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/656.ts
-#EXTINF:0 type="stream" channelId="1967", TELEMUNDO 44
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654.ts
-#EXTINF:0 type="stream" channelId="3779", UNIVERSO
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665.ts
-#EXTINF:0 type="stream" channelId="3209", UNIVISION SPORTS
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666.ts
-#EXTINF:0 type="stream" channelId="3804", TUDN USA
-http://45.228.234.77:4430/play/hbodoshd
-#EXTINF:0 type="stream" channelId="287", Claro sports
-http://190.61.102.67:31589/play/a053/index.m3u8
-#EXTINF:0 type="stream" channelId="1329", Fox Sports 1
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/706.ts
-#EXTINF:0 type="stream" channelId="170", Fox Sports 2
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/707.ts
-#EXTINF:0 type="stream" channelId="213", Fox Sports 3 HD
-http://45.232.211.196:1080/play/a04j
-#EXTINF:0 type="stream" channelId="4668", TNT SPORTS HD
-http://45.232.211.196:1080/play/a040
-#EXTINF:0 type="stream" channelId="3802", TYC sports
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/662.ts
-#EXTINF:0 type="stream" channelId="1263", ESPN HD
-http://45.232.211.196:1080/play/a058
-#EXTINF:0 type="stream" channelId="3746", ESPN 2 HD
-http://45.232.211.196:1080/play/a04l
-#EXTINF:0 type="stream" channelId="344", ESPN 2
-http://45.232.211.196:1080/play/a00p
-#EXTINF:0 type="stream" channelId="344", ESPN 2 Latin HD
-http://45.232.211.196:1080/play/a045
-#EXTINF:0 type="stream" channelId="357", ESPN 3 HD
-http://45.232.211.196:1080/play/a04i
-#EXTINF:0 type="stream" channelId="1263", ESPN 4
-http://45.232.211.196:1080/play/a026
-#EXTINF:0 type="stream" channelId="1432", ESPN 4 HD
-http://45.232.211.196:1080/play/a051
-#EXTINF:0 type="stream" channelId="2540", ESPN EXTRA HD
-http://45.232.211.196:1080/play/a05i
-#EXTINF:0 type="stream" channelId="2894", NFL NETWORK
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616.ts
-#EXTINF:0 type="stream" channelId="3720", A+ AZTECA 7.2
+#EXTINF:0 type="stream" channelId="1365", Movistar Deportes 
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/121227
+#EXTINF:0 type="stream" channelId="1365", M+ Deportes 
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126962
+#EXTINF:0 type="stream" channelId="1368", M+ Liga de Campeones 
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126981
+#EXTINF:0 type="stream" channelId="2689" logo="https://i2.paste.pics/fb661547262e362a034610ad74c17441.png", ADN 40 | MX 
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:0 type="stream" channelId="1954", Canal de Las estrellas 
+http://190.131.228.59:8000/play/a064/index.m3u8
+#EXTINF:0 type="stream" channelId="3731", Azteca uno 
+https://s99.dr691652.repl.co/tv507/telelatinohd_bym3ukodi.php?num=52&f=.m3u8
+#EXTINF:0 type="stream" channelId="3127" logo="https://selectra.mx/sites/selectra.mx/files/styles/_default/public/images/logos/imagen-tv-200x300.png?itok=2YZVNHgb", IMAGEN TV 3 
+http://190.61.102.67:31589/play/a00h/index.m3u8
+#EXTINF:0 type="stream" channelId="2659" logo="https://image.multimedios.com/sites/all/themes/multimedioslaguna/images/img_default_fb_c6.png", MULTIMEDIOS 6 
+http://190.61.102.67:31589/play/a039/index.m3u8
+#EXTINF:0 type="stream" channelId="3720", A+ AZTECA 7.2 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+#EXTINF:0 type="stream" channelId="4844" logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r1.png", VTV Canal 35 ESA 
+http://190.83.119.67:8000/play/a0r1/index.m3u8
+#EXTINF:0 type="stream" channelId="388", Unicable 
+http://190.61.102.67:31589/play/a08f/index.m3u8
+#EXTINF:0 type="stream" channelId="1967", TELEMUNDO 48 
+http://190.60.39.62:8000/play/a02g
+
+
+#EXTINF:0 type="stream" channelId="1967", TELEMUNDO LA 
+http://181.129.186.36:8089/play/a038/index.m3u8
+#EXTINF:0 type="stream" channelId="3804", TUDN 
+http://190.61.102.67:31589/play/a08j/index.m3u8
+
+#EXTINF:0 type="stream" channelId="287", Claro Sports 1 HD 
+http://190.149.66.90:16000/play/a008/index.m3u8
+#EXTINF:0 type="stream" channelId="287", Claro Sports 2 HD 
+http://190.149.66.90:16000/play/a009/index.m3u8
+#EXTINF:0 type="stream" channelId="287", Claro sports 
+http://190.61.102.67:31589/play/a053/index.m3u8
+#EXTINF:0 type="stream" channelId="1328", Fox Sports 
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127173
+
+
