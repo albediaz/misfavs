@@ -34,20 +34,16 @@ http://170.83.242.9:5350/play/a001
 http://190.131.228.59:8000/play/a0rp/index.m3u8
 #EXTINF:0 type="stream" channelId="935", HBO 2 HD 
 http://190.131.228.59:8000/play/a0jh/index.m3u8
-#EXTINF:0 type="stream" channelId="3804", HBO 2. 
-http://45.228.234.77:4430/play/hbodoshd
+#EXTINF:0 type="favorites" channelId="935", HBO2 HD
+http://45.228.232.204:16000/play/a041/index.m3u8
 #EXTINF:0 type="stream" channelId="2584", HBO Family 
 http://170.83.242.152:5350/play/a02r
-#EXTINF:0 type="stream" channelId="361" audio-track="spa, lat" subtitles="spa" tvg-country="MX", HBO Pop 
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127166
-#EXTINF:0 type="stream" channelId="2725" audio-track="spa, lat" subtitles="spa" tvg-country="MX", HBO Mundi 
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127167
+
 #EXTINF:0 type="stream" channelId="2587", HBO XTREME 
 http://170.83.242.152:5350/play/a02q
 #EXTINF:0 type="stream" channelId="2585", HBO Plus 
 http://170.83.242.152:5350/play/a02p
-#EXTINF:0 type="stream" channelId="2583" audio-track="spa, lat", HBO Signature 
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127162
+
 #EXTINF:0 type="stream" channelId="2501", AMC HD 
 http://190.149.66.90:16000/play/a01m/index.m3u8
 #EXTINF:0 type="stream" channelId="284", CINECANAL HD 
@@ -72,7 +68,7 @@ http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127308
 #EXTINF:0 type="stream" channelId="59", Discovery ID 
 http://190.61.102.67:31589/play/a04y/index.m3u8
 #EXTINF:0 type="stream" channelId="2620", Discovery H&H 
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127305
+http://45.228.232.204:16000/play/a072/index.m3u8
 #EXTINF:0 type="stream" channelId="333", Golden 
 http://190.149.66.90:16000/play/a02l/index.m3u8
 #EXTINF:0 type="stream" channelId="333", Golden 
@@ -120,10 +116,13 @@ http://190.149.66.90:16000/play/a035/index.m3u8
 #EXTINF:0 type="stream" channelId="2632" audio-track="lat, spa" tvg-country="MX", Film&Arts 
 http://190.131.228.59:8000/play/a0qv/index.m3u8
 
-#EXTINF:0 type="stream" channelId="1044", Kanal D 
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127157
+#EXTINF:0 type="stream" channelId="4844" logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r1.png", VTV Canal 35 ESA 
+http://45.228.232.204:16000/play/a055/index.m3u8
 #EXTINF:0 type="stream" channelId="187" audio-track="lat, spa" subtitles="spa" tvg-country="MX", Universal 
 http://190.131.228.59:8000/play/a040/index.m3u8
+#EXTINF:0 type="stream" channelId="187" audio-track="lat, spa" subtitles="spa" tvg-country="MX", Universal 
+http://45.228.232.204:16000/play/a078/index.m3u8
+
 #EXTINF:0 type="stream" channelId="2625", Studio Universal 
 http://190.149.66.90:16000/play/a04m/index.m3u8
 #EXTINF:0 type="stream" channelId="2147", Studio Universal HD 
@@ -134,16 +133,15 @@ http://170.83.242.152:5350/play/a0ko
 http://190.61.102.67:8000/play/a05f
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.universalplus.com/files/channels/731381553.png", Universal Cinema 
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127181
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ytimg.com/vi/SCKn8k0sqok/maxresdefault.jpg", Universal Crime 
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127180
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.universalplus.com/files/channels/172050409.png", Universal Comedy 
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127182
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.universalplus.com/files/channels/120254749.png", Universal Reality 
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127183
+
 #EXTINF:0 type="stream" channelId="2639", Tooncast 
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127292
 #EXTINF:0 type="stream" channelId="1326", Cinemax 
 http://170.83.242.152:5350/play/a002
+#EXTINF:0 type="stream" channelId="1326", CINEMAX 
+http://190.60.39.62:8000/play/a046
+#EXTINF:0 type="stream" channelId="2888", Cinemax HD 
+http://45.232.211.196:1080/play/a04o
 
 #EXTINF:0 type="stream" channelId="2124" audio-track="spa", ANTENA 3 
 http://160.20.165.245:8000/play/a00e/index.m3u8
@@ -177,16 +175,14 @@ http://190.61.102.67:8000/play/a04z
 http://190.149.66.90:16000/play/a01t/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://yt3.googleusercontent.com/ytc/AL5GRJXHWhljNSS32rolwDdiINS3leQTSwALGt8dQr4P=s900-c-k-c0x00ffffff-no-rj", Clover HD 
 http://190.131.247.82:8000/play/a0jo
-#EXTINF:0 type="stream" channelId="1326", CINEMAX 
-http://190.60.39.62:8000/play/a046
-#EXTINF:0 type="stream" channelId="2888", Cinemax HD 
-http://45.232.211.196:1080/play/a04o
-#EXTINF:0 type="stream" channelId="2686" audio-track="lat, spa", TNT Series 
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127152
+
+
 #EXTINF:0 type="stream" channelId="3797" audio-track="lat, spa", TNT Series HD 
 http://190.131.247.82:8000/play/a0dx
 #EXTINF:0 type="stream" channelId="2900", TNT HD 
 http://190.131.247.82:8000/play/a09b
+#EXTINF:0 type="favorites" channelId="1052" group="Lista 15 Colombia", TNT
+http://181.129.186.36:8089/play/a03v/index.m3u8
 #EXTINF:0 type="stream" channelId="2896", Space HD 
 http://190.131.247.82:8000/play/a05n
 
@@ -263,6 +259,12 @@ http://190.149.66.90:16000/play/a02j/index.m3u8
 http://190.149.66.90:16000/play/a04g/index.m3u8
 #EXTINF:0 type="stream" channelId="2640", Concert Channel 
 http://190.61.102.67:8000/play/a06t
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 3 Peru" shift="-2", Retro Plus 1
+http://200.60.7.43:8000/play/45/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 3 Peru" shift="-2", Retro Plus 2
+http://200.60.7.43:8000/play/46/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 3 Peru" shift="-2", Retro Plus Tv
+http://200.60.7.43:8000/play/20/index.m3u8
 #EXTINF:0 type="stream" channelId="329" logo="https://ott-gateway.sinclairstoryline.com/resources/media2/16x9/full/600/center/90/c3b3a7cb-b27b-4879-97ca-00afa9ea1c7a-medium16x9_STIRR_0721_EPG_StingrayRemember80s_1920x1080.png?1625778768861?cb=c4ca4238a0b923820dcc509a6f75849b", Stingray Everything 80s 
 https://dai.google.com/linear/hls/event/XiPZx9vFS8i6lgkNnprjtQ/master.m3u8
 #EXTINF:0 type="stream" channelId="329" logo="https://ott-gateway.sinclairstoryline.com/resources/media2/16x9/full/600/center/90/1e10006e-3cb9-4686-88ca-8bd03c32af06-medium16x9_STIRR_0721_EPG_StingrayFlashback70s_1920x1080.png?1625778767220?cb=c4ca4238a0b923820dcc509a6f75849b", Stingray Flashback 70s 
@@ -298,8 +300,7 @@ http://190.61.102.67:31589/play/a039/index.m3u8
 #EXTINF:0 type="stream" channelId="3720", A+ AZTECA 7.2 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:0 type="stream" channelId="4844" logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r1.png", VTV Canal 35 ESA 
-http://190.83.119.67:8000/play/a0r1/index.m3u8
+
 #EXTINF:0 type="stream" channelId="388", Unicable 
 http://190.61.102.67:31589/play/a08f/index.m3u8
 #EXTINF:0 type="stream" channelId="1967", TELEMUNDO 48 
@@ -319,5 +320,10 @@ http://190.149.66.90:16000/play/a009/index.m3u8
 http://190.61.102.67:31589/play/a053/index.m3u8
 #EXTINF:0 type="stream" channelId="1328", Fox Sports 
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127173
+#EXTINF:0 type="favorites" channelId="2540" group="Lista 6 Guatemala", ESPN  +
+http://45.228.232.204:16000/play/a030/index.m3u8
+#EXTINF:0 type="favorites" channelId="1263" group="Lista 6 Guatemala", ESPN HD
+http://45.228.232.204:16000/play/a07r/index.m3u8
+
 
 
