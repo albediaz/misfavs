@@ -249,6 +249,8 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Lista 34 (Chile)" logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png", Orbit TV | DO
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 34 (Chile)" logo="https://i.paste.pics/61260e061568a10afcb0dcdf499311a8.png", Super TV | CL
+https://stmv2.zcasthn.com.br/supertv/supertv/playlist.m3u8
 
 
 
