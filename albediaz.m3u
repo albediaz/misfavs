@@ -241,6 +241,15 @@ http://bgtv.site/play/megaprooo-408.php?c=262&tokeen=jhfjhfg&f=.m3u8|user-agent=
 #EXTINF:0 type="stream" channelId="-1" group="Lista 9" logo="https://i.pinimg.com/550x/fd/22/b4/fd22b489f86fa249bf28e51bd146d244.jpg", Pantera Rosa 80s
 http://bgtv.site/play/megaprooo-408.php?c=245&tokeen=jhfjhfg&f=.m3u8|user-agent=tuplayer
 
+#EXTINF:0 type="stream" channelId="-1" group="Lista 35 (Stirr)" logo="https://i.imgur.com/xGkDbcR.png", WOW
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 34 (Chile)" logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg", Canal Visión Dorada | CO
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 34 (Chile)" logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PlanetaTV Movies | CL
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 34 (Chile)" logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png", Orbit TV | DO
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+
 
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png", RETRO TV 
@@ -367,14 +376,7 @@ http://45.228.232.204:16000/play/a07r/index.m3u8
 http://177.234.230.226:8010/play/a03h/index.m3u8
 #EXTINF:0 type="stream" channelId="1190" group="Lista 35 (Stirr)" logo="http://x.playerlatino.live/comedycentral.png", Comedy Central
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c15-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd904709-6614-46f7-80bd-de128553e6f3&userId=&serverSideAds=true
-#EXTINF:0 type="stream" channelId="-1" group="Lista 35 (Stirr)" logo="https://i.imgur.com/xGkDbcR.png", WOW
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Lista 34 (Chile)" logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg", Canal Visión Dorada | CO
-https://movil.ejeserver.com/live/visiondorada.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Lista 34 (Chile)" logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PlanetaTV Movies | CL
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Lista 34 (Chile)" logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png", Orbit TV | DO
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group="Lista 34 (Chile)" logo="https://lh3.googleusercontent.com/-gNwkGNBw7kQ/XzgR58ws75I/AAAAAAAA4Ro/RDsdgWvXHrE7Ow_6xDAjXEupxv0X5eIiQCK8BGAsYHg/s0/2020-08-15.png", Luna TV | DO
 https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Lista 34 (Chile)" logo="https://lh3.googleusercontent.com/-jxMdnwq3fxw/XzgSNxgvHSI/AAAAAAAA4Rw/eev6AGnJag8MDN1kt76lQwfraDPAIsnDACK8BGAsYHg/s0/2020-08-15.png", Megavision | DO
