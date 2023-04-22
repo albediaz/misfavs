@@ -12,6 +12,8 @@ http://190.131.228.59:8000/play/a0rp/index.m3u8
 http://190.131.228.59:8000/play/a0jh/index.m3u8
 #EXTINF:0 type="favorites" channelId="935", HBO2 HD
 http://45.228.232.204:16000/play/a041/index.m3u8
+#EXTINF:0 type="stream" channelId="935" group="Lista 52 Paraguay", HBO 2
+http://170.83.242.12:5350/play/a02o
 #EXTINF:0 type="stream" channelId="2584", HBO Family 
 http://170.83.242.152:5350/play/a02r
 
@@ -21,7 +23,7 @@ http://170.83.242.152:5350/play/a02q
 http://170.83.242.152:5350/play/a02p
 
 #EXTINF:0 type="stream" channelId="2501", AMC HD 
-http://190.149.66.90:16000/play/a01m/index.m3u8
+http://190.27.253.211:8000/play/a078/index.m3u8
 #EXTINF:0 type="stream" channelId="284", CINECANAL HD 
 http://190.149.66.90:16000/play/a03h/index.m3u8
 #EXTINF:0 type="stream" channelId="64" audio-track="spa", CINECANAL 
@@ -29,18 +31,18 @@ http://190.61.102.67:31589/play/a04q/index.m3u8
 #EXTINF:0 type="stream" channelId="283", Cine Latino
 http://190.149.66.90:16000/play/a04k/index.m3u8
 #EXTINF:0 type="stream" channelId="283", CINE LATINO 
-http://190.61.102.67:31589/play/a05v/index.m3u8
+http://45.166.92.22:58001/play/a02c/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3743", DHE HD 
 http://190.149.66.90:16000/play/a01r/index.m3u8
 #EXTINF:0 type="stream" channelId="3743" logo="https://static.wikia.nocookie.net/doblaje/images/0/00/DHE2017.png/revision/latest/scale-to-width-down/750?cb=20190115044758&path-prefix=es", DHE
-http://181.176.148.142:8000/play/a027
+http://45.166.92.22:58001/play/a00v/index.m3u8
 #EXTINF:0 type="stream" channelId="59", Discovery ID 
 http://170.83.242.152:5350/play/a017
 #EXTINF:0 type="stream" channelId="3770", Discovery ID HD 
 http://190.149.66.90:16000/play/a055/index.m3u8
-#EXTINF:0 type="stream" channelId="59", Discovery ID 
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127308
+
+
 #EXTINF:0 type="stream" channelId="59", Discovery ID 
 http://190.61.102.67:31589/play/a04y/index.m3u8
 #EXTINF:0 type="stream" channelId="2620", Discovery H&H 
@@ -56,15 +58,15 @@ http://190.131.247.82:8000/play/a0h8
 #EXTINF:0 type="stream" channelId="292", Multipremier 
 http://190.149.66.90:16000/play/a04j/index.m3u8
 #EXTINF:0 type="stream" channelId="292", MULTI PREMIER 
-http://190.61.102.67:31589/play/a01e/index.m3u8
+http://45.228.232.204:16000/play/a07a/index.m3u8
 #EXTINF:0 type="stream" channelId="291" logo="https://pbs.twimg.com/profile_images/434292249719885824/RYy0Zc69_400x400.png", MULTICINEMA 
-http://160.20.165.245:8000/play/a00a/index.m3u8
+http://160.20.165.246:8000/play/a00a/index.m3u8
 #EXTINF:0 type="stream" channelId="291", MC 
-http://190.61.102.67:31589/play/a01d/index.m3u8
+http://177.234.230.226:8010/play/a00i/index.m3u8
 #EXTINF:0 type="stream" channelId="188" audio-track="lat, spa" subtitles="spa" tvg-country="MX", Sony 
 http://190.131.228.59:8000/play/a04h/index.m3u8
 #EXTINF:0 type="stream" channelId="188", SONY 
-http://160.20.165.245:8000/play/a00o/index.m3u8
+http://45.166.92.22:58001/play/a04a/index.m3u8
 #EXTINF:0 type="stream" channelId="1214", Sony Movies HD 
 http://190.61.102.67:8000/play/a04w
 #EXTINF:0 type="stream" channelId="1303" tvg-country="MX", FX 
@@ -82,7 +84,7 @@ http://190.61.102.67:31589/play/a01s/index.m3u8
 #EXTINF:0 type="stream" channelId="3228", TBS 
 http://190.149.66.90:16000/play/a00y/index.m3u8
 #EXTINF:0 type="stream" channelId="2900" audio-track="lat" subtitles="spa" tvg-country="MX", TNT HD 
-http://190.149.66.90:16000/play/a03m/index.m3u8
+http://190.108.93.148:8000/play/a0l6/index.m3u8
 #EXTINF:0 type="stream" channelId="2557", WARNER CHANNEL 
 http://170.83.242.152:5350/play/a00q
 #EXTINF:0 type="stream" channelId="2903", WARNER HD 
@@ -90,7 +92,7 @@ http://190.149.66.90:16000/play/a03f/index.m3u8
 #EXTINF:0 type="stream" channelId="73" audio-track="lat, spa" tvg-country="MX", SyFy 
 http://190.149.66.90:16000/play/a035/index.m3u8
 #EXTINF:0 type="stream" channelId="2632" audio-track="lat, spa" tvg-country="MX", Film&Arts 
-http://190.131.228.59:8000/play/a0qv/index.m3u8
+http://45.166.92.22:58001/play/a00o/index.m3u8
 
 #EXTINF:0 type="stream" channelId="4844" logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r1.png", VTV Canal 35 ESA 
 http://45.228.232.204:16000/play/a055/index.m3u8
@@ -102,7 +104,7 @@ http://45.228.232.204:16000/play/a078/index.m3u8
 #EXTINF:0 type="stream" channelId="2625", Studio Universal 
 http://190.149.66.90:16000/play/a04m/index.m3u8
 #EXTINF:0 type="stream" channelId="2147", Studio Universal HD 
-http://190.131.247.82:8000/play/a06g
+http://45.166.92.22:58001/play/a00k/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.universalplus.com/files/channels/398064723.png", Universal Premiere SD 
 http://170.83.242.152:5350/play/a0ko
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.universalplus.com/files/channels/731381553.png", UNIVERSAL CINEMA 
@@ -117,50 +119,51 @@ http://170.83.242.152:5350/play/a002
 #EXTINF:0 type="stream" channelId="1326", CINEMAX 
 http://190.60.39.62:8000/play/a046
 #EXTINF:0 type="stream" channelId="2888", Cinemax HD 
-http://45.232.211.196:1080/play/a04o
+http://170.83.242.12:5350/play/a002
 
 #EXTINF:0 type="stream" channelId="2124" audio-track="spa", ANTENA 3 
-http://160.20.165.245:8000/play/a00e/index.m3u8
+http://45.166.92.22:58001/play/a041/index.m3u8
 #EXTINF:0 type="stream" channelId="3640", A3 SERIES 
 http://160.20.165.245:8000/play/a00f/index.m3u8
 #EXTINF:0 type="stream" channelId="3640", A3 SERIES 
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127156
-#EXTINF:0 type="stream" channelId="-1" logo="https://cablemio.com/wp-content/uploads/2020/09/mimusicapopular.png", MI MUSICA POPULAR 
-http://160.20.165.245:8000/play/a01b/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.vimeocdn.com/video/1163578680-31e679509c035d60b656569a93c6872611ef27bad5367de3c22f72c15f4c9d81-d_640", MI MUSICA SALSA 
-http://160.20.165.245:8000/play/a01a/index.m3u8
+http://45.228.232.204:16000/play/a038/index.m3u8
+
+
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.universalplus.com/files/channels/172050409.png" audio-track="spa, lat" tvg-country="MX", Universal Comedy SD 
 http://170.83.242.9:5350/play/a0kq
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.universalplus.com/files/channels/172050409.png", UNIVERSAL COMEDY 
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/702.ts
-#EXTINF:0 type="stream" channelId="3754", UNIVERSAL REALITY 
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/700.ts
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.universalplus.com/files/channels/780277389.png", UNIVERSAL CRIME 
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/701.ts
+http://191.97.55.241:8000/play/a02y/index.m3u8
+
+
 #EXTINF:0 type="stream" channelId="208" logo="https://i.blogs.es/f4fa98/star-channel-llega-a-mexico/1366_2000.jpg", STAR CHANNEL HD 
 http://190.149.66.90:16000/play/a03e/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4zvVFi0pQPJ5RqMGszoe1y6B3nsUOqZTngvl6CwSJ9mZ_awKbOkFREbmA6RctRhhy104&usqp=CAU", STAR CHANNEL HD 
-http://190.131.247.82:8000/play/a05x
+http://45.166.92.22:58001/play/a00u/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4zvVFi0pQPJ5RqMGszoe1y6B3nsUOqZTngvl6CwSJ9mZ_awKbOkFREbmA6RctRhhy104&usqp=CAU", STAR CHANNEL 2 HD 
 http://190.61.102.67:8000/play/a06m
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4zvVFi0pQPJ5RqMGszoe1y6B3nsUOqZTngvl6CwSJ9mZ_awKbOkFREbmA6RctRhhy104&usqp=CAU", STAR CHANNEL HD 
-http://190.131.247.82:8000/play/a05x
+http://191.97.55.241:8000/play/a06v/index.m3u8
 #EXTINF:0 type="stream" channelId="4696", STAR TVE 
 http://190.61.102.67:8000/play/a04z
 #EXTINF:0 type="stream" channelId="4696", Star TVE HD 
 http://190.149.66.90:16000/play/a01t/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://yt3.googleusercontent.com/ytc/AL5GRJXHWhljNSS32rolwDdiINS3leQTSwALGt8dQr4P=s900-c-k-c0x00ffffff-no-rj", Clover HD 
-http://190.131.247.82:8000/play/a0jo
+http://160.20.165.246:8000/play/a006/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 47 Ecuador" audio-track="spa", 12310 CLOVER
+http://177.234.230.226:8010/play/a00a/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="3797" audio-track="lat, spa", TNT Series HD 
 http://190.131.247.82:8000/play/a0dx
 #EXTINF:0 type="stream" channelId="2900", TNT HD 
-http://190.131.247.82:8000/play/a09b
+http://190.149.66.90:16000/play/a03m/index.m3u8
 #EXTINF:0 type="favorites" channelId="1052" group="Lista 15 Colombia", TNT
 http://181.129.186.36:8089/play/a03v/index.m3u8
 #EXTINF:0 type="stream" channelId="2896", Space HD 
-http://190.131.247.82:8000/play/a05n
+http://191.97.55.241:8000/play/a042/index.m3u8
+#EXTINF:0 type="stream" channelId="383" group="Lista 4 Peru" shift="-2", Space
+http://190.108.93.148:8000/play/a085/index.m3u8
 
 #EXTINF:0 type="stream" channelId="73" audio-track="lat,spa" subtitles="spa", SyFy 
 http://45.232.211.196:1080/play/a020
@@ -170,30 +173,61 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f91
 http://190.61.102.67:8000/play/a020
 #EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png", ESTRELLA TV 
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", CARTOONS 
-http://181.176.148.142:8000/play/a021
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png", CINE FAMILIAR 
-http://181.176.148.142:8000/play/a023
-#EXTINF:0 type="stream" channelId="-1" logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinehispano.png", CINE HISPANO 
-http://181.176.148.142:8000/play/a024
-#EXTINF:0 type="stream" channelId="-1" logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png", CINE PREMIUM 
-http://181.176.148.142:8000/play/a025
+http://177.234.230.226:8010/play/a00v/index.m3u8
+
 #EXTINF:0 type="stream" channelId="56", Nat Geo 
 http://190.61.102.67:31589/play/a01l/index.m3u8
 #EXTINF:0 type="stream" channelId="2620", Discovery H&H HD 
 http://170.83.242.152:5350/play/a01c
 #EXTINF:0 type="stream" channelId="2035", LOVE NATURE 
-http://181.176.148.142:8000/play/a02q
+http://177.234.230.226:8010/play/a03o/index.m3u8
+#EXTINF:0 type="stream" channelId="50" group="Lista 52 Paraguay", Animal Planet
+http://170.83.242.12:5350/play/a00p
 #EXTINF:0 type="stream" channelId="57", DISCOVERY CHANNEL 
-http://181.176.148.142:8000/play/a028
+http://45.166.92.22:58001/play/a01n/index.m3u8
 #EXTINF:0 type="stream" channelId="1204", History Ch 
 http://170.83.242.152:5350/play/a02z
 #EXTINF:0 type="stream" channelId="1202", History 2 HD 
-http://190.131.247.82:8000/play/a073
+http://190.27.253.211:8000/play/a072/index.m3u8
+#EXTINF:0 type="stream" channelId="1201" group="Lista 6 Guatemala", H2
+http://45.228.232.204:16000/play/a05b/index.m3u8
+
+
+#EXTINF:0 type="stream" channelId="-1" group="Lista 9" logo="https://w0.peakpx.com/wallpaper/970/591/HD-wallpaper-thundercats-logo.jpg", Los Thundercats
+http://bgtv.site/play/megaprooo-408.php?c=275&tokeen=jhfjhfg&f=.m3u8|user-agent=tuplayer
+#EXTINF:0 type="stream" channelId="-1" group="Lista 9" logo="https://tendencybook.com/wp-content/uploads/2020/04/Pinky-y-Cerebro.jpg", Pinky y Cerebro
+http://bgtv.site/play/megaprooo-408.php?c=267&tokeen=jhfjhfg&f=.m3u8|user-agent=tuplayer
+#EXTINF:0 type="stream" channelId="-1" group="Lista 9", Game Of Throne
+http://bgtv.site/play/megaprooo-408.php?c=279&tokeen=jhfjhfg&f=.m3u8|user-agent=tuplayer
+#EXTINF:0 type="stream" channelId="-1" group="Lista 9" logo="https://es.digitaltrends.com/wp-content/uploads/2022/02/180-alf.jpg?p=1", Alf
+http://bgtv.site/play/megaprooo-408.php?c=254&tokeen=jhfjhfg&f=.m3u8|user-agent=tuplayer
+#EXTINF:0 type="stream" channelId="-1" group="Lista 9", strangerthings
+http://bgtv.site/play/megaprooo-408.php?c=259&tokeen=jhfjhfg&f=.m3u8|user-agent=tuplayer
+#EXTINF:0 type="stream" channelId="-1" group="Lista 9", Smallville
+http://bgtv.site/play/megaprooo-408.php?c=262&tokeen=jhfjhfg&f=.m3u8|user-agent=tuplayer
+#EXTINF:0 type="stream" channelId="-1" group="Lista 9" logo="https://i.pinimg.com/550x/fd/22/b4/fd22b489f86fa249bf28e51bd146d244.jpg", Pantera Rosa 80s
+http://bgtv.site/play/megaprooo-408.php?c=245&tokeen=jhfjhfg&f=.m3u8|user-agent=tuplayer
+
+#EXTINF:0 type="stream" channelId="-1" group="Lista 35 (Stirr)" logo="https://i.imgur.com/xGkDbcR.png", WOW
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 34 (Chile)" logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg", Canal Visión Dorada | CO
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 34 (Chile)" logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PlanetaTV Movies | CL
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 34 (Chile)" logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png", Orbit TV | DO
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 34 (Chile)" logo="https://i.paste.pics/61260e061568a10afcb0dcdf499311a8.png", Super TV | CL
+https://stmv2.zcasthn.com.br/supertv/supertv/playlist.m3u8
+
+
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png", RETRO TV 
-http://181.176.148.142:8000/play/a02x
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w781716611.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://archive.org/download/Dongatoysupandilla_live24hrs/IMG_20220814_225413.png", Don Gato y su pandilla 24hrs 
 https://m3ukodi.com/developer/telelatinohds/telelatinohd.php?71#&f=.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://www.eluniversal.com.mx/sites/default/files/2016/03/11/investigan_cesar_millan.jpg", EL ENCANTADOR DE PERROS 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://i.blogs.es/999ffa/comediar/450_1000.webp", Cine Comedia Pluto 
@@ -211,7 +245,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e8
 #EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://i.ytimg.com/vi/oCMkE0482Fg/maxresdefault.jpg", Cine Acción Pluto 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://pbs.twimg.com/media/Eo6sdnRU0AEn7qu.jpg", Cine Estelar Pluto 
-https://stitcher.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://i.ytimg.com/vi/K1IDy_rQ2eY/maxresdefault.jpg", Cine Terror Pluto 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png", PLUTO VIDA REAL 
@@ -221,9 +255,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c
 #EXTINF:0 type="stream" channelId="40", CARTOON NETWORK 
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683.ts
 #EXTINF:0 type="stream" channelId="40", Cartoon Network 
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127286
+http://170.83.242.12:5350/play/a03a
 #EXTINF:0 type="stream" channelId="41", Nickelodeon HD 
-http://190.131.247.82:8000/play/a05z
+http://45.228.232.204:16000/play/a06y/index.m3u8
 #EXTINF:0 type="stream" channelId="4781", Sin Limites 
 http://200.41.79.165:8000/play/a0j1/index.m3u8
 #EXTINF:0 type="stream" channelId="4774", Canal Claro 
@@ -231,14 +265,19 @@ http://190.149.66.90:16000/play/a00j/index.m3u8
 #EXTINF:0 type="stream" channelId="4751", Claro Musica 
 http://190.149.66.90:16000/play/a02j/index.m3u8
 
+#EXTINF:0 type="stream" channelId="339" group="Lista 4 Peru" shift="-2", Telehit HD
+http://190.108.93.148:8000/play/a0mj/index.m3u8
+#EXTINF:0 type="stream" channelId="3750" group="Lista 6 Guatemala", Exa TV
+http://45.228.232.204:16000/play/a06j/index.m3u8
+
 #EXTINF:0 type="stream" channelId="2640", Concert Channel 
 http://190.149.66.90:16000/play/a04g/index.m3u8
 #EXTINF:0 type="stream" channelId="2640", Concert Channel 
 http://190.61.102.67:8000/play/a06t
 #EXTINF:0 type="favorites" channelId="-1" group="Lista 3 Peru" shift="-2", Retro Plus 1
-http://200.60.7.43:8000/play/45/index.m3u8
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Lista 3 Peru" shift="-2", Retro Plus 2
-http://200.60.7.43:8000/play/46/index.m3u8
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Lista 3 Peru" shift="-2", Retro Plus Tv
 http://200.60.7.43:8000/play/20/index.m3u8
 #EXTINF:0 type="stream" channelId="329" logo="https://ott-gateway.sinclairstoryline.com/resources/media2/16x9/full/600/center/90/c3b3a7cb-b27b-4879-97ca-00afa9ea1c7a-medium16x9_STIRR_0721_EPG_StingrayRemember80s_1920x1080.png?1625778768861?cb=c4ca4238a0b923820dcc509a6f75849b", Stingray Everything 80s 
@@ -258,15 +297,16 @@ https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
 #EXTINF:0 type="stream" channelId="3338" logo="https://cdn.tvpassport.com/image/station/240x135/stingray.png", Classica 
 https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
 #EXTINF:0 type="stream" channelId="1365", Movistar Deportes 
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/121227
-#EXTINF:0 type="stream" channelId="1365", M+ Deportes 
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126962
+http://191.97.55.241:8000/play/a07v/index.m3u8
+#EXTINF:0 type="stream" channelId="1363" group="Lista 7 Peru", Movistar Plus
+http://191.97.55.241:8000/play/a07m/index.m3u8
 #EXTINF:0 type="stream" channelId="1368", M+ Liga de Campeones 
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126981
 #EXTINF:0 type="stream" channelId="2689" logo="https://i2.paste.pics/fb661547262e362a034610ad74c17441.png", ADN 40 | MX 
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:0 type="stream" channelId="1954", Canal de Las estrellas 
 http://190.131.228.59:8000/play/a064/index.m3u8
+
 #EXTINF:0 type="stream" channelId="3731", Azteca uno 
 https://s99.dr691652.repl.co/tv507/telelatinohd_bym3ukodi.php?num=52&f=.m3u8
 #EXTINF:0 type="stream" channelId="3127" logo="https://selectra.mx/sites/selectra.mx/files/styles/_default/public/images/logos/imagen-tv-200x300.png?itok=2YZVNHgb", IMAGEN TV 3 
@@ -277,6 +317,8 @@ http://190.61.102.67:31589/play/a039/index.m3u8
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 
+
+
 #EXTINF:0 type="stream" channelId="388", Unicable 
 http://190.61.102.67:31589/play/a08f/index.m3u8
 #EXTINF:0 type="stream" channelId="1967", TELEMUNDO 48 
@@ -284,7 +326,7 @@ http://190.60.39.62:8000/play/a02g
 
 
 #EXTINF:0 type="stream" channelId="1967", TELEMUNDO LA 
-http://181.129.186.36:8089/play/a038/index.m3u8
+http://45.166.92.22:58001/play/a00r/index.m3u8
 #EXTINF:0 type="stream" channelId="3804", TUDN 
 http://190.61.102.67:31589/play/a08j/index.m3u8
 
@@ -300,5 +342,22 @@ http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127173
 http://45.228.232.204:16000/play/a030/index.m3u8
 #EXTINF:0 type="favorites" channelId="1263" group="Lista 6 Guatemala", ESPN HD
 http://45.228.232.204:16000/play/a07r/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Lista 47 Ecuador", IVC
+http://177.234.230.226:8010/play/a03h/index.m3u8
+#EXTINF:0 type="stream" channelId="1190" group="Lista 35 (Stirr)" logo="http://x.playerlatino.live/comedycentral.png", Comedy Central
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c15-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd904709-6614-46f7-80bd-de128553e6f3&userId=&serverSideAds=true
+
+#EXTINF:0 type="stream" channelId="-1" group="Lista 34 (Chile)" logo="https://lh3.googleusercontent.com/-gNwkGNBw7kQ/XzgR58ws75I/AAAAAAAA4Ro/RDsdgWvXHrE7Ow_6xDAjXEupxv0X5eIiQCK8BGAsYHg/s0/2020-08-15.png", Luna TV | DO
+https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 34 (Chile)" logo="https://lh3.googleusercontent.com/-jxMdnwq3fxw/XzgSNxgvHSI/AAAAAAAA4Rw/eev6AGnJag8MDN1kt76lQwfraDPAIsnDACK8BGAsYHg/s0/2020-08-15.png", Megavision | DO
+http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Lista 34 (Chile)" logo="https://lh3.googleusercontent.com/-Xx4DcggZ0tw/X48XMFPv4jI/AAAAAAAA6lY/eTAQj1-UnWUbuTMAHTCiwz9SCJoAlGkTACK8BGAsYHg/s0/2020-10-20.png", Urban TV | ES
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 34 (Chile)" logo="https://i2.paste.pics/02c63dfaaf621ab897fbddd3e4666a33.png", Rewind Radio y TV | CL
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+
+
 
 
