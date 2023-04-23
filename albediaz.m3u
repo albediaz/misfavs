@@ -225,7 +225,8 @@ http://190.27.253.211:8000/play/a072/index.m3u8
 #EXTINF:0 type="stream" channelId="1201" group="Lista 6 Guatemala", H2
 http://45.228.232.204:16000/play/a05b/index.m3u8
 
-
+#EXTINF:0 type="stream" channelId="-1" group="Lista 9" logo="https://archive.org/download/Dongatoysupandilla_live24hrs/IMG_20220814_225413.png", Don Gato y su pandilla 24hrs 
+https://m3ukodi.com/developer/telelatinohds/telelatinohd.php?71#&f=.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Lista 9" logo="https://w0.peakpx.com/wallpaper/970/591/HD-wallpaper-thundercats-logo.jpg", Los Thundercats
 http://bgtv.site/play/megaprooo-408.php?c=275&tokeen=jhfjhfg&f=.m3u8|user-agent=tuplayer
 #EXTINF:0 type="stream" channelId="-1" group="Lista 9" logo="https://tendencybook.com/wp-content/uploads/2020/04/Pinky-y-Cerebro.jpg", Pinky y Cerebro
@@ -256,8 +257,6 @@ https://stmv2.zcasthn.com.br/supertv/supertv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png", RETRO TV 
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w781716611.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://archive.org/download/Dongatoysupandilla_live24hrs/IMG_20220814_225413.png", Don Gato y su pandilla 24hrs 
-https://m3ukodi.com/developer/telelatinohds/telelatinohd.php?71#&f=.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://www.eluniversal.com.mx/sites/default/files/2016/03/11/investigan_cesar_millan.jpg", EL ENCANTADOR DE PERROS 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
