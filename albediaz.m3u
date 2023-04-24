@@ -18,7 +18,7 @@ http://45.166.92.22:58001/play/a04c/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" name="RealExtreme" group="Lista 26" logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/realx.png", RealExtreme
 http://208.88.246.11:3473/491REALX/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:0 type="stream" tvg-id="BrazzersTV.mx(m3u4u)" tvg-name="Brazzers TV" channelId="518" name="Brazzers TV" group="Lista 26" logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/braz.png", Brazzers TV
+#EXTINF:0 type="stream" channelId="518" name="Brazzers TV" group="Lista 26" logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/braz.png", Brazzers TV
 http://208.88.246.11:3473/493BRAZZ/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:0 type="stream" channelId="3638" name="TEN" group="Lista 26" logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ten.png", TEN
 http://208.88.246.11:3473/494TEN/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
