@@ -127,7 +127,8 @@ http://45.166.92.22:58001/play/a041/index.m3u8
 http://160.20.165.245:8000/play/a00f/index.m3u8
 #EXTINF:0 type="stream" channelId="3640", A3 SERIES 
 http://45.228.232.204:16000/play/a038/index.m3u8
-
+#EXTINF:-1 tvg-id="Atrescine.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/512px-Atrescine_logo.svg.png" group-title="Movies",A3Cine (1080p)
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.universalplus.com/files/channels/172050409.png" audio-track="spa, lat" tvg-country="MX", Universal Comedy SD 
@@ -195,8 +196,6 @@ http://190.27.253.211:8000/play/a072/index.m3u8
 http://45.228.232.204:16000/play/a05b/index.m3u8
 
 
-#EXTINF:0 type="stream" channelId="-1" group="Lista 9" logo="https://archive.org/download/Dongatoysupandilla_live24hrs/IMG_20220814_225413.png", Don Gato y su pandilla 24hrs 
-https://m3ukodi.com/developer/telelatinohds/telelatinohd.php?71#&f=.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Lista 9" logo="https://w0.peakpx.com/wallpaper/970/591/HD-wallpaper-thundercats-logo.jpg", Los Thundercats
 http://bgtv.site/play/megaprooo-408.php?c=275&tokeen=jhfjhfg&f=.m3u8|user-agent=tuplayer
 #EXTINF:0 type="stream" channelId="-1" group="Lista 9" logo="https://tendencybook.com/wp-content/uploads/2020/04/Pinky-y-Cerebro.jpg", Pinky y Cerebro
@@ -211,6 +210,18 @@ http://bgtv.site/play/megaprooo-408.php?c=259&tokeen=jhfjhfg&f=.m3u8|user-agent=
 http://bgtv.site/play/megaprooo-408.php?c=262&tokeen=jhfjhfg&f=.m3u8|user-agent=tuplayer
 #EXTINF:0 type="stream" channelId="-1" group="Lista 9" logo="https://i.pinimg.com/550x/fd/22/b4/fd22b489f86fa249bf28e51bd146d244.jpg", Pantera Rosa 80s
 http://bgtv.site/play/megaprooo-408.php?c=245&tokeen=jhfjhfg&f=.m3u8|user-agent=tuplayer
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 9", Los picapiedras
+http://bgtv.site/play/megaprooo-408.php?c=243&tokeen=kasjhfaasasblack&f=.m3u8|user-agent=tuplayer
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 9", Correcaminos
+http://bgtv.site/play/megaprooo-408.php?c=246&tokeen=kasjhfaasasblack&f=.m3u8|user-agent=tuplayer
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 9", Mazinger Z
+http://bgtv.site/play/megaprooo-408.php?c=271&tokeen=kasjhfaasasblack&f=.m3u8|user-agent=tuplayer
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 9", Dinosaurios
+http://bgtv.site/play/megaprooo-408.php?c=285&tokeen=kasjhfaasasblack&f=.m3u8|user-agent=tuplayer
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 9", Años Maravillosos
+http://bgtv.site/play/megaprooo-408.php?c=287&tokeen=kasjhfaasasblack&f=.m3u8|user-agent=tuplayer
+
+
 
 #EXTINF:0 type="stream" channelId="-1" group="Lista 35 (Stirr)" logo="https://i.imgur.com/xGkDbcR.png", WOW
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
@@ -227,7 +238,8 @@ https://stmv2.zcasthn.com.br/supertv/supertv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png", RETRO TV 
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w781716611.m3u8
-
+#EXTINF:0 type="stream" channelId="-1" logo="https://archive.org/download/Dongatoysupandilla_live24hrs/IMG_20220814_225413.png", Don Gato y su pandilla 24hrs 
+https://m3ukodi.com/developer/telelatinohds/telelatinohd.php?71#&f=.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="PLUTO" logo="https://www.eluniversal.com.mx/sites/default/files/2016/03/11/investigan_cesar_millan.jpg", EL ENCANTADOR DE PERROS 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -358,7 +370,5 @@ http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Lista 34 (Chile)" logo="https://i2.paste.pics/02c63dfaaf621ab897fbddd3e4666a33.png", Rewind Radio y TV | CL
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
-
-
 
 
