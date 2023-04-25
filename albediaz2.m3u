@@ -1,6 +1,32 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/albediaz/misfavs/main/EPG-Guide-20230425021150.xml, http://m3u4u.com/epg/68m7n4g81rb4z24gy1ge"
 
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alf" tvg-logo="https://es.digitaltrends.com/wp-content/uploads/2022/02/180-alf.jpg?p=1" group-title="24/7" tvg-shift="+2",Alf
+http://bgtv.site/play/megaprooo-408.php?c=254&tokeen=jhfjhfg&f=.m3u8|user-agent=tuplayer
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Años Maravillosos" tvg-logo="https://ih1.redbubble.net/image.2131767850.4358/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7" tvg-shift="+2",Años Maravillosos
+http://bgtv.site/play/megaprooo-408.php?c=287&tokeen=kasjhfaasasblack&f=.m3u8|user-agent=tuplayer
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Correcaminos" tvg-logo="https://www.elparquedelosdibujos.com/dibujos-animados/series-dibujos-animados/series-dibujos-animados-img/dibujos-animados-el-coyote-y-correcaminos.webp" group-title="24/7" tvg-shift="+2",Correcaminos
+http://bgtv.site/play/megaprooo-408.php?c=246&tokeen=kasjhfaasasblack&f=.m3u8|user-agent=tuplayer
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dinosaurios" tvg-logo="https://static.wikia.nocookie.net/disney/images/4/4c/Dinosaurs_logo.png/revision/latest?cb=20121211183108&path-prefix=es" group-title="24/7" tvg-shift="+2",Dinosaurios
+http://bgtv.site/play/megaprooo-408.php?c=285&tokeen=kasjhfaasasblack&f=.m3u8|user-agent=tuplayer
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Game Of Throne" tvg-logo="https://www.skinillustrator.com/wp-content/uploads/2018/09/got-logo.jpg" group-title="24/7" tvg-shift="+2",Game Of Throne
+http://bgtv.site/play/megaprooo-408.php?c=279&tokeen=jhfjhfg&f=.m3u8|user-agent=tuplayer
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los picapiedras" tvg-logo="https://www.puzzlesjunior.com/imatjes/logo-de-los-picapiedra_4cb81d0ac502f-p.jpg" group-title="24/7" tvg-shift="+2",Los picapiedras
+http://bgtv.site/play/megaprooo-408.php?c=243&tokeen=kasjhfaasasblack&f=.m3u8|user-agent=tuplayer
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Thundercats" tvg-logo="https://w0.peakpx.com/wallpaper/970/591/HD-wallpaper-thundercats-logo.jpg" group-title="24/7" tvg-shift="+2",Los Thundercats
+http://bgtv.site/play/megaprooo-408.php?c=275&tokeen=jhfjhfg&f=.m3u8|user-agent=tuplayer
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mazinger Z" tvg-logo="https://comicparatodos.files.wordpress.com/2021/10/mazinger-z.jpg" group-title="24/7" tvg-shift="+2",Mazinger Z
+http://bgtv.site/play/megaprooo-408.php?c=271&tokeen=kasjhfaasasblack&f=.m3u8|user-agent=tuplayer
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pantera Rosa 80s" tvg-logo="https://i.pinimg.com/550x/fd/22/b4/fd22b489f86fa249bf28e51bd146d244.jpg" group-title="24/7" tvg-shift="+2",Pantera Rosa 80s
+http://bgtv.site/play/megaprooo-408.php?c=245&tokeen=jhfjhfg&f=.m3u8|user-agent=tuplayer
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pinky y Cerebro" tvg-logo="https://tendencybook.com/wp-content/uploads/2020/04/Pinky-y-Cerebro.jpg" group-title="24/7" tvg-shift="+2",Pinky y Cerebro
+http://bgtv.site/play/megaprooo-408.php?c=267&tokeen=jhfjhfg&f=.m3u8|user-agent=tuplayer
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Smallville" tvg-logo="https://tvazteca.brightspotcdn.com/a0/b4/e80b39084c7a992c48b3f42e67dd/smallville-azteca-7.jpg" group-title="24/7" tvg-shift="+2",Smallville
+http://bgtv.site/play/megaprooo-408.php?c=262&tokeen=jhfjhfg&f=.m3u8|user-agent=tuplayer
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="strangerthings" tvg-logo="https://creativekatarsis.com/wp-content/uploads/2017/10/ST1.jpg" group-title="24/7" tvg-shift="+2",strangerthings
+http://bgtv.site/play/megaprooo-408.php?c=259&tokeen=jhfjhfg&f=.m3u8|user-agent=tuplayer
+#EXTINF:-1 tvg-id="Atrescine.mx" tvg-name="A3Cine (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/512px-Atrescine_logo.svg.png" group-title="todos" tvg-shift="+2",A3Cine (1080p)
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 #EXTINF:-1 tvg-id="Playboy.mx" tvg-name="Playboy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54335_dark_360w_270h.png" group-title="todos" tvg-shift="-6",Playboy
 http://190.149.66.90:16000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="Venus.mx" tvg-name="Venus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16498_dark_360w_270h.png" group-title="todos" tvg-shift="-6",Venus
@@ -139,8 +165,6 @@ http://45.166.92.22:58001/play/a041/index.m3u8
 http://160.20.165.245:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="Atreseries.mx" tvg-name="A3 SERIES" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/60/629344.png" group-title="todos" tvg-shift="+2",A3 SERIES
 http://45.228.232.204:16000/play/a038/index.m3u8
-#EXTINF:-1 tvg-id="Atrescine.mx" tvg-name="A3Cine (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/512px-Atrescine_logo.svg.png" group-title="Movies" tvg-shift="+2",A3Cine (1080p)
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 #EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy" tvg-logo="https://www.universalplus.com/files/channels/172050409.png" group-title="todos" tvg-shift="+2",Universal Comedy
 http://170.83.242.9:5350/play/a0kq
 #EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://www.universalplus.com/files/channels/172050409.png" group-title="todos" tvg-shift="+2",UNIVERSAL COMEDY
@@ -197,30 +221,6 @@ http://170.83.242.152:5350/play/a02z
 http://190.27.253.211:8000/play/a072/index.m3u8
 #EXTINF:-1 tvg-id="History2.mx" tvg-name="H2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVtxuhNm0QH7bm67ITNPenco1Fa5X0nbOnbtRU9iKix2mNgIahbriGchq5CDn-mH3MhDQ&usqp=CAU" group-title="todos" tvg-shift="+2",H2
 http://45.228.232.204:16000/play/a05b/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Thundercats" tvg-logo="https://w0.peakpx.com/wallpaper/970/591/HD-wallpaper-thundercats-logo.jpg" group-title="todos" tvg-shift="+2",Los Thundercats
-http://bgtv.site/play/megaprooo-408.php?c=275&tokeen=jhfjhfg&f=.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pinky y Cerebro" tvg-logo="https://tendencybook.com/wp-content/uploads/2020/04/Pinky-y-Cerebro.jpg" group-title="todos" tvg-shift="+2",Pinky y Cerebro
-http://bgtv.site/play/megaprooo-408.php?c=267&tokeen=jhfjhfg&f=.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Game Of Throne" tvg-logo="https://www.skinillustrator.com/wp-content/uploads/2018/09/got-logo.jpg" group-title="todos" tvg-shift="+2",Game Of Throne
-http://bgtv.site/play/megaprooo-408.php?c=279&tokeen=jhfjhfg&f=.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alf" tvg-logo="https://es.digitaltrends.com/wp-content/uploads/2022/02/180-alf.jpg?p=1" group-title="todos" tvg-shift="+2",Alf
-http://bgtv.site/play/megaprooo-408.php?c=254&tokeen=jhfjhfg&f=.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="strangerthings" tvg-logo="https://creativekatarsis.com/wp-content/uploads/2017/10/ST1.jpg" group-title="todos" tvg-shift="+2",strangerthings
-http://bgtv.site/play/megaprooo-408.php?c=259&tokeen=jhfjhfg&f=.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Smallville" tvg-logo="https://tvazteca.brightspotcdn.com/a0/b4/e80b39084c7a992c48b3f42e67dd/smallville-azteca-7.jpg" group-title="todos" tvg-shift="+2",Smallville
-http://bgtv.site/play/megaprooo-408.php?c=262&tokeen=jhfjhfg&f=.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pantera Rosa 80s" tvg-logo="https://i.pinimg.com/550x/fd/22/b4/fd22b489f86fa249bf28e51bd146d244.jpg" group-title="todos" tvg-shift="+2",Pantera Rosa 80s
-http://bgtv.site/play/megaprooo-408.php?c=245&tokeen=jhfjhfg&f=.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los picapiedras" tvg-logo="https://www.puzzlesjunior.com/imatjes/logo-de-los-picapiedra_4cb81d0ac502f-p.jpg" group-title="todos" tvg-shift="+2",Los picapiedras
-http://bgtv.site/play/megaprooo-408.php?c=243&tokeen=kasjhfaasasblack&f=.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Correcaminos" tvg-logo="https://www.elparquedelosdibujos.com/dibujos-animados/series-dibujos-animados/series-dibujos-animados-img/dibujos-animados-el-coyote-y-correcaminos.webp" group-title="todos" tvg-shift="+2",Correcaminos
-http://bgtv.site/play/megaprooo-408.php?c=246&tokeen=kasjhfaasasblack&f=.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mazinger Z" tvg-logo="https://comicparatodos.files.wordpress.com/2021/10/mazinger-z.jpg" group-title="todos" tvg-shift="+2",Mazinger Z
-http://bgtv.site/play/megaprooo-408.php?c=271&tokeen=kasjhfaasasblack&f=.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dinosaurios" tvg-logo="https://static.wikia.nocookie.net/disney/images/4/4c/Dinosaurs_logo.png/revision/latest?cb=20121211183108&path-prefix=es" group-title="todos" tvg-shift="+2",Dinosaurios
-http://bgtv.site/play/megaprooo-408.php?c=285&tokeen=kasjhfaasasblack&f=.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Años Maravillosos" tvg-logo="https://ih1.redbubble.net/image.2131767850.4358/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="todos" tvg-shift="+2",Años Maravillosos
-http://bgtv.site/play/megaprooo-408.php?c=287&tokeen=kasjhfaasasblack&f=.m3u8|user-agent=tuplayer
 #EXTINF:-1 tvg-id="WOWDirectResponseTv.us" tvg-name="WOW tv" tvg-logo="https://i.imgur.com/xGkDbcR.png" group-title="todos" tvg-shift="+2",WOW tv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Visión Dorada | CO" tvg-logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg" group-title="todos" tvg-shift="+2",Canal Visión Dorada | CO
@@ -365,4 +365,3 @@ dtv://antenna:11/atsc/6/1
 dtv://antenna:24/atsc/7/1
 #EXTINF:-1 tvg-id="XHIMT(Azteca7).mx" tvg-name="XHIMT" tvg-logo="" group-title="todos" tvg-shift="+2",XHIMT
 dtv://antenna:24/atsc/7/2
-
