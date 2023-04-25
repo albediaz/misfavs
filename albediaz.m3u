@@ -35,7 +35,7 @@ http://208.88.246.11:3473/488Venus/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@
 
 
 
-#EXTINF:0 type="stream" channelId="1330",  HBO 
+#EXTINF:0 tvg-id="HBO.br" tvg-name="HBO" type="stream" channelId="1330",  HBO 
 http://170.83.242.9:5350/play/a001
 #EXTINF:0 type="stream" channelId="1330", HBO HD 
 http://190.131.228.59:8000/play/a0rp/index.m3u8
