@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/68m7n4g81rb4z24gy1ge"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/albediaz/misfavs/main/EPG-Guide-20230425021150.xml"
 #EXTINF:-1 tvg-id="Playboy.mx(m3u4u)" tvg-name="Playboy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54335_dark_360w_270h.png" group-title="todos" tvg-shift="-6",Playboy
 http://190.149.66.90:16000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="Venus.mx(m3u4u)" tvg-name="Venus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16498_dark_360w_270h.png" group-title="todos" tvg-shift="-6",Venus
