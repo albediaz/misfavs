@@ -129,9 +129,9 @@ http://170.83.242.9:5350/play/a0kq
 #EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="UNIVERSAL COMEDY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png" group-title="todos",UNIVERSAL COMEDY
 http://191.97.55.241:8000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="STAR CHANNEL 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="todos",STAR CHANNEL 2
-http://190.149.66.90:16000/play/a03e/index.m3u8
+http://170.83.242.152:5350/play/a037
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="STAR CHANNEL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="todos",STAR CHANNEL HD
-http://45.166.92.22:58001/play/a00u/index.m3u8
+http://131.196.194.2:8000/play/a0ey/index.m3u8
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="STAR CHANNEL 2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="todos",STAR CHANNEL 2 HD
 http://190.61.102.67:8000/play/a06m
 #EXTINF:-1 tvg-id="StarChannel.do" tvg-name="STAR CHANNEL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="todos",STAR CHANNEL HD
