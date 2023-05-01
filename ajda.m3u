@@ -26,6 +26,22 @@ http://170.83.242.152:5350/play/a02p
 http://181.189.243.254:8000/play/a0ot/index.m3u8
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="todos" tvg-shift="-7",AMC
 http://190.27.253.211:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetaTV Movies | CL" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="todos",PlanetaTV Movies | CL
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orbit TV | DO" tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png" group-title="todos",Orbit TV | DO
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super TV | CL" tvg-logo="https://i.paste.pics/61260e061568a10afcb0dcdf499311a8.png" group-title="todos",Super TV | CL
+https://stmv2.zcasthn.com.br/supertv/supertv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png" group-title="todos",RETRO TV
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w781716611.m3u8
+#EXTINF:-1 tvg-id="WOWDirectResponseTv.us" tvg-name="WOW tv" tvg-logo="https://i.imgur.com/xGkDbcR.png" group-title="todos",WOW tv
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Visión Dorada | CO" tvg-logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg" group-title="todos",Canal Visión Dorada | CO
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
+
+
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINECANAL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="todos",CINECANAL HD
 http://190.149.66.90:16000/play/a03h/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINECANAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="todos",CINECANAL
@@ -187,18 +203,8 @@ http://170.83.242.12:5350/play/a00p
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos",DISCOVERY CHANNEL
 http://45.166.92.22:58001/play/a01n/index.m3u8
 
-#EXTINF:-1 tvg-id="WOWDirectResponseTv.us" tvg-name="WOW tv" tvg-logo="https://i.imgur.com/xGkDbcR.png" group-title="todos",WOW tv
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Visión Dorada | CO" tvg-logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg" group-title="todos",Canal Visión Dorada | CO
-https://movil.ejeserver.com/live/visiondorada.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetaTV Movies | CL" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="todos",PlanetaTV Movies | CL
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orbit TV | DO" tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png" group-title="todos",Orbit TV | DO
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super TV | CL" tvg-logo="https://i.paste.pics/61260e061568a10afcb0dcdf499311a8.png" group-title="todos",Super TV | CL
-https://stmv2.zcasthn.com.br/supertv/supertv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png" group-title="todos",RETRO TV
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w781716611.m3u8
+
+
 
 
 
