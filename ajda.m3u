@@ -150,11 +150,11 @@ http://191.97.55.241:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="todos",Space
 http://190.108.93.148:8000/play/a085/index.m3u8
 #EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SyFy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56727_dark_360w_270h.png" group-title="todos",SyFy
-http://190.149.66.90:16000/play/a035/index.m3u8
+http://181.189.243.254:8000/play/a0s9/index.m3u8
 #EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SyFy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56727_dark_360w_270h.png" group-title="todos",SyFy
-http://45.232.211.196:1080/play/a020
+http://181.78.24.187:8006/play/a0c0/index.m3u8
 #EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SyFy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56727_dark_360w_270h.png" group-title="todos",SyFy
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://177.234.230.226:8010/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="Eurochannel.mx" tvg-name="EURO Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16574_dark_360w_270h.png" group-title="todos",EURO Channel
 http://190.61.102.67:8000/play/a020
 #EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-name="Estrella TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65064_dark_360w_270h.png" group-title="todos",Estrella TV
