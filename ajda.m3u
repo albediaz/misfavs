@@ -70,15 +70,15 @@ http://190.61.102.67:8000/play/a04w
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105689_dark_360w_270h.png" group-title="todos",FX
 http://190.131.228.59:8000/play/a04k/index.m3u8
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105689_dark_360w_270h.png" group-title="todos",FX
-http://190.149.66.90:16000/play/a01o/index.m3u8
+http://45.166.92.22:58001/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="FX HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105689_dark_360w_270h.png" group-title="todos",FX HD
-http://190.131.247.82:8000/play/a0dy
+http://181.78.24.187:8006/play/a06g/index.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="Paramount" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106214_dark_360w_270h.png" group-title="todos",Paramount
 http://181.78.1.217:8146/play/a0dl/index.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="PARAMOUNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106214_dark_360w_270h.png" group-title="todos",PARAMOUNT
 http://190.61.102.67:31589/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75073_dark_360w_270h.png" group-title="todos",TBS
-http://190.149.66.90:16000/play/a00y/index.m3u8
+http://170.83.242.13:5350/play/a01a
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="todos",TNT Series HD
 http://181.189.243.254:8000/play/a0ta/index.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="todos",TNT HD
