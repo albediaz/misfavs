@@ -56,6 +56,22 @@ http://170.83.242.152:5350/play/a02p
 http://181.189.243.254:8000/play/a0ot/index.m3u8
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="todos" tvg-shift="-7",AMC
 http://190.27.253.211:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetaTV Movies | CL" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="todos",PlanetaTV Movies | CL
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orbit TV | DO" tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png" group-title="todos",Orbit TV | DO
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super TV | CL" tvg-logo="https://i.paste.pics/61260e061568a10afcb0dcdf499311a8.png" group-title="todos",Super TV | CL
+https://stmv2.zcasthn.com.br/supertv/supertv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png" group-title="todos",RETRO TV
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w781716611.m3u8
+#EXTINF:-1 tvg-id="WOWDirectResponseTv.us" tvg-name="WOW tv" tvg-logo="https://i.imgur.com/xGkDbcR.png" group-title="todos",WOW tv
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Visión Dorada | CO" tvg-logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg" group-title="todos",Canal Visión Dorada | CO
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
+
+
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINECANAL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="todos",CINECANAL HD
 http://190.149.66.90:16000/play/a03h/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINECANAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="todos",CINECANAL
@@ -100,21 +116,21 @@ http://190.61.102.67:8000/play/a04w
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105689_dark_360w_270h.png" group-title="todos",FX
 http://190.131.228.59:8000/play/a04k/index.m3u8
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105689_dark_360w_270h.png" group-title="todos",FX
-http://190.149.66.90:16000/play/a01o/index.m3u8
+http://45.166.92.22:58001/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="FX HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105689_dark_360w_270h.png" group-title="todos",FX HD
-http://190.131.247.82:8000/play/a0dy
+http://181.78.24.187:8006/play/a06g/index.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="Paramount" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106214_dark_360w_270h.png" group-title="todos",Paramount
 http://181.78.1.217:8146/play/a0dl/index.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="PARAMOUNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106214_dark_360w_270h.png" group-title="todos",PARAMOUNT
 http://190.61.102.67:31589/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75073_dark_360w_270h.png" group-title="todos",TBS
-http://190.149.66.90:16000/play/a00y/index.m3u8
+http://170.83.242.13:5350/play/a01a
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="todos",TNT Series HD
-http://190.131.247.82:8000/play/a0dx
+http://181.189.243.254:8000/play/a0ta/index.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="todos",TNT HD
-http://190.149.66.90:16000/play/a03m/index.m3u8
+http://181.189.243.254:8000/play/a0sq/index.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="todos",TNT
-http://181.129.186.36:8089/play/a03v/index.m3u8
+http://181.189.243.254:8000/play/a0pq/index.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="todos",TNT HD
 http://190.108.93.148:8000/play/a0l6/index.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.co" tvg-name="WARNER CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="todos",WARNER CHANNEL
@@ -129,7 +145,7 @@ http://190.131.228.59:8000/play/a040/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal tv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53218_dark_360w_270h.png" group-title="todos",Universal tv
 http://45.228.232.204:16000/play/a078/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="todos",Studio Universal
-http://190.149.66.90:16000/play/a04m/index.m3u8
+http://181.78.1.217:8146/play/a0d4/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="todos",Studio Universal HD
 http://45.166.92.22:58001/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="Universal Premiere SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121866_dark_360w_270h.png" group-title="todos",Universal Premiere SD
@@ -159,9 +175,9 @@ http://170.83.242.9:5350/play/a0kq
 #EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="UNIVERSAL COMEDY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png" group-title="todos",UNIVERSAL COMEDY
 http://191.97.55.241:8000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="STAR CHANNEL 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="todos",STAR CHANNEL 2
-http://190.149.66.90:16000/play/a03e/index.m3u8
+http://170.83.242.152:5350/play/a037
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="STAR CHANNEL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="todos",STAR CHANNEL HD
-http://45.166.92.22:58001/play/a00u/index.m3u8
+http://131.196.194.2:8000/play/a0ey/index.m3u8
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="STAR CHANNEL 2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="todos",STAR CHANNEL 2 HD
 http://190.61.102.67:8000/play/a06m
 #EXTINF:-1 tvg-id="StarChannel.do" tvg-name="STAR CHANNEL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="todos",STAR CHANNEL HD
@@ -169,7 +185,7 @@ http://191.97.55.241:8000/play/a06v/index.m3u8
 #EXTINF:-1 tvg-id="StarTVE.mx" tvg-name="STAR TVE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106724_dark_360w_270h.png" group-title="todos",STAR TVE
 http://190.61.102.67:8000/play/a04z
 #EXTINF:-1 tvg-id="StarTVE.mx" tvg-name="Star TVE HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106724_dark_360w_270h.png" group-title="todos",Star TVE HD
-http://190.149.66.90:16000/play/a01t/index.m3u8
+http://181.189.243.254:8000/play/a0qf/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Clover HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXHWhljNSS32rolwDdiINS3leQTSwALGt8dQr4P=s900-c-k-c0x00ffffff-no-rj" group-title="todos",Clover HD
 http://160.20.165.246:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CLOVER" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXHWhljNSS32rolwDdiINS3leQTSwALGt8dQr4P=s900-c-k-c0x00ffffff-no-rj" group-title="todos",CLOVER
@@ -180,11 +196,11 @@ http://191.97.55.241:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="todos",Space
 http://190.108.93.148:8000/play/a085/index.m3u8
 #EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SyFy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56727_dark_360w_270h.png" group-title="todos",SyFy
-http://190.149.66.90:16000/play/a035/index.m3u8
+http://181.189.243.254:8000/play/a0s9/index.m3u8
 #EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SyFy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56727_dark_360w_270h.png" group-title="todos",SyFy
-http://45.232.211.196:1080/play/a020
+http://181.78.24.187:8006/play/a0c0/index.m3u8
 #EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SyFy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56727_dark_360w_270h.png" group-title="todos",SyFy
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://177.234.230.226:8010/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="Eurochannel.mx" tvg-name="EURO Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16574_dark_360w_270h.png" group-title="todos",EURO Channel
 http://190.61.102.67:8000/play/a020
 #EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-name="Estrella TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65064_dark_360w_270h.png" group-title="todos",Estrella TV
@@ -217,18 +233,8 @@ http://170.83.242.12:5350/play/a00p
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos",DISCOVERY CHANNEL
 http://45.166.92.22:58001/play/a01n/index.m3u8
 
-#EXTINF:-1 tvg-id="WOWDirectResponseTv.us" tvg-name="WOW tv" tvg-logo="https://i.imgur.com/xGkDbcR.png" group-title="todos",WOW tv
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Visión Dorada | CO" tvg-logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg" group-title="todos",Canal Visión Dorada | CO
-https://movil.ejeserver.com/live/visiondorada.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetaTV Movies | CL" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="todos",PlanetaTV Movies | CL
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orbit TV | DO" tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png" group-title="todos",Orbit TV | DO
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super TV | CL" tvg-logo="https://i.paste.pics/61260e061568a10afcb0dcdf499311a8.png" group-title="todos",Super TV | CL
-https://stmv2.zcasthn.com.br/supertv/supertv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png" group-title="todos",RETRO TV
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w781716611.m3u8
+
+
 
 
 
@@ -240,7 +246,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5a
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Alf" tvg-logo="https://es.digitaltrends.com/wp-content/uploads/2022/02/180-alf.jpg?p=1" group-title="24/7",Alf
 http://bgtv.site/play/megaprooo-499.php?c=254&tokeen=Jdjddhdj&f=.m3u8|user-agent=tuplayer
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALF 2" tvg-logo="" group-title="24/7",ALF 2
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/254.m3u8
+https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Años Maravillosos" tvg-logo="https://ih1.redbubble.net/image.2131767850.4358/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7",Años Maravillosos
 http://bgtv.site/play/megaprooo-499.php?c=287&tokeen=Jdjddhdj&f=.m3u8|user-agent=tuplayer
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Correcaminos" tvg-logo="https://www.elparquedelosdibujos.com/dibujos-animados/series-dibujos-animados/series-dibujos-animados-img/dibujos-animados-el-coyote-y-correcaminos.webp" group-title="24/7",Correcaminos
@@ -381,7 +387,6 @@ http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rewind Radio y TV | CL" tvg-logo="https://i2.paste.pics/02c63dfaaf621ab897fbddd3e4666a33.png" group-title="todos",Rewind Radio y TV | CL
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XEW" tvg-logo="" group-title="todos",XEW
