@@ -33,7 +33,6 @@ http://208.88.246.11:3473/488Venus/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@
 
 
 
-
 #EXTINF:-1 tvg-id="HBO.cl" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos",HBO
 http://170.83.242.9:5350/play/a001
 #EXTINF:-1 tvg-id="HBO.co" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos",HBO HD
@@ -69,7 +68,10 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Visión Dorada | CO" tvg-logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg" group-title="todos",Canal Visión Dorada | CO
 https://movil.ejeserver.com/live/visiondorada.m3u8
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Luna TV | DO" tvg-logo="https://lh3.googleusercontent.com/-gNwkGNBw7kQ/XzgR58ws75I/AAAAAAAA4Ro/RDsdgWvXHrE7Ow_6xDAjXEupxv0X5eIiQCK8BGAsYHg/s0/2020-08-15.png" group-title="todos",Luna TV | DO
+https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Megavision | DO" tvg-logo="https://lh3.googleusercontent.com/-jxMdnwq3fxw/XzgSNxgvHSI/AAAAAAAA4Rw/eev6AGnJag8MDN1kt76lQwfraDPAIsnDACK8BGAsYHg/s0/2020-08-15.png" group-title="todos",Megavision | DO
+http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u8
 
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINECANAL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="todos",CINECANAL HD
@@ -89,8 +91,18 @@ http://45.166.92.22:58001/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV TCS+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TCS_35_2017.png" group-title="todos",VTV TCS+
 http://45.228.232.204:16000/play/a055/index.m3u8
 
+
+#EXTINF:-1 tvg-id="PlanetaJuniorTVSpain.es" tvg-logo="https://i.imgur.com/EaYYKb7.png" group-title="todos",Planeta Junior TV
+https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="todos",Planeta TV
+https://live.obslivestream.com/planetatv/index.m3u8
+#EXTINF:-1 tvg-id="PlanetaTV90s.cl" tvg-logo="https://i.imgur.com/rtZTw3F.png" group-title="todos",PlanetaTV 90s (720p)
+https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="Golden.do" tvg-name="Golden" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="todos",Golden
-http://190.149.66.90:16000/play/a02l/index.m3u8
+http://181.78.24.187:8006/play/a06l/index.m3u8
 #EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden EDGE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png" group-title="todos",Golden EDGE
 http://181.78.8.90:16123/play/ch47
 #EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="Golden Premier" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="todos",Golden Premier
@@ -205,6 +217,10 @@ http://177.234.230.226:8010/play/a01u/index.m3u8
 http://190.61.102.67:8000/play/a020
 #EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-name="Estrella TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65064_dark_360w_270h.png" group-title="todos",Estrella TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalClaro.co" tvg-name="Canal Claro" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79664_dark_360w_270h.png" group-title="todos",Canal Claro
+http://190.149.66.90:16000/play/a00j/index.m3u8
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE FAMILIAR" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png" group-title="todos",CINE FAMILIAR
 http://177.234.230.226:8010/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="todos",History Channel
@@ -227,9 +243,9 @@ http://45.228.232.204:16000/play/a072/index.m3u8
 http://170.83.242.152:5350/play/a01c
 
 #EXTINF:-1 tvg-id="LoveNature(English).co" tvg-name="Love Nature" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/06/Love-Nature-1.png" group-title="todos",Love Nature
-http://177.234.230.226:8010/play/a03o/index.m3u8
+http://181.78.8.90:16123/play/ch50
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group-title="todos",Animal Planet
-http://170.83.242.12:5350/play/a00p
+http://190.27.253.211:8000/play/a07h/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos",DISCOVERY CHANNEL
 http://45.166.92.22:58001/play/a01n/index.m3u8
 
@@ -244,31 +260,31 @@ https://m3ukodi.com/developer/telelatinohds/telelatinohd.php?71#&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL ENCANTADOR DE PERROS" tvg-logo="https://www.formulatv.com/images/programas/posters/300/322/dest_3.jpg" group-title="24/7",EL ENCANTADOR DE PERROS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Alf" tvg-logo="https://es.digitaltrends.com/wp-content/uploads/2022/02/180-alf.jpg?p=1" group-title="24/7",Alf
-http://bgtv.site/play/megaprooo-499.php?c=254&tokeen=Jdjddhdj&f=.m3u8|user-agent=tuplayer
+http://bgtv.site/play/megaprooo-500.php?c=254&tokeen=uhuhuhuhudfhuh&f=.m3u8|user-agent=tuplayer
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALF 2" tvg-logo="" group-title="24/7",ALF 2
 https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Años Maravillosos" tvg-logo="https://ih1.redbubble.net/image.2131767850.4358/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7",Años Maravillosos
-http://bgtv.site/play/megaprooo-499.php?c=287&tokeen=Jdjddhdj&f=.m3u8|user-agent=tuplayer
+http://bgtv.site/play/megaprooo-500.php?c=287&tokeen=uhuhuhuhudfhuh&f=.m3u8|user-agent=tuplayer
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Correcaminos" tvg-logo="https://www.elparquedelosdibujos.com/dibujos-animados/series-dibujos-animados/series-dibujos-animados-img/dibujos-animados-el-coyote-y-correcaminos.webp" group-title="24/7",Correcaminos
-http://bgtv.site/play/megaprooo-499.php?c=246&tokeen=Jdjddhdj&f=.m3u8|user-agent=tuplayer
+http://bgtv.site/play/megaprooo-500.php?c=246&tokeen=uhuhuhuhudfhuh&f=.m3u8|user-agent=tuplayer
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dinosaurios" tvg-logo="https://static.wikia.nocookie.net/disney/images/4/4c/Dinosaurs_logo.png/revision/latest?cb=20121211183108&path-prefix=es" group-title="24/7",Dinosaurios
-http://bgtv.site/play/megaprooo-499.php?c=285&tokeen=Jdjddhdj&f=.m3u8|user-agent=tuplayer
+http://bgtv.site/play/megaprooo-500.php?c=285&tokeen=uhuhuhuhudfhuh&f=.m3u8|user-agent=tuplayer
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Game Of Thrones" tvg-logo="https://www.skinillustrator.com/wp-content/uploads/2018/09/got-logo.jpg" group-title="24/7",Game Of Thrones
-http://bgtv.site/play/megaprooo-499.php?c=279&tokeen=Jdjddhdj&f=.m3u8|user-agent=tuplayer
+http://bgtv.site/play/megaprooo-500.php?c=279&tokeen=uhuhuhuhudfhuh&f=.m3u8|user-agent=tuplayer
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los picapiedra" tvg-logo="https://www.puzzlesjunior.com/imatjes/logo-de-los-picapiedra_4cb81d0ac502f-p.jpg" group-title="24/7",Los picapiedra
-http://bgtv.site/play/megaprooo-499.php?c=243&tokeen=Jdjddhdj&f=.m3u8|user-agent=tuplayer
+http://bgtv.site/play/megaprooo-500.php?c=243&tokeen=uhuhuhuhudfhuh&f=.m3u8|user-agent=tuplayer
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Thundercats" tvg-logo="https://w0.peakpx.com/wallpaper/970/591/HD-wallpaper-thundercats-logo.jpg" group-title="24/7",Los Thundercats
-http://bgtv.site/play/megaprooo-499.php?c=275&tokeen=Jdjddhdj&f=.m3u8|user-agent=tuplayer
+http://bgtv.site/play/megaprooo-500.php?c=275&tokeen=uhuhuhuhudfhuh&f=.m3u8|user-agent=tuplayer
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mazinger Z" tvg-logo="https://comicparatodos.files.wordpress.com/2021/10/mazinger-z.jpg" group-title="24/7",Mazinger Z
-http://bgtv.site/play/megaprooo-499.php?c=271&tokeen=Jdjddhdj&f=.m3u8|user-agent=tuplayer
+http://bgtv.site/play/megaprooo-500.php?c=271&tokeen=uhuhuhuhudfhuh&f=.m3u8|user-agent=tuplayer
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pantera Rosa 80s" tvg-logo="https://i.pinimg.com/550x/fd/22/b4/fd22b489f86fa249bf28e51bd146d244.jpg" group-title="24/7",Pantera Rosa 80s
-http://bgtv.site/play/megaprooo-499.php?c=245&tokeen=Jdjddhdj&f=.m3u8|user-agent=tuplayer
+http://bgtv.site/play/megaprooo-500.php?c=245&tokeen=uhuhuhuhudfhuh&f=.m3u8|user-agent=tuplayer
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pinky y Cerebro" tvg-logo="https://tendencybook.com/wp-content/uploads/2020/04/Pinky-y-Cerebro.jpg" group-title="24/7",Pinky y Cerebro
-http://bgtv.site/play/megaprooo-499.php?c=267&tokeen=Jdjddhdj&f=.m3u8|user-agent=tuplayer
+http://bgtv.site/play/megaprooo-500.php?c=267&tokeen=uhuhuhuhudfhuh&f=.m3u8|user-agent=tuplayer
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Smallville" tvg-logo="https://tvazteca.brightspotcdn.com/a0/b4/e80b39084c7a992c48b3f42e67dd/smallville-azteca-7.jpg" group-title="24/7",Smallville
-http://bgtv.site/play/megaprooo-499.php?c=262&tokeen=Jdjddhdj&f=.m3u8|user-agent=tuplayer
+http://bgtv.site/play/megaprooo-500.php?c=262&tokeen=uhuhuhuhudfhuh&f=.m3u8|user-agent=tuplayer
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stranger things" tvg-logo="https://creativekatarsis.com/wp-content/uploads/2017/10/ST1.jpg" group-title="24/7",Stranger things
-http://bgtv.site/play/megaprooo-499.php?c=259&tokeen=Jdjddhdj&f=.m3u8|user-agent=tuplayer
+http://bgtv.site/play/megaprooo-500.php?c=259&tokeen=uhuhuhuhudfhuh&f=.m3u8|user-agent=tuplayer
 
 
 
@@ -295,32 +311,31 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO CARTOON PLUTO" tvg-logo="https://static.wikia.nocookie.net/nicthic/images/b/b0/Retro_Cartoons_Logo_2005-2015.png/revision/latest?cb=20171003231210" group-title="todos",RETRO CARTOON PLUTO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="todos",CARTOON NETWORK
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683.ts
+http://190.27.253.211:8000/play/a07b/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="todos",Cartoon Network
 http://170.83.242.12:5350/play/a03a
 #EXTINF:-1 tvg-id="Nickelodeon(English).mx" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="todos",Nickelodeon
 http://45.228.232.204:16000/play/a06y/index.m3u8
+
+
 #EXTINF:-1 tvg-id="SinLimites.co" tvg-name="Sin Limites" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111169_dark_360w_270h.png" group-title="todos",Sin Limites
 http://200.41.79.165:8000/play/a0j1/index.m3u8
-#EXTINF:-1 tvg-id="CanalClaro.co" tvg-name="Canal Claro" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79664_dark_360w_270h.png" group-title="todos",Canal Claro
-http://190.149.66.90:16000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Claro Musica" tvg-logo="https://www.sarbidemusic.com/wp-content/uploads/2016/12/Claro-m%C3%BAsica-300x131.jpg" group-title="todos",Claro Musica
 http://190.149.66.90:16000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telehit" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Telehit-logo.gif/revision/latest/scale-to-width-down/200?cb=20120102193439" group-title="todos",Telehit
-http://190.108.93.148:8000/play/a0mj/index.m3u8
+http://181.78.24.187:8006/play/a06m/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Exa TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/EXATV2009.jpg/revision/latest?cb=20230304224929&path-prefix=es" group-title="todos",Exa TV
 http://45.228.232.204:16000/play/a06j/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Concert Channel" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_8435_7_4901.png" group-title="todos",Concert Channel
 http://190.149.66.90:16000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Concert Channel" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_8435_7_4901.png" group-title="todos",Concert Channel
 http://190.61.102.67:8000/play/a06t
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Plus 1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/466deabbd42d619f75a9134701c3e39b.webp" group-title="todos",Retro Plus 1
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Plus 2" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/466deabbd42d619f75a9134701c3e39b.webp" group-title="todos",Retro Plus 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Plus Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/466deabbd42d619f75a9134701c3e39b.webp" group-title="todos",Retro Plus Tv
-http://200.60.7.43:8000/play/20/index.m3u8
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Everything 80s" tvg-logo="https://sm.pcmag.com/t/pcmag_me/review/s/stingray-m/stingray-music_vk3f.1200.jpg" group-title="todos",Stingray Everything 80s
 https://dai.google.com/linear/hls/event/XiPZx9vFS8i6lgkNnprjtQ/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Flashback 70s" tvg-logo="https://sm.pcmag.com/t/pcmag_me/review/s/stingray-m/stingray-music_vk3f.1200.jpg" group-title="todos",Stingray Flashback 70s
@@ -337,6 +352,8 @@ https://dai.google.com/linear/hls/event/M-6M5FGMRUegPLdsgkF7KA/master.m3u8
 https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Classica" tvg-logo="https://sm.pcmag.com/t/pcmag_me/review/s/stingray-m/stingray-music_vk3f.1200.jpg" group-title="todos",Classica
 https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
+
+
 #EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="Movistar Deportes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87010_dark_360w_270h.png" group-title="todos",Movistar Deportes
 http://191.97.55.241:8000/play/a07v/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Plus" tvg-logo="https://tmbroadcast.es/wp-content/uploads/2021/03/Logo-Movistar-plus.jpg" group-title="todos",Movistar Plus
@@ -361,6 +378,8 @@ http://190.61.102.67:31589/play/a08f/index.m3u8
 http://190.60.39.62:8000/play/a02g
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO LA" tvg-logo="https://www.grupoisos.com/wp-content/uploads/2022/05/Imagen-Telemundo-vale.jpg" group-title="todos",TELEMUNDO LA
 http://45.166.92.22:58001/play/a00r/index.m3u8
+
+
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="todos",TUDN
 http://190.61.102.67:31589/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="todos",Claro Sports
@@ -379,15 +398,16 @@ http://45.228.232.204:16000/play/a07r/index.m3u8
 http://177.234.230.226:8010/play/a03h/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" group-title="todos",Comedy Central
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c15-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd904709-6614-46f7-80bd-de128553e6f3&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Luna TV | DO" tvg-logo="https://lh3.googleusercontent.com/-gNwkGNBw7kQ/XzgR58ws75I/AAAAAAAA4Ro/RDsdgWvXHrE7Ow_6xDAjXEupxv0X5eIiQCK8BGAsYHg/s0/2020-08-15.png" group-title="todos",Luna TV | DO
-https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Megavision | DO" tvg-logo="https://lh3.googleusercontent.com/-jxMdnwq3fxw/XzgSNxgvHSI/AAAAAAAA4Rw/eev6AGnJag8MDN1kt76lQwfraDPAIsnDACK8BGAsYHg/s0/2020-08-15.png" group-title="todos",Megavision | DO
-http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u8
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Urban TV | ES" tvg-logo="https://lh3.googleusercontent.com/-Xx4DcggZ0tw/X48XMFPv4jI/AAAAAAAA6lY/eTAQj1-UnWUbuTMAHTCiwz9SCJoAlGkTACK8BGAsYHg/s0/2020-10-20.png" group-title="todos",Urban TV | ES
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rewind Radio y TV | CL" tvg-logo="https://i2.paste.pics/02c63dfaaf621ab897fbddd3e4666a33.png" group-title="todos",Rewind Radio y TV | CL
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Plus 1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/466deabbd42d619f75a9134701c3e39b.webp" group-title="todos",Retro Plus 1
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Plus 2" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/466deabbd42d619f75a9134701c3e39b.webp" group-title="todos",Retro Plus 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XEW" tvg-logo="" group-title="todos",XEW
 dtv://antenna:32/atsc/2/1
