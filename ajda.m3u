@@ -239,28 +239,35 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5a
 https://m3ukodi.com/developer/budtvultra/budtv.php?4248-98268
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALF 2" tvg-logo="" group-title="24/7",ALF 2
 https://m3ukodi.com/developer/budtvultra/budtv.php?4248-98268
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animaniacs" tvg-logo="https://www.pngmart.com/files/22/Animaniacs-PNG-Isolated-File.png" group-title="24/7",Animaniacs
+https://m3ukodi.com/developer/budtvultra/budtv.php?4251-98268
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Años Maravillosos" tvg-logo="https://ih1.redbubble.net/image.2131767850.4358/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7",Años Maravillosos
 http://bgtv.site/play/megaprooo-500.php?c=287&tokeen=uhuhuhuhudfhuh&f=.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Correcaminos" tvg-logo="https://www.elparquedelosdibujos.com/dibujos-animados/series-dibujos-animados/series-dibujos-animados-img/dibujos-animados-el-coyote-y-correcaminos.webp" group-title="24/7",Correcaminos
-http://bgtv.site/play/megaprooo-500.php?c=246&tokeen=uhuhuhuhudfhuh&f=.m3u8|user-agent=tuplayer
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="dexter" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/d/dc/221975_10150172117895680_1273681_n.jpg/revision/latest/scale-to-width-down/350?cb=20130921015205&path-prefix=es" group-title="24/7",Laboratorio de Dexter
+https://m3ukodi.com/developer/budtvultra/budtv.php?4916-98268
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dinosaurios" tvg-logo="https://static.wikia.nocookie.net/disney/images/4/4c/Dinosaurs_logo.png/revision/latest?cb=20121211183108&path-prefix=es" group-title="24/7",Dinosaurios
 https://m3ukodi.com/developer/budtvultra/budtv.php?4738-98268
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Game Of Thrones" tvg-logo="https://www.skinillustrator.com/wp-content/uploads/2018/09/got-logo.jpg" group-title="24/7",Game Of Thrones
-http://bgtv.site/play/megaprooo-500.php?c=279&tokeen=uhuhuhuhudfhuh&f=.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los picapiedra" tvg-logo="https://www.puzzlesjunior.com/imatjes/logo-de-los-picapiedra_4cb81d0ac502f-p.jpg" group-title="24/7",Los picapiedra
-http://bgtv.site/play/megaprooo-500.php?c=243&tokeen=uhuhuhuhudfhuh&f=.m3u8|user-agent=tuplayer
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="dreamworks" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/dreamworks-animation-logo-png-transparent.png" group-title="24/7",Dreamworks
+https://m3ukodi.com/developer/budtvultra/budtv.php?4891-98268
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7",Dr. House
+https://m3ukodi.com/developer/budtvultra/budtv.php?4912-98268
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Friends" tvg-logo="https://p7.hiclipart.com/preview/840/692/965/5bbc448fd13e2.jpg" group-title="24/7",Friends
+https://m3ukodi.com/developer/budtvultra/budtv.php?4177-98268
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Thundercats" tvg-logo="https://w0.peakpx.com/wallpaper/970/591/HD-wallpaper-thundercats-logo.jpg" group-title="24/7",Los Thundercats
-http://bgtv.site/play/megaprooo-500.php?c=275&tokeen=uhuhuhuhudfhuh&f=.m3u8|user-agent=tuplayer
+https://m3ukodi.com/developer/budtvultra/budtv.php?4291-98268
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pantera Rosa 80s" tvg-logo="https://i.pinimg.com/550x/fd/22/b4/fd22b489f86fa249bf28e51bd146d244.jpg" group-title="24/7",Pantera Rosa 80s
+https://m3ukodi.com/developer/budtvultra/budtv.php?4904-98268
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="peluche" tvg-logo="https://play-lh.googleusercontent.com/UqAjl7zR-geNjB0ygQAtqrE5aFzIkj4oVs1GLODgxujKO3-ciXdHOkCB97WVCF2mCA" group-title="24/7",Familia Peluche
+https://m3ukodi.com/developer/budtvultra/budtv.php?2247-98268
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mazinger Z" tvg-logo="https://comicparatodos.files.wordpress.com/2021/10/mazinger-z.jpg" group-title="24/7",Mazinger Z
 http://bgtv.site/play/megaprooo-500.php?c=271&tokeen=uhuhuhuhudfhuh&f=.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pantera Rosa 80s" tvg-logo="https://i.pinimg.com/550x/fd/22/b4/fd22b489f86fa249bf28e51bd146d244.jpg" group-title="24/7",Pantera Rosa 80s
-http://bgtv.site/play/megaprooo-500.php?c=245&tokeen=uhuhuhuhudfhuh&f=.m3u8|user-agent=tuplayer
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pinky y Cerebro" tvg-logo="https://tendencybook.com/wp-content/uploads/2020/04/Pinky-y-Cerebro.jpg" group-title="24/7",Pinky y Cerebro
 http://bgtv.site/play/megaprooo-500.php?c=267&tokeen=uhuhuhuhudfhuh&f=.m3u8|user-agent=tuplayer
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Smallville" tvg-logo="https://tvazteca.brightspotcdn.com/a0/b4/e80b39084c7a992c48b3f42e67dd/smallville-azteca-7.jpg" group-title="24/7",Smallville
 http://bgtv.site/play/megaprooo-500.php?c=262&tokeen=uhuhuhuhudfhuh&f=.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stranger things" tvg-logo="https://creativekatarsis.com/wp-content/uploads/2017/10/ST1.jpg" group-title="24/7",Stranger things
-http://bgtv.site/play/megaprooo-500.php?c=259&tokeen=uhuhuhuhudfhuh&f=.m3u8|user-agent=tuplayer
+
 
 
 
