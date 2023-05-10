@@ -16,6 +16,13 @@ http://191.97.55.241:8000/play/a08j/index.m3u8
 http://45.166.92.22:58001/play/a04s/index.m3u8
 #EXTINF:-1 tvg-id="PenthouseTV.mx" tvg-name="Penthouse" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73704_dark_360w_270h.png" group-title="todos",Penthouse
 http://45.166.92.22:58001/play/a04c/index.m3u8
+
+#EXTINF:-1 tvg-id="sexmex" tvg-name="Sexmex" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos",SEXEMEX
+https://m3ukodi.com/developer/budtvultra/budtv.php?3379-6718
+#EXTINF:-1 tvg-id="ponbox" tvg-name="Sexmex" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos",PORNBOX
+https://m3ukodi.com/developer/budtvultra/budtv.php?3188-6718
+
+
 #EXTINF:-1 tvg-id="RealExtreme.us" tvg-name="RealExtreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101419_dark_360w_270h.png" group-title="todos",RealExtreme
 http://208.88.246.11:3473/491REALX/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="BrazzersTV.mx" tvg-name="Brazzers TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16790_dark_360w_270h.png" group-title="todos",Brazzers TV
