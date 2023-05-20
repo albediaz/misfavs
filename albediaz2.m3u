@@ -193,9 +193,9 @@ http://181.189.243.254:8000/play/a0pq/index.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="todos",TNT HD
 http://190.108.93.148:8000/play/a0l6/index.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.co" tvg-name="WARNER CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="todos",WARNER CHANNEL
-http://170.83.242.152:5350/play/a00q
+http://45.5.118.213:16000/play/a0nc/index.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="WARNER HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="todos",WARNER HD
-http://190.149.66.90:16000/play/a03f/index.m3u8
+http://45.5.118.213:16000/play/a0mz/index.m3u8
 
 #EXTINF:-1 tvg-id="FilmandArts.co" tvg-name="Film&Arts" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" group-title="todos",Film&Arts
 http://45.166.92.22:58001/play/a00o/index.m3u8
