@@ -12,7 +12,7 @@ http://181.78.12.166:9000/play/a04c
 #EXTINF:-1 tvg-id="HBO2.co" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" audio-track="spa",HBO 2
 http://170.83.242.12:5350/play/a02o
 #EXTINF:-1 tvg-id="HBO2.co" tvg-name="HBO 2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" audio-track="spa",HBO 2 HD
-http://190.131.228.59:8000/play/a0jh/index.m3u8
+http://173.208.249.194:25461/BertmXB/DM2kepTgaAX8/386?token=QhZaVUBfEFkSVAEBAFRcBlYDVlNQAg8KUlANAlYFUQQPDQpVUQYDVlMVSRESEhdUVgg5C1cXDApZBBlBE0ADQmZdVhYJFQRUEhtHRwgLABMNVFBaBwACD1cCDU9EQw9UGw4QBQAGAlESG0dWGRIAQ1kECj1XUEBQAlcXWQhGClwVFl1abFNXDlFZARFbRFUTG0cPEUMXDBspXUYXD10BVUsUe1pHUkANUUMMXA8HCRF7DAsLR1BSG00QVwoSQQdEXBYIFgIEClESG0dQDhMLRUUcRFgRYGUbTRBQGxJWCENQW1wWCRVGEBIbR1oSORdURBEUB1JYU0tDCBdTRB9EXVhMbVdcWVwGU0MMXA8VRwsVU1ZAHxdbVg9bQQwUbBZZXRYIFgAGA1EGFRg=
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" audio-track="spa",HBO 2 HD
 http://45.228.232.204:16000/play/a041/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.DO" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" audio-track="spa",HBO 2_2
@@ -407,7 +407,7 @@ http://190.149.66.90:16000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="todos",Claro sports
 http://190.61.102.67:31589/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos",Fox Sports
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127173
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/40.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN+" tvg-logo="https://m.media-amazon.com/images/I/41lChb5Q+KL.png" group-title="todos",ESPN+
 http://45.228.232.204:16000/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="todos",ESPN
