@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-id="Playboy.mx" tvg-name="Playboy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54335_dark_360w_270h.png" group-title="todos",Playboy
 http://181.189.243.254:8000/play/a0ow/index.m3u8
 #EXTINF:-1 tvg-id="Venus.mx" tvg-name="Venus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16498_dark_360w_270h.png" group-title="todos",Venus
-http://181.78.27.185:5350/play/a00z
+http://45.5.118.213:16000/play/a0lc/index.m3u8
 #EXTINF:-1 tvg-id="Playboy.mx" tvg-name="Playboy HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54335_dark_360w_270h.png" group-title="todos",Playboy HD
 http://181.189.243.254:8000/play/a0ow/index.m3u8
 #EXTINF:-1 tvg-id="Venus.mx" tvg-name="VENUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16498_dark_360w_270h.png" group-title="todos",VENUS
@@ -83,7 +83,7 @@ http://181.78.12.166:9000/play/a04c
 #EXTINF:-1 tvg-id="HBO2.co" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" audio-track="spa",HBO 2
 http://170.83.242.12:5350/play/a02o
 #EXTINF:-1 tvg-id="HBO2.co" tvg-name="HBO 2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" audio-track="spa",HBO 2 HD
-http://190.131.228.59:8000/play/a0jh/index.m3u8
+http://173.208.249.194:25461/BertmXB/DM2kepTgaAX8/386?token=QhZaVUBfEFkSVAEBAFRcBlYDVlNQAg8KUlANAlYFUQQPDQpVUQYDVlMVSRESEhdUVgg5C1cXDApZBBlBE0ADQmZdVhYJFQRUEhtHRwgLABMNVFBaBwACD1cCDU9EQw9UGw4QBQAGAlESG0dWGRIAQ1kECj1XUEBQAlcXWQhGClwVFl1abFNXDlFZARFbRFUTG0cPEUMXDBspXUYXD10BVUsUe1pHUkANUUMMXA8HCRF7DAsLR1BSG00QVwoSQQdEXBYIFgIEClESG0dQDhMLRUUcRFgRYGUbTRBQGxJWCENQW1wWCRVGEBIbR1oSORdURBEUB1JYU0tDCBdTRB9EXVhMbVdcWVwGU0MMXA8VRwsVU1ZAHxdbVg9bQQwUbBZZXRYIFgAGA1EGFRg=
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" audio-track="spa",HBO 2 HD
 http://45.228.232.204:16000/play/a041/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.DO" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" audio-track="spa",HBO 2_2
