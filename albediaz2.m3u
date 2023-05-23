@@ -78,10 +78,10 @@ http://208.88.246.11:3473/488Venus/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@
 http://191.98.171.198:4000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="HBO.do" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" ,HBO HD
 http://170.83.242.153:5350/play/a001
-#EXTINF:-1 tvg-id="HBO.ar" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" audio-track="spa",HBO HD 2
-http://181.78.12.166:9000/play/a04c
+#EXTINF:-1 tvg-id="HBO.ar" tvg-name="HBO 2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" audio-track="spa",HBO HD 2
+http://179.43.82.250:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.co" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" audio-track="spa",HBO 2
-http://170.83.242.12:5350/play/a02o
+http://181.78.27.185:5350/play/a02o
 #EXTINF:-1 tvg-id="HBO2.co" tvg-name="HBO 2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" audio-track="spa",HBO 2 HD
 http://173.208.249.194:25461/BertmXB/DM2kepTgaAX8/386?token=QhZaVUBfEFkSVAEBAFRcBlYDVlNQAg8KUlANAlYFUQQPDQpVUQYDVlMVSRESEhdUVgg5C1cXDApZBBlBE0ADQmZdVhYJFQRUEhtHRwgLABMNVFBaBwACD1cCDU9EQw9UGw4QBQAGAlESG0dWGRIAQ1kECj1XUEBQAlcXWQhGClwVFl1abFNXDlFZARFbRFUTG0cPEUMXDBspXUYXD10BVUsUe1pHUkANUUMMXA8HCRF7DAsLR1BSG00QVwoSQQdEXBYIFgIEClESG0dQDhMLRUUcRFgRYGUbTRBQGxJWCENQW1wWCRVGEBIbR1oSORdURBEUB1JYU0tDCBdTRB9EXVhMbVdcWVwGU0MMXA8VRwsVU1ZAHxdbVg9bQQwUbBZZXRYIFgAGA1EGFRg=
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" audio-track="spa",HBO 2 HD
@@ -89,13 +89,13 @@ http://45.228.232.204:16000/play/a041/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.DO" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" audio-track="spa",HBO 2_2
 http://181.189.243.254:8000/play/a0os/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="todos" audio-track="spa",HBO Family
-http://170.83.242.152:5350/play/a02r
+http://179.43.82.250:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.co" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" audio-track="spa",HBO XTREME
-http://170.83.242.152:5350/play/a02q
+http://179.43.82.250:8000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" audio-track="spa",HBO XTREME
 http://181.189.243.254:8000/play/a0ov/index.m3u8
 #EXTINF:-1 tvg-id="HBOPlus.co" tvg-name="HBO Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="todos" audio-track="spa",HBO Plus
-http://170.83.242.152:5350/play/a02p
+http://179.43.82.250:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="todos" audio-track="spa",HBO PLUS
 http://live.budtvlight.com:25461/Luna001/18dabf00/30343
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="todos" audio-track="spa" tvg-shift="-7",AMC
@@ -120,17 +120,17 @@ http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u
 
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINECANAL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="todos",CINECANAL HD
-http://190.149.66.90:16000/play/a03h/index.m3u8
+http://45.5.118.213:16000/play/a0ne/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINECANAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="todos",CINECANAL
 http://190.61.102.67:31589/play/a04q/index.m3u8
 #EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="Cine Latino" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_dark_360w_270h.png" group-title="todos",Cine Latino
-http://190.149.66.90:16000/play/a04k/index.m3u8
+http://45.5.118.213:16000/play/a0o6/index.m3u8
 #EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="CINE LATINO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_dark_360w_270h.png" group-title="todos",CINE LATINO
 http://45.166.92.22:58001/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE HISPANO" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinehispano.png" group-title="todos",CINE HISPANO
 http://181.78.8.90:16123/play/ch51
 #EXTINF:-1 tvg-id="CanalDHE.mx" tvg-name="DHE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s81622_dark_360w_270h.png" group-title="todos",DHE
-http://190.149.66.90:16000/play/a01r/index.m3u8
+http://204.199.120.34:16123/play/ch14
 #EXTINF:-1 tvg-id="CanalDHE.mx" tvg-name="DHE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s81622_dark_360w_270h.png" group-title="todos",DHE
 http://45.166.92.22:58001/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV TCS+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TCS_35_2017.png" group-title="todos",VTV TCS+
@@ -167,7 +167,7 @@ http://160.20.165.246:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="MC.mx" tvg-name="MC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18329_dark_360w_270h.png" group-title="todos",MC
 http://177.234.230.226:8010/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Sony" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" group-title="todos",Sony
-http://190.131.228.59:8000/play/a04h/index.m3u8
+http://177.234.230.226:8010/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="CanalSony.ar" tvg-name="SONY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" group-title="todos",SONY
 http://45.166.92.22:58001/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="Sony Movies HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="todos",Sony Movies HD
@@ -307,73 +307,81 @@ https://m3ukodi.com/developer/telelatinohds/telelatinohd.php?71#&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL ENCANTADOR DE PERROS" tvg-logo="https://www.formulatv.com/images/programas/posters/300/322/dest_3.jpg" group-title="24/7",EL ENCANTADOR DE PERROS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Alf" tvg-logo="https://es.digitaltrends.com/wp-content/uploads/2022/02/180-alf.jpg?p=1" group-title="24/7",Alf
-http://lbxc10.budtv-ultra.com:2546/JW2WBOndemand/d8rQEH2h4E/2321?token=HRNfAEBQEwMVAQNZAloNVwJVCQkJWVtbVgYHVgcFXFNUU1MHUVoFWwQVHUMQF0dQUlxmWVUaAwtVAQdJR0RLBxRuXgURAhMLAwITTUEXXFhWEwMBBwANDVMDDlxVHRoSD1UVWxENAA4CBRNNQQZNQVZDV1FdZ11cEFpVAEcLVhcKXRtDXFZuXVJaUA8HQQ8XAxMVElhLSRtcXUMJCR0aAA9FRQBHXRMDFQEDVEFPF1ZcRFdEQ0EbA0R3c0dJE10aElRZElpXXxsNFUUSQU8XXEBuS1VCTEtcB15TF0cLGlJEHRUMUkBuWlhZXwQAF1xaXUIbChMIGxVEXlkLDEVXEDlBXgURAhMIBwMFU0Ee
+http://bgtv.site/play/play-555.php?c=2321&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="" group-title="24/7", Big Bang Theory
-http://lbxc6.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/12010?token=HRNfAEBQEwMVUVNQUFVTVAJVWgMEAV0JVQAFXAMCXFpfVFNSB1pVAVQVHUMQF0dQUlxmWVUaAwhUAwdVSRNNEQNDaAhXGgsbBQMEQ09BQVxeVBsKAA4BDVIGAlxRBRRAFlhTQwkaBQkDBAVDT0FQTUdUS15QVGZdA0VfBgATAgwTXVtNEVdfZlNSXAANBxcPEQEbHBNRSklECVgQCV0UQARYQxNSTFQbDRUCVVNSFxkRUlZFX0xLQEQJFCEgExRAA0lDBF1LWFZZFQtDFxAXGRFYSm9DXUpNFFZXCABDGlhEARVNEVVQQWhUXg8NBlZBWl5XQxMCGwlEHxQICl9RFglDaBFaXBMDFQIAUFtBSA==
+http://bgtv.site/play/play-555.php?c=12010&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animaniacs" tvg-logo="https://www.pngmart.com/files/22/Animaniacs-PNG-Isolated-File.png" group-title="24/7",Animaniacs
-http://lbxc10.budtv-ultra.com:2546/JW2WBOndemand/d8rQEH2h4E/12038?token=HRNfAEBQEwMVAglQV1oHDQFXAQkBD10KX1IPBwMHCFUFBQcAVwpQDVEVHUMQF0dQUlxmWVUaAwhUAwVdSRNNEQNDaAhXGgsbBQMEQ09BQVxeVBsKAA4BDVIGB1VRBxRAFlhTQwkaBQ8HAwBDT0FQTUdUS15QVGZdA0VfBgATAgwTXVtNEVdfZlNSXAANBxcPEQEbHBNRSklECVgQCV0UQARYQxNSTFQbDRUCU1pBGRdQXkxeRUpAG1wRciBHHRoHHkVSD0BRXlcVDRMVEEEZF1pCZkJUS01LA1JbABcTAkBWExtDXllJZlRYXw8GAEFcXF9KEgsaCRtKEVsKC1hMDRRuRwhXGgsbAgUHU0Ee
+http://bgtv.site/play/play-555.php?c=12038&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Años Maravillosos" tvg-logo="https://ih1.redbubble.net/image.2131767850.4358/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7",Años Maravillosos
-http://lbxc6.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/40788?token=HRNfAEBQEwMVAwBZBlpUUQVUCwJSCwoNUgIHUwAFAVoHUAJVAwBQWwQVHUMQF0dQUlxmWVUaAw1WBA5dSRNNEQNDaAhXGgsbBQMEQ09BQVxeVBsKAA4BDVIGB1RdCRRAFlhTQwkaAgkFAAdDT0FQTUdUS15QVGZdA0VfBgATAgwTXVtNEVdfZlNSXAANBxcPEQEbHBNRSklECVgQCV0UQARYQxNSTFQbDRUHVVFBGRdQXkxeRUpAG1wRciBHHRoHHkVSD0BRXlcVDRMVEEEZF1pCZkJUS01LA1JbABcTAkBWExtDXllJZlRYXw8GAEFcXF9KEgsaCRtKEVsKC1hMDRRuRwhXGgsbAgQEU0Ee
+http://bgtv.site/play/play-555.php?c=40788&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="dexter" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/d/dc/221975_10150172117895680_1273681_n.jpg/revision/latest/scale-to-width-down/350?cb=20130921015205&path-prefix=es" group-title="24/7",Laboratorio de Dexter
-http://lbxc10.budtv-ultra.com:2546/JW2WBOndemand/d8rQEH2h4E/11978?token=HRNfAEBQEwMVVQRVBlQMVFAIAAIHWgwNVgUBAVZVDVBeVFNUAg1QCAAVHUMQF0dQUlxmWVUaAwhXCgFdSRNNEQNDaAhXGgsbBQMEQ09BQVxeVBsKAA4BDVIGB1JRCBRAFlhTQwkaBAgFBAFDT0FQTUdUS15QVGZdA0VfBgATAgwTXVtNEVdfZlNSXAANBxcPEQEbHBNRSklECVgQCV0UQARYQxNSTFQbDRUJVVJBGRdQXkxeRUpAG1wRZSBHHRoHHkVSD0BRXlcVDRMVEEEZF1pCZkJUS01LA1JbABcTAkBWExtDXllJZlRYXw8GAEFcXF9KEgsaCRtKEVsKC1hMDRRuRwhXGgsbAgMJWUEe
+http://bgtv.site/play/play-555.php?c=11978&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dinosaurios" tvg-logo="https://static.wikia.nocookie.net/disney/images/4/4c/Dinosaurs_logo.png/revision/latest?cb=20121211183108&path-prefix=es" group-title="24/7",Dinosaurios
-http://lbxc9.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/11069?token=HRNfAEBQEwMVVlADBVIDVgoGXFMAWlhfV1IAV10AAVQDUwMAVVxUWwMVHUMQF0dQUlxmWVUaAwhXAwBcSRNNEQNDaAhXGgsbBQMEQ09BQVxeVBsKAA4BDVIGB1xUBxRAFlhTQwkaAgsOBAhDT0FQTUdUS15QVGZdA0VfBgATAgwTXVtNEVdfZlNSXAANBxcPEQEbHBNRSklECVgQCV0UQARYQxNSTFQbDRUAV1ZTFxkRUlZFX0xLQEQJFCEgExRAA0lDBF1LWFZZFQtDFxAXGRFYSm9DXUpNFFZXCABDGlhEARVNEVVQQWhUXg8NBlZBWl5XQxMCGwlEHxQICl9RFglDaBFaXBMDFQMHVldBSA==
+http://bgtv.site/play/play-555.php?c=11069&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="cinemadisney" tvg-logo="" group-title="24/7", Cinema Disney Family
-http://lbxc6.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/38702?token=HRNfAEBQEwMVAVdRBgAAAQYAWgYGXQkKVwsPV10HWlMABVNXVlwBC1MVHUMQF0dQUlxmWVUaAwpeBAZXSRNNEQNDaAhXGgsbBQMEQ09BQVxeVBsKAA4BDVIGD1BXBxRAFlhTQwkaAgsADwlDT0FQTUdUS15QVGZdA0VfBgATAgwTXVtNEVdfZlNSXAANBxcPEQEbHBNRSklECVgQCV0UQARYQxNSTFQbDRUDU1tRFxkRUlZFX0xLQEQJFDYgExRAA0lDBF1LWFZZFQtDFxAXGRFYSm9DXUpNFFZXCABDGlhEARVNEVVQQWhUXg8NBlZBWl5XQxMCGwlEHxQICl9RFglDaBFaXBMDFQ8GVldBSA==
+http://bgtv.site/play/play-555.php?c=38702&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7",Dr. House
-http://lbxc4.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/11982?token=HRNfAEBQEwMVDlRSBgEMBFZTCVMBAA0BVldXVwBQCAFeBA8EAgkBWAcVHUMQF0dQUlxmWVUaAwhXCg5XSRNNEQNDaAhXGgsbBQMEQ09BQVxeVBsKAA4BDVIGD1NUAhRAFlhTQwkaAgAEBRNNQQZNQVZDV1FdZ11cEFpVAEcLVhcKXRtDXFZuXVJaUA8HQQ8XAxMVElhLSRtcXUMJCR0aAA9FRQBHXRMDFQYCVlVBGRdQXkxeRUpAG1wRciBHHRoHHkVSD0BRXlcVDRMVEEEZF1pCZkJUS01LA1JbABcTAkBWExtDXllJZlRYXw8GAEFcXF9KEgsaCRtKEVsKC1hMDRRuRwhXGgsbBAIJVEEe
+http://bgtv.site/play/play-555.php?c=11982&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Friends" tvg-logo="https://p7.hiclipart.com/preview/840/692/965/5bbc448fd13e2.jpg" group-title="24/7",Friends
-http://lbxc8.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/94200?token=HRNfAEBQEwMVAgFUB1IGDAFXWAQCDV8PVlEOBAEFDFFeUwIAAlwHDVIVHUMQF0dQUlxmWVUaAwBSAQZVSRNNEQNDaAhXGgsbBQMEQ09BQVxeVBsKAA4BDVIGBlFcAxRAFlhTQwkaBQECBAhDT0FQTUdUS15QVGZdA0VfBgATAgwTXVtNEVdfZlNSXAANBxcPEQEbHBNRSklECVgQCV0UQARYQxNSTFQbDRUDWFVSFxkRUlZFX0xLQEQJFCEgExRAA0lDBF1LWFZZFQtDFxAXGRFYSm9DXUpNFFZXCABDGlhEARVNEVVQQWhUXg8NBlZBWl5XQxMCGwlEHxQICl9RFglDaBFaXBMDFQQIV1dBSA==
+http://bgtv.site/play/play-555.php?c=94200&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Thundercats" tvg-logo="https://w0.peakpx.com/wallpaper/970/591/HD-wallpaper-thundercats-logo.jpg" group-title="24/7",Los Thundercats
-http://lbxc5.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/2372?token=HRNfAEBQEwMVBAZZAgdTAwUFWFZTCVgLVlZVBwYACQZXUlIDAgtVWgAVHUMQF0dQUlxmWVUaAwtVBARJR0RLBxRuXgURAhMLAwITTUEXXFhWEwMBBwANDVMHBVZcHRoSD1UVWxEMBQkFFR1DBhtBUEFfWFxuXFxPD1BTR19fTQ4KHRUOXWdVXFpWXwVBWRcFER0bWUJIGwMIRloJSRNaCxJDVhVWGgsbAwUDQ09BVlpGX01CSBoDGyJ2FElHVEAWA19ECFxWEwMVQ0JDT0FcRmxDXENFSlxYC1ZER18TCEBKE1oAS2dSVllZVAIXClpbQBMDEgEaFRsLXFgMEV5KPRZYU0MJGgYLDwATHA==
+http://bgtv.site/play/play-555.php?c=2372&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pantera Rosa 80s" tvg-logo="https://i.pinimg.com/550x/fd/22/b4/fd22b489f86fa249bf28e51bd146d244.jpg" group-title="24/7",Pantera Rosa 80s
-http://lbxc10.budtv-ultra.com:2546/JW2WBOndemand/d8rQEH2h4E/11989?token=HRNfAEBQEwMVBFBXVFMEDFIDDwIGWV8LAAcGVAQBWgFeVFZTA1xQXFYVHUMQF0dQUlxmWVUaAwhXCg5cSRNNEQNDaAhXGgsbBQMEQ09BQVxeVBsKAA4BDVIGAlJRAxRAFlhTQwkaBAgHDgNDT0FQTUdUS15QVGZdA0VfBgATAgwTXVtNEVdfZlNSXAANBxcPEQEbHBNRSklECVgQCV0UQARYQxNSTFQbDRUEV1pBGRdQXkxeRUpAG1wRciBHHRoHHkVSD0BRXlcVDRMVEEEZF1pCZkJUS01LA1JbABcTAkBWExtDXllJZlRYXw8GAEFcXF9KEgsaCRtKEVsKC1hMDRRuRwhXGgsbAgQHWUEe
+http://bgtv.site/play/play-555.php?c=11989&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="peluche" tvg-logo="https://play-lh.googleusercontent.com/UqAjl7zR-geNjB0ygQAtqrE5aFzIkj4oVs1GLODgxujKO3-ciXdHOkCB97WVCF2mCA" group-title="24/7",Familia Peluche
-http://lbxc5.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/38839?token=HRNfAEBQEwMVAlJRVwAFVlICXAYACQ9dVgQHUABSWgMHCQcDBlsGD1UVHUMQF0dQUlxmWVUaAwpeCwVcSRNNEQNDaAhXGgsbBQMEQ09BQVxeVBsKAA4BDVIGA1NcARRAFlhTQwkaBQEEDgBDT0FQTUdUS15QVGZdA0VfBgATAgwTXVtNEVdfZlNSXAANBxcPEQEbHBNRSklECVgQCV0UQARYQxNSTFQbDRUAUVJVFxkRUlZFX0xLQEQJFDYgExRAA0lDBF1LWFZZFQtDFxAXGRFYSm9DXUpNFFZXCABDGlhEARVNEVVQQWhUXg8NBlZBWl5XQxMCGwlEHxQICl9RFglDaBFaXBMDFQIDWFBBSA==
+http://bgtv.site/play/play-555.php?c=2360&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LooneyTunes" tvg-logo="https://www.pngkit.com/png/detail/321-3216119_looney-tunes-image-looney-tunes-logo-png.png" group-title="24/7",Looney Tunes
-http://lbxc10.budtv-ultra.com:2546/JW2WBOndemand/d8rQEH2h4E/12020?token=HRNfAEBQEwMVVQdVUVsCAFVSDwYBAVoJU1dUVVFQXgRRBFIFAFsACFQVHUMQF0dQUlxmWVUaAwhUAwRVSRNNEQNDaAhXGgsbBQMEQ09BQVxeVBsKAA4BDVIGAV1WBBRAFlhTQwkaBAoEAABDT0FQTUdUS15QVGZdA0VfBgATAgwTXVtNEVdfZlNSXAANBxcPEQEbHBNRSklECVgQCV0UQARYQxNSTFQbDRUDUlNQFxkRUlZFX0xLQEQJFDYgExRAA0lDBF1LWFZZFQtDFxAXGRFYSm9DXUpNFFZXCABDGlhEARVNEVVQQWhUXg8NBlZBWl5XQxMCGwlEHxQICl9RFglDaBFaXBMDFQIAU1JBSA==
+http://bgtv.site/play/play-555.php?c=12008&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="pajaroloco" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdCq7F0JBEJAVMhNOefcJKwyHQmvpt2iejEQ&usqp=CAU" group-title="24/7",Pajaro Loco
-http://lbxc10.budtv-ultra.com:2546/JW2WBOndemand/d8rQEH2h4E/12020?token=HRNfAEBQEwMVAAUFVQIFAQAAAQUFWgBfXwRTA1FQDgRUAlZQBgtSDVYVHUMQF0dQUlxmWVUaAwhUAwRVSRNNEQNDaAhXGgsbBQMEQ09BQVxeVBsKAA4BDVIGDlRRARRAFlhTQwkaBAoEAABDT0FQTUdUS15QVGZdA0VfBgATAgwTXVtNEVdfZlNSXAANBxcPEQEbHBNRSklECVgQCV0UQARYQxNSTFQbDRUDUFVUFxkRUlZFX0xLQEQJFDYgExRAA0lDBF1LWFZZFQtDFxAXGRFYSm9DXUpNFFZXCABDGlhEARVNEVVQQWhUXg8NBlZBWl5XQxMCGwlEHxQICl9RFglDaBFaXBMDFQIAU1JBSA==
+http://bgtv.site/play/play-555.php?c=12020&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="24/7", Marvel
-http://lbxc9.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/12071?token=HRNfAEBQEwMVUlcCUwZQAwBUDAhSCgkMUQIEUVJVCFdfVQMDAF4FCFEVHUMQF0dQUlxmWVUaAwhUAwFUSRNNEQNDaAhXGgsbBQMEQ09BQVxeVBsKAA4BDVIGBFVdBBRAFlhTQwkaAgoHAgVDT0FQTUdUS15QVGZdA0VfBgATAgwTXVtNEVdfZlNSXAANBxcPEQEbHBNRSklECVgQCV0UQARYQxNSTFQbDRUAWFRWFxkRUlZFX0xLQEQJFCEgExRAA0lDBF1LWFZZFQtDFxAXGRFYSm9DXUpNFFZXCABDGlhEARVNEVVQQWhUXg8NBlZBWl5XQxMCGwlEHxQICl9RFglDaBFaXBMDFQMJUlBBSA==
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="pacapiedras" tvg-logo="" group-title="24/7", Picapiedra
-http://lbxc5.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/38710?token=HRNfAEBQEwMVDwMEB1sBBQEJD1YGXlgJAlAFBFwAXQdQBAMCVQ0CWwMVHUMQF0dQUlxmWVUaAwpeBAdVSRNNEQNDaAhXGgsbBQMEQ09BQVxeVBsKAA4BDVIGAlRTAxRAFlhTQwkaAAAGAglDT0FQTUdUS15QVGZdA0VfBgATAgwTXVtNEVdfZlNSXAANBxcPEQEbHBNRSklECVgQCV0UQARYQxNSTFQbDRUCU1VBGRdQXkxeRUpAG1wRciBHHRoHHkVSD0BRXlcVDRMVEEEZF1pCZkJUS01LA1JbABcTAkBWExtDXllJZlRYXw8GAEFcXF9KEgsaCRtKEVsKC1hMDRRuRwhXGgsbBQIHUVJBSA==
+http://bgtv.site/play/play-555.php?c=12071&token=blackghooost
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="picapiedras" tvg-logo="" group-title="24/7", Picapiedra
+http://bgtv.site/play/play-555.php?c=38710&token=blackghooost
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jneutron" tvg-logo="https://static.wikia.nocookie.net/jimmyneutron/images/c/ce/Jimmy-Neutron-Logo.jpg/revision/latest?cb=20161002181201" group-title="24/7", Jimmy Neutron
+http://bgtv.site/play/play-555.php?c=12015&token=blackghooost
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JonBravo" tvg-logo="https://assets.fanart.tv/fanart/tv/76201/hdtvlogo/johnny-bravo-55834be7de52c.png" group-title="24/7", Johnny Bravo
+http://bgtv.site/play/play-555.php?c=40846&token=blackghooost
 
 
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALF 2" tvg-logo="" group-title="24/7_2",ALF 2
-http://bgtv.site/play/play-518.php?c=2321&token=blackblackblackghooooooost
+http://bgtv.site/play/play-555.php?c=2321&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animaniacs" tvg-logo="https://www.pngmart.com/files/22/Animaniacs-PNG-Isolated-File.png" group-title="24/7_2",Animaniacs 2
 http://bgtv.site/play/play-518.php?c=12038&token=blackblackblackghooooooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Años Maravillosos" tvg-logo="https://ih1.redbubble.net/image.2131767850.4358/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7_2",Años Maravillosos
-http://bgtv.site/play/play-518.php?c=40788&token=blackblackblackghooooooost
+http://bgtv.site/play/play-555.php?c=40788&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="dexter" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/d/dc/221975_10150172117895680_1273681_n.jpg/revision/latest/scale-to-width-down/350?cb=20130921015205&path-prefix=es" group-title="24/7_2",Laboratorio de Dexter
-http://bgtv.site/play/play-518.php?c=11978&token=blackblackblackghooooooost
+http://bgtv.site/play/play-555.php?c=11978&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dinosaurios" tvg-logo="https://static.wikia.nocookie.net/disney/images/4/4c/Dinosaurs_logo.png/revision/latest?cb=20121211183108&path-prefix=es" group-title="24/7_2",Dinosaurios
-http://bgtv.site/play/play-518.php?c=11069&token=blackblackblackghooooooost
+http://bgtv.site/play/play-555.php?c=11069&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="disneyfamily" tvg-logo="" group-title="24/7_2", Cinema Disney Family
-http://bgtv.site/play/play-518.php?c=38702&token=blackblackblackghooooooost
+http://bgtv.site/play/play-555.php?c=38702&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7_2",Dr. House
-http://bgtv.site/play/play-518.php?c=11982&token=blackblackblackghooooooost
+http://bgtv.site/play/play-555.php?c=11982&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Friends" tvg-logo="https://p7.hiclipart.com/preview/840/692/965/5bbc448fd13e2.jpg" group-title="24/7_2",Friends
-http://bgtv.site/play/play-518.php?c=94200&token=blackblackblackghooooooost
+http://bgtv.site/play/play-555.php?c=94200&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="" group-title="24/7_2", Big Bang Theory
-http://bgtv.site/play/play-518.php?c=12010&token=blackblackblackghooooooost
+http://bgtv.site/play/play-555.php?c=12010&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Thundercats" tvg-logo="https://w0.peakpx.com/wallpaper/970/591/HD-wallpaper-thundercats-logo.jpg" group-title="24/7_2",Los Thundercats
-http://bgtv.site/play/play-518.php?c=2372&token=blackblackblackghooooooost
+http://bgtv.site/play/play-555.php?c=2372&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pantera Rosa 80s" tvg-logo="https://i.pinimg.com/550x/fd/22/b4/fd22b489f86fa249bf28e51bd146d244.jpg" group-title="24/7_2",Pantera Rosa 80s
-http://bgtv.site/play/play-518.php?c=11989&token=blackblackblackghooooooost
+http://bgtv.site/play/play-555.php?c=11989&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="peluche" tvg-logo="https://play-lh.googleusercontent.com/UqAjl7zR-geNjB0ygQAtqrE5aFzIkj4oVs1GLODgxujKO3-ciXdHOkCB97WVCF2mCA" group-title="24/7_2",Familia Peluche
-http://bgtv.site/play/play-518.php?c=38839&token=blackblackblackghooooooost
+http://bgtv.site/play/play-555.php?c=2360&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LooneyTunes" tvg-logo="https://www.pngkit.com/png/detail/321-3216119_looney-tunes-image-looney-tunes-logo-png.png" group-title="24/7_2",Looney Tunes
-http://bgtv.site/play/play-518.php?c=12008&token=blackblackblackghooooooost
+http://bgtv.site/play/play-555.php?c=12008&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="pajaroloco" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdCq7F0JBEJAVMhNOefcJKwyHQmvpt2iejEQ&usqp=CAU" group-title="24/7_2",Pajaro Loco
-http://bgtv.site/play/play-518.php?c=12020&token=blackblackblackghooooooost
+http://bgtv.site/play/play-555.php?c=12020&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="24/7_2", Marvel
-http://bgtv.site/play/play-518.php?c=12071&token=blackblackblackghooooooost
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="pacapiedras" tvg-logo="" group-title="24/7_2", Picapiedra
-http://bgtv.site/play/play-518.php?c=38710&token=blackblackblackghooooooost
+http://bgtv.site/play/play-555.php?c=12071&token=blackghooost
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="picapiedras" tvg-logo="" group-title="24/7_2", Picapiedra
+http://bgtv.site/play/play-555.php?c=38710&token=blackghooost
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jneutron" tvg-logo="https://static.wikia.nocookie.net/jimmyneutron/images/c/ce/Jimmy-Neutron-Logo.jpg/revision/latest?cb=20161002181201" group-title="24/7_2", Jimmy Neutron
+http://bgtv.site/play/play-555.php?c=12015&token=blackghooost
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JonBravo" tvg-logo="https://assets.fanart.tv/fanart/tv/76201/hdtvlogo/johnny-bravo-55834be7de52c.png" group-title="24/7_2", Johnny Bravo
+http://bgtv.site/play/play-555.php?c=40846&token=blackghooost
 
 
 
@@ -478,7 +486,7 @@ http://190.149.66.90:16000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="todos",Claro sports
 http://190.61.102.67:31589/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos",Fox Sports
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127173
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/40.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN+" tvg-logo="https://m.media-amazon.com/images/I/41lChb5Q+KL.png" group-title="todos",ESPN+
 http://45.228.232.204:16000/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="todos",ESPN
