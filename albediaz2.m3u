@@ -9,41 +9,46 @@ http://45.5.118.213:16000/play/a0lc/index.m3u8
 #EXTINF:-1 tvg-id="Playboy.mx" tvg-name="Playboy HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54335_dark_360w_270h.png" group-title="todos",Playboy HD
 http://181.189.243.254:8000/play/a0ow/index.m3u8
 #EXTINF:-1 tvg-id="Venus.mx" tvg-name="VENUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16498_dark_360w_270h.png" group-title="todos",VENUS
-http://190.149.66.90:16000/play/a02p/index.m3u8
+http://tv.nousiptv.com:8080/visita/visita/7128
 #EXTINF:-1 tvg-id="SeXtreme.mx" tvg-name="SEX XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72143_dark_360w_270h.png" group-title="todos",SEX XTREME
 http://191.97.55.241:8000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="Hustler.us" tvg-name="HUSTLER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45498_dark_360w_270h.png" group-title="todos",HUSTLER
 http://45.166.92.22:58001/play/a04s/index.m3u8
 #EXTINF:-1 tvg-id="PenthouseTV.mx" tvg-name="Penthouse" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73704_dark_360w_270h.png" group-title="todos",Penthouse
 http://45.166.92.22:58001/play/a04c/index.m3u8
-#EXTINF:-1 tvg-id="PenthouseTV.mx" tvg-name="Penthouse" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73704_dark_360w_270h.png" group-title="todos",Penthouse Gold
-https://bgtv.site/play/bud-509.php?c=MzE4My02NzE4&token=huhgfhsuhuhuhshs
-#EXTINF:-1 tvg-id="PenthouseTV.mx" tvg-name="Penthouse" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73704_dark_360w_270h.png" group-title="todos",Penthouse Gold
-https://m3ukodi.com/developer/budtvultra/budtv.php?3183-6718
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos",Adult 1
+http://tv.nousiptv.com:8080/visita/visita/7130
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos",Adult 2
+http://tv.nousiptv.com:8080/visita/visita/1156129
 
 
 
 
 #EXTINF:-1 tvg-id="sexmex" tvg-name="Sexmex" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos", SEXMEX
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24333
-#EXTINF:-1 tvg-id="sexmex" tvg-name="Sexmex" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos", SEXMEX
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24325
-#EXTINF:-1 tvg-id="ponbox" tvg-name="pornbox" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos", PORNBOX
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24315
-EXTINF:-1 tvg-id="bebestv" tvg-name="babestv" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos", babestv
-https://bgtv.site/play/bud-509.php?c=MzIyNC02NzE4&token=huhgfhsuhuhuhshs
-EXTINF:-1 tvg-id="bebestv" tvg-name="babestv" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos", babestv 2
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24331
-EXTINF:-1 tvg-id="bebestv" tvg-name="brazzershd" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos", Brazzers HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24323
-EXTINF:-1 tvg-id="bebestv" tvg-name="brazzershd" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos", Brazzers HD 2
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24320
-EXTINF:-1 tvg-id="bebestv" tvg-name="privatetv" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos", Private tv 1
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24318
-EXTINF:-1 tvg-id="bebestv" tvg-name="privatetv" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos", Private tv 1_2
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24332
-EXTINF:-1 tvg-id="mofotv" tvg-name="privatetv" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos", Mofo
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24315
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos",Adult 3
+http://tv.nousiptv.com:8080/visita/visita/1156130
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos",Adult 4
+http://tv.nousiptv.com:8080/visita/visita/1156131
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos",Adult 5
+http://tv.nousiptv.com:8080/visita/visita/47989
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos",Adult 6
+http://tv.nousiptv.com:8080/visita/visita/47990
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos",Adult 7
+http://tv.nousiptv.com:8080/visita/visita/1156132
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos",Adult 8
+http://tv.nousiptv.com:8080/visita/visita/18550
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos",Adult 9
+http://tv.nousiptv.com:8080/visita/visita/47991
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos",Adult 10
+http://tv.nousiptv.com:8080/visita/visita/17190
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos",Adult 11
+http://tv.nousiptv.com:8080/visita/visita/1071030
+
+
+
 EXTINF:-1 tvg-id="mofotv" tvg-name="privatetv" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos", Mofo
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24330
 #EXTINF:-1 tvg-id="Playboy.mx" tvg-name="playboy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54335_dark_360w_270h.png" group-title="todos",playboy tv
