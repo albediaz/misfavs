@@ -145,11 +145,11 @@ http://181.189.243.254:8000/play/a0v2/index.m3u8
 #EXTINF:-1 tvg-id="Tooncast.mx" tvg-name="Tooncast" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="todos",Tooncast
 http://181.189.243.254:8000/play/a0s3/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="todos",Cinemax
-http://170.83.242.152:5350/play/a002
+http://45.5.118.213:16000/play/a0o7/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CINEMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="todos",CINEMAX
-http://190.60.39.62:8000/play/a046
+http://45.160.15.130:2909/play/112
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="todos",Cinemax HD
-http://170.83.242.12:5350/play/a002
+http://45.181.122.145:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="Antena3.mx" tvg-name="ANTENA 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90309_dark_360w_270h.png" group-title="todos",ANTENA 3
 http://45.166.92.22:58001/play/a041/index.m3u8
 #EXTINF:-1 tvg-id="Antena3Internacional.do" tvg-name="A3 SERIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16800_dark_360w_270h.png" group-title="todos",A3 SERIES
@@ -200,7 +200,7 @@ http://190.149.66.90:16000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE FAMILIAR" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png" group-title="todos",CINE FAMILIAR
 http://177.234.230.226:8010/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="todos",History Channel
-http://170.83.242.152:5350/play/a02z
+http://45.166.92.22:58001/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="History2.mx" tvg-name="History 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="todos",History 2
 http://190.27.253.211:8000/play/a072/index.m3u8
 #EXTINF:-1 tvg-id="History2.mx" tvg-name="H2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="todos",H2
@@ -231,86 +231,47 @@ http://45.166.92.22:58001/play/a01n/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Don Gato y su pandilla 24hrs" tvg-logo="https://archive.org/download/Dongatoysupandilla_live24hrs/IMG_20220814_225413.png" group-title="24/7",Don Gato y su pandilla 24hrs
-https://m3ukodi.com/developer/telelatinohds/telelatinohd.php?71#&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malcom" tvg-logo="" group-title="24/7",Malcom el de en medio
+http://bgtv.site/play/play-551.php?c=38716&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL ENCANTADOR DE PERROS" tvg-logo="https://www.formulatv.com/images/programas/posters/300/322/dest_3.jpg" group-title="24/7",EL ENCANTADOR DE PERROS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Alf" tvg-logo="https://es.digitaltrends.com/wp-content/uploads/2022/02/180-alf.jpg?p=1" group-title="24/7",Alf
-http://bgtv.site/play/play-555.php?c=2321&token=blackghooost
+http://bgtv.site/play/play-551.php?c=2321&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="" group-title="24/7", Big Bang Theory
-http://bgtv.site/play/play-555.php?c=12010&token=blackghooost
+http://bgtv.site/play/play-551.php?c=12010&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animaniacs" tvg-logo="https://www.pngmart.com/files/22/Animaniacs-PNG-Isolated-File.png" group-title="24/7",Animaniacs
-http://bgtv.site/play/play-555.php?c=12038&token=blackghooost
+http://bgtv.site/play/play-551.php?c=12038&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Años Maravillosos" tvg-logo="https://ih1.redbubble.net/image.2131767850.4358/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7",Años Maravillosos
-http://bgtv.site/play/play-555.php?c=40788&token=blackghooost
+http://bgtv.site/play/play-551.php?c=40788&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="dexter" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/d/dc/221975_10150172117895680_1273681_n.jpg/revision/latest/scale-to-width-down/350?cb=20130921015205&path-prefix=es" group-title="24/7",Laboratorio de Dexter
-http://bgtv.site/play/play-555.php?c=11978&token=blackghooost
+http://bgtv.site/play/play-551.php?c=11978&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dinosaurios" tvg-logo="https://static.wikia.nocookie.net/disney/images/4/4c/Dinosaurs_logo.png/revision/latest?cb=20121211183108&path-prefix=es" group-title="24/7",Dinosaurios
-http://bgtv.site/play/play-555.php?c=11069&token=blackghooost
+http://bgtv.site/play/play-551.php?c=11069&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="cinemadisney" tvg-logo="" group-title="24/7", Cinema Disney Family
-http://bgtv.site/play/play-555.php?c=38702&token=blackghooost
+http://bgtv.site/play/play-551.php?c=38702&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7",Dr. House
-http://bgtv.site/play/play-555.php?c=11982&token=blackghooost
+http://bgtv.site/play/play-551.php?c=11982&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Friends" tvg-logo="https://p7.hiclipart.com/preview/840/692/965/5bbc448fd13e2.jpg" group-title="24/7",Friends
-http://bgtv.site/play/play-555.php?c=94200&token=blackghooost
+http://bgtv.site/play/play-551.php?c=94200&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Thundercats" tvg-logo="https://w0.peakpx.com/wallpaper/970/591/HD-wallpaper-thundercats-logo.jpg" group-title="24/7",Los Thundercats
-http://bgtv.site/play/play-555.php?c=2372&token=blackghooost
+http://bgtv.site/play/play-551.php?c=2372&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pantera Rosa 80s" tvg-logo="https://i.pinimg.com/550x/fd/22/b4/fd22b489f86fa249bf28e51bd146d244.jpg" group-title="24/7",Pantera Rosa 80s
-http://bgtv.site/play/play-555.php?c=11989&token=blackghooost
+http://bgtv.site/play/play-551.php?c=11989&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="peluche" tvg-logo="https://play-lh.googleusercontent.com/UqAjl7zR-geNjB0ygQAtqrE5aFzIkj4oVs1GLODgxujKO3-ciXdHOkCB97WVCF2mCA" group-title="24/7",Familia Peluche
-http://bgtv.site/play/play-555.php?c=2360&token=blackghooost
+http://bgtv.site/play/play-551.php?c=2360&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LooneyTunes" tvg-logo="https://www.pngkit.com/png/detail/321-3216119_looney-tunes-image-looney-tunes-logo-png.png" group-title="24/7",Looney Tunes
-http://bgtv.site/play/play-555.php?c=12008&token=blackghooost
+http://bgtv.site/play/play-551.php?c=12008&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="pajaroloco" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdCq7F0JBEJAVMhNOefcJKwyHQmvpt2iejEQ&usqp=CAU" group-title="24/7",Pajaro Loco
-http://bgtv.site/play/play-555.php?c=12020&token=blackghooost
+http://bgtv.site/play/play-551.php?c=12020&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="24/7", Marvel
-http://bgtv.site/play/play-555.php?c=12071&token=blackghooost
+http://bgtv.site/play/play-551.php?c=12071&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="picapiedras" tvg-logo="" group-title="24/7", Picapiedra
-http://bgtv.site/play/play-555.php?c=38710&token=blackghooost
+http://bgtv.site/play/play-551.php?c=38710&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jneutron" tvg-logo="https://static.wikia.nocookie.net/jimmyneutron/images/c/ce/Jimmy-Neutron-Logo.jpg/revision/latest?cb=20161002181201" group-title="24/7", Jimmy Neutron
-http://bgtv.site/play/play-555.php?c=12015&token=blackghooost
+http://bgtv.site/play/play-551.php?c=12015&token=blackghooost
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JonBravo" tvg-logo="https://assets.fanart.tv/fanart/tv/76201/hdtvlogo/johnny-bravo-55834be7de52c.png" group-title="24/7", Johnny Bravo
-http://bgtv.site/play/play-555.php?c=40846&token=blackghooost
+http://bgtv.site/play/play-551.php?c=40846&token=blackghooost
 
-
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALF 2" tvg-logo="" group-title="24/7_2",ALF 2
-http://bgtv.site/play/play-555.php?c=2321&token=blackghooost
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animaniacs" tvg-logo="https://www.pngmart.com/files/22/Animaniacs-PNG-Isolated-File.png" group-title="24/7_2",Animaniacs 2
-http://bgtv.site/play/play-518.php?c=12038&token=blackblackblackghooooooost
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Años Maravillosos" tvg-logo="https://ih1.redbubble.net/image.2131767850.4358/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7_2",Años Maravillosos
-http://bgtv.site/play/play-555.php?c=40788&token=blackghooost
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="dexter" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/d/dc/221975_10150172117895680_1273681_n.jpg/revision/latest/scale-to-width-down/350?cb=20130921015205&path-prefix=es" group-title="24/7_2",Laboratorio de Dexter
-http://bgtv.site/play/play-555.php?c=11978&token=blackghooost
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dinosaurios" tvg-logo="https://static.wikia.nocookie.net/disney/images/4/4c/Dinosaurs_logo.png/revision/latest?cb=20121211183108&path-prefix=es" group-title="24/7_2",Dinosaurios
-http://bgtv.site/play/play-555.php?c=11069&token=blackghooost
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="disneyfamily" tvg-logo="" group-title="24/7_2", Cinema Disney Family
-http://bgtv.site/play/play-555.php?c=38702&token=blackghooost
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7_2",Dr. House
-http://bgtv.site/play/play-555.php?c=11982&token=blackghooost
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Friends" tvg-logo="https://p7.hiclipart.com/preview/840/692/965/5bbc448fd13e2.jpg" group-title="24/7_2",Friends
-http://bgtv.site/play/play-555.php?c=94200&token=blackghooost
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="" group-title="24/7_2", Big Bang Theory
-http://bgtv.site/play/play-555.php?c=12010&token=blackghooost
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Thundercats" tvg-logo="https://w0.peakpx.com/wallpaper/970/591/HD-wallpaper-thundercats-logo.jpg" group-title="24/7_2",Los Thundercats
-http://bgtv.site/play/play-555.php?c=2372&token=blackghooost
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pantera Rosa 80s" tvg-logo="https://i.pinimg.com/550x/fd/22/b4/fd22b489f86fa249bf28e51bd146d244.jpg" group-title="24/7_2",Pantera Rosa 80s
-http://bgtv.site/play/play-555.php?c=11989&token=blackghooost
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="peluche" tvg-logo="https://play-lh.googleusercontent.com/UqAjl7zR-geNjB0ygQAtqrE5aFzIkj4oVs1GLODgxujKO3-ciXdHOkCB97WVCF2mCA" group-title="24/7_2",Familia Peluche
-http://bgtv.site/play/play-555.php?c=2360&token=blackghooost
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LooneyTunes" tvg-logo="https://www.pngkit.com/png/detail/321-3216119_looney-tunes-image-looney-tunes-logo-png.png" group-title="24/7_2",Looney Tunes
-http://bgtv.site/play/play-555.php?c=12008&token=blackghooost
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="pajaroloco" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdCq7F0JBEJAVMhNOefcJKwyHQmvpt2iejEQ&usqp=CAU" group-title="24/7_2",Pajaro Loco
-http://bgtv.site/play/play-555.php?c=12020&token=blackghooost
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="24/7_2", Marvel
-http://bgtv.site/play/play-555.php?c=12071&token=blackghooost
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="picapiedras" tvg-logo="" group-title="24/7_2", Picapiedra
-http://bgtv.site/play/play-555.php?c=38710&token=blackghooost
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jneutron" tvg-logo="https://static.wikia.nocookie.net/jimmyneutron/images/c/ce/Jimmy-Neutron-Logo.jpg/revision/latest?cb=20161002181201" group-title="24/7_2", Jimmy Neutron
-http://bgtv.site/play/play-555.php?c=12015&token=blackghooost
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JonBravo" tvg-logo="https://assets.fanart.tv/fanart/tv/76201/hdtvlogo/johnny-bravo-55834be7de52c.png" group-title="24/7_2", Johnny Bravo
-http://bgtv.site/play/play-555.php?c=40846&token=blackghooost
 
 
 
