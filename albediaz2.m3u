@@ -19,7 +19,7 @@ http://45.166.92.22:58001/play/a04c/index.m3u8
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos",Adult 1
-http://tv.nousiptv.com:8080/visita/visita/7130
+http://173.225.246.25:8889/udp/239.203.20.196:4001
 #EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos",Adult 2
 http://tv.nousiptv.com:8080/visita/visita/1156129
 
