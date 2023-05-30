@@ -150,6 +150,19 @@ https://stmv2.zcasthn.com.br/supertv/supertv/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w781716611.m3u8
 #EXTINF:-1 tvg-id="WOWDirectResponseTv.us" tvg-name="WOW tv" tvg-logo="https://i.imgur.com/xGkDbcR.png" group-title="todos" tvg-shift="-6",WOW tv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032017/untitled-2_15.png?itok=Ps6ewae2" group-title="todos" tvg-shift="-6",AXN HD
+http://45.181.122.145:8000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="FMH FAMILY" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="todos" tvg-shift="-6",FMH FAMILY
+http://45.160.15.130:2909/play/a169
+#EXTINF:-1 tvg-id="-1" tvg-name="FMH MOVIES" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-movies.jpg" group-title="todos" tvg-shift="-6",FMH MOVIES
+http://45.160.15.130:2909/play/a16b
+
+
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Visión Dorada | CO" tvg-logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg" group-title="todos" tvg-shift="-6",Canal Visión Dorada | CO
 https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Luna TV | DO" tvg-logo="https://lh3.googleusercontent.com/-gNwkGNBw7kQ/XzgR58ws75I/AAAAAAAA4Ro/RDsdgWvXHrE7Ow_6xDAjXEupxv0X5eIiQCK8BGAsYHg/s0/2020-08-15.png" group-title="todos" tvg-shift="-6",Luna TV | DO
@@ -416,12 +429,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 
 
 
-#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032017/untitled-2_15.png?itok=Ps6ewae2" group-title="todos" tvg-shift="-6",AXN HD
-http://45.181.122.145:8000/play/a01j/index.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="FMH FAMILY" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="todos" tvg-shift="-6",FMH FAMILY
-http://45.160.15.130:2909/play/a169
-#EXTINF:-1 tvg-id="-1" tvg-name="FMH MOVIES" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-movies.jpg" group-title="todos" tvg-shift="-6",FMH MOVIES
-http://45.160.15.130:2909/play/a16b
 
 
 
