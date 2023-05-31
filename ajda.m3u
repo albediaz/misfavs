@@ -308,18 +308,28 @@ http://190.61.102.67:31589/play/a00h/index.m3u8
 http://190.61.102.67:31589/play/a039/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A+" tvg-logo="https://pbs.twimg.com/media/C7aA2AtU8AEckV8?format=jpg&name=large" group-title="todos" tvg-shift="-6",A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+
+
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16521_dark_360w_270h.png" group-title="todos" tvg-shift="-6",Unicable
 http://190.61.102.67:31589/play/a08f/index.m3u8
 #EXTINF:-1 tvg-id="TelemundoInternacional.mx" tvg-name="TELEMUNDO 48" tvg-logo="https://www.grupoisos.com/wp-content/uploads/2022/05/Imagen-Telemundo-vale.jpg" group-title="todos" tvg-shift="-6",TELEMUNDO 48
 http://190.60.39.62:8000/play/a02g
 #EXTINF:-1 tvg-id="TelemundoInternacional.mx" tvg-name="TELEMUNDO LA" tvg-logo="https://www.grupoisos.com/wp-content/uploads/2022/05/Imagen-Telemundo-vale.jpg" group-title="todos" tvg-shift="-6",TELEMUNDO LA
 http://45.166.92.22:58001/play/a00r/index.m3u8
+#EXTINF:-1 tvg-id="TelemundoInternacional.mx" tvg-name="TELEMUNDO DL" tvg-logo="https://www.grupoisos.com/wp-content/uploads/2022/05/Imagen-Telemundo-vale.jpg" group-title="todos" tvg-shift="-6",TELEMUNDO DALLAS
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42003
+
 #EXTINF:-1 tvg-id="UnivisionNetwork.mx" tvg-name="univision" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="todos" tvg-shift="-6",univision
 http://173.225.246.25:8889/udp/239.203.20.171:4001
 #EXTINF:-1 tvg-id="UnivisionTDN.mx" tvg-name="univision" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="todos" tvg-shift="-6",univision
 http://72.76.116.158:8000/play/a07t/index.m3u8
 #EXTINF:-1 tvg-id="UnivisionNetwork.mx" tvg-name="univision" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="todos" tvg-shift="-6",univision
 http://181.189.243.254:8000/play/a0v0/index.m3u8
+
+
+#EXTINF:-1 tvg-id="NFL.US" tvg-name="NFL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="todos" tvg-shift="0",NFL NETWORK
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15891
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="todos" tvg-shift="-6",TUDN
 http://181.189.243.254:8000/play/a0ud/index.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="todos" tvg-shift="-6",Claro Sports
