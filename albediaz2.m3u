@@ -2,80 +2,109 @@
 
 
 
-#EXTINF:-1 tvg-id="Playboy.mx" tvg-name="Playboy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54335_dark_360w_270h.png" group-title="todos",Playboy
+#EXTINF:-1 tvg-id="Playboy.mx" tvg-name="Playboy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54335_dark_360w_270h.png" group-title="XXX",Playboy
 http://181.189.243.254:8000/play/a0ow/index.m3u8
-#EXTINF:-1 tvg-id="Venus.mx" tvg-name="Venus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16498_dark_360w_270h.png" group-title="todos",Venus
+#EXTINF:-1 tvg-id="Venus.mx" tvg-name="Venus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16498_dark_360w_270h.png" group-title="XXX",Venus
 http://45.5.118.213:16000/play/a0lc/index.m3u8
-#EXTINF:-1 tvg-id="Playboy.mx" tvg-name="Playboy HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54335_dark_360w_270h.png" group-title="todos",Playboy HD
+#EXTINF:-1 tvg-id="Playboy.mx" tvg-name="Playboy HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54335_dark_360w_270h.png" group-title="XXX",Playboy HD
 http://181.189.243.254:8000/play/a0ow/index.m3u8
-#EXTINF:-1 tvg-id="Venus.mx" tvg-name="VENUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16498_dark_360w_270h.png" group-title="todos",VENUS
+#EXTINF:-1 tvg-id="Venus.mx" tvg-name="VENUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16498_dark_360w_270h.png" group-title="XXX",VENUS
 http://45.5.118.213:16000/play/a0lc/index.m3u8
-#EXTINF:-1 tvg-id="SeXtreme.mx" tvg-name="SEX XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72143_dark_360w_270h.png" group-title="todos",SEX XTREME
-http://191.97.55.241:8000/play/a08j/index.m3u8
-#EXTINF:-1 tvg-id="Hustler.us" tvg-name="HUSTLER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45498_dark_360w_270h.png" group-title="todos",HUSTLER
+#EXTINF:-1 tvg-id="SeXtreme.mx" tvg-name="SEX XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72143_dark_360w_270h.png" group-title="XXX",SEX XTREME
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/578
+#EXTINF:-1 tvg-id="Hustler.us" tvg-name="HUSTLER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45498_dark_360w_270h.png" group-title="XXX",HUSTLER
 http://45.166.92.22:58001/play/a04s/index.m3u8
-#EXTINF:-1 tvg-id="PenthouseTV.mx" tvg-name="Penthouse" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73704_dark_360w_270h.png" group-title="todos",Penthouse
+#EXTINF:-1 tvg-id="PenthouseTV.mx" tvg-name="Penthouse" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73704_dark_360w_270h.png" group-title="XXX",Penthouse
 http://45.166.92.22:58001/play/a04c/index.m3u8
+#EXTINF:-1 tvg-id="sexmex" tvg-name="Sexmex" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX", SEXMEX
 
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos",Adult 1
-http://173.225.246.25:8889/udp/239.203.20.196:4001
-#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos",Adult 2
-http://tv.nousiptv.com:8080/visita/visita/1156129
-
-
-
-
-#EXTINF:-1 tvg-id="sexmex" tvg-name="Sexmex" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos", SEXMEX
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24333
-#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos",Adult 3
-http://tv.nousiptv.com:8080/visita/visita/1156130
-#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos",Adult 4
-http://tv.nousiptv.com:8080/visita/visita/1156131
-#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos",Adult 5
-http://tv.nousiptv.com:8080/visita/visita/47989
-#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos",Adult 6
-http://tv.nousiptv.com:8080/visita/visita/47990
-#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos",Adult 7
-http://tv.nousiptv.com:8080/visita/visita/1156132
-#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos",Adult 8
-http://tv.nousiptv.com:8080/visita/visita/18550
-#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos",Adult 9
-http://tv.nousiptv.com:8080/visita/visita/47991
-#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos",Adult 10
-http://tv.nousiptv.com:8080/visita/visita/17190
-#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos",Adult 11
-http://tv.nousiptv.com:8080/visita/visita/1071030
-
-
-
-EXTINF:-1 tvg-id="mofotv" tvg-name="privatetv" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos", Mofo
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24330
-#EXTINF:-1 tvg-id="Playboy.mx" tvg-name="playboy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54335_dark_360w_270h.png" group-title="todos",playboy tv
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24329
-#EXTINF:-1 tvg-id="Playboy.mx" tvg-name="playboy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54335_dark_360w_270h.png" group-title="todos",playboy tv
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24328
-EXTINF:-1 tvg-id="miakhakifa" tvg-name="privatetv" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos",Mia Khalifa
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24327
-EXTINF:-1 tvg-id="miakhakifa" tvg-name="privatetv" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="todos",Mia Khalifa
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24326
-#EXTINF:-1 tvg-id="BrazzersTV.mx" tvg-name="Brazzers TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16790_dark_360w_270h.png" group-title="todos",Brazzers TV
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24324
-#EXTINF:-1 tvg-id="BrazzersTV.mx" tvg-name="Brazzers TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16790_dark_360w_270h.png" group-title="todos",Brazzers TV
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24322
-
-#EXTINF:-1 tvg-id="RealExtreme.us" tvg-name="RealExtreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101419_dark_360w_270h.png" group-title="todos",RealExtreme
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24321
-
-#EXTINF:-1 tvg-id="TenXX5.us" tvg-name="TEN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71933_dark_360w_270h.png" group-title="todos",TEN
+#EXTINF:-1 tvg-id="TenXX5.us" tvg-name="TEN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71933_dark_360w_270h.png" group-title="XXX",TEN
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24319
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RK" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rk.png" group-title="todos",RK
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24317
-#EXTINF:-1 tvg-id="XTSYSpanish.co" tvg-name="XTSY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62681_dark_360w_270h.png" group-title="todos",XTSY
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24316
 
-#EXTINF:-1 tvg-id="Venus.mx" tvg-name="venus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16498_dark_360w_270h.png" group-title="todos",venus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Milf tv
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24314
+
+#EXTINF:-1 tvg-id="BrazzersTV.mx" tvg-name="Brazzers TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16790_dark_360w_270h.png" group-title="todos",Brazzers TV
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 1
+http://173.225.246.25:8889/udp/239.203.20.196:4001
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 2
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24333
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 3
+http://sudaka.link:25461/Ana/12345/14475
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 4
+http://sudaka.link:25461/Ana/12345/14478
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 5
+http://sudaka.link:25461/Ana/12345/14479
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 6
+http://sudaka.link:25461/Ana/12345/14485
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 7
+http://sudaka.link:25461/Ana/12345/14491
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 8
+http://sudaka.link:25461/Ana/12345/14493
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 9
+http://sudaka.link:25461/Ana/12345/14494
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 10
+http://sudaka.link:25461/Ana/12345/14495
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 11
+http://sudaka.link:25461/Ana/12345/14500
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 12
+http://sudaka.link:25461/Ana/12345/14501
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 13
+http://sudaka.link:25461/Ana/12345/14502
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 14
+http://sudaka.link:25461/Ana/12345/14503
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 15
+http://sudaka.link:25461/Ana/12345/14506
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 16
+http://sudaka.link:25461/Ana/12345/14507
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 17
+http://sudaka.link:25461/Ana/12345/14509
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 18
+http://sudaka.link:25461/Ana/12345/14510
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 19
+http://sudaka.link:25461/Ana/12345/14511
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 20
+http://sudaka.link:25461/Ana/12345/14512
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 21
+http://sudaka.link:25461/Ana/12345/14513
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 22
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/577
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 23
+http://sudaka.link:25461/Ana/12345/14515
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 24
+http://sudaka.link:25461/Ana/12345/14516
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 25
+http://sudaka.link:25461/Ana/12345/14517
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 26
+http://sudaka.link:25461/Ana/12345/14518
+#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 27
+
+
+
+
+
+
 
 
 
