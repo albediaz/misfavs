@@ -460,7 +460,10 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 
 
 
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://blogbibliotecacid.files.wordpress.com/2017/12/pinkyandthebrain.jpg" group-title="24/7" tvg-shift="", Pinky y Cerebro
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/894
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3b/Inspector-ardilla-abrigo-01.jpg/revision/latest?cb=20130812002948&path-prefix=es" group-title="24/7" tvg-shift="", Inspector Ardilla
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/828
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malcom" tvg-logo="https://seeklogo.com/images/M/malcolm-in-the-middle-tv-show-logo-B4FD66AFE3-seeklogo.com.png" group-title="24/7" tvg-shift="-6",Malcolm
 http://bgtv.site/play/play-551.php?c=38716&token=blackblackblack
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL ENCANTADOR DE PERROS" tvg-logo="https://www.formulatv.com/images/programas/posters/300/322/dest_3.jpg" group-title="24/7" tvg-shift="-6",EL ENCANTADOR DE PERROS
