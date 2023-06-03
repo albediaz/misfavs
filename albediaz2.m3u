@@ -194,8 +194,8 @@ http://45.160.15.130:2909/play/a16b
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Visión Dorada | CO" tvg-logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg" group-title="todos" tvg-shift="-6",Canal Visión Dorada | CO
 https://movil.ejeserver.com/live/visiondorada.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Luna TV | DO" tvg-logo="https://lh3.googleusercontent.com/-gNwkGNBw7kQ/XzgR58ws75I/AAAAAAAA4Ro/RDsdgWvXHrE7Ow_6xDAjXEupxv0X5eIiQCK8BGAsYHg/s0/2020-08-15.png" group-title="todos" tvg-shift="-6",Luna TV | DO
-https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="supercanal" tvg-logo="" group-title="todos" tvg-shift="-6",Super canal
+https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Megavision | DO" tvg-logo="https://lh3.googleusercontent.com/-jxMdnwq3fxw/XzgSNxgvHSI/AAAAAAAA4Rw/eev6AGnJag8MDN1kt76lQwfraDPAIsnDACK8BGAsYHg/s0/2020-08-15.png" group-title="todos" tvg-shift="-6",Megavision | DO
 http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINECANAL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="todos" tvg-shift="-6",CINECANAL HD
