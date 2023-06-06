@@ -196,8 +196,8 @@ http://45.160.15.130:2909/play/a16b
 https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="supercanal" tvg-logo="" group-title="todos" tvg-shift="-6",Super canal
 https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="TOPCINE" tvg-name="TOPCINE" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/topcine.png" group-title="todos" tvg-shift="", TOP CINE
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?url=https%3A%2F%2Fwww.freetv.com%2Fpeliculas%2Ftop-cine%2F&genre=-Originales+de+FreeTV-%2C+Pel%C3%ADculas&ic=&us_privacy=2021&coppa=0&user_id=&ip=189.203.89.201&ipv6=&c_duration=3600&c_producer=topcine&c_rating=TV-MA&c_lang=es&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F114.0.0.0+Safari%2F537.36+Edg%2F114.0.1823.37&hls_marker=1&content_channel=Top+Cine&content_title=&content_genre=&gdpr=0&player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Megavision | DO" tvg-logo="https://lh3.googleusercontent.com/-jxMdnwq3fxw/XzgSNxgvHSI/AAAAAAAA4Rw/eev6AGnJag8MDN1kt76lQwfraDPAIsnDACK8BGAsYHg/s0/2020-08-15.png" group-title="todos" tvg-shift="-6",Megavision | DO
+http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINECANAL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="todos" tvg-shift="-6",CINECANAL HD
 http://45.5.118.213:16000/play/a0ne/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINECANAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="todos" tvg-shift="-6",CINECANAL
