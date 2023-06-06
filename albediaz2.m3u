@@ -1,6 +1,25 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/5z3ende2q9urv8wryqpk"
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Brazzers" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41GJN0p32yL._AC_.jpg" group-title="XXX ADULTOS",Brazzers
+http://rasb.us:8880/alfonso/cambio/181
+#EXTINF:-1 tvg-id="" tvg-name="Hustler" tvg-logo="https://www.pasjatv.pl/files/tv/photo/max/149684465672_hustler_hd.jpg" group-title="XXX ADULTOS",Hustler
+http://rasb.us:8880/alfonso/cambio/183
+#EXTINF:-1 tvg-id="" tvg-name="Playboy" tvg-logo="https://ichef.bbci.co.uk/news/640/cpsprodpb/118E/production/_98049440_463ebdce-bddb-4485-a0ff-1dccc87b6a22.jpg" group-title="XXX ADULTOS",Playboy
+http://rasb.us:8880/alfonso/cambio/184
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse Quickies " tvg-logo="https://img15.lostpic.net/2019/10/20/e406cbfc21860a30219c7f57f9102e2e.png" group-title="XXX ADULTOS",Penthouse Quickies 
+http://rasb.us:8880/alfonso/cambio/189
+#EXTINF:-1 tvg-id="" tvg-name="Dorcel XXX" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/362x263-dorcel-xxx-36958.png" group-title="XXX ADULTOS",Dorcel XXX
+http://rasb.us:8880/alfonso/cambio/191
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS 2" tvg-logo="https://thumbs.dreamstime.com/b/contenido-del-adulto-xxx-36739011.jpg" group-title="XXX ADULTOS",ADULTOS 2
+http://rasb.us:8880/alfonso/cambio/193
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS 3" tvg-logo="https://st.depositphotos.com/1915171/3504/i/950/depositphotos_35046753-stock-photo-xxx-adults-only-content-sign.jpg" group-title="XXX ADULTOS",ADULTOS 3
+http://rasb.us:8880/alfonso/cambio/194
+#EXTINF:-1 tvg-id="" tvg-name="18+" tvg-logo="https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png" group-title="XXX ADULTOS",18+
+http://rasb.us:8880/alfonso/cambio/196
+
+
+
 
 #EXTINF:-1 tvg-id="Playboy.mx" tvg-name="Playboy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54335_dark_360w_270h.png" group-title="XXX",Playboy
 http://181.189.243.254:8000/play/a0ow/index.m3u8
