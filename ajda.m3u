@@ -73,7 +73,8 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 #EXTINF:-1 tvg-id="WOWDirectResponseTv.us" tvg-name="WOW tv" tvg-logo="https://i.imgur.com/xGkDbcR.png" group-title="todos" tvg-shift="-6",WOW tv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
-
+#EXTINF:0,DISTRITO COMEDIA (MX)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27993
 
 
 
@@ -340,6 +341,13 @@ http://190.149.66.90:16000/play/a009/index.m3u8
 http://190.61.102.67:31589/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos" tvg-shift="-6",Fox Sports
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/40.m3u8
+
+#EXTINF:0,FOX SPORTS 2 (MX)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28009
+#EXTINF:0,FOX SPORTS 3 (MX)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28010
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN+" tvg-logo="https://m.media-amazon.com/images/I/41lChb5Q+KL.png" group-title="todos" tvg-shift="-6",ESPN+
 http://45.228.232.204:16000/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="todos" tvg-shift="-6",ESPN
@@ -359,6 +367,8 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 
 
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://cinepremiere.com.mx/imgsHistorico/u18/DonGato_Logo.jpg" group-title="24/7" tvg-shift="", Don Gato Y su Pandilla
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/120440
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://blogbibliotecacid.files.wordpress.com/2017/12/pinkyandthebrain.jpg" group-title="24/7" tvg-shift="", Pinky y Cerebro
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/894
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3b/Inspector-ardilla-abrigo-01.jpg/revision/latest?cb=20130812002948&path-prefix=es" group-title="24/7" tvg-shift="", Inspector Ardilla
