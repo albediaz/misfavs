@@ -73,7 +73,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 #EXTINF:-1 tvg-id="WOWDirectResponseTv.us" tvg-name="WOW tv" tvg-logo="https://i.imgur.com/xGkDbcR.png" group-title="todos" tvg-shift="-6",WOW tv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
-#EXTINF:0,DISTRITO COMEDIA (MX)
+#EXTINF:0, tvg-logo="https://www.dafont.com/forum/attach/orig/9/9/994013.png", DISTRITO COMEDIA (MX)
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27993
 
 
