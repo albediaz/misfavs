@@ -503,9 +503,11 @@ http://bgtv.site/play/play-699.php?c=38716&token=holamundobg
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alf" tvg-logo="https://es.digitaltrends.com/wp-content/uploads/2022/02/180-alf.jpg?p=1" group-title="24/7" tvg-shift="-6",Alf
 http://bgtv.site/play/play-699.php?c=2321&token=holamundobg
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="-6",bigbang
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="",bigbang
 http://bgtv.site/play/41-699.php?dark=519&token=holamundobg
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animaniacs" tvg-logo="https://www.pngmart.com/files/22/Animaniacs-PNG-Isolated-File.png" group-title="24/7" tvg-shift="-6",Animaniacs
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="",bigbang 2
+http://00322.xyz:8000/rances123/9IFBBCRBIX/2563
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animan#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="-6",bigbangiacs" tvg-logo="https://www.pngmart.com/files/22/Animaniacs-PNG-Isolated-File.png" group-title="24/7" tvg-shift="-6",Animaniacs
 http://bgtv.site/play/play-699.php?c=12038&token=holamundobg
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Años Maravillosos" tvg-logo="https://ih1.redbubble.net/image.2131767850.4358/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7" tvg-shift="-6",Años Maravillosos
 http://bgtv.site/play/play-699.php?c=40788&token=holamundobg
@@ -513,6 +515,8 @@ http://bgtv.site/play/play-699.php?c=40788&token=holamundobg
 http://bgtv.site/play/41-699.php?mega=522&token=holamundobg
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TWOMAN" tvg-logo="https://pics.filmaffinity.com/Two_and_a_Half_Men_TV_Series-936619362-large.jpg" group-title="24/7" tvg-shift="", Dos Hombre y Medio
 http://bgtv.site/play/play-699.php?c=57516&token=holamundobg
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TWOMAN" tvg-logo="https://pics.filmaffinity.com/Two_and_a_Half_Men_TV_Series-936619362-large.jpg" group-title="24/7" tvg-shift="", Dos Hombre y Medio 3
+http://00322.xyz:8000/rances123/9IFBBCRBIX/3378
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="dexter" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/d/dc/221975_10150172117895680_1273681_n.jpg/revision/latest/scale-to-width-down/350?cb=20130921015205&path-prefix=es" group-title="24/7" tvg-shift="-6",dexter
 http://bgtv.site/play/play-699.php?c=11978&token=holamundobg
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dinosaurios" tvg-logo="https://static.wikia.nocookie.net/disney/images/4/4c/Dinosaurs_logo.png/revision/latest?cb=20121211183108&path-prefix=es" group-title="24/7" tvg-shift="-6",Dinosaurios
