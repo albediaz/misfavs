@@ -3,13 +3,13 @@
 
 
 
-#EXTINF:-1 tvg-id="HBO.co" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-6",HBO
+#EXTINF:-1 tvg-id="HBO.co" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="" audio-track="spa", HBO
 http://45.166.92.22:58001/play/a03s/index.m3u8
-#EXTINF:-1 tvg-id="HBO.co" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-6",HBO HD
+#EXTINF:-1 tvg-id="HBO.co" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="" audio-track="spa", HBO HD
 http://190.83.60.34:1414/play/a03q
-#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-6",HBO HD
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="" audio-track="spa", HBO HD
 http://45.160.15.130:2909/play/017
-#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-6",HBO HD
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="" audio-track="spa", HBO HD
 http://45.181.122.145:8000/play/a00c/index.m3u8
 
 
