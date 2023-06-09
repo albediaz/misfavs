@@ -426,3 +426,7 @@ http://bgtv.site/play/play-699.php?c=40846&token=holamundobg
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vecinos" tvg-logo="" group-title="24/7" tvg-shift="", Vecinos
 http://00322.xyz:8000/rances123/9IFBBCRBIX/154856
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vecinos" tvg-logo="" group-title="24/7" tvg-shift="", Vecinos 2
+https://linear-314.frequency.stream/314/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vecinos" tvg-logo="" group-title="24/7" tvg-shift="", Una Familia de 10
+https://linear-450.frequency.stream/450/hls/master/playlist.m3u8
