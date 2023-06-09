@@ -523,10 +523,12 @@ http://bgtv.site/play/play-699.php?c=11978&token=holamundobg
 http://bgtv.site/play/play-699.php?c=11069&token=holamundobg
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="cinemadisney" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/6/62/Disney_Cinema_2015.png/revision/latest/scale-to-width-down/532?cb=20180101231829" group-title="24/7" tvg-shift="-6",cinemadisney
 http://bgtv.site/play/play-699.php?c=38702&token=holamundobg
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" tvg-shift="-6",drhouse
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" tvg-shift="-6", Dr. House
 http://bgtv.site/play/play-699.php?c=11982&token=holamundobg
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Friends" tvg-logo="https://p7.hiclipart.com/preview/840/692/965/5bbc448fd13e2.jpg" group-title="24/7" tvg-shift="-6",Friends
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Friends" tvg-logo="https://p7.hiclipart.com/preview/840/692/965/5bbc448fd13e2.jpg" group-title="24/7" tvg-shift="", Friends
 http://bgtv.site/play/play-699.php?c=94200&token=holamundobg
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Friends" tvg-logo="https://p7.hiclipart.com/preview/840/692/965/5bbc448fd13e2.jpg" group-title="24/7" tvg-shift="", Friends 2
+http://00322.xyz:8000/rances123/9IFBBCRBIX/159349
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Thundercats" tvg-logo="https://w0.peakpx.com/wallpaper/970/591/HD-wallpaper-thundercats-logo.jpg" group-title="24/7" tvg-shift="-6",Los Thundercats
 http://bgtv.site/play/play-699.php?c=2372&token=holamundobg
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pantera Rosa 80s" tvg-logo="https://i.pinimg.com/550x/fd/22/b4/fd22b489f86fa249bf28e51bd146d244.jpg" group-title="24/7" tvg-shift="-6",Pantera Rosa 80s
@@ -546,20 +548,23 @@ http://bgtv.site/play/play-699.php?c=12015&token=holamundobg
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JonBravo" tvg-logo="https://assets.fanart.tv/fanart/tv/76201/hdtvlogo/johnny-bravo-55834be7de52c.png" group-title="24/7" tvg-shift="-6",JonBravo
 http://bgtv.site/play/play-699.php?c=40846&token=holamundobg
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vecinos" tvg-logo="" group-title="24/7" tvg-shift="", Vecinos
+http://00322.xyz:8000/rances123/9IFBBCRBIX/154856
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XEW" tvg-logo="" group-title="todos",XEW
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XEW" tvg-logo="" group-title="todos",2 XEW
 dtv://antenna:32/atsc/2/1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XHCTMX" tvg-logo="" group-title="todos",XHCTMX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XHCTMX" tvg-logo="" group-title="todos", 3 XHCTMX
 dtv://antenna:29/atsc/3/1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XHTV" tvg-logo="" group-title="todos",XHTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XHTV" tvg-logo="" group-title="todos", 4 XHTV
 dtv://antenna:15/atsc/4/1
-#EXTINF:-1 tvg-id="XHGC.mx" tvg-name="XHGC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="todos",XHGC
+#EXTINF:-1 tvg-id="XHGC.mx" tvg-name="XHGC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="todos", 5 XHGC
 dtv://antenna:31/atsc/5/1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XHTDMX1" tvg-logo="" group-title="todos",XHTDMX1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XHTDMX1" tvg-logo="" group-title="todos",6 XHTDMX1
 dtv://antenna:11/atsc/6/1
-#EXTINF:-1 tvg-id="XHIMT(Azteca7).mx" tvg-name="XHIMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" group-title="todos",XHIMT
+#EXTINF:-1 tvg-id="XHIMT(Azteca7).mx" tvg-name="XHIMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" group-title="todos", 7-1 XHIMT
 dtv://antenna:24/atsc/7/1
-#EXTINF:-1 tvg-id="XHIMT(Azteca7).mx" tvg-name="XHIMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" group-title="todos",XHIMT
+#EXTINF:-1 tvg-id="XHIMT(Azteca7).mx" tvg-name="XHIMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" group-title="todos", 7-2 XHIMT
 dtv://antenna:24/atsc/7/2
 
 
