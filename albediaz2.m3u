@@ -411,7 +411,7 @@ http://bgtv.site/play/play-650.php?16=639&token=blackghostlive
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" audio-track="spa", DISCOVERY CHANNEL
 http://45.166.92.22:58001/play/a01n/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group="todos", Discovery SCI
+#EXTINF:0 type="stream" channelId="-1" group="todos", Discovery Science
 http://bgtv.site/play/play-650.php?16=26&token=blackghostlive
 #EXTINF:0 type="stream" channelId="2839" group="todos", Discovery World
 http://bgtv.site/play/play-650.php?16=187&token=blackghostlive
