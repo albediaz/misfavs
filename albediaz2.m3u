@@ -172,9 +172,9 @@ http://45.181.122.145:8000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="todos" audio-track="spa", AMC
 http://190.27.253.211:8000/play/a078/index.m3u8
 #EXTINF:0 type="stream" channelId="2501" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group="todos" audio-track="spa", AMC
-http://bgtv.site/play/play-650.php?16=183&token=blackghostlive
+http://45.166.92.22:58001/play/a00q/index.m3u8
 #EXTINF:0 type="stream" channelId="2501" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group="todos" audio-track="spa", AMC HD
-http://bgtv.site/play/play-650.php?16=475&token=blackghostlive
+http://190.83.60.34:1414/play/a03m
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetaTV Movies | CL" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="todos" audio-track="spa", PlanetaTV Movies | CL
@@ -207,6 +207,8 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 http://204.199.120.34:16123/play/ch49
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tucine.mx" tvg-logo="https://lh3.googleusercontent.com/-jxMdnwq3fxw/XzgSNxgvHSI/AAAAAAAA4Rw/eev6AGnJag8MDN1kt76lQwfraDPAIsnDACK8BGAsYHg/s0/2020-08-15.png" group-title="todos" audio-track="spa", Tu Cine
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
+
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINECANAL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="todos" audio-track="spa", CINECANAL HD
 http://45.5.118.213:16000/play/a0ne/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINECANAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="todos" audio-track="spa", CINECANAL
@@ -249,8 +251,8 @@ http://177.234.230.226:8010/play/a00i/index.m3u8
 http://45.160.15.130:2909/play/085
 #EXTINF:-1 tvg-id="CanalSony.ar" tvg-name="SONY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" group-title="todos" audio-track="spa", SONY
 http://200.41.79.165:8000/play/a04h/index.m3u8
-#EXTINF:0 type="stream" channelId="530" group="todos", Sony HD
-http://bgtv.site/play/play-650.php?16=498&token=blackghostlive
+#EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="Sony Movies HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="todos" audio-track="spa", Sony Movies HD
+http://181.189.243.254:8000/play/a0qc/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="Sony Movies HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="todos" audio-track="spa", Sony Movies HD
 http://190.61.102.67:8000/play/a04w
 
@@ -261,8 +263,8 @@ http://204.199.120.34:16123/play/ch08
 http://45.166.92.22:58001/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="FX HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105689_dark_360w_270h.png" group-title="todos" audio-track="spa", FX HD
 http://45.160.15.130:2909/play/093
-#EXTINF:0 type="stream" channelId="1304" group="todos", FX HD
-http://bgtv.site/play/play-650.php?16=495&token=blackghostlive
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105689_dark_360w_270h.png" group-title="todos" audio-track="spa", FX HD
+http://170.254.172.10:8000/play/a03y/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="Paramount" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106214_dark_360w_270h.png" group-title="todos" audio-track="spa", Paramount
@@ -287,10 +289,14 @@ http://200.41.79.165:8000/play/a040/index.m3u8
 http://45.5.118.213:16000/play/a0nc/index.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="WARNER HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="todos" audio-track="spa", WARNER HD
 http://45.5.118.213:16000/play/a0mz/index.m3u8
-#EXTINF:0 type="stream" channelId="2903" group="todos", Warner Channel HD
-http://bgtv.site/play/play-650.php?16=503&token=blackghostlive
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="WARNER HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="todos" audio-track="spa", WARNER HD
+http://191.102.106.46:15028/play/a005/index.m3u8
+
+
 #EXTINF:-1 tvg-id="FilmandArts.co" tvg-name="Film&Arts" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" group-title="todos" audio-track="spa", Film&Arts
 http://45.166.92.22:58001/play/a00o/index.m3u8
+
+
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal tv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53218_dark_360w_270h.png" group-title="todos" audio-track="spa", Universal tv
 http://45.160.15.1:8111/play/a0pi
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal tv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53218_dark_360w_270h.png" group-title="todos" audio-track="spa", Universal tv
@@ -326,12 +332,7 @@ http://181.189.243.254:8000/play/a0t1/index.m3u8
 #EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="UNIVERSAL COMEDY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png" group-title="todos" audio-track="spa", UNIVERSAL COMEDY
 http://191.97.55.241:8000/play/a02y/index.m3u8
 
-#EXTINF:0 type="stream" channelId="4696" group="todos", Star HD
-http://bgtv.site/play/play-650.php?16=489&token=blackghostlive
-#EXTINF:0 type="stream" channelId="-1" group="todos", Starz Encore Action
-http://bgtv.site/play/play-650.php?16=682&token=blackghostlive
-#EXTINF:0 type="stream" channelId="-1" group="todos", Starz Encore Family
-http://bgtv.site/play/play-650.php?16=684&token=blackghostlive
+
 
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="STAR CHANNEL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="todos" audio-track="spa", STAR CHANNEL HD
 http://45.166.92.22:58001/play/a048/index.m3u8
@@ -344,10 +345,6 @@ http://190.61.102.67:8000/play/a04z
 #EXTINF:-1 tvg-id="StarTVE.mx" tvg-name="Star TVE HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106724_dark_360w_270h.png" group-title="todos" audio-track="spa", Star TVE HD
 http://181.189.243.254:8000/play/a0qf/index.m3u8
 
-#EXTINF:0 type="stream" channelId="4558" group="todos", Movie Max
-http://bgtv.site/play/play-650.php?16=678&token=blackghostlive
-#EXTINF:0 type="stream" channelId="-1" group="todos", Az Corazón
-http://bgtv.site/play/play-650.php?16=166&token=blackghostlive
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Clover HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXHWhljNSS32rolwDdiINS3leQTSwALGt8dQr4P=s900-c-k-c0x00ffffff-no-rj" group-title="todos" audio-track="spa", Clover HD
@@ -365,18 +362,7 @@ http://181.78.24.187:8006/play/a0c0/index.m3u8
 #EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SyFy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56727_dark_360w_270h.png" group-title="todos" audio-track="spa", SyFy
 http://177.234.230.226:8010/play/a01u/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group="todos", CDO Premium
-http://bgtv.site/play/play-650.php?16=401&token=blackghostlive
-#EXTINF:0 type="stream" channelId="-1" group="todos", Cine Comedia 2
-http://bgtv.site/play/play-650.php?16=696&token=blackghostlive
-#EXTINF:0 type="stream" channelId="-1" group="todos", Cine Ficcion/Fantasia 1
-http://bgtv.site/play/play-650.php?16=709&token=blackghostlive
-#EXTINF:0 type="stream" channelId="-1" group="todos", Cine Ficcion/Fantasia 2
-http://bgtv.site/play/play-650.php?16=710&token=blackghostlive
-#EXTINF:0 type="stream" channelId="-1" group="todos", Cine Infantil Sagas
-http://bgtv.site/play/play-650.php?16=694&token=blackghostlive
-#EXTINF:0 type="stream" channelId="-1" group="todos", Cine Romance
-http://bgtv.site/play/play-650.php?16=689&token=blackghostlive
+
 
 #EXTINF:-1 tvg-id="Eurochannel.mx" tvg-name="EURO Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16574_dark_360w_270h.png" group-title="todos" audio-track="spa", EURO Channel
 http://190.61.102.67:8000/play/a020
@@ -386,35 +372,45 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 http://45.5.118.213:16000/play/a0le/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE FAMILIAR" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png" group-title="todos" audio-track="spa", CINE FAMILIAR
 http://177.234.230.226:8010/play/a00v/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="todos" audio-track="spa", History Channel
 http://45.166.92.22:58001/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="todos" audio-track="spa", History Channel
 http://45.181.122.145:8000/play/a01f/index.m3u8
-#EXTINF:0 type="stream" channelId="1456" group="todos", History Channel HD
-http://bgtv.site/play/play-650.php?16=642&token=blackghostlive
+#EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="todos" audio-track="spa", History Channel
+http://191.102.106.46:15028/play/a003/index.m3u8
 
 
 #EXTINF:-1 tvg-id="History2.mx" tvg-name="History 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="todos" audio-track="spa", History 2
 http://45.181.122.145:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="History2.mx" tvg-name="H2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="todos" audio-track="spa", H2
 http://45.228.232.204:16000/play/a05b/index.m3u8
+
+
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="spa", National Geographic
 http://190.61.102.67:31589/play/a01l/index.m3u8
 #EXTINF:0 type="stream" channelId="56" group="todos", Nat Geo
-http://bgtv.site/play/play-650.php?16=76&token=blackghostlive
+http://190.122.186.88:8000/play/a0jr/index.m3u8
 #EXTINF:0 type="stream" channelId="164" group="todos", Nat Geo Wild
-http://bgtv.site/play/play-650.php?16=77&token=blackghostlive
+http://190.60.39.198:8000/play/a03p/index.m3u8
 #EXTINF:0 type="stream" channelId="207" group="todos", NatGeo HD
-http://bgtv.site/play/play-650.php?16=644&token=blackghostlive
+http://191.102.106.46:15028/play/a00z/index.m3u8
+
+
 #EXTINF:0 type="stream" channelId="341" group="todos", Discovery Channel HD
-http://bgtv.site/play/play-650.php?16=639&token=blackghostlive
+http://186.31.37.98:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" audio-track="spa", DISCOVERY CHANNEL
 http://45.166.92.22:58001/play/a01n/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="todos", Discovery Science
-http://bgtv.site/play/play-650.php?16=26&token=blackghostlive
+http://38.7.131.2:8000/play/a077/index.m3u8
 #EXTINF:0 type="stream" channelId="2839" group="todos", Discovery World
-http://bgtv.site/play/play-650.php?16=187&token=blackghostlive
+http://170.254.172.10:8000/play/a087/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="InvestigationDiscovery(English).mx" tvg-name="Discovery ID HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65342_dark_360w_270h.png" group-title="todos" audio-track="spa", Discovery ID HD
 http://190.83.60.34:1414/play/a02h
 #EXTINF:-1 tvg-id="InvestigationDiscovery(English).mx" tvg-name="Discovery ID" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65342_dark_360w_270h.png" group-title="todos" audio-track="spa", Discovery ID
@@ -452,16 +448,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PLUTO VIDA REAL" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" group-title="todos" audio-track="spa", PLUTO VIDA REAL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO CARTOON PLUTO" tvg-logo="https://static.wikia.nocookie.net/nicthic/images/b/b0/Retro_Cartoons_Logo_2005-2015.png/revision/latest?cb=20171003231210" group-title="todos" audio-track="spa", RETRO CARTOON PLUTO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="todos" audio-track="spa", CARTOON NETWORK
 http://45.5.118.213:16000/play/a0lo/index.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-id="Nickelodeon(English).mx" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="todos" audio-track="spa", Nickelodeon
 http://190.83.60.34:1414/play/a01s
 #EXTINF:-1 tvg-id="SinLimites.co" tvg-name="Sin Limites" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111169_dark_360w_270h.png" group-title="todos" audio-track="spa", Sin Limites
@@ -583,9 +573,13 @@ http://lbxc6.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/12010?token=HRNfAEBQ
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="",bigbang 2
 http://66.70.176.103:8081/247%7CLATEORIADELBIGBANGR/247%7CLATEORIADELBIGBANGR/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" audio-track="spa" tvg-shift="",bigbang 3
+http://bgtv.site/play/play-650.php?c=12010&token=blackghostlive
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://www.pngmart.com/files/22/Animaniacs-PNG-Isolated-File.png" group-title="24/7" tvg-shift="", Animaniacs
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="animaniacs" tvg-logo="https://www.pngmart.com/files/22/Animaniacs-PNG-Isolated-File.png" group-title="24/7" tvg-shift="", Animaniacs
 http://bgtv.site/play/play-650.php?c=12038&token=blackghostlive
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Años Maravillosos" tvg-logo="https://ih1.redbubble.net/image.2131767850.4358/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7" audio-track="spa", Años Maravillosos
 http://bgtv.site/play/play-650.php?c=40788&token=blackghostlive
@@ -647,6 +641,8 @@ http://bgtv.site/play/play-650.php?16=705&token=blackghostlive
 http://bgtv.site/play/play-650.php?16=914&token=blackghostlive
 #EXTINF:0 type="stream" channelId="-1" group="24/7", 24/7 El Gallo Claudio
 http://bgtv.site/play/play-650.php?16=845&token=blackghostlive
+
+
 
 
 
