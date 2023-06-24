@@ -84,7 +84,7 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27993
 
 
 #EXTINF:0 type="stream" channelId="2503" group="todos" audio-track="spa", A&E*
-http://bgtv.site/play/play-650.php?16=474&token=livebg
+http://bgtv.site/play/play-607.php?16=474&token=eraseandrewind
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032017/untitled-2_15.png?itok=Ps6ewae2" group-title="todos" audio-track="spa", AXN
 http://45.181.122.145:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="FMHFAMILY" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="todos" audio-track="spa", FMH FAMILY
@@ -326,13 +326,13 @@ http://45.228.232.204:16000/play/a072/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" audio-track="spa", Discovery Home & Health..
 http://45.5.118.213:16000/play/a0nw/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" audio-track="spa", Discovery Home & Health*...
-http://bgtv.site/play/play-650.php?16=24&token=livebg
+http://bgtv.site/play/play-607.php?16=24&token=eraseandrewind
 #EXTINF:-1 tvg-id="LoveNature(English).co" tvg-name="Love Nature" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/06/Love-Nature-1.png" group-title="todos" audio-track="spa", Love Nature
 http://181.78.8.90:16123/play/ch50
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group-title="todos" audio-track="spa", Animal Planet.
 http://204.199.120.34:16123/play/ch29
 #EXTINF:0 type="stream" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group="todos" audio-track="spa", Animal Planet*..
-http://bgtv.site/play/play-650.php?16=633&token=livebg
+http://bgtv.site/play/play-607.php?16=633&token=eraseandrewind
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Comedia Pluto" tvg-logo="https://i.blogs.es/999ffa/comediar/450_1000.webp" group-title="todos" audio-track="spa", Cine Comedia Pluto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -378,7 +378,7 @@ http://45.228.232.204:16000/play/a06j/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Plus Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/466deabbd42d619f75a9134701c3e39b.webp" group-title="todos" audio-track="spa", Retro Plus Tv
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="Movistar Deportes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87010_dark_360w_270h.png" group-title="todos" audio-track="spa", Movistar Deportes
-http://bgtv.site/play/play-650.php?16=366&token=livebg
+http://bgtv.site/play/play-607.php?16=366&token=eraseandrewind
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Plus" tvg-logo="https://tmbroadcast.es/wp-content/uploads/2021/03/Logo-Movistar-plus.jpg" group-title="todos" audio-track="spa", Movistar Plus
 http://191.97.55.241:8000/play/a07m/index.m3u8
 #EXTINF:-1 tvg-id="Mpluslaliga" tvg-name="M+ Liga de Campeones" tvg-logo="https://tmbroadcast.es/wp-content/uploads/2021/03/Logo-Movistar-plus.jpg" group-title="todos" audio-track="spa", M+ Liga de Campeones
@@ -460,7 +460,7 @@ http://45.160.15.130:2909/play/216
 http://45.160.15.130:2909/play/218
 
 #EXTINF:0 type="stream" channelId="-1" group="todos", DirectTV Sports
-http://bgtv.site/play/play-650.php?16=259&token=blackghostlive
+http://bgtv.site/play/play-607.php?16=259&token=blackghostlive
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IVC" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6f397b9a9ed998ff48e_ivc.jpeg" group-title="todos" audio-track="spa", IVC
 http://177.234.230.226:8010/play/a03h/index.m3u8
@@ -489,7 +489,7 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/828
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malcom" tvg-logo="https://seeklogo.com/images/M/malcolm-in-the-middle-tv-show-logo-B4FD66AFE3-seeklogo.com.png" group-title="24/7" audio-track="spa", Malcolm*
-http://bgtv.site/play/play-650.php?c=38716&token=livebg
+http://bgtv.site/play/play-607.php?c=38716&token=eraseandrewind
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL ENCANTADOR DE PERROS" tvg-logo="https://www.formulatv.com/images/programas/posters/300/322/dest_3.jpg" group-title="24/7" audio-track="spa", EL ENCANTADOR DE PERROS
@@ -497,9 +497,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5a
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alf" tvg-logo="https://es.digitaltrends.com/wp-content/uploads/2022/02/180-alf.jpg?p=1" group-title="24/7" audio-track="spa", Alf*
-http://bgtv.site/play/play-650.php?c=2321&token=livebg
+http://bgtv.site/play/play-607.php?c=2321&token=eraseandrewind
 #EXTINF:0 type="stream" channelId="-1" group="24/7", 24/7 Alf*
-http://bgtv.site/play/play-650.php?16=426&token=livebg
+http://bgtv.site/play/play-607.php?16=426&token=eraseandrewind
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="", Bigbang
 http://lbxc6.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/12010?token=HRNfAEBQEwMVBwdWAAUCBFIGWAIJWgtbVwJVVwMAD1YFUgMCAwFXCAIVHUMQF0dQUlxmWVUaAwhUAwdVSRNNEQNDaAhXGgsbBQMEQ09BQVxeVBsKAA4BD14FAV1RBhRAFlhTQwkaBA4GBhNNQQZNQVZDV1FdZ11cEFpVAEcLVhcKXRtDXFZuXVJaUA8HQQ8XAxMVElhLSRtcXUMJCR0aAA9FRQBHXRMDFQQFUVtBGRdQXkxeRUpAG1wRciBHHRoHHkVSD0BRXlcVDRMVEEEZF1pCZkJUS01LA1JbABcTAkBWExtDXllJZlRYXw8GAEFcXF9KEgsaCRtKEVsKC1hMDRRuRwhXGgsbAwMIUEEe
 
@@ -507,50 +507,50 @@ http://lbxc6.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/12010?token=HRNfAEBQ
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="", Bigbang 2
 http://66.70.176.103:8081/247%7CLATEORIADELBIGBANGR/247%7CLATEORIADELBIGBANGR/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" audio-track="spa" tvg-shift="", Bigbang 3*
-http://bgtv.site/play/play-650.php?c=12010&token=livebg
+http://bgtv.site/play/play-607.php?c=12010&token=eraseandrewind
 
 
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="animaniacs" tvg-logo="https://www.pngmart.com/files/22/Animaniacs-PNG-Isolated-File.png" group-title="24/7" tvg-shift="", Animaniacs*
-http://bgtv.site/play/play-650.php?c=12038&token=livebg
+http://bgtv.site/play/play-607.php?c=12038&token=eraseandrewind
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Años Maravillosos" tvg-logo="https://ih1.redbubble.net/image.2131767850.4358/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7" audio-track="spa", Años Maravillosos*
-http://bgtv.site/play/play-650.php?c=40788&token=livebg
+http://bgtv.site/play/play-607.php?c=40788&token=eraseandrewind
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TWOMAN" tvg-logo="https://pics.filmaffinity.com/Two_and_a_Half_Men_TV_Series-936619362-large.jpg" group-title="24/7" tvg-shift="", Dos Hombre y Medio*
-http://bgtv.site/play/41-650.php?mega=522&token=livebg
+http://bgtv.site/play/41-607.php?mega=522&token=eraseandrewind
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TWOMAN" tvg-logo="https://pics.filmaffinity.com/Two_and_a_Half_Men_TV_Series-936619362-large.jpg" group-title="24/7" tvg-shift="", Dos Hombre y Medio*
-http://bgtv.site/play/play-650.php?c=57516&token=livebg
+http://bgtv.site/play/play-607.php?c=57516&token=eraseandrewind
 #EXTINF:0 type="stream" channelId="-1" group="24/7", 24/7 Two And a Half Men*
-http://bgtv.site/play/play-650.php?16=675&token=livebg
+http://bgtv.site/play/play-607.php?16=675&token=eraseandrewind
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TWOMAN" tvg-logo="https://pics.filmaffinity.com/Two_and_a_Half_Men_TV_Series-936619362-large.jpg" group-title="24/7" tvg-shift="", Dos Hombre y Medio 3
 http://00322.xyz:8000/rances123/9IFBBCRBIX/3378
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="dexter" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/d/dc/221975_10150172117895680_1273681_n.jpg/revision/latest/scale-to-width-down/350?cb=20130921015205&path-prefix=es" group-title="24/7" audio-track="spa", Dexter*
-http://bgtv.site/play/play-650.php?c=11978&token=livebg
+http://bgtv.site/play/play-607.php?c=11978&token=eraseandrewind
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dinosaurios" tvg-logo="https://static.wikia.nocookie.net/disney/images/4/4c/Dinosaurs_logo.png/revision/latest?cb=20121211183108&path-prefix=es" group-title="24/7" audio-track="spa", Dinosaurios*
-http://bgtv.site/play/play-650.php?c=11069&token=livebg
+http://bgtv.site/play/play-607.php?c=11069&token=eraseandrewind
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="spa",  Dr. House*
-http://bgtv.site/play/play-650.php?c=11982&token=livebg
+http://bgtv.site/play/play-607.php?c=11982&token=eraseandrewind
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Friends" tvg-logo="https://p7.hiclipart.com/preview/840/692/965/5bbc448fd13e2.jpg" group-title="24/7" tvg-shift="", Friends*
-http://bgtv.site/play/play-650.php?c=94200&token=livebg
+http://bgtv.site/play/play-607.php?c=94200&token=eraseandrewind
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Friends" tvg-logo="https://p7.hiclipart.com/preview/840/692/965/5bbc448fd13e2.jpg" group-title="24/7" tvg-shift="", Friends 2
 http://00322.xyz:8000/rances123/9IFBBCRBIX/159349
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Thundercats" tvg-logo="https://w0.peakpx.com/wallpaper/970/591/HD-wallpaper-thundercats-logo.jpg" group-title="24/7" audio-track="spa", Los Thundercats*
-http://bgtv.site/play/play-650.php?c=2372&token=livebg
+http://bgtv.site/play/play-607.php?c=2372&token=eraseandrewind
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pantera Rosa 80s" tvg-logo="https://i.pinimg.com/550x/fd/22/b4/fd22b489f86fa249bf28e51bd146d244.jpg" group-title="24/7" audio-track="spa", Pantera Rosa 80s*
-http://bgtv.site/play/play-650.php?c=11989&token=livebg
+http://bgtv.site/play/play-607.php?c=11989&token=eraseandrewind
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="peluche" tvg-logo="https://play-lh.googleusercontent.com/UqAjl7zR-geNjB0ygQAtqrE5aFzIkj4oVs1GLODgxujKO3-ciXdHOkCB97WVCF2mCA" group-title="24/7" audio-track="spa", Fam Peluche*
-http://bgtv.site/play/play-650.php?c=2360&token=livebg
+http://bgtv.site/play/play-607.php?c=2360&token=eraseandrewind
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LooneyTunes" tvg-logo="https://www.pngkit.com/png/detail/321-3216119_looney-tunes-image-looney-tunes-logo-png.png" group-title="24/7" audio-track="spa", LooneyTunes*
-http://bgtv.site/play/play-650.php?c=12008&token=livebg
+http://bgtv.site/play/play-607.php?c=12008&token=eraseandrewind
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="pajaroloco" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdCq7F0JBEJAVMhNOefcJKwyHQmvpt2iejEQ&usqp=CAU" group-title="24/7" audio-track="spa", Pajaroloco*
-http://bgtv.site/play/play-650.php?c=12020&token=livebg
+http://bgtv.site/play/play-607.php?c=12020&token=eraseandrewind
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="picapiedras" tvg-logo="https://images.justwatch.com/poster/76219363/s718/los-picapiedra.%7Bformat%7D" group-title="24/7" audio-track="spa", Picapiedra*
-http://bgtv.site/play/play-650.php?c=38710&token=livebg
+http://bgtv.site/play/play-607.php?c=38710&token=eraseandrewind
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jneutron" tvg-logo="https://static.wikia.nocookie.net/jimmyneutron/images/c/ce/Jimmy-Neutron-Logo.jpg/revision/latest?cb=20161002181201" group-title="24/7" audio-track="spa", J Neutron*
-http://bgtv.site/play/play-650.php?c=12015&token=livebg
+http://bgtv.site/play/play-607.php?c=12015&token=eraseandrewind
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JonBravo" tvg-logo="https://assets.fanart.tv/fanart/tv/76201/hdtvlogo/johnny-bravo-55834be7de52c.png" group-title="24/7" audio-track="spa", JonBravo*
-http://bgtv.site/play/play-650.php?c=40846&token=livebg
+http://bgtv.site/play/play-607.php?c=40846&token=eraseandrewind
 
 
