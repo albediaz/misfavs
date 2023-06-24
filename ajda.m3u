@@ -84,7 +84,7 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27993
 
 
 #EXTINF:0 type="stream" channelId="2503" group="todos" audio-track="spa", A&E*
-http://190.122.186.88:8000/play/a0fm/index.m3u8
+http://177.234.230.226:8010/play/a03b/index.m3u8
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032017/untitled-2_15.png?itok=Ps6ewae2" group-title="todos" audio-track="spa", AXN
 http://45.181.122.145:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="FMHFAMILY" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="todos" audio-track="spa", FMH FAMILY
