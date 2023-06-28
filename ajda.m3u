@@ -497,7 +497,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5a
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alf" tvg-logo="https://es.digitaltrends.com/wp-content/uploads/2022/02/180-alf.jpg?p=1" group-title="24/7" audio-track="spa", Alf*
-http://bgtv.site/play/play-628.php?c=2321&token=newmusic
+http://bgtv.site/play/play-628.php?c=2321&token=luxaeterna
 #EXTINF:0 type="stream" channelId="-1" group="24/7", 24/7 Alf*
 http://bgtv.site/play/play-628.php?16=426&token=newmusic
 
@@ -506,8 +506,8 @@ http://bgtv.site/play/play-628.php?16=426&token=newmusic
 http://jagertv.us:8880/Guille/Guille/158
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="", Bigbang 2
 http://66.70.176.103:8081/247%7CLATEORIADELBIGBANGR/247%7CLATEORIADELBIGBANGR/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" audio-track="spa" tvg-shift="", Bigbang 3*
-http://bgtv.site/play/play-628.php?c=12010&token=newmusic
+#EXTINF:-1 tvg-id="list35" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" audio-track="spa" tvg-shift="", Bigbang 3*
+http://bgtv.site/play/41-628.php?megapro=519&token=luxaeterna
 
 
 
