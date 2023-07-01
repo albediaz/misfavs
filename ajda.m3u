@@ -88,7 +88,7 @@ http://45.170.225.210:58001/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032017/untitled-2_15.png?itok=Ps6ewae2" group-title="todos" audio-track="spa", AXN
 http://45.181.122.145:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="FMHFAMILY" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="todos" audio-track="spa", FMH FAMILY
-http://45.160.15.130:2909/play/a169
+http://160.20.165.246:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="FMHMOVIES" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-movies.jpg" group-title="todos" audio-track="spa", FMH MOVIES
 http://45.160.15.130:2909/play/a16b
 #EXTINF:-1 tvg-name="FMHrewind" tvg-logo="https://fmh.la/images/team/logo_rewind.png" group-title="todos", FMH REWIND r
