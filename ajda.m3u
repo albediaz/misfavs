@@ -367,22 +367,11 @@ http://190.83.60.34:1414/play/a01s
 
 
 
-#EXTINF:-1 tvg-id="SinLimites.co" tvg-name="Sin Limites" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111169_dark_360w_270h.png" group-title="todos" audio-track="spa", Sin Limites
-http://200.41.79.165:8000/play/a0j1/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Claro Musica" tvg-logo="https://www.sarbidemusic.com/wp-content/uploads/2016/12/Claro-m%C3%BAsica-300x131.jpg" group-title="todos" audio-track="spa", Claro Musica
-http://45.5.118.213:16000/play/a0l5/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telehit" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Telehit-logo.gif/revision/latest/scale-to-width-down/200?cb=20120102193439" group-title="todos" audio-track="spa", Telehit
-http://181.78.24.187:8006/play/a06m/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Exa TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/EXATV2009.jpg/revision/latest?cb=20230304224929&path-prefix=es" group-title="todos" audio-track="spa", Exa TV
-http://45.228.232.204:16000/play/a06j/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Plus Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/466deabbd42d619f75a9134701c3e39b.webp" group-title="todos" audio-track="spa", Retro Plus Tv
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="Movistar Deportes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87010_dark_360w_270h.png" group-title="todos" audio-track="spa", Movistar Deportes
-http://bgtv.site/play/play-628.php?16=366&token=newmusic
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Plus" tvg-logo="https://tmbroadcast.es/wp-content/uploads/2021/03/Logo-Movistar-plus.jpg" group-title="todos" audio-track="spa", Movistar Plus
 http://191.97.55.241:8000/play/a07m/index.m3u8
-#EXTINF:-1 tvg-id="Mpluslaliga" tvg-name="M+ Liga de Campeones" tvg-logo="https://tmbroadcast.es/wp-content/uploads/2021/03/Logo-Movistar-plus.jpg" group-title="todos" audio-track="spa", M+ Liga de Campeones
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126981
+
 
 
 
@@ -465,11 +454,13 @@ http://45.160.15.130:2909/play/216
 #EXTINF:-1 group-title="todos", 218 ESPN 4 HD
 http://186.148.163.18:8000/play/a019/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group="todos", DirectTV Sports
-http://bgtv.site/play/play-628.php?16=259&token=blackghostlive
+#EXTINF:0 type="stream" channelId="-1" group="todos", TNT Sports 1
+http://45.160.15.1:8111/play/233
+#EXTINF:0 type="stream" channelId="-1" group="todos", TNT Sports 2
+http://45.160.12.253:8000/play/233
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IVC" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6f397b9a9ed998ff48e_ivc.jpeg" group-title="todos" audio-track="spa", IVC
-http://177.234.230.226:8010/play/a03h/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="todos", TNT Sports 3
+http://45.160.12.253:8000/play/235
 #EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" group-title="todos" audio-track="spa", Comedy Central
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c15-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd904709-6614-46f7-80bd-de128553e6f3&userId=&serverSideAds=true
 
@@ -477,6 +468,16 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc21a43294500076
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rewind Radio y TV | CL" tvg-logo="https://i2.paste.pics/02c63dfaaf621ab897fbddd3e4666a33.png" group-title="todos" audio-track="spa", Rewind Radio y TV | CL
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SinLimites.co" tvg-name="Sin Limites" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111169_dark_360w_270h.png" group-title="todos" audio-track="spa", Sin Limites
+http://200.41.79.165:8000/play/a0j1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Claro Musica" tvg-logo="https://www.sarbidemusic.com/wp-content/uploads/2016/12/Claro-m%C3%BAsica-300x131.jpg" group-title="todos" audio-track="spa", Claro Musica
+http://45.5.118.213:16000/play/a0l5/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telehit" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Telehit-logo.gif/revision/latest/scale-to-width-down/200?cb=20120102193439" group-title="todos" audio-track="spa", Telehit
+http://181.78.24.187:8006/play/a06m/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Exa TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/EXATV2009.jpg/revision/latest?cb=20230304224929&path-prefix=es" group-title="todos" audio-track="spa", Exa TV
+http://45.228.232.204:16000/play/a06j/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Plus Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/466deabbd42d619f75a9134701c3e39b.webp" group-title="todos" audio-track="spa", Retro Plus Tv
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Plus 1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/466deabbd42d619f75a9134701c3e39b.webp" group-title="todos" audio-track="spa", Retro Plus 1
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Plus 2" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/466deabbd42d619f75a9134701c3e39b.webp" group-title="todos" audio-track="spa", Retro Plus 2
@@ -545,8 +546,7 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/159349
 http://bgtv.site/play/play-628.php?c=2372&token=newmusic
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pantera Rosa 80s" tvg-logo="https://i.pinimg.com/550x/fd/22/b4/fd22b489f86fa249bf28e51bd146d244.jpg" group-title="24/7" audio-track="spa", Pantera Rosa 80s*
 http://bgtv.site/play/play-628.php?c=11989&token=newmusic
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="peluche" tvg-logo="https://play-lh.googleusercontent.com/UqAjl7zR-geNjB0ygQAtqrE5aFzIkj4oVs1GLODgxujKO3-ciXdHOkCB97WVCF2mCA" group-title="24/7" audio-track="spa", Fam Peluche*
-http://bgtv.site/play/play-628.php?c=2360&token=newmusic
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LooneyTunes" tvg-logo="https://www.pngkit.com/png/detail/321-3216119_looney-tunes-image-looney-tunes-logo-png.png" group-title="24/7" audio-track="spa", LooneyTunes*
 http://bgtv.site/play/play-628.php?c=12008&token=newmusic
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="pajaroloco" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdCq7F0JBEJAVMhNOefcJKwyHQmvpt2iejEQ&usqp=CAU" group-title="24/7" audio-track="spa", Pajaroloco*
