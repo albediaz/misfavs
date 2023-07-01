@@ -439,9 +439,9 @@ http://200.24.141.2:4000/play/a2w5/index.m3u8
 #EXTINF:0,FOX SPORTS 2 (MX)
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28009
 #EXTINF:-1 group-title="todos", 210 Fox Sports 2 HD
-http://45.160.15.130:2909/play/210
+http://190.83.60.34:1414/play/a02x
 #EXTINF:-1 group-title="todos", 211 Fox Sports 3 HD
-http://45.160.15.130:2909/play/211
+http://181.78.74.226:45000/play/a01s
 #EXTINF:0 group-title="todos", FOX SPORTS 3 (MX)
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28010
 
@@ -451,13 +451,13 @@ http://45.228.232.204:16000/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="todos" audio-track="spa", ESPN
 http://45.228.232.204:16000/play/a07r/index.m3u8
 #EXTINF:-1 group-title="todos", 212 ESPN HD
-http://45.160.15.130:2909/play/212
+http://181.189.243.254:8000/play/a0rc/index.m3u8
 #EXTINF:-1 group-title="todos", 214 ESPN 2 HD
 http://45.160.15.130:2909/play/214
 #EXTINF:-1 group-title="todos", 216 ESPN 3 HD
 http://45.160.15.130:2909/play/216
 #EXTINF:-1 group-title="todos", 218 ESPN 4 HD
-http://45.160.15.130:2909/play/218
+http://186.148.163.18:8000/play/a019/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="todos", DirectTV Sports
 http://bgtv.site/play/play-628.php?16=259&token=blackghostlive
