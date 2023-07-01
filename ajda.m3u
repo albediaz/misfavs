@@ -433,6 +433,8 @@ http://190.61.102.67:31589/play/a053/index.m3u8
 
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos" audio-track="spa", Fox Sports 1.
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/40.m3u8
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos" audio-track="spa", Fox Sports Premium
+http://bgtvapp.website/tl.php?ch=fox-sports-premium-en-vivo&token=black_
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos" audio-track="spa", Fox Sports 1..
 http://200.24.141.2:4000/play/a2w5/index.m3u8
 
