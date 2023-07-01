@@ -420,14 +420,18 @@ http://181.189.243.254:8000/play/a0v0/index.m3u8
 
 #EXTINF:-1 tvg-id="NFL.US" tvg-name="NFL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="todos" tvg-shift="0",NFL NETWORK
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15891
+
+
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="todos" audio-track="spa", TUDN
 http://181.189.243.254:8000/play/a0ud/index.m3u8
+
+
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="todos" audio-track="spa", Claro Sports
-http://190.149.66.90:16000/play/a008/index.m3u8
+http://186.148.163.18:8000/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="todos" audio-track="spa", Claro Sports 2
-http://190.149.66.90:16000/play/a009/index.m3u8
+http://181.189.243.254:8000/play/a0on/index.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="todos" audio-track="spa", Claro sports..
-http://190.61.102.67:31589/play/a053/index.m3u8
+http://45.170.225.210:58001/play/a022/index.m3u8
 
 
 
