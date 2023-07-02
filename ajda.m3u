@@ -146,7 +146,7 @@ http://177.234.230.226:8010/play/a00i/index.m3u8
 
 
 #EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Sony" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" group-title="todos" audio-track="spa", Sony.
-http://45.160.15.130:2909/play/085
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3081
 #EXTINF:-1 tvg-id="CanalSony.ar" tvg-name="SONY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" group-title="todos" audio-track="spa", Sony..
 http://200.41.79.165:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="Sony Movies HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="todos" audio-track="spa", Sony Movies.
@@ -504,14 +504,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5a
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alf" tvg-logo="https://es.digitaltrends.com/wp-content/uploads/2022/02/180-alf.jpg?p=1" group-title="24/7" audio-track="spa", Alf*
-http://bgtv.site/play/41-666.php?dark=254&token=holaati
+http://bgtv.site/play/bd-666.php?id=4248-98268
 #EXTINF:0 type="stream" channelId="-1" group="24/7", 24/7 Alf*
 http://bgtv.site/play/41-666.php?megapro=254&token=holaati
 
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="", Bigbang
-http://bgtv.site/play/41-666.php?megapro=519&token=holaati
+http://bgtv.site/play/bd-666.php?id=4177-98268
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="", Bigbang 2
 http://66.70.176.103:8081/247%7CLATEORIADELBIGBANGR/247%7CLATEORIADELBIGBANGR/playlist.m3u8
 #EXTINF:-1 tvg-id="list34" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" audio-track="spa" tvg-shift="", Bigbang 3*
@@ -520,11 +520,11 @@ http://bgtv.site/play/41-666.php?dark=519&token=holaati
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="animaniacs" tvg-logo="https://www.pngmart.com/files/22/Animaniacs-PNG-Isolated-File.png" group-title="24/7" tvg-shift="", Animaniacs*
-http://bgtv.site/play/41-666.php?megapro=503&token=holaati
+http://bgtv.site/play/bd-666.php?id=4251-98268
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Años Maravillosos" tvg-logo="https://ih1.redbubble.net/image.2131767850.4358/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7" audio-track="spa", Años Maravillosos*
 http://bgtv.site/play/play-628.php?c=40788&token=newmusic
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TWOMAN" tvg-logo="https://pics.filmaffinity.com/Two_and_a_Half_Men_TV_Series-936619362-large.jpg" group-title="24/7" tvg-shift="", Dos Hombre y Medio*
-http://bgtv.site/play/41-628.php?mega=522&token=newmusic
+#EXTINF:-1 tvg-id="(lista15)" tvg-name="TWOMAN" tvg-logo="https://pics.filmaffinity.com/Two_and_a_Half_Men_TV_Series-936619362-large.jpg" group-title="24/7" tvg-shift="", Dos Hombre y Medio*
+http://bgtv.site/play/bd-666.php?id=3509-98268
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TWOMAN" tvg-logo="https://pics.filmaffinity.com/Two_and_a_Half_Men_TV_Series-936619362-large.jpg" group-title="24/7" tvg-shift="", Dos Hombre y Medio*
 http://bgtv.site/play/play-628.php?c=57516&token=newmusic
 #EXTINF:0 type="stream" channelId="-1" group="24/7", 24/7 Two And a Half Men*
@@ -532,14 +532,14 @@ http://bgtv.site/play/play-628.php?16=675&token=newmusic
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TWOMAN" tvg-logo="https://pics.filmaffinity.com/Two_and_a_Half_Men_TV_Series-936619362-large.jpg" group-title="24/7" tvg-shift="", Dos Hombre y Medio 3
 http://00322.xyz:8000/rances123/9IFBBCRBIX/3378
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="dexter" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/d/dc/221975_10150172117895680_1273681_n.jpg/revision/latest/scale-to-width-down/350?cb=20130921015205&path-prefix=es" group-title="24/7" audio-track="spa", Dexter*
-http://bgtv.site/play/play-628.php?c=11978&token=newmusic
+http://bgtv.site/play/bd-666.php?id=4916-98268
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dinosaurios" tvg-logo="" group-title="24/7" audio-track="spa", Correcaminos*
 http://bgtv.site/play/41-666.php?megapro=246&token=holaati
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="spa",  Dr. House*
-http://bgtv.site/play/play-628.php?c=11982&token=newmusic
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Friends" tvg-logo="https://p7.hiclipart.com/preview/840/692/965/5bbc448fd13e2.jpg" group-title="24/7" tvg-shift="", Friends*
-http://bgtv.site/play/play-628.php?c=94200&token=newmusic
+#EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="spa",  Dr. House*
+http://bgtv.site/play/bd-666.php?id=4912-98268
+#EXTINF:-1 tvg-id="(lista15)" tvg-name="Friends" tvg-logo="https://p7.hiclipart.com/preview/840/692/965/5bbc448fd13e2.jpg" group-title="24/7" tvg-shift="", Friends*
+http://bgtv.site/play/bd-666.php?id=4269-98268
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Friends" tvg-logo="https://p7.hiclipart.com/preview/840/692/965/5bbc448fd13e2.jpg" group-title="24/7" tvg-shift="", Friends 2
 http://00322.xyz:8000/rances123/9IFBBCRBIX/159349
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Thundercats" tvg-logo="https://w0.peakpx.com/wallpaper/970/591/HD-wallpaper-thundercats-logo.jpg" group-title="24/7" audio-track="spa", Los Thundercats*
