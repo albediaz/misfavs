@@ -77,7 +77,7 @@ https://stmv2.zcasthn.com.br/supertv/supertv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png" group-title="todos" audio-track="spa", RETRO TV
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w781716611.m3u8
 #EXTINF:-1 tvg-id="WOWDirectResponseTv.us" tvg-name="WOW tv" tvg-logo="https://i.imgur.com/xGkDbcR.png" group-title="todos" audio-track="spa", WOW tv
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+http://dt1.cdn.tvmp.co:25461/rocky/rocky/2648
 
 #EXTINF:0 tvg-logo="https://www.dafont.com/forum/attach/orig/9/9/994013.png", DISTRITO COMEDIA (MX)
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27993
@@ -312,9 +312,10 @@ http://45.166.92.22:58001/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY sci" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="todos" audio-track="spa", Discovery Science.
 http://38.7.131.2:8000/play/a077/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY sci" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="todos" audio-track="spa", Discovery Science.
+http://dt1.cdn.tvmp.co:25461/rocky/rocky/754
 #EXTINF:0 type="stream" channelId="2839" group="todos", Discovery World.
-http://170.254.172.10:8000/play/a087/index.m3u8
-
+http://dt1.cdn.tvmp.co:25461/rocky/rocky/10109
 
 
 #EXTINF:-1 tvg-id="InvestigationDiscovery(English).mx" tvg-name="Discovery ID HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65342_dark_360w_270h.png" group-title="todos" audio-track="spa", Discovery ID.
@@ -424,10 +425,13 @@ http://45.170.225.210:58001/play/a022/index.m3u8
 
 
 
+
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos" audio-track="spa", Fox Sports Premium.
+http://bgtvapp.website/tl.php?ch=fox-sports-premium-en-vivo&token=black_
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos" audio-track="spa", Fox Sports Premium..
+http://dt1.cdn.tvmp.co:25461/rocky/rocky/233
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos" audio-track="spa", Fox Sports 1.
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/40.m3u8
-#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos" audio-track="spa", Fox Sports Premium
-http://bgtvapp.website/tl.php?ch=fox-sports-premium-en-vivo&token=black_
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos" audio-track="spa", Fox Sports 1..
 http://200.24.141.2:4000/play/a2w5/index.m3u8
 
