@@ -190,7 +190,7 @@ https://stmv2.zcasthn.com.br/supertv/supertv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png" group-title="todos" audio-track="spa", RETRO TV
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w781716611.m3u8
 #EXTINF:-1 tvg-id="WOWDirectResponseTv.us" tvg-name="WOW tv" tvg-logo="https://i.imgur.com/xGkDbcR.png" group-title="todos" audio-track="spa", WOW tv
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+http://dt1.cdn.tvmp.co:25461/rocky/rocky/2648
 
 #EXTINF:0 tvg-logo="https://www.dafont.com/forum/attach/orig/9/9/994013.png", DISTRITO COMEDIA (MX)
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27993
@@ -425,9 +425,10 @@ http://45.166.92.22:58001/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY sci" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="todos" audio-track="spa", Discovery Science.
 http://38.7.131.2:8000/play/a077/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY sci" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="todos" audio-track="spa", Discovery Science.
+http://dt1.cdn.tvmp.co:25461/rocky/rocky/754
 #EXTINF:0 type="stream" channelId="2839" group="todos", Discovery World.
-http://170.254.172.10:8000/play/a087/index.m3u8
-
+http://dt1.cdn.tvmp.co:25461/rocky/rocky/10109
 
 
 #EXTINF:-1 tvg-id="InvestigationDiscovery(English).mx" tvg-name="Discovery ID HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65342_dark_360w_270h.png" group-title="todos" audio-track="spa", Discovery ID.
@@ -537,10 +538,13 @@ http://45.170.225.210:58001/play/a022/index.m3u8
 
 
 
+
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos" audio-track="spa", Fox Sports Premium.
+http://bgtvapp.website/tl.php?ch=fox-sports-premium-en-vivo&token=black_
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos" audio-track="spa", Fox Sports Premium..
+http://dt1.cdn.tvmp.co:25461/rocky/rocky/233
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos" audio-track="spa", Fox Sports 1.
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/40.m3u8
-#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos" audio-track="spa", Fox Sports Premium
-http://bgtvapp.website/tl.php?ch=fox-sports-premium-en-vivo&token=black_
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos" audio-track="spa", Fox Sports 1..
 http://200.24.141.2:4000/play/a2w5/index.m3u8
 
@@ -619,27 +623,27 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5a
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alf" tvg-logo="https://es.digitaltrends.com/wp-content/uploads/2022/02/180-alf.jpg?p=1" group-title="24/7" audio-track="spa", Alf*
 http://bgtv.site/play/bd-700.php?id=4248-98268
 #EXTINF:0 type="stream" channelId="-1" group="24/7", 24/7 Alf*
-http://bgtv.site/play/41-700.php?megapro=254&token=littlegreenbag
+http://bgtv.site/play/41-700.php?megapro=254&token=foolforlove
 
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="", Bigbang
-http://bgtv.site/play/bd-700.php?id=4177-98268
+http://gotv.vip:8880/enrique12/enrique12/158
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="", Bigbang 2
 http://66.70.176.103:8081/247%7CLATEORIADELBIGBANGR/247%7CLATEORIADELBIGBANGR/playlist.m3u8
 #EXTINF:-1 tvg-id="list34" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" audio-track="spa" tvg-shift="", Bigbang 3*
-http://bgtv.site/play/41-700.php?megapro=519&token=littlegreenbag
+http://00322.xyz:8000/rances123/9IFBBCRBIX/2563
 
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="animaniacs" tvg-logo="https://www.pngmart.com/files/22/Animaniacs-PNG-Isolated-File.png" group-title="24/7" tvg-shift="", Animaniacs*
-http://bgtv.site/play/bd-666.php?id=4251-98268
+http://bgtv.site/play/bd-700.php?id=4251-98268
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Años Maravillosos" tvg-logo="https://ih1.redbubble.net/image.2131767850.4358/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7" audio-track="spa", Años Maravillosos*
-http://bgtv.site/play/play-628.php?c=40788&token=newmusic
+http://bgtv.site/play/play-700.php?c=40788&token=foolforlove
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="TWOMAN" tvg-logo="https://pics.filmaffinity.com/Two_and_a_Half_Men_TV_Series-936619362-large.jpg" group-title="24/7" tvg-shift="", Dos Hombre y Medio*
 http://bgtv.site/play/bd-700.php?id=3509-98268
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TWOMAN" tvg-logo="https://pics.filmaffinity.com/Two_and_a_Half_Men_TV_Series-936619362-large.jpg" group-title="24/7" tvg-shift="", Dos Hombre y Medio*
-http://bgtv.site/play/41-700.php?megapro=522&token=littlegreenbag
+http://bgtv.site/play/41-700.php?megapro=522&token=foolforlove
 #EXTINF:0 type="stream" channelId="-1" group="24/7", 24/7 Two And a Half Men*
 http://bgtv.site/play/bd-700.php?id=3509-98268
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TWOMAN" tvg-logo="https://pics.filmaffinity.com/Two_and_a_Half_Men_TV_Series-936619362-large.jpg" group-title="24/7" tvg-shift="", Dos Hombre y Medio 3
@@ -647,7 +651,7 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/3378
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="dexter" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/d/dc/221975_10150172117895680_1273681_n.jpg/revision/latest/scale-to-width-down/350?cb=20130921015205&path-prefix=es" group-title="24/7" audio-track="spa", Dexter*
 http://bgtv.site/play/bd-700.php?id=4916-98268
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Correcaminos" tvg-logo="" group-title="24/7" audio-track="spa", Correcaminos*
-http://bgtv.site/play/41-700.php?megapro=246&token=littlegreenbag
+http://bgtv.site/play/41-700.php?megapro=246&token=foolforlove
 
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="spa",  Dr. House*
 http://bgtv.site/play/bd-700.php?id=4912-98268
@@ -671,7 +675,6 @@ http://bgtv.site/play/bd-700.php?id=2447-98268
 http://bgtv.site/play/bd-700.php?id=4893-98268
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JonBravo" tvg-logo="https://assets.fanart.tv/fanart/tv/76201/hdtvlogo/johnny-bravo-55834be7de52c.png" group-title="24/7" audio-track="spa", JonBravo*
 http://bgtv.site/play/bd-700.php?id=4745-98268
-
 
 
 
