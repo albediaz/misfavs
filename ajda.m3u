@@ -562,7 +562,9 @@ http://bgtv.site/play/bd-700.php?id=4889-98268
 http://bgtv.site/play/bd-700.php?id=2447-98268
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jneutron" tvg-logo="https://static.wikia.nocookie.net/jimmyneutron/images/c/ce/Jimmy-Neutron-Logo.jpg/revision/latest?cb=20161002181201" group-title="24/7" audio-track="spa", J Neutron*
 http://bgtv.site/play/bd-700.php?id=4893-98268
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JonBravo" tvg-logo="https://assets.fanart.tv/fanart/tv/76201/hdtvlogo/johnny-bravo-55834be7de52c.png" group-title="24/7" audio-track="spa", JonBravo*
-http://bgtv.site/play/bd-700.php?id=4745-98268
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="aereas" tvg-logo="" group-title="24/7" audio-track="spa", Catastrofes aereas
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/100138
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="familia" tvg-logo="" group-title="24/7" audio-track="spa", Familia de 10
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/77927
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="vecinos" tvg-logo="" group-title="24/7" audio-track="spa", Vecinos
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/277510
