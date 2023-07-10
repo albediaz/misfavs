@@ -459,19 +459,19 @@ http://45.160.15.130:2909/play/216
 #EXTINF:-1 group-title="todos", 218 ESPN 4 HD
 http://186.148.163.18:8000/play/a019/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group="todos", TNT Sports 1
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsports@2x.png" group="todos", TNT Sports 1
 http://45.160.15.1:8111/play/233
-#EXTINF:0 type="stream" channelId="-1" group="todos", TNT Sports 2
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsports@2x.png" group="todos", TNT Sports 2
 http://45.160.12.253:8000/play/233
 
-#EXTINF:0 type="stream" channelId="-1" group="todos", TNT Sports 3
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsports@2x.png" group="todos", TNT Sports 3
 http://45.160.12.253:8000/play/235
 
-#EXTINF:0 type="stream" channelId="-1" group="todos", Afizzionados.
+#EXTINF:-1 tvg-id="(400)" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="todos" audio-track="spa", Afizzionados.
 http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/73694
-#EXTINF:0 type="stream" channelId="-1" group="todos", Afizzionados..
+#EXTINF:-1 tvg-id="(lista)" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="todos" audio-track="spa", Afizzionados*..
 http://bgaddon26.000webhostapp.com/tl.php?ch=izzi-afizzionados-en-vivo&token=black_
-#EXTINF:-1 tvg-id="(lista16)" tvg-name="Afizzionados.mx" tvg-logo="" group-title="todos" audio-track="spa", Afizzionados*...
+#EXTINF:-1 tvg-id="(lista16)" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="todos" audio-track="spa", Afizzionados*...
 http://bgtv.site/play/play-700.php?16=939&token=foolforlove
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" group-title="todos" audio-track="spa", Comedy Central
