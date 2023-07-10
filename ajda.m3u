@@ -466,7 +466,15 @@ http://45.160.12.253:8000/play/233
 
 #EXTINF:0 type="stream" channelId="-1" group="todos", TNT Sports 3
 http://45.160.12.253:8000/play/235
-#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" group-title="todos" audio-track="spa", Comedy Central
+
+#EXTINF:0 type="stream" channelId="-1" group="todos", Afizzionados.
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/73694
+#EXTINF:0 type="stream" channelId="-1" group="todos", Afizzionados..
+http://bgaddon26.000webhostapp.com/tl.php?ch=izzi-afizzionados-en-vivo&token=black_
+#EXTINF:-1 tvg-id="(lista16)" tvg-name="Afizzionados.mx" tvg-logo="" group-title="todos" audio-track="spa", Afizzionados*...
+http://bgtv.site/play/play-700.php?16=939&token=foolforlove
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" group-title="todos" audio-track="spa", Comedy Central
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c15-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd904709-6614-46f7-80bd-de128553e6f3&userId=&serverSideAds=true
 
 
