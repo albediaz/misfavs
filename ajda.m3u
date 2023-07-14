@@ -536,6 +536,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5a
 http://bgtv.site/play/bd-701.php?id=4248-98268
 #EXTINF:0 type="stream" channelId="-1" group="24/7", 24/7 Alf
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/129321
+
+
+#EXTINF:-1 tvg-id="(...)" tvg-name="titans" tvg-logo="https://www.kizi2games.net/files/images/0c/0c035d608a4dad356e10f1b04d848f47.webp" group-title="24/7" audio-track="spa, esp, lat",  Teen Titans Go
+http://vplay.club:80/play/c8GuMguWSatY-N6xE_reCeOmcz-YndCTYTG4LjVONhM
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="timonypumba" tvg-logo="https://storage.googleapis.com/sticker-prod/PmGrS8ifHxuylCD3AzVt/cover.thumb256.png" group-title="24/7" audio-track="spa, esp, lat", TIMON Y PUMBA
 http://fuska.in:8880/live/Joseapascual/K0R9JME0/412.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="pinguinosmadagascar" tvg-logo="https://image1.challengermode.com/59e52a55-d8f6-40d2-2574-08dad30bb5c2_256_256" group-title="24/7" audio-track="spa, esp, lat", Pinguinos de Madagascar
