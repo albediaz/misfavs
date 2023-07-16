@@ -82,9 +82,9 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 #EXTINF:-1 tvg-id="WOWDirectResponseTv.us" tvg-name="WOW tv" tvg-logo="https://i.imgur.com/xGkDbcR.png" group-title="todos" audio-track="spa, esp, lat", WOW tv
 http://dt1.cdn.tvmp.co:25461/rocky/rocky/2648
 
-#EXTINF:0 tvg-logo="https://www.dafont.com/forum/attach/orig/9/9/994013.png", DISTRITO COMEDIA (MX)
+#EXTINF:0 tvg-logo="https://www.dafont.com/forum/attach/orig/9/9/994013.png" group-title="todos" group-title="24/7", DISTRITO COMEDIA (MX)
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27993
-#EXTINF:0 tvg-logo="https://www.dafont.com/forum/attach/orig/9/9/994013.png", Galavision
+#EXTINF:0 tvg-logo="https://www.dafont.com/forum/attach/orig/9/9/994013.png" group-title="todos", Galavision
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/71860
 
 
