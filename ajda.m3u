@@ -417,8 +417,10 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16521_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", Unicable
 http://168.228.194.33:48001/play/a0c5/index.m3u8
+
+
 #EXTINF:-1 tvg-id="TelemundoInternacional.mx" tvg-name="TELEMUNDO 48" tvg-logo="https://www.grupoisos.com/wp-content/uploads/2022/05/Imagen-Telemundo-vale.jpg" group-title="todos" audio-track="spa, esp, lat", TELEMUNDO.
-http://190.60.39.62:8000/play/a02g
+http://45.191.234.189:15084/play/a049/index.m3u8
 #EXTINF:-1 tvg-id="TelemundoInternacional.mx" tvg-name="TELEMUNDO LA" tvg-logo="https://www.grupoisos.com/wp-content/uploads/2022/05/Imagen-Telemundo-vale.jpg" group-title="todos" audio-track="spa, esp, lat", TELEMUNDO..
 http://45.166.92.22:58001/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="TelemundoInternacional.mx" tvg-name="TELEMUNDO DL" tvg-logo="https://www.grupoisos.com/wp-content/uploads/2022/05/Imagen-Telemundo-vale.jpg" group-title="todos" audio-track="spa, esp, lat", TELEMUNDO...
@@ -427,7 +429,7 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42003
 #EXTINF:-1 tvg-id="UnivisionNetwork.mx" tvg-name="univision" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="todos" audio-track="spa, esp, lat", Univision.
 http://173.225.246.25:8889/udp/239.203.20.171:4001
 #EXTINF:-1 tvg-id="UnivisionTDN.mx" tvg-name="univision" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="todos" audio-track="spa, esp, lat", Univision..
-http://72.76.116.158:8000/play/a07t/index.m3u8
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/172645
 #EXTINF:-1 tvg-id="UnivisionNetwork.mx" tvg-name="univision" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="todos" audio-track="spa, esp, lat", Univision...
 http://181.189.243.254:8000/play/a0v0/index.m3u8
 
@@ -437,7 +439,7 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15891
 
 
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", TUDN
-http://181.189.243.254:8000/play/a0ud/index.m3u8
+http://190.122.186.88:8000/play/a0k0/index.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", TUDN USA
 http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/104313
 
@@ -458,30 +460,30 @@ http://dt1.cdn.tvmp.co:25461/rocky/rocky/233
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", Fox Sports 1.
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/40.m3u8
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", Fox Sports 1..
-http://200.24.141.2:4000/play/a2w5/index.m3u8
+http://45.179.140.242:8000/play/a0jo
 
-#EXTINF:0 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos",FOX SPORTS 2 (MX)
+#EXTINF:0 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos",FOX SPORTS 2.
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28009
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos", 210 Fox Sports 2 HD
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos", 210 Fox Sports 2..
 http://190.83.60.34:1414/play/a02x
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos", 211 Fox Sports 3 HD
-http://181.78.74.226:45000/play/a01s
-#EXTINF:0 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos", FOX SPORTS 3 (MX)
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos", 211 Fox Sports 3.
+http://168.228.194.33:48001/play/a0b8/index.m3u8
+#EXTINF:0 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos", FOX SPORTS 3..
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28010
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN+" tvg-logo="https://m.media-amazon.com/images/I/41lChb5Q+KL.png" group-title="todos" audio-track="spa, esp, lat", ESPN+
-http://45.228.232.204:16000/play/a030/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", ESPN
-http://45.228.232.204:16000/play/a07r/index.m3u8
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="todos", 212 ESPN HD
-http://181.189.243.254:8000/play/a0rc/index.m3u8
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="todos", 214 ESPN 2 HD
-http://45.160.15.130:2909/play/214
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="todos", 216 ESPN 3 HD
-http://45.160.15.130:2909/play/216
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="todos", 218 ESPN 4 HD
-http://186.148.163.18:8000/play/a019/index.m3u8
+http://190.149.66.90:4000/play/a01d/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", ESPN 1.
+http://190.149.66.90:4000/play/a03a/index.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="todos", ESPN Extra.
+http://179.1.48.62:4000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="todos", ESPN 2.
+http://45.5.117.182:8000/play/a0hy/index.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="todos", ESPN 3.
+http://45.5.117.182:8000/play/a0jo/index.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="todos", ESPN 4.
+http://168.228.194.33:48001/play/a09m/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsports@2x.png" group="todos", TNT Sports 1
 http://45.160.15.1:8111/play/233
