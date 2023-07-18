@@ -546,7 +546,7 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/828
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malcom" tvg-logo="https://seeklogo.com/images/M/malcolm-in-the-middle-tv-show-logo-B4FD66AFE3-seeklogo.com.png" group-title="24/7" audio-track="spa, esp, lat", Malcolm*
-http://bgtv.site/play/bd-777.php?id=4910-98268
+http://bgtv.site/play/play-777.php?h=38716&token=sadfasdfasdasdf
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL ENCANTADOR DE PERROS" tvg-logo="https://www.formulatv.com/images/programas/posters/300/322/dest_3.jpg" group-title="24/7" audio-track="spa, esp, lat", EL ENCANTADOR DE PERROS
@@ -554,7 +554,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5a
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alf" tvg-logo="https://es.digitaltrends.com/wp-content/uploads/2022/02/180-alf.jpg?p=1" group-title="24/7" audio-track="spa, esp, lat", Alf*
-http://bgtv.site/play/bd-777.php?id=4248-98268
+http://bgtv.site/play/play-777.php?h=2321&token=sadfasdfasdasdf
 #EXTINF:0 type="stream" channelId="-1" group="24/7", 24/7 Alf
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/129321
 
@@ -568,11 +568,11 @@ http://gotv.vip:8880/enrique12/enrique12/157552
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="pinguinosmadagascar" tvg-logo="https://image1.challengermode.com/59e52a55-d8f6-40d2-2574-08dad30bb5c2_256_256" group-title="24/7" audio-track="spa, esp, lat", Pinguinos de Madagascar
 http://gotv.vip:8880/enrique12/enrique12/157544
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="", Bigbang
-http://gotv.vip:8880/enrique12/enrique12/158
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="", Bigbang*
+http://bgtv.site/play/41-777.php?mega=519&token=sadfasdfasdasdf
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="", Bigbang 2
 http://gotv.vip:8880/enrique12/enrique12/158
-#EXTINF:-1 tvg-id="list34" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" audio-track="spa, esp, lat" tvg-shift="", Bigbang 3*
+#EXTINF:-1 tvg-id="list34" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" audio-track="spa, esp, lat" tvg-shift="", Bigbang 3
 http://00322.xyz:8000/rances123/9IFBBCRBIX/2563
 
 
@@ -591,10 +591,10 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/3378
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="dexter" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/d/dc/221975_10150172117895680_1273681_n.jpg/revision/latest/scale-to-width-down/350?cb=20130921015205&path-prefix=es" group-title="24/7" audio-track="spa, esp, lat", Dexter*
 http://bgtv.site/play/bd-777.php?id=4916-98268
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Correcaminos" tvg-logo="" group-title="24/7" audio-track="spa, esp, lat", Correcaminos*
-http://bgtv.site/play/41-701.php?megapro=246&token=sadfasdfasdasdf
+http://bgtv.site/play/41-777.php?mega=246&token=sadfasdfasdasdf
 
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="spa, esp, lat",  Dr. House*
-http://bgtv.site/play/bd-777.php?id=4912-98268
+http://bgtv.site/play/play-777.php?h=11982&token=sadfasdfasdasdf
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="Friends" tvg-logo="https://p7.hiclipart.com/preview/840/692/965/5bbc448fd13e2.jpg" group-title="24/7" tvg-shift="", Friends*
 http://bgtv.site/play/bd-777.php?id=4269-98268
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Friends" tvg-logo="https://p7.hiclipart.com/preview/840/692/965/5bbc448fd13e2.jpg" group-title="24/7" tvg-shift="", Friends 2
