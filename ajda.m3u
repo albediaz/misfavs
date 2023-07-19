@@ -400,8 +400,7 @@ http://191.97.55.241:8000/play/a07m/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="adn40.mx" tvg-name="ADN 40 | MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15384_dark_360w_270h.png" group-title="TV Abierta" audio-track="spa, esp, lat", ADN 40 | MX
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Canal de Las estrellas" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title="TV Abierta" audio-track="spa, esp, lat", Canal de Las estrellas
 http://190.83.60.34:1414/play/a06j
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca uno" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46607_dark_360w_270h.png" group-title="TV Abierta" audio-track="spa, esp, lat", Azteca uno
@@ -414,12 +413,22 @@ http://mains.services:2086/Jhbxcgoisnm/56756756765722222/66574
 
 #EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="MULTIMEDIOS 6" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91505_dark_360w_270h.png" group-title="TV Abierta" audio-track="spa, esp, lat", MULTIMEDIOS 6
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="MULTIMEDIOS 6" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91505_dark_360w_270h.png" group-title="TV Abierta" audio-track="spa, esp, lat", MULTIMEDIOS MTY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Abierta", MULTIMEDIOS CD JUAREZ
+https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
+#EXTINF:-1 tvg-id="mileniotv.mx" tvg-name="mileniotv" tvg-logo="https://cdn6.aptoide.com/imgs/f/0/b/f0b65d4868b935ed097abe9ac309985a_icon.png?w=128" group-title="TV Abierta" audio-track="spa, esp, lat", Milenio
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca uno" tvg-logo="https://storage.googleapis.com/www-paredro-com/uploads/2016/12/antes.jpeg" group-title="TV Abierta" audio-track="spa, esp, lat", Azteca 7
 http://168.228.194.33:48001/play/a0cj/index.m3u8
-
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A+" tvg-logo="https://pbs.twimg.com/media/C7aA2AtU8AEckV8?format=jpg&name=large" group-title="TV Abierta" audio-track="spa, esp, lat", A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+#EXTINF:-1 tvg-id="adn40.mx" tvg-name="ADN 40 | MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15384_dark_360w_270h.png" group-title="TV Abierta" audio-track="spa, esp, lat", ADN 40 | MX
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+
 
 
 
