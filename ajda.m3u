@@ -562,8 +562,9 @@ http://bgtv.site/play/play-720.php?h=38716&token=fg
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alf" tvg-logo="https://es.digitaltrends.com/wp-content/uploads/2022/02/180-alf.jpg?p=1" group-title="24/7" audio-track="spa, esp, lat", Alf*
-http://bgtv.site/play/play-720.php?h=2321&token=fg
+#EXTINF:-1 tvg-id="(20)" tvg-name="Alf" tvg-logo="https://es.digitaltrends.com/wp-content/uploads/2022/02/180-alf.jpg?p=1" group-title="24/7" audio-track="spa, esp, lat", Alf*
+http://bgtv.site/play/41-720.php?mega=254&token=fg
+
 #EXTINF:0 type="stream" channelId="-1" group="24/7", 24/7 Alf
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/129321
 
@@ -578,7 +579,7 @@ http://gotv.vip:8880/enrique12/enrique12/157552
 http://gotv.vip:8880/enrique12/enrique12/157544
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="", Bigbang*
-http://bgtv.site/play/41-720.php?mega=519&token=fg
+http://bgtv.site/play/41-720.php?megapro=519&token=fg
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="", Bigbang 2
 http://gotv.vip:8880/enrique12/enrique12/158
 #EXTINF:-1 tvg-id="list34" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" audio-track="spa, esp, lat" tvg-shift="", Bigbang 3
@@ -588,7 +589,8 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/2563
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="animaniacs" tvg-logo="https://www.pngmart.com/files/22/Animaniacs-PNG-Isolated-File.png" group-title="24/7" tvg-shift="", Animaniacs
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/129354
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Años Maravillosos" tvg-logo="https://ih1.redbubble.net/image.2131767850.4358/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7" audio-track="spa, esp, lat", Años Maravillosos*
+#EXTINF:-1 tvg-id="(20)" tvg-name="Años Maravillosos" tvg-logo="https://ih1.redbubble.net/image.2131767850.4358/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7" audio-track="spa, esp, lat", Años Maravillosos*
+http://bgtv.site/play/41-720.php?mega=287&token=fg
 http://bgtv.site/play/41-720.php?megapro=287&token=fg
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="TWOMAN" tvg-logo="https://pics.filmaffinity.com/Two_and_a_Half_Men_TV_Series-936619362-large.jpg" group-title="24/7" tvg-shift="", Dos Hombre y Medio*
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3378
@@ -603,7 +605,8 @@ http://bgtv.site/play/bd-720.php?id=4916-98268
 http://bgtv.site/play/41-720.php?mega=246&token=fg
 
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="spa, esp, lat",  Dr. House*
-http://bgtv.site/play/play-720.php?h=11982&token=fg
+http://bgtv.site/play/play-720.php?bud=11982&token=fg
+
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="Friends" tvg-logo="https://p7.hiclipart.com/preview/840/692/965/5bbc448fd13e2.jpg" group-title="24/7" tvg-shift="", Friends*
 http://bgtv.site/play/bd-720.php?id=4269-98268
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Friends" tvg-logo="https://p7.hiclipart.com/preview/840/692/965/5bbc448fd13e2.jpg" group-title="24/7" tvg-shift="", Friends 2
