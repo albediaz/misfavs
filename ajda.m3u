@@ -428,9 +428,11 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-id="adn40.mx" tvg-name="ADN 40 | MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15384_dark_360w_270h.png" group-title="TV Abierta" audio-track="spa, esp, lat", ADN 40 | MX
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
+#EXTINF:-1 tvg-id="financiero.mx" tvg-name="Financiero" tvg-logo="https://pbs.twimg.com/profile_images/1232100284870033408/FZZDYWU0_400x400.jpg" group-title="TV Abierta" audio-track="spa, esp, lat", El financiero TV
+http://190.14.153.40:9981/stream/channelid/1813928536?profile=pass
 
-
-
+#EXTINF:-1 tvg-id="formula.mx" tvg-name="Formula" tvg-logo="" group-title="TV Abierta" audio-track="spa, esp, lat", Tv Formula
+http://190.14.153.40:9981/stream/channelid/1004492943?profile=pass
 
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16521_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", Unicable
 http://168.228.194.33:48001/play/a0c5/index.m3u8
