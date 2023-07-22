@@ -106,10 +106,10 @@ http://sudaka.link:25461/Ana/12345/14516
 http://sudaka.link:25461/Ana/12345/14517
 #EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 26
 http://sudaka.link:25461/Ana/12345/14518
-#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 27
-
-
-
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="todos", Cam Raza 1
+rtsp://admin:arredondo2020@192.168.100.138:554/ch0_0.264
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="todos", Cam Raza 1_1
+rtsp://admin:arredondo2020@192.168.100.138:554/ch0_0.264
 
 
 
