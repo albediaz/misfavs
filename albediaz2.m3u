@@ -103,13 +103,13 @@ http://sudaka.link:25461/Ana/12345/14515
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="todos", Cam Raza 1_3rtspsub
 rtsp://admin:arredondo2020@192.168.100.138:554/H264?ch=0&subtype=stream
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="todos", Cam Raza 1_2httpsub
-http://admin:arredondo2020@192.168.100.138:554/H264?ch=0&subtype=stream
+http://admin:arredondo2020@192.168.100.138:554/H264?ch=1&subtype=stream
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="todos", Cam Raza 1_2http
-http://admin:arredondo2020@192.168.100.138:554/ch1_0.264
+http://admin:arredondo2020@192.168.100.138:554/ch0_1.264
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="todos", Cam Raza 1
 rtsp://admin:arredondo2020@192.168.100.138:554/ch0_0.264
 #EXTINF:0 tvg-name="" tvg-logo="" group-title="todos", Cam Raza 1_1
-rtsp://admin:arredondo2020@192.168.100.138:554/ch1_0.264
+rtsp://admin:arredondo2020@192.168.100.138:554/ch0_1.264
 
 
 
