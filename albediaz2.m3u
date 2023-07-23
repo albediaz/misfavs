@@ -100,16 +100,16 @@ http://sudaka.link:25461/Ana/12345/14513
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/577
 #EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 23
 http://sudaka.link:25461/Ana/12345/14515
-#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 24
-http://sudaka.link:25461/Ana/12345/14516
-#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 25
-http://sudaka.link:25461/Ana/12345/14517
-#EXTINF:-1 tvg-name="" tvg-logo="https://socialix.com/img/thumbs/89734/200_0.png" group-title="XXX",Adult 26
-http://sudaka.link:25461/Ana/12345/14518
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="todos", Cam Raza 1_3rtspsub
+rtsp://admin:arredondo2020@192.168.100.138:554/H264?ch=0&subtype=stream
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="todos", Cam Raza 1_2httpsub
+http://admin:arredondo2020@192.168.100.138:554/H264?ch=0&subtype=stream
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="todos", Cam Raza 1_2http
+http://admin:arredondo2020@192.168.100.138:554/ch1_0.264
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="todos", Cam Raza 1
 rtsp://admin:arredondo2020@192.168.100.138:554/ch0_0.264
 #EXTINF:0 tvg-name="" tvg-logo="" group-title="todos", Cam Raza 1_1
-rtsp://admin:arredondo2020@192.168.100.138:554/ch0_0.264
+rtsp://admin:arredondo2020@192.168.100.138:554/ch1_0.264
 
 
 
