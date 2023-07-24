@@ -557,16 +557,16 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/894
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/828
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malcom" tvg-logo="https://seeklogo.com/images/M/malcolm-in-the-middle-tv-show-logo-B4FD66AFE3-seeklogo.com.png" group-title="24/7" audio-track="spa, esp, lat", Malcolm*
-http://bgtv.site/play/play-720.php?h=38716&token=fg
+#EXTINF:-1 tvg-id="(17)" tvg-name="Malcom" tvg-logo="https://seeklogo.com/images/M/malcolm-in-the-middle-tv-show-logo-B4FD66AFE3-seeklogo.com.png" group-title="24/7" audio-track="spa, esp, lat", Malcolm*
+http://bgtv.site/play/play-740.php?j=11974&token=ertr
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL ENCANTADOR DE PERROS" tvg-logo="https://www.formulatv.com/images/programas/posters/300/322/dest_3.jpg" group-title="24/7" audio-track="spa, esp, lat", EL ENCANTADOR DE PERROS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:-1 tvg-id="(35)" tvg-name="Alf" tvg-logo="https://es.digitaltrends.com/wp-content/uploads/2022/02/180-alf.jpg?p=1" group-title="24/7" audio-track="spa, esp, lat", Alf*
-http://bgtv.site/play/41-720.php?megapro=254&token=fg
+#EXTINF:-1 tvg-id="(17)" tvg-name="Alf" tvg-logo="https://es.digitaltrends.com/wp-content/uploads/2022/02/180-alf.jpg?p=1" group-title="24/7" audio-track="spa, esp, lat", Alf*
+http://bgtv.site/play/play-740.php?j=2321&token=ertr
 
 #EXTINF:0 type="stream" channelId="-1" group="24/7", 24/7 Alf
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/129321
@@ -581,8 +581,8 @@ http://gotv.vip:8880/enrique12/enrique12/157552
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="pinguinosmadagascar" tvg-logo="https://image1.challengermode.com/59e52a55-d8f6-40d2-2574-08dad30bb5c2_256_256" group-title="24/7" audio-track="spa, esp, lat", Pinguinos de Madagascar
 http://gotv.vip:8880/enrique12/enrique12/157544
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="", Bigbang*
-http://bgtv.site/play/41-720.php?megapro=519&token=fg
+#EXTINF:-1 tvg-id="(20)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="", Bigbang*
+http://bgtv.site/play/41-740.php?mega=519&token=ertr
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="", Bigbang 2
 http://gotv.vip:8880/enrique12/enrique12/158
 #EXTINF:-1 tvg-id="list34" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" audio-track="spa, esp, lat" tvg-shift="", Bigbang 3
@@ -593,8 +593,7 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/2563
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="animaniacs" tvg-logo="https://www.pngmart.com/files/22/Animaniacs-PNG-Isolated-File.png" group-title="24/7" tvg-shift="", Animaniacs
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/129354
 #EXTINF:-1 tvg-id="(20)" tvg-name="Años Maravillosos" tvg-logo="https://ih1.redbubble.net/image.2131767850.4358/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7" audio-track="spa, esp, lat", Años Maravillosos*
-http://bgtv.site/play/41-720.php?mega=287&token=fg
-http://bgtv.site/play/41-720.php?megapro=287&token=fg
+http://bgtv.site/play/play-740.php?j=40788&token=ertr
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="TWOMAN" tvg-logo="https://pics.filmaffinity.com/Two_and_a_Half_Men_TV_Series-936619362-large.jpg" group-title="24/7" tvg-shift="", Dos Hombre y Medio*
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3378
 
