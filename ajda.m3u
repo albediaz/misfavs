@@ -89,16 +89,14 @@ http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/71860
 
 
 
-#EXTINF:0 type="stream" channelId="2503" group="todos" audio-track="spa, esp, lat", A&E
+#EXTINF:0 type="stream" channelId="2503" group="todos" audio-track="spa, esp, lat", A&E.
 http://45.170.225.210:58001/play/a00f/index.m3u8
+#EXTINF:0 type="stream" channelId="2503" group="todos" audio-track="spa, esp, lat", A&E..
+http://38.43.140.97:8000/play/a03l/index.m3u8
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032017/untitled-2_15.png?itok=Ps6ewae2" group-title="todos" audio-track="spa, esp, lat", AXN
-http://45.181.122.145:8000/play/a01j/index.m3u8
+http://38.43.140.97:8000/play/a03o/index.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="FMHFAMILY" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="todos" audio-track="spa, esp, lat", FMH FAMILY
 http://160.20.165.246:8000/play/a01j/index.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="FMHMOVIES" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-movies.jpg" group-title="todos" audio-track="spa, esp, lat", FMH MOVIES
-http://45.160.15.130:2909/play/a16b
-#EXTINF:-1 tvg-name="FMHrewind" tvg-logo="https://fmh.la/images/team/logo_rewind.png" group-title="todos", FMH REWIND r
-http://45.160.15.130:2909/play/a16c
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Visión Dorada | CO" tvg-logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg" group-title="todos" audio-track="spa, esp, lat", Canal Visión Dorada | CO
 https://movil.ejeserver.com/live/visiondorada.m3u8
@@ -147,7 +145,7 @@ http://177.234.230.226:8010/play/a00h/index.m3u8
 http://45.228.232.204:16000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-id="MC.mx" tvg-name="MULTICINEMA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18329_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", MULTICINEMA.
 http://160.20.165.246:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="MC.mx" tvg-name="MC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18329_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", MULTICINEMA..
+#EXTINF:-1 tvg-id="MC.mx" tvg-name="MULTICINEMA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18329_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", MULTICINEMA..
 http://177.234.230.226:8010/play/a00i/index.m3u8
 
 
@@ -242,6 +240,8 @@ http://160.20.165.245:8000/play/a00f/index.m3u8
 http://45.228.232.204:16000/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="Atrescine.mx" tvg-name="A3Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82808_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", A3Cine.
 http://00322.xyz:8000/rances123/9IFBBCRBIX/140821
+#EXTINF:-1 tvg-id="Atrescine.mx" tvg-name="A3Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82808_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", A3Cine..
+http://160.20.165.245:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", Universal Comedy.
 http://181.189.243.254:8000/play/a0t1/index.m3u8
 #EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="UNIVERSAL COMEDY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", UNIVERSAL COMEDY..
@@ -293,7 +293,7 @@ http://177.234.230.226:8010/play/a00v/index.m3u8
 
 
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", History Channel.
-http://45.166.92.22:58001/play/a038/index.m3u8
+http://45.5.118.213:16000/play/a0n5/index.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", History Channel..
 http://45.181.122.145:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", History Channel...
@@ -322,7 +322,7 @@ http://45.228.234.162:24000/play/a098/index.m3u8
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/267311
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", DISCOVERY CHANNEL.
-http://45.166.92.22:58001/play/a01n/index.m3u8
+http://45.5.118.213:16000/play/a0n3/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", DISCOVERY CHANNEL..
 http://177.93.45.108:8000/play/a012/index.m3u8
 
@@ -393,6 +393,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c
 http://45.5.118.213:16000/play/a0lo/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon(English).mx" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", Nickelodeon
 http://190.83.60.34:1414/play/a01s
+#EXTINF:-1 tvg-id="disney(English).mx" tvg-name="disney" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-disney-282116.png?f=webp" group-title="todos" audio-track="spa, esp, lat", Disney
+http://45.5.118.213:16000/play/a0nt/index.m3u8
 
 
 
