@@ -40,11 +40,12 @@ http://45.160.12.253:8000/play/018
 
 
 #EXTINF:-1 tvg-id="HBOXtreme.co" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", HBO XTREME.
-http://45.181.122.145:8000/play/a00z/index.m3u8
+http://45.5.151.150:8000/play/a087/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", HBO XTREME..
-http://45.160.12.253:8000/play/020
+http://187.102.210.164:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", HBO Xtreme...
 http://170.82.37.21:8000/play/a02k/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="HBOPlus.co" tvg-name="HBO Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", HBO Plus.
@@ -139,7 +140,7 @@ http://181.189.243.254:8000/play/a0oc/index.m3u8
 #EXTINF:-1 tvg-id="goldenpremier.co" tvg-name="GOLDEN PREMIER 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", Golden Premier..
 http://181.189.243.254:8000/play/a0od/index.m3u8
 #EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", Golden Plus*.
-http://bgtv.site/play/play-740.php?j=1473&token=ertr
+http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28016
 #EXTINF:-1 tvg-id="Multipremier.mx" tvg-name="Multipremier" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18169_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", Multipremier.
 http://177.234.230.226:8010/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="Multipremier.mx" tvg-name="MULTIPREMIER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18169_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", Multipremier..
@@ -480,7 +481,7 @@ http://45.170.225.210:58001/play/a022/index.m3u8
 
 
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", Fox Sports Premium.
-http://bgtv.site/play/play-740.php?h=30338&token=ertr
+http://38.43.140.97:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", Fox Sports Premium..
 http://dt1.cdn.tvmp.co:25461/rocky/rocky/233
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", Fox Sports 1.
@@ -524,12 +525,12 @@ http://45.160.12.253:8000/play/233
 #EXTINF:0 type="stream" channelId="tntsports" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsports@2x.png" group="todos", TNT Sports 3
 http://45.160.12.253:8000/play/235
 
-#EXTINF:-1 tvg-id="(3)" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="todos" audio-track="spa, esp, lat", Afizzionados.
-http://bgtv.site/play/play-740.php?h=53495&token=ertr
+#EXTINF:-1 tvg-id="(3)" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="todos" audio-track="spa, esp, lat", Afizzionados*.
+http://bgtv.site/play/23-752.php?a=43&token=tyetew
 #EXTINF:-1 tvg-id="(lista3)" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="todos" audio-track="spa, esp, lat", Afizzionados*..
-http://bgtv.site/play/play-740.php?h=85072&token=ertr
+http://bgtv.site/play/play-752.php?16=878&token=tyetew
 #EXTINF:-1 tvg-id="(lista3)" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="todos" audio-track="spa, esp, lat", Afizzionados*...
-http://bgtv.site/play/play-740.php?h=53496&token=ertr
+http://bgtv.site/play/play-752.php?bud=53495&token=tyetew
 
 
 #EXTINF:-1 tvg-id="" tvg-name="comedycentral" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", Comedy Central
@@ -564,16 +565,13 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/894
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/828
 
 
-#EXTINF:-1 tvg-id="(17)" tvg-name="Malcom" tvg-logo="https://seeklogo.com/images/M/malcolm-in-the-middle-tv-show-logo-B4FD66AFE3-seeklogo.com.png" group-title="24/7" audio-track="spa, esp, lat", Malcolm*
-http://bgtv.site/play/play-740.php?j=11974&token=ertr
-
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL ENCANTADOR DE PERROS" tvg-logo="https://www.formulatv.com/images/programas/posters/300/322/dest_3.jpg" group-title="24/7" audio-track="spa, esp, lat", EL ENCANTADOR DE PERROS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 #EXTINF:-1 tvg-id="(17)" tvg-name="Alf" tvg-logo="https://es.digitaltrends.com/wp-content/uploads/2022/02/180-alf.jpg?p=1" group-title="24/7" audio-track="spa, esp, lat", Alf*
-http://bgtv.site/play/play-740.php?j=2321&token=ertr
+http://bgtv.site/play/play-752.php?j=2321&token=tyetew
 
 #EXTINF:0 type="stream" channelId="-1" group="24/7", 24/7 Alf
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/129321
@@ -591,7 +589,7 @@ http://gotv.vip:8880/enrique12/enrique12/157544
 http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/37830
 
 #EXTINF:-1 tvg-id="(20)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="", Bigbang*
-http://bgtv.site/play/41-740.php?megapro=519&token=ertr
+http://bgtv.site/play/41-752.php?mega=519&token=tyetew
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="", Bigbang 2
 http://gotv.vip:8880/enrique12/enrique12/158
 #EXTINF:-1 tvg-id="list34" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" audio-track="spa, esp, lat" tvg-shift="", Bigbang 3
@@ -605,41 +603,42 @@ http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/53237
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/129354
 #EXTINF:-1 tvg-id="(20)" tvg-name="Años Maravillosos" tvg-logo="https://ih1.redbubble.net/image.2131767850.4358/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7" audio-track="spa, esp, lat", Años Maravillosos*
 http://bgtv.site/play/play-740.php?j=40788&token=ertr
-#EXTINF:-1 tvg-id="(lista15)" tvg-name="TWOMAN" tvg-logo="https://pics.filmaffinity.com/Two_and_a_Half_Men_TV_Series-936619362-large.jpg" group-title="24/7" tvg-shift="", Dos Hombre y Medio*
+#EXTINF:-1 tvg-id="(lista15)" tvg-name="TWOMAN" tvg-logo="https://pics.filmaffinity.com/Two_and_a_Half_Men_TV_Series-936619362-large.jpg" group-title="24/7" tvg-shift="", Dos Hombre y Medio
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3378
 
 #EXTINF:0 type="stream" channelId="-1" group="24/7", 24/7 Two And a Half Men*
-http://bgtv.site/play/bd-740.php?id=3509-98268
+http://bgtv.site/play/play-752.php?j=57516&token=tyetew
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TWOMAN" tvg-logo="https://pics.filmaffinity.com/Two_and_a_Half_Men_TV_Series-936619362-large.jpg" group-title="24/7" tvg-shift="", Dos Hombre y Medio 3
 http://00322.xyz:8000/rances123/9IFBBCRBIX/3378
-#EXTINF:-1 tvg-id="(35)" tvg-name="dexter" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/d/dc/221975_10150172117895680_1273681_n.jpg/revision/latest/scale-to-width-down/350?cb=20130921015205&path-prefix=es" group-title="24/7" audio-track="spa, esp, lat", Dexter*
-http://bgtv.site/play/41-720.php?megapro=405&token=fg
+#EXTINF:-1 tvg-id="(16)" tvg-name="dexter" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/d/dc/221975_10150172117895680_1273681_n.jpg/revision/latest/scale-to-width-down/350?cb=20130921015205&path-prefix=es" group-title="24/7" audio-track="spa, esp, lat", Dexter*
+http://bgtv.site/play/play-752.php?j=11978&token=tyetew
 #EXTINF:-1 tvg-id="(35)" tvg-name="monsters64" tvg-logo="https://m.media-amazon.com/images/I/91mGu2aCwdL._SY606_.jpg" group-title="24/7" audio-track="spa, esp, lat", La familia Monsters*
-http://bgtv.site/play/41-720.php?megapro=531&token=fg
+http://bgtv.site/play/play-752.php?16=910&token=tyetew
 
-#EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="spa, esp, lat",  Dr. House*
-http://bgtv.site/play/play-740.php?j=11982&token=ertr
+#EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="spa, esp, lat",  Dr. House*.
+http://bgtv.site/play/play-752.php?j=11982&token=tyetew
+#EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="spa, esp, lat",  Dr. House*..
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1495
+
 
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="Friends" tvg-logo="https://p7.hiclipart.com/preview/840/692/965/5bbc448fd13e2.jpg" group-title="24/7" tvg-shift="", Friends*
-http://bgtv.site/play/play-740.php?j=94200&token=ertr
+http://bgtv.site/play/play-752.php?j=94200&token=tyetew
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Friends" tvg-logo="https://p7.hiclipart.com/preview/840/692/965/5bbc448fd13e2.jpg" group-title="24/7" tvg-shift="", Friends 2
 http://00322.xyz:8000/rances123/9IFBBCRBIX/159349
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Thundercats" tvg-logo="https://w0.peakpx.com/wallpaper/970/591/HD-wallpaper-thundercats-logo.jpg" group-title="24/7" audio-track="spa, esp, lat", Los Thundercats*
-http://bgtv.site/play/bd-740.php?id=4291-98268
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pantera Rosa 80s" tvg-logo="https://i.pinimg.com/550x/fd/22/b4/fd22b489f86fa249bf28e51bd146d244.jpg" group-title="24/7" audio-track="spa, esp, lat", Pantera Rosa 80s*
-http://bgtv.site/play/bd-740.php?id=4904-98268
+http://bgtv.site/play/play-752.php?j=11989&token=tyetew
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LooneyTunes" tvg-logo="https://www.pngkit.com/png/detail/321-3216119_looney-tunes-image-looney-tunes-logo-png.png" group-title="24/7" audio-track="spa, esp, lat", LooneyTunes*
-http://bgtv.site/play/bd-740.php?id=4737-98268
+http://bgtv.site/play/play-752.php?j=12008&token=tyetew
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="pajaroloco" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdCq7F0JBEJAVMhNOefcJKwyHQmvpt2iejEQ&usqp=CAU" group-title="24/7" audio-track="spa, esp, lat", Pajaroloco*
-http://bgtv.site/play/bd-740.php?id=4889-98268
+http://bgtv.site/play/play-752.php?j=12020&token=tyetew
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="picapiedras" tvg-logo="https://images.justwatch.com/poster/76219363/s718/los-picapiedra.%7Bformat%7D" group-title="24/7" audio-track="spa, esp, lat", Picapiedra*
-http://bgtv.site/play/bd-740.php?id=2447-98268
+http://bgtv.site/play/play-752.php?16=669&token=tyetew
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jneutron" tvg-logo="https://static.wikia.nocookie.net/jimmyneutron/images/c/ce/Jimmy-Neutron-Logo.jpg/revision/latest?cb=20161002181201" group-title="24/7" audio-track="spa, esp, lat", J Neutron*
-http://bgtv.site/play/bd-740.php?id=4893-98268
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="aereas" tvg-logo="" group-title="24/7" audio-track="spa, esp, lat", Catastrofes aereas
-http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/100138
+http://bgtv.site/play/play-752.php?j=12015&token=tyetew
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="familia" tvg-logo="" group-title="24/7" audio-track="spa, esp, lat", Familia de 10
 http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/37776
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="vecinos" tvg-logo="" group-title="24/7" audio-track="spa, esp, lat", Vecinos
