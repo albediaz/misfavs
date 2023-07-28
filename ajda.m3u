@@ -422,7 +422,7 @@ http://mains.services:2086/Jhbxcgoisnm/56756756765722222/66574
 #EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="MULTIMEDIOS 6" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91505_dark_360w_270h.png" group-title="TV Abierta" audio-track="spa, esp, lat", MULTIMEDIOS 6
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="MULTIMEDIOS 6" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91505_dark_360w_270h.png" group-title="TV Abierta" audio-track="spa, esp, lat", MULTIMEDIOS MTY
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+http://167.114.156.136:25461/INFINITV/ZX89NM22/89
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Abierta", MULTIMEDIOS CD JUAREZ
 https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
 #EXTINF:-1 tvg-id="mileniotv.mx" tvg-name="mileniotv" tvg-logo="https://cdn6.aptoide.com/imgs/f/0/b/f0b65d4868b935ed097abe9ac309985a_icon.png?w=128" group-title="TV Abierta" audio-track="spa, esp, lat", Milenio
@@ -485,7 +485,7 @@ http://38.43.140.97:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", Fox Sports Premium..
 http://dt1.cdn.tvmp.co:25461/rocky/rocky/233
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", Fox Sports 1.
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/40.m3u8
+http://167.114.156.136:25461/INFINITV/ZX89NM22/40
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", Fox Sports 1..
 http://45.179.140.242:8000/play/a0jo
 
