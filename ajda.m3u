@@ -256,7 +256,7 @@ http://45.166.92.22:58001/play/a048/index.m3u8
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="STAR CHANNEL 2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", STAR CHANNEL..
 http://187.102.210.164:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="StarChannel.do" tvg-name="STAR CHANNEL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", STAR CHANNEL...
-http://191.97.55.241:8000/play/a06v/index.m3u8
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/251
 
 
 #EXTINF:-1 tvg-id="StarTVE.mx" tvg-name="STAR TVE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106724_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", STAR TVE.
@@ -402,8 +402,7 @@ http://45.5.118.213:16000/play/a0nt/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Plus" tvg-logo="https://tmbroadcast.es/wp-content/uploads/2021/03/Logo-Movistar-plus.jpg" group-title="todos" audio-track="spa, esp, lat", Movistar Plus
-http://191.97.55.241:8000/play/a07m/index.m3u8
+#EXTINF:-
 
 
 
@@ -415,14 +414,20 @@ http://190.83.60.34:1414/play/a06j
 https://s99.dr691652.repl.co/tv507/telelatinohd_bym3ukodi.php?num=52&f=.m3u8
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="IMAGEN TV 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101096_dark_360w_270h.png" group-title="TV Abierta" audio-track="spa, esp, lat", IMAGEN TV 3
-http://190.61.102.67:31589/play/a00h/index.m3u8
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/124057
 #EXTINF:-1 tvg-id="ForoTv.mx" tvg-name="forotv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="TV Abierta" audio-track="spa, esp, lat", Foro TV 4
 http://mains.services:2086/Jhbxcgoisnm/56756756765722222/66574
 
+#EXTINF:-1 tvg-id="cinco.mx" tvg-name="canal5" tvg-logo="" group-title="TV Abierta" audio-track="spa, esp, lat", Canal 5
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/86972
+#EXTINF:-1 tvg-id="cinco.mx" tvg-name="canal5" tvg-logo="" group-title="TV Abierta" audio-track="spa, esp, lat", Canal 5..
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87081
+
+
 #EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="MULTIMEDIOS 6" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91505_dark_360w_270h.png" group-title="TV Abierta" audio-track="spa, esp, lat", MULTIMEDIOS 6
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/163404
 #EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="MULTIMEDIOS 6" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91505_dark_360w_270h.png" group-title="TV Abierta" audio-track="spa, esp, lat", MULTIMEDIOS MTY
-http://167.114.156.136:25461/INFINITV/ZX89NM22/89
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/88260
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Abierta", MULTIMEDIOS CD JUAREZ
 https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
 #EXTINF:-1 tvg-id="mileniotv.mx" tvg-name="mileniotv" tvg-logo="https://cdn6.aptoide.com/imgs/f/0/b/f0b65d4868b935ed097abe9ac309985a_icon.png?w=128" group-title="TV Abierta" audio-track="spa, esp, lat", Milenio
@@ -564,11 +569,14 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL ENCANTADOR DE PERROS" tvg-logo="" group-title="24/7" audio-track="spa, esp, lat", Don Gato
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL ENCANTADOR DE PERROS" tvg-logo="" group-title="24/7" audio-track="spa, esp, lat", Don Gato.
 http://latintvec.com:43201/JayHarris2021/97VKTeNGhH/37886
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL ENCANTADOR DE PERROS" tvg-logo="" group-title="24/7" audio-track="spa, esp, lat", Don Gato..
+http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/110519
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://blogbibliotecacid.files.wordpress.com/2017/12/pinkyandthebrain.jpg" group-title="24/7" tvg-shift="", Pinky y Cerebro
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/894
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3b/Inspector-ardilla-abrigo-01.jpg/revision/latest?cb=20130812002948&path-prefix=es" group-title="24/7" tvg-shift="", Inspector Ardilla
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/828
 
@@ -622,6 +630,8 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/3378
 http://bgtv.site/play/play-777.php?j=11978&token=kjhdkjads
 #EXTINF:-1 tvg-id="(35)" tvg-name="monsters64" tvg-logo="https://m.media-amazon.com/images/I/91mGu2aCwdL._SY606_.jpg" group-title="24/7" audio-track="spa, esp, lat", La familia Monsters*
 http://bgtv.site/play/41-777.php?mega=531&token=kjhdkjads
+#EXTINF:-1 tvg-id="(35)" tvg-name="monsters64" tvg-logo="https://m.media-amazon.com/images/I/91mGu2aCwdL._SY606_.jpg" group-title="24/7" audio-track="spa, esp, lat", La familia Monsters..
+http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/110570
 
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="spa, esp, lat",  Dr. House*.
 http://bgtv.site/play/play-777.php?j=11982&token=kjhdkjads
