@@ -94,7 +94,7 @@ http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/71860
 #EXTINF:0 type="stream" channelId="2503" group="todos" audio-track="spa, esp, lat", A&E.
 http://45.170.225.210:58001/play/a00f/index.m3u8
 #EXTINF:0 type="stream" channelId="2503" group="todos" audio-track="spa, esp, lat", A&E..
-http://38.43.140.97:8000/play/a03l/index.m3u8
+http://168.228.194.33:48001/play/a05t/index.m3u8
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032017/untitled-2_15.png?itok=Ps6ewae2" group-title="todos" audio-track="spa, esp, lat", AXN
 http://38.43.140.97:8000/play/a03o/index.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="FMHFAMILY" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="todos" audio-track="spa, esp, lat", FMH FAMILY
@@ -314,6 +314,9 @@ http://181.78.8.90:16123/play/ch30
 http://190.122.186.88:8000/play/a0jr/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", National Geographic...
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302706
+#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", National Geographic....
+http://45.71.252.67:8000/play/a0j6/index.m3u8
+
 #EXTINF:-1 tvg-id="NationalGeographicwild.mx" tvg-name="National Geographic Wild" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_09/large.1795120606_NatGeoWild.png.2c6ef94abd656f8b702a0853d19e510c.png" group-title="todos" audio-track="spa, esp, lat", Nat Geo Wild.
 http://190.60.39.198:8000/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicwild.mx" tvg-name="National Geographic Wild" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_09/large.1795120606_NatGeoWild.png.2c6ef94abd656f8b702a0853d19e510c.png" group-title="todos" audio-track="spa, esp, lat", Nat Geo Wild..
