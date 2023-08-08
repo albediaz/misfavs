@@ -86,14 +86,14 @@ http://dt1.cdn.tvmp.co:25461/rocky/rocky/2648
 
 #EXTINF:0 tvg-logo="https://www.dafont.com/forum/attach/orig/9/9/994013.png" group-title="todos", DISTRITO COMEDIA (MX)
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27993
-#EXTINF:0 tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/Galavision.png.128x128_q85.jpg" group-title="todos", Galavision
+#EXTINF:0 tvg-id="GalavisionCableNetwork(Spanish).us" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/Galavision.png.128x128_q85.jpg" group-title="todos", Galavision
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/71860
 
 
 
-#EXTINF:0 type="stream" channelId="2503" group="todos" audio-track="spa, esp, lat", A&E.
+#EXTINF:0 tvg-id="" type="stream" channelId="A&E" group="todos" audio-track="spa, esp, lat", A&E.
 http://45.170.225.210:58001/play/a00f/index.m3u8
-#EXTINF:0 type="stream" channelId="2503" group="todos" audio-track="spa, esp, lat", A&E..
+#EXTINF:0 type="stream" channelId="A&E" group="todos" audio-track="spa, esp, lat", A&E..
 http://168.228.194.33:48001/play/a05t/index.m3u8
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032017/untitled-2_15.png?itok=Ps6ewae2" group-title="todos" audio-track="spa, esp, lat", AXN
 http://38.43.140.97:8000/play/a03o/index.m3u8
@@ -331,11 +331,11 @@ http://45.5.118.213:16000/play/a0n3/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", DISCOVERY CHANNEL..
 http://177.93.45.108:8000/play/a012/index.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY sci" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="todos" audio-track="spa, esp, lat", Discovery Science.
+#EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY sci" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="todos" audio-track="spa, esp, lat", Discovery Science.
 http://38.7.131.2:8000/play/a077/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY sci" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="todos" audio-track="spa, esp, lat", Discovery Science..
+#EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY sci" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="todos" audio-track="spa, esp, lat", Discovery Science..
 http://dt1.cdn.tvmp.co:25461/rocky/rocky/754
-#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY sci" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="todos" audio-track="spa, esp, lat", Discovery Science...
+#EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY sci" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="todos" audio-track="spa, esp, lat", Discovery Science...
 http://45.228.234.162:24000/play/a09w/index.m3u8
 
 
