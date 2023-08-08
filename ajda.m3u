@@ -313,7 +313,7 @@ http://181.78.8.90:16123/play/ch30
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", National Geographic..
 http://190.122.186.88:8000/play/a0jr/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", National Geographic...
-http://45.181.122.145:8000/play/a005/index.m3u8
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302706
 #EXTINF:-1 tvg-id="NationalGeographicwild.mx" tvg-name="National Geographic Wild" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_09/large.1795120606_NatGeoWild.png.2c6ef94abd656f8b702a0853d19e510c.png" group-title="todos" audio-track="spa, esp, lat", Nat Geo Wild.
 http://190.60.39.198:8000/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicwild.mx" tvg-name="National Geographic Wild" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_09/large.1795120606_NatGeoWild.png.2c6ef94abd656f8b702a0853d19e510c.png" group-title="todos" audio-track="spa, esp, lat", Nat Geo Wild..
@@ -402,7 +402,7 @@ http://45.5.118.213:16000/play/a0nt/index.m3u8
 
 
 
-#EXTINF:-
+
 
 
 
@@ -601,12 +601,17 @@ http://vplay.club:80/play/c8GuMguWSatY-N6xE_reCeOmcz-YndCTYTG4LjVONhM
 
 #EXTINF:-1 tvg-id="(lista17)" tvg-name="titans" tvg-logo="https://www.kizi2games.net/files/images/0c/0c035d608a4dad356e10f1b04d848f47.webp" group-title="24/7" audio-track="spa, esp, lat",  Teen Titans Go*..
 http://bgtv.site/play/play-802.php?j=11093&token=none
+#EXTINF:-1 tvg-id="(lista17)" tvg-name="titans" tvg-logo="https://www.kizi2games.net/files/images/0c/0c035d608a4dad356e10f1b04d848f47.webp" group-title="24/7" audio-track="spa, esp, lat",  Teen Titans Go...
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333165
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="timonypumba" tvg-logo="https://storage.googleapis.com/sticker-prod/PmGrS8ifHxuylCD3AzVt/cover.thumb256.png" group-title="24/7" audio-track="spa, esp, lat", TIMON Y PUMBA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="timonypumba" tvg-logo="https://storage.googleapis.com/sticker-prod/PmGrS8ifHxuylCD3AzVt/cover.thumb256.png" group-title="24/7" audio-track="spa, esp, lat", TIMON Y PUMBA.
 http://gotv.vip:8880/enrique12/enrique12/157552
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="timonypumba" tvg-logo="https://storage.googleapis.com/sticker-prod/PmGrS8ifHxuylCD3AzVt/cover.thumb256.png" group-title="24/7" audio-track="spa, esp, lat", TIMON Y PUMBA..
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333184
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="pinguinosmadagascar" tvg-logo="https://image1.challengermode.com/59e52a55-d8f6-40d2-2574-08dad30bb5c2_256_256" group-title="24/7" audio-track="spa, esp, lat", Pinguinos de Madagascar.
-http://latintvec.com:43201/gerardovargas8/Z85pM6oxi0/37830
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50628
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="pinguinosmadagascar" tvg-logo="https://image1.challengermode.com/59e52a55-d8f6-40d2-2574-08dad30bb5c2_256_256" group-title="24/7" audio-track="spa, esp, lat", Pinguinos de Madagascar..
 http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/37830
 
@@ -614,7 +619,7 @@ http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/37830
 http://bgtv.site/play/41-802.php?mega=519&token=none
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="", Bigbang 2
-http://gotv.vip:8880/enrique12/enrique12/158
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58228
 #EXTINF:-1 tvg-id="list34" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" audio-track="spa, esp, lat" tvg-shift="", Bigbang 3
 http://00322.xyz:8000/rances123/9IFBBCRBIX/2563
 #EXTINF:-1 tvg-id="list34" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" audio-track="spa, esp, lat" tvg-shift="", Bigbang 4
@@ -640,8 +645,8 @@ http://bgtv.site/play/41-802.php?mega=531&token=none
 #EXTINF:-1 tvg-id="(35)" tvg-name="monsters64" tvg-logo="https://m.media-amazon.com/images/I/91mGu2aCwdL._SY606_.jpg" group-title="24/7" audio-track="spa, esp, lat", La familia Monsters..
 http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/110570
 
-#EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="spa, esp, lat",  Dr. House*.
-http://bgtv.site/play/play-802.php?j=11982&token=none
+#EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="spa, esp, lat",  Dr. House.
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58177
 
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="spa, esp, lat",  Dr. House..
 http://latintvec.com:43201/gerardovargas8/Z85pM6oxi0/54925
