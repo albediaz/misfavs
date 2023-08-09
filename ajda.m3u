@@ -581,22 +581,27 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc21a43294500076
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rewind Radio y TV | CL" tvg-logo="https://i2.paste.pics/02c63dfaaf621ab897fbddd3e4666a33.png" group-title="todos" audio-track="spa, esp, lat", Rewind Radio y TV | CL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rewind Radio y TV | CL" tvg-logo="https://i2.paste.pics/02c63dfaaf621ab897fbddd3e4666a33.png" group-title="Musica" audio-track="spa, esp, lat", Rewind Radio y TV | CL
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="SinLimites.co" tvg-name="Sin Limites" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111169_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", Sin Limites
-http://200.41.79.165:8000/play/a0j1/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Claro Musica" tvg-logo="https://www.sarbidemusic.com/wp-content/uploads/2016/12/Claro-m%C3%BAsica-300x131.jpg" group-title="todos" audio-track="spa, esp, lat", Claro Musica
-http://45.5.118.213:16000/play/a0l5/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telehit" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Telehit-logo.gif/revision/latest/scale-to-width-down/200?cb=20120102193439" group-title="todos" audio-track="spa, esp, lat", Telehit
-http://181.78.24.187:8006/play/a06m/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Exa TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/EXATV2009.jpg/revision/latest?cb=20230304224929&path-prefix=es" group-title="todos" audio-track="spa, esp, lat", Exa TV
-http://45.228.232.204:16000/play/a06j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111169_dark_360w_270h.png" group-title="Musica" audio-track="spa, esp, lat", Recuerdos retro
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="turbo mix" tvg-logo="https://www.sarbidemusic.com/wp-content/uploads/2016/12/Claro-m%C3%BAsica-300x131.jpg" group-title="Musica" audio-track="spa, esp, lat", Turbo mix
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="sabrosuratv" tvg-logo="https://cdn-profiles.tunein.com/s292490/images/logod.png?t=638217242920000000" group-title="Musica" audio-track="spa, esp, lat", Sabrosura TV
+https://tv.streaming-chile.com:1936/radiosabrosura/radiosabrosura/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VintageMusic" tvg-logo="" group-title="Musica" audio-track="spa, esp, lat", Vintage Music
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Plus 1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/466deabbd42d619f75a9134701c3e39b.webp" group-title="todos" audio-track="spa, esp, lat", Retro Plus 1
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Plus 2" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/466deabbd42d619f75a9134701c3e39b.webp" group-title="todos" audio-track="spa, esp, lat", Retro Plus 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Plus 1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/466deabbd42d619f75a9134701c3e39b.webp" group-title="Musica" audio-track="spa, esp, lat", Retro Plus 1
+https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w1911189467.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Plus 2" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/466deabbd42d619f75a9134701c3e39b.webp" group-title="Musica" audio-track="spa, esp, lat", Retro Plus 2
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w1825708308.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Plancha tv" tvg-logo="" group-title="Musica" audio-track="spa, esp, lat", Soy Plancha TV
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="memorias tv" tvg-logo="" group-title="Musica" audio-track="spa, esp, lat", Memorias TV
+https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="oldies hits tv" tvg-logo="" group-title="Musica" audio-track="spa, esp, lat", Oldies hits TV
+https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL ENCANTADOR DE PERROS" tvg-logo="" group-title="24/7" audio-track="spa, esp, lat", Don Gato.
@@ -651,7 +656,7 @@ http://bgtv.site/play/41-802.php?mega=519&token=none
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="", Bigbang 2
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58228
 #EXTINF:-1 tvg-id="list34" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" audio-track="spa, esp, lat" tvg-shift="", Bigbang 3
-http://00322.xyz:8000/rances123/9IFBBCRBIX/2563
+http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/53237
 #EXTINF:-1 tvg-id="list34" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" audio-track="spa, esp, lat" tvg-shift="", Bigbang 4
 http://gotv.vip:8880/enrique12/enrique12/158
 
