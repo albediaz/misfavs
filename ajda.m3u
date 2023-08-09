@@ -91,12 +91,16 @@ http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/71860
 
 
 
-#EXTINF:0 tvg-id="" type="stream" channelId="A&E" group="todos" audio-track="spa, esp, lat", A&E.
+#EXTINF:0 type="stream" channelId="A&E"  tvg-logo="https://cdn.mitvstatic.com/channels/co_a-e-mundo-hd_m.png" group="todos" audio-track="spa, esp, lat", A&E.
 http://45.170.225.210:58001/play/a00f/index.m3u8
-#EXTINF:0 type="stream" channelId="A&E" group="todos" audio-track="spa, esp, lat", A&E..
+#EXTINF:0 type="stream" channelId="A&E"  tvg-logo="https://cdn.mitvstatic.com/channels/co_a-e-mundo-hd_m.png" group="todos" audio-track="spa, esp, lat", A&E..
 http://168.228.194.33:48001/play/a05t/index.m3u8
-#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032017/untitled-2_15.png?itok=Ps6ewae2" group-title="todos" audio-track="spa, esp, lat", AXN
-http://38.43.140.97:8000/play/a03o/index.m3u8
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032017/untitled-2_15.png?itok=Ps6ewae2" group-title="todos" audio-track="spa, esp, lat", AXN.
+http://187.102.209.92:9010/play/a03j/index.m3u8
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032017/untitled-2_15.png?itok=Ps6ewae2" group-title="todos" audio-track="spa, esp, lat", AXN..
+http://190.90.251.194:8921/play/a01p/index.m3u8
+
+
 #EXTINF:-1 tvg-id="-1" tvg-name="FMHFAMILY" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="todos" audio-track="spa, esp, lat", FMH FAMILY
 http://160.20.165.246:8000/play/a01j/index.m3u8
 
@@ -109,19 +113,19 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-samsun
 
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINECANAL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", CINECANAL.
-http://45.5.118.213:16000/play/a0ne/index.m3u8
+http://45.5.117.182:8000/play/a0i4/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINECANAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", CINECANAL..
 http://190.90.251.194:8921/play/a020/index.m3u8
 
 
 #EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="Cine Latino" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", Cine Latino.
-http://45.5.118.213:16000/play/a0o6/index.m3u8
+http://45.5.117.182:8000/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="CINE LATINO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", Cine Latino..
 http://45.166.92.22:58001/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE HISPANO" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinehispano.png" group-title="todos" audio-track="spa, esp, lat", CINE HISPANO
 http://181.78.8.90:16123/play/ch51
 #EXTINF:-1 tvg-id="CanalDHE.mx" tvg-name="DHE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s81622_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", DHE.
-http://186.101.207.117:7654/play/a0cp/index.m3u8
+http://187.102.209.92:9010/play/a055/index.m3u8
 #EXTINF:-1 tvg-id="CanalDHE.mx" tvg-name="DHE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s81622_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", DHE..
 http://45.166.92.22:58001/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV TCS+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TCS_35_2017.png" group-title="todos" audio-track="spa, esp, lat", VTV TCS+
@@ -179,7 +183,7 @@ http://187.102.210.164:8000/play/a028/index.m3u8
 http://168.228.194.33:48001/play/a09w/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Tntnovelas.mx" tvg-name="TNT novelas" tvg-logo="https://vermastele.weebly.com/uploads/5/1/3/4/51344345/tnt-novelas.png" group-title="todos" audio-track="spa, esp, lat", TBS
+#EXTINF:-1 tvg-id="Tntnovelas.mx" tvg-name="TNT novelas" tvg-logo="https://vermastele.weebly.com/uploads/5/1/3/4/51344345/tnt-novelas.png" group-title="todos" audio-track="spa, esp, lat", TNT NOVELAS
 http://181.78.74.226:45000/play/a01y
 
 
