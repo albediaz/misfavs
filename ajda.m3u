@@ -49,17 +49,17 @@ http://170.82.37.21:8000/play/a02k/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBOPlus.co" tvg-name="HBO Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", HBO Plus.
-http://104.37.187.234:8080/live/XB21cLxBT4/kdeojk2vDM/15147.m3u8
+http://168.228.194.33:48001/play/a036/index.m3u8
 #EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", HBO PLUS..
 http://190.122.186.88:8000/play/a0ea/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPOP.mx" tvg-name="HBO POP HD" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/03/C_457-1.png" group-title="todos" audio-track="spa, esp, lat", HBO POP.
-http://104.37.187.234:8080/live/XB21cLxBT4/kdeojk2vDM/32601.m3u8
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3937
 #EXTINF:-1 tvg-id="HBOPop.do" tvg-name="HBO POP HD" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/03/C_457-1.png" group-title="todos" audio-track="spa, esp, lat", HBO POP..
-http://104.37.187.234:8080/live/XB21cLxBT4/kdeojk2vDM/32599.m3u8
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4317
 
 #EXTINF:-1 tvg-id="HBOMundi.do" tvg-name="HBO Mundi" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="todos" audio-track="spa, esp, lat", HBO Mundi.
-http://104.37.187.234:8080/live/XB21cLxBT4/kdeojk2vDM/32586.m3u8
+http://138.255.102.3:25461/live/CARAcolsd/7TgvE74REn/174.m3u8
 #EXTINF:-1 tvg-id="HBOMundi.do" tvg-name="HBO Mundi" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="todos" audio-track="spa, esp, lat", HBO Mundi..
 http://168.228.194.33:48001/play/a0bd/index.m3u8
 
@@ -73,9 +73,9 @@ http://45.166.92.22:58001/play/a00q/index.m3u8
 http://190.83.60.34:1414/play/a03m
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetaTV Movies | CL" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="todos" audio-track="spa, esp, lat", PlanetaTV Movies | CL
-http://104.37.187.234:8080/live/XB21cLxBT4/kdeojk2vDM/26386.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetaTV Kids | CL" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="todos" audio-track="spa, esp, lat", PlanetaTV Kids | CL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetaTV Movies | CL" tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png" group-title="todos" audio-track="spa, esp, lat", PlanetaTV Movies | CL
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetaTV Kids | CL" tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png" group-title="todos" audio-track="spa, esp, lat", PlanetaTV Kids | CL
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orbit TV | DO" tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png" group-title="todos" audio-track="spa, esp, lat", Orbit TV | DO
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
@@ -574,7 +574,7 @@ http://45.160.12.253:8000/play/233
 http://45.160.12.253:8000/play/235
 
 #EXTINF:-1 tvg-id="(lista17)" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="todos" audio-track="spa, esp, lat", Afizzionados.
-http://104.37.187.234:8080/live/XB21cLxBT4/kdeojk2vDM/31790.m3u8
+http://tv.proyectox.vip:43201/elwepaman/CphvdYcr8A/115776
 #EXTINF:-1 tvg-id="(lista3)" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="todos" audio-track="spa, esp, lat", Afizzionados..
 http://104.37.187.234:8080/live/XB21cLxBT4/kdeojk2vDM/31791.m3u8
 #EXTINF:-1 tvg-id="(lista3)" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="todos" audio-track="spa, esp, lat", Afizzionados...
@@ -659,14 +659,14 @@ http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/37830
 http://bgtv.site/play/41-802.php?mega=519&token=none
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="", Bigbang 2
-http://104.37.187.234:8080/live/XB21cLxBT4/kdeojk2vDM/33239.m3u8
+http://tv.proyectox.vip:43201/elwepaman/CphvdYcr8A/53237
 #EXTINF:-1 tvg-id="list34" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" audio-track="spa, esp, lat" tvg-shift="", Bigbang 3
 http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/53237
 #EXTINF:-1 tvg-id="list34" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" audio-track="spa, esp, lat" tvg-shift="", Bigbang 4
 http://gotv.vip:8880/enrique12/enrique12/158
 
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="spa, esp, lat",  Dr. House.
-http://104.37.187.234:8080/live/XB21cLxBT4/kdeojk2vDM/32273.m3u8
+http://tv.proyectox.vip:43201/elwepaman/CphvdYcr8A/54925
 
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="spa, esp, lat",  Dr. House..
 http://latintvec.com:43201/gerardovargas8/Z85pM6oxi0/54925
