@@ -445,6 +445,9 @@ http://201.190.40.41:58002/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="IMAGEN TV 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101096_dark_360w_270h.png" group-title="TV Abierta" audio-track="spa, esp, lat", IMAGEN TV 3
 http://playhispano.org:8080/FRANKTV/tZRPR2js4F/124057
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="IMAGEN TV 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101096_dark_360w_270h.png" group-title="TV Abierta" audio-track="spa, esp, lat", IMAGEN TV 3.4 Excelsior TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1691666330/ei/OnPUZM2LAtKG_tcP046umAI/ip/2806%3A2f0%3A9181%3Aaa9e%3A3dfc%3A33fe%3Aec60%3A24c9/id/wBHS_6EZVM0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f92MTNYv3ROE4SQ6cEQUc_Tv9k6ZQo1fQR1ITrMjbBEz43YDoV0/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000022/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgXUzA4d9DDZg83uxFBfqqOsgqbkMlR4cAl4Zo1897d6oCIQCXosB8dDHARxOVRLjn_RW5qgItuYvG5BFEtPEWXCpjNg%3D%3D/file/index.m3u8
+
 #EXTINF:-1 tvg-id="ForoTv.mx" tvg-name="forotv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="TV Abierta" audio-track="spa, esp, lat", Foro TV 4
 http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28002
 
