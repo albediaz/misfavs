@@ -453,9 +453,9 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1691666330/ei/O
 #EXTINF:-1 tvg-id="ForoTv.mx" tvg-name="forotv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="TV Abierta" audio-track="spa, esp, lat", Foro TV 4
 http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28002
 
-#EXTINF:-1 tvg-id="cinco.mx" tvg-name="canal5" tvg-logo="" group-title="TV Abierta" audio-track="spa, esp, lat", Canal 5
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="canal5" tvg-logo="" group-title="TV Abierta" audio-track="spa, esp, lat", Canal 5
 http://playhispano.org:8080/FRANKTV/tZRPR2js4F/86972
-#EXTINF:-1 tvg-id="cinco.mx" tvg-name="canal5" tvg-logo="" group-title="TV Abierta" audio-track="spa, esp, lat", Canal 5..
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="canal5" tvg-logo="" group-title="TV Abierta" audio-track="spa, esp, lat", Canal 5..
 http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87081
 
 
@@ -468,9 +468,9 @@ https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
 #EXTINF:-1 tvg-id="mileniotv.mx" tvg-name="mileniotv" tvg-logo="https://cdn6.aptoide.com/imgs/f/0/b/f0b65d4868b935ed097abe9ac309985a_icon.png?w=128" group-title="TV Abierta" audio-track="spa, esp, lat", Milenio
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1 tvg-id="Aztecasiete.mx" tvg-name="Azteca siete" tvg-logo="https://storage.googleapis.com/www-paredro-com/uploads/2016/12/antes.jpeg" group-title="TV Abierta" audio-track="spa, esp, lat", Azteca 7
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca siete" tvg-logo="https://storage.googleapis.com/www-paredro-com/uploads/2016/12/antes.jpeg" group-title="TV Abierta" audio-track="spa, esp, lat", Azteca 7
 http://168.228.194.33:48001/play/a0cj/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A+" tvg-logo="https://pbs.twimg.com/media/C7aA2AtU8AEckV8?format=jpg&name=large" group-title="TV Abierta" audio-track="spa, esp, lat", A+
+#EXTINF:-1 tvg-id="Azteca24.mx" tvg-name="A+" tvg-logo="https://pbs.twimg.com/media/C7aA2AtU8AEckV8?format=jpg&name=large" group-title="TV Abierta" audio-track="spa, esp, lat", A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-id="adn40.mx" tvg-name="ADN 40 | MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15384_dark_360w_270h.png" group-title="TV Abierta" audio-track="spa, esp, lat", ADN 40 | MX
