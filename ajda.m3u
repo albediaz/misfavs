@@ -427,7 +427,7 @@ http://187.102.209.92:9010/play/a04j/index.m3u8
 http://190.90.251.194:8921/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon(English).mx" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", Nickelodeon
 http://190.83.60.34:1414/play/a01s
-#EXTINF:-1 tvg-id="disney(English).mx" tvg-name="disney" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-disney-282116.png?f=webp" group-title="todos" audio-track="spa, esp, lat", Disney
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="disney" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-disney-282116.png?f=webp" group-title="todos" audio-track="spa, esp, lat", Disney
 http://187.102.209.92:9010/play/a03p/index.m3u8
 
 
@@ -501,7 +501,7 @@ http://45.5.117.182:8000/play/a0jx/index.m3u8
 http://170.254.172.10:8000/play/a089/index.m3u8
 
 
-#EXTINF:-1 tvg-id="NFL.US" tvg-name="NFL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="todos" tvg-shift="0",NFL NETWORK
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="todos" tvg-shift="0",NFL NETWORK
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15891
 
 
@@ -537,17 +537,17 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/40
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", Fox Sports 1..
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302652
 
-#EXTINF:0 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos",FOX SPORTS 2.
+#EXTINF:0 tvg-id="FOXSports2(ConoNorteMexico).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos",FOX SPORTS 2.
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302653
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos", 210 Fox Sports 2*..
+#EXTINF:-1 tvg-id="FOXSports2(ConoNorteMexico).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos", 210 Fox Sports 2*..
 http://bgtv.site/play/play-802.php?j=37826&token=none
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos", 211 Fox Sports 3.
+#EXTINF:-1 tvg-id="FOXSports3.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos", 211 Fox Sports 3.
 http://168.228.194.33:48001/play/a0b8/index.m3u8
-#EXTINF:0 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos", FOX SPORTS 3..
+#EXTINF:0 tvg-id="FOXSports3.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="todos", FOX SPORTS 3..
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302698
 
 
-#EXTINF:-1 tvg-id="(espn+.mx)" tvg-name="ESPN+" tvg-logo="https://m.media-amazon.com/images/I/41lChb5Q+KL.png" group-title="todos" audio-track="spa, esp, lat", ESPN+
+#EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN+" tvg-logo="https://m.media-amazon.com/images/I/41lChb5Q+KL.png" group-title="todos" audio-track="spa, esp, lat", ESPN+
 http://187.102.209.92:9010/play/a04g/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", ESPN 1.
 http://190.149.66.90:4000/play/a03a/index.m3u8
@@ -555,9 +555,9 @@ http://190.149.66.90:4000/play/a03a/index.m3u8
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110535
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="todos", ESPN 2.
 http://45.5.117.182:8000/play/a0hy/index.m3u8
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="todos", ESPN 3.
+#EXTINF:-1 tvg-id="ESPN4.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="todos", ESPN 3.
 http://45.5.117.182:8000/play/a0jo/index.m3u8
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="todos", ESPN 4.
+#EXTINF:-1 tvg-id="ESPN3.do" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="todos", ESPN 4.
 http://168.228.194.33:48001/play/a09m/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", ESPN Extra.
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110559
@@ -573,15 +573,15 @@ http://45.160.12.253:8000/play/233
 #EXTINF:0 type="stream" channelId="tntsports" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsports@2x.png" group="todos", TNT Sports 3
 http://45.160.12.253:8000/play/235
 
-#EXTINF:-1 tvg-id="(lista17)" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="todos" audio-track="spa, esp, lat", Afizzionados.
+#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="todos" audio-track="spa, esp, lat", Afizzionados.
 http://tv.proyectox.vip:43201/elwepaman/CphvdYcr8A/115776
-#EXTINF:-1 tvg-id="(lista3)" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="todos" audio-track="spa, esp, lat", Afizzionados..
+#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="todos" audio-track="spa, esp, lat", Afizzionados..
 http://104.37.187.234:8080/live/XB21cLxBT4/kdeojk2vDM/31791.m3u8
-#EXTINF:-1 tvg-id="(lista3)" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="todos" audio-track="spa, esp, lat", Afizzionados...
+#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="todos" audio-track="spa, esp, lat", Afizzionados...
 http://104.37.187.234:8080/live/XB21cLxBT4/kdeojk2vDM/31789.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="comedycentral" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", Comedy Central
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="comedycentral" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", Comedy Central
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c15-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd904709-6614-46f7-80bd-de128553e6f3&userId=&serverSideAds=true
 
 
