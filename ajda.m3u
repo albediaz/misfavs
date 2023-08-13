@@ -402,34 +402,10 @@ http://204.199.120.34:16123/play/ch29
 #EXTINF:0 type="stream" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group="todos" audio-track="spa, esp, lat", Animal Planet..
 http://186.31.37.98:8000/play/a00n/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Comedia Pluto" tvg-logo="https://i.blogs.es/999ffa/comediar/450_1000.webp" group-title="todos" audio-track="spa, esp, lat", Cine Comedia Pluto
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE FAMILIAR PLUTO" tvg-logo="https://cdn.teleon.tv/logo/pluto-tv-cine-familia-ptv-br.png" group-title="todos" audio-track="spa, esp, lat", CINE FAMILIAR PLUTO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Romance Pluto" tvg-logo="https://i.ytimg.com/vi/472K2H60UAc/maxresdefault.jpg" group-title="todos" audio-track="spa, esp, lat", Cine Romance Pluto
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Drama Pluto" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png" group-title="todos" audio-track="spa, esp, lat", Cine Drama Pluto
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Estrellas de Acción Pluto" tvg-logo="https://www.techgames.com.mx/wp-content/uploads/2020/05/Estrellas-de-Accion-Pluto-TV.jpg" group-title="todos" audio-track="spa, esp, lat", Estrellas de Acción Pluto
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Suspenso Pluto" tvg-logo="https://i.blogs.es/c4fc2a/thrillers/450_1000.webp" group-title="todos" audio-track="spa, esp, lat", Cine Suspenso Pluto
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Acción Pluto" tvg-logo="https://i.ytimg.com/vi/oCMkE0482Fg/maxresdefault.jpg" group-title="todos" audio-track="spa, esp, lat", Cine Acción Pluto
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Acción Pluto" tvg-logo="https://i.ytimg.com/vi/oCMkE0482Fg/maxresdefault.jpg" group-title="todos" audio-track="spa, esp, lat", Cine Acción Pluto..
-http://moboton.com:80/ZE5BHSu6Jd/1711281974/5314
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Estelar Pluto" tvg-logo="https://pbs.twimg.com/media/Eo6sdnRU0AEn7qu.jpg" group-title="todos" audio-track="spa, esp, lat", Cine Estelar Pluto
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Terror Pluto" tvg-logo="https://i.ytimg.com/vi/K1IDy_rQ2eY/maxresdefault.jpg" group-title="todos" audio-track="spa, esp, lat", Cine Terror Pluto
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PLUTO VIDA REAL" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" group-title="todos" audio-track="spa, esp, lat", PLUTO VIDA REAL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PLUTO VIDA REAL" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" group-title="todos" audio-track="spa, esp, lat", PLUTO VIDA REAL..
-http://moboton.com:80/ZE5BHSu6Jd/1711281974/5347
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO CARTOON PLUTO" tvg-logo="https://static.wikia.nocookie.net/nicthic/images/b/b0/Retro_Cartoons_Logo_2005-2015.png/revision/latest?cb=20171003231210" group-title="todos" audio-track="spa, esp, lat", RETRO CARTOON PLUTO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 
@@ -649,8 +625,7 @@ http://bgtv.site/play/play-847.php?16=426&token=ninguno
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/129321
 
 
-#EXTINF:-1 tvg-id="(...)" tvg-name="titans" tvg-logo="https://www.kizi2games.net/files/images/0c/0c035d608a4dad356e10f1b04d848f47.webp" group-title="24/7" audio-track="spa, esp, lat",  Teen Titans Go
-http://vplay.club:80/play/c8GuMguWSatY-N6xE_reCeOmcz-YndCTYTG4LjVONhM
+
 
 #EXTINF:-1 tvg-id="(lista17)" tvg-name="titans" tvg-logo="https://www.kizi2games.net/files/images/0c/0c035d608a4dad356e10f1b04d848f47.webp" group-title="24/7" audio-track="spa, esp, lat",  Teen Titans Go*..
 http://bgtv.site/play/play-847.php?j=11093&token=ninguno
@@ -693,13 +668,7 @@ http://latintvec.com:43201/gerardovargas8/Z85pM6oxi0/54925
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/129354
 #EXTINF:-1 tvg-id="(20)" tvg-name="Años Maravillosos" tvg-logo="https://ih1.redbubble.net/image.2131767850.4358/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7" audio-track="spa, esp, lat", Años Maravillosos*
 http://bgtv.site/play/play-847.php?j=40788&token=ninguno
-#EXTINF:-1 tvg-id="(lista15)" tvg-name="TWOMAN" tvg-logo="https://pics.filmaffinity.com/Two_and_a_Half_Men_TV_Series-936619362-large.jpg" group-title="24/7" tvg-shift="", Dos Hombre y Medio
-http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3378
 
-#EXTINF:0 type="stream" channelId="-1" group="24/7", 24/7 Two And a Half Men*
-http://bgtv.site/play/play-847.php?16=675&token=ninguno
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TWOMAN" tvg-logo="https://pics.filmaffinity.com/Two_and_a_Half_Men_TV_Series-936619362-large.jpg" group-title="24/7" tvg-shift="", Dos Hombre y Medio 3
-http://00322.xyz:8000/rances123/9IFBBCRBIX/3378
 #EXTINF:-1 tvg-id="(16)" tvg-name="dexter" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/d/dc/221975_10150172117895680_1273681_n.jpg/revision/latest/scale-to-width-down/350?cb=20130921015205&path-prefix=es" group-title="24/7" audio-track="spa, esp, lat", Dexter*
 http://bgtv.site/play/play-847.php?j=11978&token=ninguno
 #EXTINF:-1 tvg-id="(35)" tvg-name="monsters64" tvg-logo="https://m.media-amazon.com/images/I/91mGu2aCwdL._SY606_.jpg" group-title="24/7" audio-track="spa, esp, lat", La familia Monsters*
@@ -724,8 +693,7 @@ http://bgtv.site/play/play-847.php?16=524&token=ninguno
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="picapiedras" tvg-logo="https://images.justwatch.com/poster/76219363/s718/los-picapiedra.%7Bformat%7D" group-title="24/7" audio-track="spa, esp, lat", Picapiedra*
 http://bgtv.site/play/play-847.php?16=669&token=ninguno
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jneutron" tvg-logo="https://static.wikia.nocookie.net/jimmyneutron/images/c/ce/Jimmy-Neutron-Logo.jpg/revision/latest?cb=20161002181201" group-title="24/7" audio-track="spa, esp, lat", J Neutron*
-http://bgtv.site/play/play-847.php?j=12015&token=ninguno
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="familia" tvg-logo="" group-title="24/7" audio-track="spa, esp, lat", Familia de 10
 http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/37776
