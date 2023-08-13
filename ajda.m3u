@@ -336,7 +336,7 @@ http://168.228.194.33:48001/play/a054/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", National Geographic..
 http://181.209.173.10:9000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", National Geographic...
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302706
+http://45.5.117.182:8000/play/a0ey/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", National Geographic....
 http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28025
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", National Geographic.....
@@ -483,7 +483,7 @@ http://45.166.92.22:58001/play/a00r/index.m3u8
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42003
 
 #EXTINF:-1 tvg-id="UnivisionNetwork.mx" tvg-name="univision" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="TV Abierta" audio-track="spa, esp, lat", Univision.
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312990
+http://167.250.222.35:16000/play/a081/index.m3u8
 #EXTINF:-1 tvg-id="UnivisionTDN.mx" tvg-name="univision" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="TV Abierta" audio-track="spa, esp, lat", Univision..
 http://45.5.117.182:8000/play/a0jx/index.m3u8
 #EXTINF:-1 tvg-id="UnivisionNetwork.mx" tvg-name="univision" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="TV Abierta" audio-track="spa, esp, lat", Univision...
