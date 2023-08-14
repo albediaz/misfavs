@@ -35,7 +35,7 @@ http://138.255.102.3:25461/live/CARAcolsd/7TgvE74REn/269.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", HBO Family..
 http://45.181.122.145:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", HBO Family...
-http://104.37.187.234:8080/live/XB21cLxBT4/kdeojk2vDM/15145.m3u8
+http://gotv.vip:8880/enrique12/enrique12/89
 
 
 
@@ -511,7 +511,7 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/40
 http://50.7.66.234:8080/099792772/Futbol10/1156755
 
 #EXTINF:0 tvg-id="FOXSports2(ConoNorteMexico).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES",FOX SPORTS 2.
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302653
+http://gotv.vip:8880/enrique12/enrique12/78
 #EXTINF:-1 tvg-id="FOXSports2(ConoNorteMexico).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES", Fox Sports 2..
 http://50.7.66.234:8080/099792772/Futbol10/1156756
 #EXTINF:-1 tvg-id="FOXSports3.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES", 211 Fox Sports 3.
@@ -561,7 +561,7 @@ http://45.170.225.210:58001/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="DEPORTES" audio-track="spa, esp, lat", Afizzionados.
 http://tv.proyectox.vip:43201/elwepaman/CphvdYcr8A/115776
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="DEPORTES" audio-track="spa, esp, lat", Afizzionados..
-http://104.37.187.234:8080/live/XB21cLxBT4/kdeojk2vDM/31791.m3u8
+http://gotv.vip:8880/enrique12/enrique12/15
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="DEPORTES" audio-track="spa, esp, lat", Afizzionados...
 http://104.37.187.234:8080/live/XB21cLxBT4/kdeojk2vDM/31789.m3u8
 
@@ -608,7 +608,7 @@ http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/110519
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/894
 
 #EXTINF:-1 tvg-id="(lista16)" tvg-name="" tvg-logo="https://blogbibliotecacid.files.wordpress.com/2017/12/pinkyandthebrain.jpg" group-title="24/7" tvg-shift="", Pinky y Cerebro*..
-http://bgtv.site/play/play-847.php?16=721&token=ninguno
+http://bgtv.site/play/41-877.php?dark=267&token=ewrtwerwer
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3b/Inspector-ardilla-abrigo-01.jpg/revision/latest?cb=20130812002948&path-prefix=es" group-title="24/7" tvg-shift="", Inspector Ardilla
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/828
@@ -620,7 +620,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5a
 
 
 #EXTINF:-1 tvg-id="(17)" tvg-name="Alf" tvg-logo="https://es.digitaltrends.com/wp-content/uploads/2022/02/180-alf.jpg?p=1" group-title="24/7" audio-track="spa, esp, lat", Alf*.
-http://bgtv.site/play/play-847.php?16=426&token=ninguno
+http://bgtv.site/play/play-877.php?tlat=128&token=ewrtwerwer
 
 #EXTINF:0 type="stream" channelId="-1" group="24/7", Alf..
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/129321
@@ -629,7 +629,7 @@ http://31.42.185.216:8000/decaicedo22/LYP8385l0j/129321
 
 
 #EXTINF:-1 tvg-id="(lista17)" tvg-name="titans" tvg-logo="https://www.kizi2games.net/files/images/0c/0c035d608a4dad356e10f1b04d848f47.webp" group-title="24/7" audio-track="spa, esp, lat",  Teen Titans Go*..
-http://bgtv.site/play/play-847.php?j=11093&token=ninguno
+http://bgtv.site/play/play-877.php?tlat=11093&token=ewrtwerwer
 #EXTINF:-1 tvg-id="(lista17)" tvg-name="titans" tvg-logo="https://www.kizi2games.net/files/images/0c/0c035d608a4dad356e10f1b04d848f47.webp" group-title="24/7" audio-track="spa, esp, lat",  Teen Titans Go...
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4430
 
@@ -647,12 +647,12 @@ http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/37830
 
 
 #EXTINF:-1 tvg-id="(20)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="", Bigbang*
-http://bgtv.site/play/41-847.php?dark=519&token=ninguno
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="", Bigbang 2
-http://tv.proyectox.vip:43201/elwepaman/CphvdYcr8A/53237
+http://bgtv.site/play/41-877.php?dark=519&token=ewrtwerwer
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="", Bigbang* 2
+http://gotv.vip:8880/victor/mejia/158
 #EXTINF:-1 tvg-id="list34" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" audio-track="spa, esp, lat" tvg-shift="", Bigbang 3
 http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/53237
-#EXTINF:-1 tvg-id="list34" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" audio-track="spa, esp, lat" tvg-shift="", Bigbang 4
+#EXTINF:-1 tvg-id="" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" audio-track="spa, esp, lat" tvg-shift="", Bigbang 4
 http://gotv.vip:8880/enrique12/enrique12/158
 
 
@@ -668,12 +668,12 @@ http://latintvec.com:43201/gerardovargas8/Z85pM6oxi0/54925
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="animaniacs" tvg-logo="https://www.pngmart.com/files/22/Animaniacs-PNG-Isolated-File.png" group-title="24/7" tvg-shift="", Animaniacs
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/129354
 #EXTINF:-1 tvg-id="(20)" tvg-name="Años Maravillosos" tvg-logo="https://ih1.redbubble.net/image.2131767850.4358/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7" audio-track="spa, esp, lat", Años Maravillosos*
-http://bgtv.site/play/play-847.php?j=40788&token=ninguno
+http://bgtv.site/play/41-877.php?dark=287&token=ewrtwerwer
 
 #EXTINF:-1 tvg-id="(16)" tvg-name="dexter" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/d/dc/221975_10150172117895680_1273681_n.jpg/revision/latest/scale-to-width-down/350?cb=20130921015205&path-prefix=es" group-title="24/7" audio-track="spa, esp, lat", Dexter*
-http://bgtv.site/play/play-847.php?j=11978&token=ninguno
+http://bgtv.site/play/41-877.php?dark=405&token=ewrtwerwer
 #EXTINF:-1 tvg-id="(35)" tvg-name="monsters64" tvg-logo="https://m.media-amazon.com/images/I/91mGu2aCwdL._SY606_.jpg" group-title="24/7" audio-track="spa, esp, lat", La familia Monsters*
-http://bgtv.site/play/41-847.php?dark=531&token=ninguno
+http://bgtv.site/play/41-877.php?dark=531&token=ewrtwerwer
 #EXTINF:-1 tvg-id="(35)" tvg-name="monsters64" tvg-logo="https://m.media-amazon.com/images/I/91mGu2aCwdL._SY606_.jpg" group-title="24/7" audio-track="spa, esp, lat", La familia Monsters..
 http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/110570
 
@@ -686,14 +686,14 @@ http://bgtv.site/play/play-802.php?j=94200&token=none
 http://00322.xyz:8000/rances123/9IFBBCRBIX/159349
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pantera Rosa 80s" tvg-logo="https://i.pinimg.com/550x/fd/22/b4/fd22b489f86fa249bf28e51bd146d244.jpg" group-title="24/7" audio-track="spa, esp, lat", Pantera Rosa 80s*
-http://bgtv.site/play/play-847.php?16=671&token=ninguno
+http://bgtv.site/play/41-877.php?dark=245&token=ewrtwerwer
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LooneyTunes" tvg-logo="https://www.pngkit.com/png/detail/321-3216119_looney-tunes-image-looney-tunes-logo-png.png" group-title="24/7" audio-track="spa, esp, lat", LooneyTunes*
 http://bgtv.site/play/play-847.php?16=524&token=ninguno
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="picapiedras" tvg-logo="https://images.justwatch.com/poster/76219363/s718/los-picapiedra.%7Bformat%7D" group-title="24/7" audio-track="spa, esp, lat", Picapiedra*
-http://bgtv.site/play/play-847.php?16=669&token=ninguno
+http://bgtv.site/play/41-877.php?dark=243&token=ewrtwerwer
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="familia" tvg-logo="" group-title="24/7" audio-track="spa, esp, lat", Familia de 10
