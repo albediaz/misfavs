@@ -190,7 +190,7 @@ http://181.78.74.226:45000/play/a01y
 
 
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", TNT Series.
-http://45.5.151.150:8000/play/a00c/index.m3u8
+http://181.209.173.10:9000/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", TNT Series..
 http://45.170.225.210:58001/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", TNT.
@@ -198,7 +198,7 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/26
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", TNT..
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/261
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", TNT...
-http://45.5.151.150:8000/play/a06s/index.m3u8
+http://181.209.173.10:9000/play/a01k/index.m3u8
 
 
 #EXTINF:-1 tvg-id="WarnerChannel.co" tvg-name="WARNER CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", WARNER CHANNEL.
@@ -220,7 +220,7 @@ http://170.79.235.29:8000/play/088
 
 
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", Studio Universal.
-http://177.93.45.108:8000/play/a00x/index.m3u8
+http://191.98.179.21:50000/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", Studio Universal..
 http://45.166.92.22:58001/play/a00k/index.m3u8
 
@@ -234,7 +234,7 @@ http://45.170.225.210:58001/play/a035/index.m3u8
 #EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="UNIVERSAL CINEMA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", UNIVERSAL CINEMA.
 http://45.5.117.182:8000/play/a0jz/index.m3u8
 #EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="Universal Cinema" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", Universal Cinema..
-http://170.254.172.10:8000/play/a08b/index.m3u8
+http://181.209.173.10:9000/play/a04q/index.m3u8
 
 
 
@@ -254,9 +254,9 @@ http://45.181.122.145:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="Antena3.mx" tvg-name="ANTENA 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90309_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", ANTENA 3
 http://45.166.92.22:58001/play/a041/index.m3u8
 #EXTINF:-1 tvg-id="Antena3Internacional.do" tvg-name="A3 SERIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16800_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", A3 SERIES.
-http://160.20.165.245:8000/play/a00f/index.m3u8
+http://premiumultra.xyz:8080/2ur8924wwa/cmis7475n6/12369
 #EXTINF:-1 tvg-id="Atreseries.mx" tvg-name="A3 SERIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90917_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", A3 SERIES..
-http://160.20.165.245:8000/play/a00f/index.m3u8
+http://obsfullhd.tv:25461/Exchnico0237/A2KaDRoOI3/5368
 
 #EXTINF:-1 tvg-id="Atrescine.mx" tvg-name="A3Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82808_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", A3Cine.
 http://177.234.230.226:8010/play/a041/index.m3u8
@@ -265,7 +265,7 @@ http://160.20.165.245:8000/play/a01l/index.m3u8
 
 
 #EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", Universal Comedy.
-http://170.254.172.10:8000/play/a04w/index.m3u8
+http://167.250.222.35:16000/play/a09e/index.m3u8
 #EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="UNIVERSAL COMEDY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", UNIVERSAL COMEDY..
 http://38.7.131.2:8000/play/a0f2/index.m3u8
 
@@ -273,8 +273,8 @@ http://38.7.131.2:8000/play/a0f2/index.m3u8
 
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="STAR CHANNEL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", STAR CHANNEL.
 http://38.7.131.2:8000/play/a06e/index.m3u8
-#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="STAR CHANNEL 2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", STAR CHANNEL..
-http://187.102.210.164:8000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="STAR CHANNEL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", STAR CHANNEL..
+http://168.228.194.33:48001/play/a084/index.m3u8
 #EXTINF:-1 tvg-id="StarChannel.do" tvg-name="STAR CHANNEL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="todos" audio-track="spa, esp, lat", STAR CHANNEL...
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/251
 
