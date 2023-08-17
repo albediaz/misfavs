@@ -351,7 +351,7 @@ http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8745
 
 
 #EXTINF:-1 tvg-id="NationalGeographicworld.mx" tvg-name="National Geographic world" tvg-logo="https://i.pinimg.com/474x/4e/31/fa/4e31faa5e02eda1e90b7b916979df48e.jpg" group-title="todos" audio-track="spa, es, lat", Nat Geo Mundo.
-http://45.228.234.162:24000/play/a098/index.m3u8
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/61063
 #EXTINF:-1 tvg-id="NationalGeographicworld.mx" tvg-name="National Geographic world" tvg-logo="https://i.pinimg.com/474x/4e/31/fa/4e31faa5e02eda1e90b7b916979df48e.jpg" group-title="todos" audio-track="spa, es, lat", Nat Geo Mundo..
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/267311
 
@@ -563,7 +563,7 @@ http://tv.proyectox.vip:43201/elwepaman/CphvdYcr8A/115776
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="DEPORTES" audio-track="spa, es, lat", Afizzionados..
 http://gotv.vip:8880/enrique12/enrique12/15
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="DEPORTES" audio-track="spa, es, lat", Afizzionados...
-http://104.37.187.234:8080/live/XB21cLxBT4/kdeojk2vDM/31789.m3u8
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/60895
 
 
 #EXTINF:0 type="stream" channelId="tntsports" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsports@2x.png" group="DEPORTES", TNT Sports 1
@@ -600,9 +600,9 @@ https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL ENCANTADOR DE PERROS" tvg-logo="" group-title="24/7" audio-track="spa, es, lat", Don Gato.
-http://latintvec.com:43201/JayHarris2021/97VKTeNGhH/37886
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL ENCANTADOR DE PERROS" tvg-logo="" group-title="24/7" audio-track="spa, es, lat", Don Gato..
-http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/110519
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/120440
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="maydayaircrashes" tvg-logo="" group-title="24/7" audio-track="spa, es, lat", Catastrofes aereas
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/120113
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://blogbibliotecacid.files.wordpress.com/2017/12/pinkyandthebrain.jpg" group-title="24/7" tvg-shift="", Pinky y Cerebro
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/894
