@@ -305,8 +305,7 @@ http://177.234.230.226:8010/play/a01u/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Eurochannel.mx" tvg-name="EURO Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16574_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", EURO Channel.
-http://190.92.7.19:8000/play/a02q/index.m3u8
+
 
 #EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-name="Estrella TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65064_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", Estrella TV.
 https://estrellatv-roku.amagi.tv/playlist.m3u8
@@ -494,7 +493,8 @@ http://170.254.172.10:8000/play/a089/index.m3u8
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15891
 #EXTINF:-1 tvg-id="NFLREDZONE.us" tvg-name="NFLREDZONE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="DEPORTES" tvg-shift="0",NFL REDZONE
 http://50.7.66.234:8080/099792772/Futbol10/1091617
-
+#EXTINF:-1 tvg-id="NFL1SC(English).ca" tvg-name="NFL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="DEPORTES" tvg-shift="0",NFL GAMEPASS 1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/739
 
 
 
