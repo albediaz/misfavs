@@ -373,6 +373,8 @@ http://dt1.cdn.tvmp.co:25461/rocky/rocky/754
 #EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY sci" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="todos" audio-track="spa, es, lat", Discovery Science...
 http://190.217.117.194:8000/play/a0dt/index.m3u8
 
+#EXTINF:-1 tvg-id="DWEspanol.mx" tvg-name="DW Español" tvg-logo="https://media.tvalacarta.info/canales/256x256/dwspan.png" group-title="todos" audio-track="spa, es, lat", DW
+http://177.93.45.155:6143/play/a00g/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2839" tvg-logo="https://d3g9pb5nvr3u7.cloudfront.net/sites/544508a0cae62ee423f75edb/500231485/256.jpg" group="todos", Discovery World.
 http://dt1.cdn.tvmp.co:25461/rocky/rocky/10109
