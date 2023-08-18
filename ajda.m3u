@@ -473,7 +473,7 @@ http://190.14.153.40:9981/stream/channelid/1813928536?profile=pass
 http://gotv.vip:8880/victor/mejia/121
 
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16521_dark_360w_270h.png" group-title="TV Abierta" audio-track="spa, es, lat", Unicable
-http://168.228.194.33:48001/play/a0c5/index.m3u8
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/61107
 
 
 #EXTINF:-1 tvg-id="TelemundoInternacional.mx" tvg-name="TELEMUNDO 48" tvg-logo="https://www.grupoisos.com/wp-content/uploads/2022/05/Imagen-Telemundo-vale.jpg" group-title="TV Abierta" audio-track="spa, es, lat", TELEMUNDO.
