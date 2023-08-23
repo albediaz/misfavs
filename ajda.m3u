@@ -31,7 +31,7 @@ http://45.166.92.22:58001/play/a03t/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", HBO Family.
-http://138.255.102.3:25461/live/CARAcolsd/7TgvE74REn/269.m3u8
+http://latintvec.com:43201/G4CNMCdCZg/vUAKAjpQhH/1034
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", HBO Family..
 http://45.181.122.145:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", HBO Family...
@@ -54,12 +54,12 @@ http://168.228.194.33:48001/play/a036/index.m3u8
 http://190.122.186.88:8000/play/a0ea/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPOP.mx" tvg-name="HBO POP HD" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/03/C_457-1.png" group-title="todos" audio-track="spa, es, lat", HBO POP.
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3937
+http://latintvec.com:43201/G4CNMCdCZg/vUAKAjpQhH/1479
 #EXTINF:-1 tvg-id="HBOPop.do" tvg-name="HBO POP HD" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/03/C_457-1.png" group-title="todos" audio-track="spa, es, lat", HBO POP..
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4317
+http://latintvec.com:43201/G4CNMCdCZg/vUAKAjpQhH/1911
 
 #EXTINF:-1 tvg-id="HBOMundi.do" tvg-name="HBO Mundi" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="todos" audio-track="spa, es, lat", HBO Mundi.
-http://138.255.102.3:25461/live/CARAcolsd/7TgvE74REn/174.m3u8
+http://latintvec.com:43201/G4CNMCdCZg/vUAKAjpQhH/52878
 #EXTINF:-1 tvg-id="HBOMundi.do" tvg-name="HBO Mundi" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="todos" audio-track="spa, es, lat", HBO Mundi..
 http://45.71.252.67:8000/play/a0l7/index.m3u8
 
@@ -89,7 +89,7 @@ http://dt1.cdn.tvmp.co:25461/rocky/rocky/2648
 #EXTINF:0 tvg-logo="https://www.dafont.com/forum/attach/orig/9/9/994013.png" group-title="todos", DISTRITO COMEDIA (MX)
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27993
 #EXTINF:0 tvg-id="GalavisionCableNetwork(Spanish).us" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/Galavision.png.128x128_q85.jpg" group-title="todos", Galavision
-http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/92401
+http://latintvec.com:43201/G4CNMCdCZg/vUAKAjpQhH/157049
 
 
 
@@ -194,9 +194,9 @@ http://181.209.173.10:9000/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", TNT Series..
 http://45.170.225.210:58001/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", TNT.
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/26
+http://latintvec.com:43201/G4CNMCdCZg/vUAKAjpQhH/69586
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", TNT..
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/261
+http://latintvec.com:43201/G4CNMCdCZg/vUAKAjpQhH/1503
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", TNT...
 http://181.209.173.10:9000/play/a01k/index.m3u8
 
@@ -276,7 +276,7 @@ http://38.7.131.2:8000/play/a06e/index.m3u8
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="STAR CHANNEL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", STAR CHANNEL..
 http://168.228.194.33:48001/play/a084/index.m3u8
 #EXTINF:-1 tvg-id="StarChannel.do" tvg-name="STAR CHANNEL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", STAR CHANNEL...
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/251
+http://latintvec.com:43201/G4CNMCdCZg/vUAKAjpQhH/26758
 
 
 #EXTINF:-1 tvg-id="StarTVE.mx" tvg-name="STAR TVE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106724_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", STAR TVE.
@@ -613,7 +613,7 @@ http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/120113
 http://latintvec.com:43201/G4CNMCdCZg/vUAKAjpQhH/37833
 
 #EXTINF:-1 tvg-id="(lista16)" tvg-name="" tvg-logo="https://blogbibliotecacid.files.wordpress.com/2017/12/pinkyandthebrain.jpg" group-title="24/7" tvg-shift="", Pinky y Cerebro*..
-http://bgtv.site/play/play-814.php?16=721&token=asasasasas
+http://bgtv.site/play/play-853.php?16=721&token=asdfasdfasdfasdfasdfasdf
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3b/Inspector-ardilla-abrigo-01.jpg/revision/latest?cb=20130812002948&path-prefix=es" group-title="24/7" tvg-shift="", Inspector Ardilla
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/828
@@ -634,7 +634,7 @@ http://31.42.185.216:8000/decaicedo22/LYP8385l0j/129321
 
 
 #EXTINF:-1 tvg-id="(lista17)" tvg-name="titans" tvg-logo="https://www.kizi2games.net/files/images/0c/0c035d608a4dad356e10f1b04d848f47.webp" group-title="24/7" audio-track="spa, es, lat",  Teen Titans Go*..
-http://bgtv.site/play/play-877.php?tlat=11093&token=ewrtwerwer
+http://bgtv.site/play/play-853.php?token=asdfasdfasdfasdfasdfasdf&j=11093
 
 
 
@@ -652,7 +652,7 @@ http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/37830
 
 #EXTINF:-1 tvg-id="(20)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="", Bigbang*
 http://bgtv.site/play/41-814.php?dark=519&token=asasasasas
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="", Bigbang* 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="", Bigbang 2
 http://latintvec.com:43201/G4CNMCdCZg/vUAKAjpQhH/53237
 #EXTINF:-1 tvg-id="list34" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" audio-track="spa, es, lat" tvg-shift="", Bigbang 3
 http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/53237
@@ -675,7 +675,7 @@ http://31.42.185.216:8000/decaicedo22/LYP8385l0j/129354
 http://latintvec.com:43201/G4CNMCdCZg/vUAKAjpQhH/37760
 
 #EXTINF:-1 tvg-id="(16)" tvg-name="dexter" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/d/dc/221975_10150172117895680_1273681_n.jpg/revision/latest/scale-to-width-down/350?cb=20130921015205&path-prefix=es" group-title="24/7" audio-track="spa, es, lat", Dexter*
-http://bgtv.site/play/41-814.php?dark=405&token=asasasasas
+http://bgtv.site/play/play-853.php?token=asdfasdfasdfasdfasdfasdf&j=11978
 #EXTINF:-1 tvg-id="(35)" tvg-name="monsters64" tvg-logo="https://m.media-amazon.com/images/I/91mGu2aCwdL._SY606_.jpg" group-title="24/7" audio-track="spa, es, lat", La familia Monsters*
 http://bgtv.site/play/41-814.php?dark=531&token=asasasasas
 #EXTINF:-1 tvg-id="(35)" tvg-name="monsters64" tvg-logo="https://m.media-amazon.com/images/I/91mGu2aCwdL._SY606_.jpg" group-title="24/7" audio-track="spa, es, lat", La familia Monsters..
