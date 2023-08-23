@@ -40,7 +40,7 @@ http://gotv.vip:8880/enrique12/enrique12/89
 
 
 #EXTINF:-1 tvg-id="HBOXtreme.co" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", HBO XTREME.
-http://45.5.151.150:8000/play/a087/index.m3u8
+http://179.51.161.3:8000/play/a06e/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", HBO XTREME..
 http://191.98.179.21:50000/play/a02g/index.m3u8 
 #EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", HBO Xtreme...
@@ -145,8 +145,8 @@ http://181.78.8.90:16123/play/ch47
 http://190.92.7.19:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="goldenpremier.co" tvg-name="GOLDEN PREMIER 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", Golden Premier..
 http://168.228.194.33:48001/play/a00z/index.m3u8
-#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", Golden Plus*.
-http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28016
+#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", Golden Plus.
+http://latintvec.com:43201/G4CNMCdCZg/vUAKAjpQhH/1476
 
 
 #EXTINF:-1 tvg-id="Multipremier.mx" tvg-name="Multipremier" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18169_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", Multipremier.
@@ -202,7 +202,7 @@ http://181.209.173.10:9000/play/a01k/index.m3u8
 
 
 #EXTINF:-1 tvg-id="WarnerChannel.co" tvg-name="WARNER CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", WARNER CHANNEL.
-http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28045
+http://168.228.194.33:48001/play/a085/index.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="WARNER HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", WARNER CHANNEL..
 http://190.92.7.19:8000/play/a03x/index.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="WARNER HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", WARNER CHANNEL...
@@ -255,11 +255,7 @@ http://45.181.122.145:8000/play/a027/index.m3u8
 http://45.166.92.22:58001/play/a041/index.m3u8
 #EXTINF:-1 tvg-id="Antena3Internacional.do" tvg-name="A3 SERIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16800_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", A3 SERIES.
 http://premiumultra.xyz:8080/2ur8924wwa/cmis7475n6/12369
-#EXTINF:-1 tvg-id="Atreseries.mx" tvg-name="A3 SERIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90917_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", A3 SERIES..
-http://obsfullhd.tv:25461/Exchnico0237/A2KaDRoOI3/5368
 
-#EXTINF:-1 tvg-id="Atrescine.mx" tvg-name="A3Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82808_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", A3Cine.
-http://177.234.230.226:8010/play/a041/index.m3u8
 #EXTINF:-1 tvg-id="Atrescine.mx" tvg-name="A3Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82808_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", A3Cine..
 http://160.20.165.245:8000/play/a01l/index.m3u8
 
@@ -337,7 +333,7 @@ http://190.92.7.19:8000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", National Geographic...
 http://50.7.66.234:8080/lm01@/051223@/4097
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", National Geographic....
-http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28025
+http://170.254.172.10:8000/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", National Geographic.....
 http://45.71.252.67:8000/play/a0j6/index.m3u8
 
@@ -346,11 +342,11 @@ http://45.71.252.67:8000/play/a0j6/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicwild.mx" tvg-name="National Geographic Wild" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_09/large.1795120606_NatGeoWild.png.2c6ef94abd656f8b702a0853d19e510c.png" group-title="todos" audio-track="spa, es, lat", Nat Geo Wild.
 http://kuchini.site:8080/devtv/5af3eeb538/1137
 #EXTINF:-1 tvg-id="NationalGeographicwild.mx" tvg-name="National Geographic Wild" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_09/large.1795120606_NatGeoWild.png.2c6ef94abd656f8b702a0853d19e510c.png" group-title="todos" audio-track="spa, es, lat", Nat Geo Wild..
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8745
+http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/1077
 
 
 #EXTINF:-1 tvg-id="NationalGeographicworld.mx" tvg-name="National Geographic world" tvg-logo="https://i.pinimg.com/474x/4e/31/fa/4e31faa5e02eda1e90b7b916979df48e.jpg" group-title="todos" audio-track="spa, es, lat", Nat Geo Mundo.
-http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/61063
+http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/34599
 #EXTINF:-1 tvg-id="NationalGeographicworld.mx" tvg-name="National Geographic world" tvg-logo="https://i.pinimg.com/474x/4e/31/fa/4e31faa5e02eda1e90b7b916979df48e.jpg" group-title="todos" audio-track="spa, es, lat", Nat Geo Mundo..
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/267311
 
@@ -438,19 +434,19 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="IMAGEN TV 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101096_dark_360w_270h.png" group-title="TV Abierta" audio-track="spa, es, lat", IMAGEN TV 3
 http://kuchini.site:8080/devtv/5af3eeb538/9039
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="IMAGEN TV 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101096_dark_360w_270h.png" group-title="TV Abierta" audio-track="spa, es, lat", IMAGEN TV 3.4 Excelsior TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1691666330/ei/OnPUZM2LAtKG_tcP046umAI/ip/2806%3A2f0%3A9181%3Aaa9e%3A3dfc%3A33fe%3Aec60%3A24c9/id/wBHS_6EZVM0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f92MTNYv3ROE4SQ6cEQUc_Tv9k6ZQo1fQR1ITrMjbBEz43YDoV0/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000022/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgXUzA4d9DDZg83uxFBfqqOsgqbkMlR4cAl4Zo1897d6oCIQCXosB8dDHARxOVRLjn_RW5qgItuYvG5BFEtPEWXCpjNg%3D%3D/file/index.m3u8
+http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/58099
 
 #EXTINF:-1 tvg-id="ForoTv.mx" tvg-name="forotv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="TV Abierta" audio-track="spa, es, lat", Foro TV 4
-http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28002
+http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/26979
 
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="canal5" tvg-logo="" group-title="TV Abierta" audio-track="spa, es, lat", Canal 5
 http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/9024
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="canal5" tvg-logo="" group-title="TV Abierta" audio-track="spa, es, lat", Canal 5..
-http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87081
+http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/26973
 
 
 #EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="MULTIMEDIOS 6" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91505_dark_360w_270h.png" group-title="TV Abierta" audio-track="spa, es, lat", MULTIMEDIOS 6
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
+http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/1354
 #EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="MULTIMEDIOS 6" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91505_dark_360w_270h.png" group-title="TV Abierta" audio-track="spa, es, lat", MULTIMEDIOS MTY
 http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/267340
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Abierta", MULTIMEDIOS CD JUAREZ
@@ -473,7 +469,7 @@ http://190.14.153.40:9981/stream/channelid/1813928536?profile=pass
 http://gotv.vip:8880/victor/mejia/121
 
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16521_dark_360w_270h.png" group-title="TV Abierta" audio-track="spa, es, lat", Unicable
-http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/61107
+http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/153541
 
 
 #EXTINF:-1 tvg-id="TelemundoInternacional.mx" tvg-name="TELEMUNDO 48" tvg-logo="https://www.grupoisos.com/wp-content/uploads/2022/05/Imagen-Telemundo-vale.jpg" group-title="TV Abierta" audio-track="spa, es, lat", TELEMUNDO.
@@ -481,7 +477,7 @@ http://45.191.234.189:15084/play/a049/index.m3u8
 #EXTINF:-1 tvg-id="TelemundoInternacional.mx" tvg-name="TELEMUNDO LA" tvg-logo="https://www.grupoisos.com/wp-content/uploads/2022/05/Imagen-Telemundo-vale.jpg" group-title="TV Abierta" audio-track="spa, es, lat", TELEMUNDO..
 http://45.166.92.22:58001/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="TelemundoInternacional.mx" tvg-name="TELEMUNDO DL" tvg-logo="https://www.grupoisos.com/wp-content/uploads/2022/05/Imagen-Telemundo-vale.jpg" group-title="TV Abierta" audio-track="spa, es, lat", TELEMUNDO...
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42003
+http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/156994
 
 #EXTINF:-1 tvg-id="UnivisionNetwork.mx" tvg-name="univision" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="TV Abierta" audio-track="spa, es, lat", Univision.
 http://167.250.222.35:16000/play/a081/index.m3u8
@@ -496,7 +492,7 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15891
 #EXTINF:-1 tvg-id="NFLREDZONE.us" tvg-name="NFLREDZONE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="DEPORTES" tvg-shift="0",NFL REDZONE
 http://50.7.66.234:8080/099792772/Futbol10/1091617
 #EXTINF:-1 tvg-id="NFL1SC(English).ca" tvg-name="NFL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="DEPORTES" tvg-shift="0",NFL GAMEPASS 1
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/739
+http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/177462
 
 
 
@@ -516,8 +512,8 @@ http://50.7.66.234:8080/099792772/Futbol10/1156755
 http://gotv.vip:8880/enrique12/enrique12/78
 #EXTINF:-1 tvg-id="FOXSports2(ConoNorte).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES", Fox Sports 2..
 http://50.7.66.234:8080/099792772/Futbol10/1156756
-#EXTINF:-1 tvg-id="FOXSports3.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES", 211 Fox Sports 3.
-http://168.228.194.33:48001/play/a0b8/index.m3u8
+#EXTINF:-1 tvg-id="FOXSports3.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES", Fox Sports 3.
+http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/26812
 #EXTINF:0 tvg-id="FOXSports3.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES", FOX SPORTS 3..
 http://50.7.66.234:8080/099792772/Futbol10/4008
 
@@ -535,7 +531,7 @@ http://45.5.117.182:8000/play/a0jo/index.m3u8
 #EXTINF:-1 tvg-id="ESPN3.do" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES", ESPN 4.
 http://168.228.194.33:48001/play/a09m/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" audio-track="spa, es, lat", ESPN Extra.
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110559
+http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/26810
 
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" audio-track="spa, es, lat", TUDN.
 http://190.92.7.19:8000/play/a05d/index.m3u8
@@ -565,7 +561,7 @@ http://tv.proyectox.vip:43201/elwepaman/CphvdYcr8A/115776
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="DEPORTES" audio-track="spa, es, lat", Afizzionados..
 http://gotv.vip:8880/enrique12/enrique12/15
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="DEPORTES" audio-track="spa, es, lat", Afizzionados...
-http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/60895
+http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/153303
 
 
 #EXTINF:0 type="stream" channelId="tntsports" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsports@2x.png" group="DEPORTES", TNT Sports 1
@@ -578,8 +574,7 @@ http://45.160.12.253:8000/play/235
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rewind Radio y TV | CL" tvg-logo="https://i2.paste.pics/02c63dfaaf621ab897fbddd3e4666a33.png" group-title="Musica" audio-track="spa, es, lat", Rewind Radio y TV | CL
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111169_dark_360w_270h.png" group-title="Musica" audio-track="spa, es, lat", Recuerdos retro
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="turbo mix" tvg-logo="https://www.sarbidemusic.com/wp-content/uploads/2016/12/Claro-m%C3%BAsica-300x131.jpg" group-title="Musica" audio-track="spa, es, lat", Turbo mix
