@@ -602,15 +602,19 @@ https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Don gato" tvg-logo="" group-title="24/7" audio-track="spa, es, lat", Don Gato.
-http://latintvec.com:43201/G4CNMCdCZg/vUAKAjpQhH/37886
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="maydayaircrashes" tvg-logo="" group-title="24/7" audio-track="spa, es, lat", Catastrofes aereas
-http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/120113
+http://sdmx.vip:8080/Cambiosfenix/sjZJZYQXHY/2090953
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="maydayaircrashes" tvg-logo="" group-title="24/7" audio-track="spa, es, lat", Alerta Aeropuerto
+http://sdmx.vip:8080/Cambiosfenix/sjZJZYQXHY/203977
+
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://blogbibliotecacid.files.wordpress.com/2017/12/pinkyandthebrain.jpg" group-title="24/7" tvg-shift="", Pinky y Cerebro
-http://latintvec.com:43201/G4CNMCdCZg/vUAKAjpQhH/37833
+http://sdmx.vip:8080/Cambiosfenix/sjZJZYQXHY/2090901
 
 #EXTINF:-1 tvg-id="(lista16)" tvg-name="" tvg-logo="https://blogbibliotecacid.files.wordpress.com/2017/12/pinkyandthebrain.jpg" group-title="24/7" tvg-shift="", Pinky y Cerebro*..
-http://bgtv.site/play/play-853.php?16=721&token=asdas
+http://bgtv.site/play/41-853.php?dark=267&token=lkklklk
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3b/Inspector-ardilla-abrigo-01.jpg/revision/latest?cb=20130812002948&path-prefix=es" group-title="24/7" tvg-shift="", Inspector Ardilla
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/828
@@ -630,10 +634,10 @@ http://31.42.185.216:8000/decaicedo22/LYP8385l0j/129321
 
 
 
-#EXTINF:-1 tvg-id="(lista17)" tvg-name="titans" tvg-logo="https://www.kizi2games.net/files/images/0c/0c035d608a4dad356e10f1b04d848f47.webp" group-title="24/7" audio-track="spa, es, lat",  Teen Titans Go*..
-http://bgtv.site/play/play-853.php?token=asdas&j=11093
-
-
+#EXTINF:-1 tvg-id="(lista17)" tvg-name="titans" tvg-logo="https://www.kizi2games.net/files/images/0c/0c035d608a4dad356e10f1b04d848f47.webp" group-title="24/7" audio-track="spa, es, lat",  Teen Titans Go*.
+http://bgtv.site/play/play-853.php?token=lkklklk&j=11093
+#EXTINF:-1 tvg-id="(lista17)" tvg-name="titans" tvg-logo="https://www.kizi2games.net/files/images/0c/0c035d608a4dad356e10f1b04d848f47.webp" group-title="24/7" audio-track="spa, es, lat",  Teen Titans Go..
+http://sdmx.vip:8080/Cambiosfenix/sjZJZYQXHY/2090896
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="timonypumba" tvg-logo="https://storage.googleapis.com/sticker-prod/PmGrS8ifHxuylCD3AzVt/cover.thumb256.png" group-title="24/7" audio-track="spa, es, lat", TIMON Y PUMBA.
 http://gotv.vip:8880/enrique12/enrique12/157552
@@ -648,9 +652,9 @@ http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/37830
 
 
 #EXTINF:-1 tvg-id="(20)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="", Bigbang*
-http://bgtv.site/play/41-814.php?dark=519&token=asasasasas
+http://bgtv.site/play/41-814.php?dark=519&token=lkklklk
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" tvg-shift="", Bigbang 2
-http://latintvec.com:43201/G4CNMCdCZg/vUAKAjpQhH/53237
+http://sdmx.vip:8080/Cambiosfenix/sjZJZYQXHY/2091018
 #EXTINF:-1 tvg-id="list34" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" audio-track="spa, es, lat" tvg-shift="", Bigbang 3
 http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/53237
 #EXTINF:-1 tvg-id="" tvg-name="bigbang" tvg-logo="https://jcsatanas.fr/wp-content/uploads/2015/12/the-big-bang-theory-acteurs.jpg" group-title="24/7" audio-track="spa, es, lat" tvg-shift="", Bigbang 4
@@ -662,7 +666,7 @@ http://gotv.vip:8880/enrique12/enrique12/158
 http://tv.proyectox.vip:43201/elwepaman/CphvdYcr8A/54925
 
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="spa, es, lat",  Dr. House..
-http://latintvec.com:43201/G4CNMCdCZg/vUAKAjpQhH/54925
+http://sdmx.vip:8080/Cambiosfenix/sjZJZYQXHY/2090997
 
 
 
@@ -671,10 +675,10 @@ http://31.42.185.216:8000/decaicedo22/LYP8385l0j/129354
 #EXTINF:-1 tvg-id="(20)" tvg-name="Años Maravillosos" tvg-logo="https://ih1.redbubble.net/image.2131767850.4358/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7" audio-track="spa, es, lat", Años Maravillosos
 http://latintvec.com:43201/G4CNMCdCZg/vUAKAjpQhH/37760
 
-#EXTINF:-1 tvg-id="(16)" tvg-name="dexter" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/d/dc/221975_10150172117895680_1273681_n.jpg/revision/latest/scale-to-width-down/350?cb=20130921015205&path-prefix=es" group-title="24/7" audio-track="spa, es, lat", Dexter*
-http://bgtv.site/play/play-853.php?token=asdas&j=11978
+#EXTINF:-1 tvg-id="(16)" tvg-name="dexter" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/d/dc/221975_10150172117895680_1273681_n.jpg/revision/latest/scale-to-width-down/350?cb=20130921015205&path-prefix=es" group-title="24/7" audio-track="spa, es, lat", Dexter
+http://sdmx.vip:8080/Cambiosfenix/sjZJZYQXHY/2090882
 #EXTINF:-1 tvg-id="(35)" tvg-name="monsters64" tvg-logo="https://m.media-amazon.com/images/I/91mGu2aCwdL._SY606_.jpg" group-title="24/7" audio-track="spa, es, lat", La familia Monsters*
-http://bgtv.site/play/41-814.php?dark=531&token=asasasasas
+http://bgtv.site/play/41-814.php?dark=531&token=lkklklk
 #EXTINF:-1 tvg-id="(35)" tvg-name="monsters64" tvg-logo="https://m.media-amazon.com/images/I/91mGu2aCwdL._SY606_.jpg" group-title="24/7" audio-track="spa, es, lat", La familia Monsters..
 http://latintvec.com:43201/G4CNMCdCZg/vUAKAjpQhH/37787
 
@@ -682,12 +686,12 @@ http://latintvec.com:43201/G4CNMCdCZg/vUAKAjpQhH/37787
 
 
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="Friends" tvg-logo="https://p7.hiclipart.com/preview/840/692/965/5bbc448fd13e2.jpg" group-title="24/7" tvg-shift="", Friends.
-http://latintvec.com:43201/G4CNMCdCZg/vUAKAjpQhH/37800
+http://sdmx.vip:8080/Cambiosfenix/sjZJZYQXHY/223069
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Friends" tvg-logo="https://p7.hiclipart.com/preview/840/692/965/5bbc448fd13e2.jpg" group-title="24/7" tvg-shift="", Friends..
 http://00322.xyz:8000/rances123/9IFBBCRBIX/159349
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pantera Rosa 80s" tvg-logo="https://i.pinimg.com/550x/fd/22/b4/fd22b489f86fa249bf28e51bd146d244.jpg" group-title="24/7" audio-track="spa, es, lat", Pantera Rosa 80s.
-http://latintvec.com:43201/G4CNMCdCZg/vUAKAjpQhH/38447
+http://sdmx.vip:8080/Cambiosfenix/sjZJZYQXHY/2090971
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LooneyTunes" tvg-logo="https://www.pngkit.com/png/detail/321-3216119_looney-tunes-image-looney-tunes-logo-png.png" group-title="24/7" audio-track="spa, es, lat", LooneyTunes
 http://50.7.66.234:8080/418836/mirzadominguez/29409
@@ -696,7 +700,7 @@ http://50.7.66.234:8080/418836/mirzadominguez/29409
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="picapiedras" tvg-logo="https://images.justwatch.com/poster/76219363/s718/los-picapiedra.%7Bformat%7D" group-title="24/7" audio-track="spa, es, lat", Picapiedra.
 http://50.7.66.234:8080/418836/mirzadominguez/1141388
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="picapiedras" tvg-logo="https://images.justwatch.com/poster/76219363/s718/los-picapiedra.%7Bformat%7D" group-title="24/7" audio-track="spa, es, lat", Picapiedra.
-http://latintvec.com:43201/G4CNMCdCZg/vUAKAjpQhH/37854
+http://sdmx.vip:8080/Cambiosfenix/sjZJZYQXHY/2090989
 
 
 
@@ -705,4 +709,4 @@ http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/37776
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="vecinos" tvg-logo="" group-title="24/7" audio-track="spa, es, lat", Vecinos.
 http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/37785
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="vecinos" tvg-logo="" group-title="24/7" audio-track="spa, es, lat", Vecinos..
-http://latintvec.com:43201/G4CNMCdCZg/vUAKAjpQhH/37785
+http://sdmx.vip:8080/Cambiosfenix/sjZJZYQXHY/189870
