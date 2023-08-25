@@ -77,8 +77,7 @@ http://190.83.60.34:1414/play/a03m
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetaTV Kids | CL" tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png" group-title="todos" audio-track="spa, es, lat", PlanetaTV Kids | CL
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orbit TV | DO" tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png" group-title="todos" audio-track="spa, es, lat", Orbit TV | DO
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super TV | CL" tvg-logo="https://i.paste.pics/61260e061568a10afcb0dcdf499311a8.png" group-title="todos" audio-track="spa, es, lat", Super TV | CL
 https://stmv2.zcasthn.com.br/supertv/supertv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png" group-title="todos" audio-track="spa, es, lat", RETRO PLUS TV
@@ -105,13 +104,16 @@ http://190.90.251.194:8921/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="-1" tvg-name="FMHFAMILY" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="todos" audio-track="spa, es, lat", FMH FAMILY
 http://160.20.165.246:8000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="FMHrewind" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="todos" audio-track="spa, es, lat", FMH rewind
+http://45.160.15.130:2909/play/a16c
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Visión Dorada" tvg-logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg" group-title="todos" audio-track="spa, es, lat", Canal Visión Dorada | CO
-https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="mxfamily" tvg-logo="" group-title="todos" audio-track="spa, es, lat", MX Family
+http://45.160.15.130:2909/play/120
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="mxprime" tvg-logo="" group-title="todos" audio-track="spa, es, lat", MX Prime
+http://45.160.15.130:2909/play/122
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="cinepremium" tvg-logo="" group-title="todos" audio-track="spa, es, lat", Cine Premium
 http://204.199.120.34:16123/play/ch49
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tucine.mx" tvg-logo="https://lh3.googleusercontent.com/-jxMdnwq3fxw/XzgSNxgvHSI/AAAAAAAA4Rw/eev6AGnJag8MDN1kt76lQwfraDPAIsnDACK8BGAsYHg/s0/2020-08-15.png" group-title="todos" audio-track="spa, es, lat", Tu Cine
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
 
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINECANAL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", CINECANAL.
@@ -329,7 +331,7 @@ http://187.102.209.92:9010/play/a057/index.m3u8
 
 
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", National Geographic.
-http://168.228.194.33:48001/play/a054/index.m3u8
+http://45.160.15.130:2909/play/027
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", National Geographic..
 http://190.92.7.19:8000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="spa, es, lat", National Geographic...
