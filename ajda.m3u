@@ -40,7 +40,7 @@ http://187.102.208.153:8000/play/a08o/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBOXtreme.co" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" audio-track="es, spa, lat", HBO XTREME.
-http://179.51.161.3:8000/play/a06e/index.m3u8
+http://190.60.36.103:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" audio-track="es, spa, lat", HBO XTREME..
 http://191.98.179.21:50000/play/a02g/index.m3u8 
 #EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" audio-track="es, spa, lat", HBO Xtreme...
