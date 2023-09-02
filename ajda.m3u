@@ -16,15 +16,15 @@ http://45.181.122.145:8000/play/a00c/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO2.co" tvg-name="HBO 2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" audio-track="es, spa, lat", HBO 2.
-http://168.228.194.33:48001/play/a035/index.m3u8
+http://190.83.60.34:1414/play/a040
 #EXTINF:-1 tvg-id="HBO2.co" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" audio-track="es, spa, lat", HBO 2..
 http://187.102.208.152:8000/play/a06e/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.co" tvg-name="HBO 2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" audio-track="es, spa, lat", HBO 2...
-http://186.31.37.98:8000/play/a011/index.m3u8
+http://45.181.122.145:8000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" audio-track="es, spa, lat", HBO 2....
 http://167.250.222.35:16000/play/a041/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.DO" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" audio-track="es, spa, lat", HBO 2.....
-http://45.166.92.22:58001/play/a03t/index.m3u8
+http://186.189.222.204:8001/play/a02k/index.m3u8
 
 
 
@@ -93,7 +93,7 @@ http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/157049
 
 
 #EXTINF:0 tvg-id="AandE.mx" type="stream" channelId="A&E"  tvg-logo="https://cdn.mitvstatic.com/channels/co_a-e-mundo-hd_m.png" group="todos" audio-track="es, spa, lat", A&E.
-http://187.102.209.92:9010/play/a03g/index.m3u8
+http://45.166.92.22:58001/play/a00p/index.m3u8
 #EXTINF:0 tvg-id="AandE.mx" type="stream" channelId="A&E"  tvg-logo="https://cdn.mitvstatic.com/channels/co_a-e-mundo-hd_m.png" group="todos" audio-track="es, spa, lat", A&E..
 http://190.90.251.194:8921/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032017/untitled-2_15.png?itok=Ps6ewae2" group-title="todos" audio-track="es, spa, lat", AXN.
@@ -331,9 +331,9 @@ http://187.102.209.92:9010/play/a057/index.m3u8
 
 
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="es, spa, lat", National Geographic.
-http://45.160.15.130:2909/play/027
+http://45.166.92.22:58001/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="es, spa, lat", National Geographic..
-http://190.92.7.19:8000/play/a01n/index.m3u8
+http://45.166.92.22:58001/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="es, spa, lat", National Geographic...
 http://50.7.66.234:8080/lm01@/051223@/4097
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="es, spa, lat", National Geographic....
