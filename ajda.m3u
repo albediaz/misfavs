@@ -40,7 +40,7 @@ http://187.102.208.153:8000/play/a08o/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBOXtreme.co" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" audio-track="spa", HBO XTREME.
-http://186.189.222.204:8001/play/a02b/index.m3u8
+http://191.98.179.21:50000/play/a02g/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" audio-track="spa", HBO XTREME..
 http://187.102.209.92:9010/play/a059/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" audio-track="spa", HBO Xtreme...
@@ -54,7 +54,7 @@ http://186.189.222.204:8001/play/a02l/index.m3u8
 http://179.51.168.13:4000/play/a03c
 
 #EXTINF:-1 tvg-id="HBOPOP.mx" tvg-name="HBO POP HD" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/03/C_457-1.png" group-title="todos" audio-track="spa", HBO POP.
-http://45.181.122.145:8000/play/a01n/index.m3u8
+http://191.98.179.21:50000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="HBOPop.do" tvg-name="HBO POP HD" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/03/C_457-1.png" group-title="todos" audio-track="spa", HBO POP..
 http://179.51.168.13:4000/play/a02o
 
@@ -119,7 +119,7 @@ http://204.199.120.34:16123/play/ch49
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINECANAL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="todos" audio-track="spa", CINECANAL.
 http://45.5.117.182:8000/play/a0i4/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINECANAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="todos" audio-track="spa", CINECANAL..
-http://190.90.251.194:8921/play/a020/index.m3u8
+http://191.98.179.21:50000/play/a02o/index.m3u8
 
 
 #EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="Cine Latino" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_dark_360w_270h.png" group-title="todos" audio-track="spa", Cine Latino.
@@ -148,7 +148,7 @@ http://190.92.7.19:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="goldenpremier.co" tvg-name="GOLDEN PREMIER 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="todos" audio-track="spa", Golden Premier..
 http://168.228.194.33:48001/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="todos" audio-track="spa", Golden Plus.
-http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/1477
+http://castlempire.site:8080/cristian.garcia/eE8V2QzYhHZ3/169796
 
 
 #EXTINF:-1 tvg-id="Multipremier.mx" tvg-name="Multipremier" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18169_dark_360w_270h.png" group-title="todos" audio-track="spa", Multipremier.
@@ -164,7 +164,7 @@ http://181.209.173.10:9000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Sony" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" group-title="todos" audio-track="spa", Sony.
 http://168.228.194.33:48001/play/a086/index.m3u8
 #EXTINF:-1 tvg-id="CanalSony.ar" tvg-name="SONY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" group-title="todos" audio-track="spa", Sony..
-http://45.5.151.150:8000/play/a044/index.m3u8
+http://191.98.179.21:50000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="Sony Movies HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="todos" audio-track="spa", Sony Movies.
 http://190.217.117.194:8000/play/a0gi/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="Sony Movies HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="todos" audio-track="spa", Sony Movies..
@@ -604,7 +604,7 @@ https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Don gato" tvg-logo="" group-title="24/7" audio-track="spa", Don Gato.
-http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/731
+http://castlempire.site:8080/cristian.garcia/eE8V2QzYhHZ3/178431
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="maydayaircrashes" tvg-logo="" group-title="24/7" audio-track="spa", Alerta Aeropuerto
 http://sdmex.xyz:8080/Reyes/Reyes/203977
