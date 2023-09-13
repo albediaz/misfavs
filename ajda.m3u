@@ -6,7 +6,7 @@
 
 #EXTINF:-1 tvg-id="HBO.co" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="" audio-track="es, spa, lat", HBO.
 http://179.51.168.13:4000/play/a039
-#EXTINF:-1 tvg-id="HBO.co" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="" audio-track="es, spa, lat", HBO..
+#EXTINF:-1 tvg-id="HBO.co" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="" audio-track="spa", HBO..
 http://38.7.131.2:8000/play/a07o/index.m3u8
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="" audio-track="es, spa, lat", HBO...
 http://187.102.208.152:8000/play/a067/index.m3u8
