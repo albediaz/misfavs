@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/69wkng6qg4cz5j86yq8g"
+#EXTM3U url-tvg="http://m3u4u.com/epg/3wk1y26px5c14vvgygz7"
 
 
 
@@ -54,9 +54,9 @@ http://186.189.222.204:8001/play/a02l/index.m3u8
 http://190.60.36.103:8000/play/a00o/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPOP.mx" tvg-name="HBO POP HD" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/03/C_457-1.png" group-title="todos" audio-track="spa", HBO POP.
-http://191.98.179.21:50000/play/a00c/index.m3u8
+http://177.53.153.21:8001/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="HBOPop.do" tvg-name="HBO POP HD" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/03/C_457-1.png" group-title="todos" audio-track="spa", HBO POP..
-http://179.51.168.13:4000/play/a02o
+http://38.43.140.215:8000/play/a034/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOMundi.do" tvg-name="HBO Mundi" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="todos" audio-track="spa", HBO Mundi.
 http://00322.xyz:8000/coachprato/40437757/4800
@@ -70,7 +70,7 @@ http://190.27.253.211:8000/play/a078/index.m3u8
 #EXTINF:0 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group="todos" audio-track="spa", AMC..
 http://45.166.92.22:58001/play/a00q/index.m3u8
 #EXTINF:0 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group="todos" audio-track="spa", AMC...
-http://190.83.60.34:1414/play/a03m
+http://167.250.222.35:16000/play/a04d/index.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetaTV Movies | CL" tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png" group-title="todos" audio-track="spa", PlanetaTV Movies | CL
@@ -333,9 +333,9 @@ http://187.102.209.92:9010/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="spa", National Geographic.
 http://45.166.92.22:58001/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="spa", National Geographic..
-http://45.166.92.22:58001/play/a032/index.m3u8
+http://181.175.41.170:8000/play/a0l4
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="spa", National Geographic...
-http://179.51.168.13:4000/play/a06g
+http://138.59.177.34:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="spa", National Geographic....
 http://170.254.172.10:8000/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="spa", National Geographic.....
@@ -533,9 +533,9 @@ http://45.5.117.182:8000/play/a0hy/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES", ESPN 3.
 http://45.5.117.182:8000/play/a0jo/index.m3u8
 #EXTINF:-1 tvg-id="ESPN3.do" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES", ESPN 4.
-http://168.228.194.33:48001/play/a09m/index.m3u8
+http://167.250.222.35:16000/play/a07n/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" audio-track="spa", ESPN Extra.
-http://179.51.168.13:4000/play/a054
+http://181.78.12.119:16123/play/ch90/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" audio-track="spa", TUDN.
 http://190.92.7.19:8000/play/a05d/index.m3u8
@@ -653,13 +653,13 @@ http://castlempire.site:8080/cristian.garcia/eE8V2QzYhHZ3/196922
 
 
 
-#EXTINF:-1 tvg-id="(20)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="", Bigbang
+#EXTINF:-1 tvg-id="(20)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="", Big bang
 http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/2563
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="", Bigbang 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="", Big bang 2
 http://tutv.online:8080/Luis/Luis/178452
-#EXTINF:-1 tvg-id="" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" audio-track="spa" tvg-shift="", Bigbang 3
+#EXTINF:-1 tvg-id="" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" audio-track="spa" tvg-shift="", Big bang 3
 http://00322.xyz:8000/rances123/9IFBBCRBIX/2563
-#EXTINF:-1 tvg-id="" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" audio-track="spa" tvg-shift="", Bigbang 4
+#EXTINF:-1 tvg-id="" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" audio-track="spa" tvg-shift="", Big bang 4
 http://castlempire.site:8080/cristian.garcia/eE8V2QzYhHZ3/196994
 
 
