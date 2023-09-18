@@ -379,10 +379,10 @@ http://177.93.48.30:8552/play/a00k/index.m3u8
 #EXTINF:0 type="stream" channelId="2839" tvg-logo="https://d3g9pb5nvr3u7.cloudfront.net/sites/544508a0cae62ee423f75edb/500231485/256.jpg" group="todos", Discovery World.
 http://dt1.cdn.tvmp.co:25461/rocky/rocky/10109
 #EXTINF:0 type="stream" channelId="2839" tvg-logo="https://d3g9pb5nvr3u7.cloudfront.net/sites/544508a0cae62ee423f75edb/500231485/256.jpg"  group="todos", Discovery World..
-http://190.83.60.34:1414/play/a03k
+http://167.250.222.35:16000/play/a07z/index.m3u8
 
 #EXTINF:-1 tvg-id="InvestigationDiscovery(English).mx" tvg-name="Discovery ID HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65342_dark_360w_270h.png" group-title="todos" audio-track="spa", Discovery ID.
-http://190.83.60.34:1414/play/a02h
+http://167.250.222.35:16000/play/a082/index.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery(English).mx" tvg-name="Discovery ID" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65342_dark_360w_270h.png" group-title="todos" audio-track="spa", Discovery ID..
 http://201.219.246.114:7000/play/a01s/index.m3u8
 
@@ -390,8 +390,8 @@ http://201.219.246.114:7000/play/a01s/index.m3u8
 http://191.102.106.46:15028/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" audio-track="spa", Discovery Home & Health..
 http://181.78.8.90:16123/play/ch25
-#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" audio-track="spa", Discovery Home & Health*...
-http://190.187.154.151:8000/play/a06g/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" audio-track="spa", Discovery Home & Health...
+http://167.250.222.35:16000/play/a072/index.m3u8
 
 
 #EXTINF:-1 tvg-id="LoveNature(English).co" tvg-name="Love Nature" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/06/Love-Nature-1.png" group-title="todos" audio-track="spa", Love Nature
