@@ -152,19 +152,19 @@ http://177.93.45.155:6143/play/a038/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Multipremier.mx" tvg-name="Multipremier" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18169_dark_360w_270h.png" group-title="todos" audio-track="spa", Multipremier.
-http://181.209.173.10:9000/play/a02g/index.m3u8
+http://177.53.153.21:8001/play/a0a8/index.m3u8
 #EXTINF:-1 tvg-id="Multipremier.mx" tvg-name="MULTIPREMIER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18169_dark_360w_270h.png" group-title="todos" audio-track="spa", Multipremier..
 http://45.170.225.210:58001/play/a03e/index.m3u8
 #EXTINF:-1 tvg-id="MC.mx" tvg-name="MULTICINEMA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18329_dark_360w_270h.png" group-title="todos" audio-track="spa", MULTICINEMA.
 http://170.254.172.10:8000/play/a09a/index.m3u8
 #EXTINF:-1 tvg-id="MC.mx" tvg-name="MULTICINEMA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18329_dark_360w_270h.png" group-title="todos" audio-track="spa", MULTICINEMA..
-http://181.209.173.10:9000/play/a00h/index.m3u8
+http://177.53.153.21:8001/play/a07o/index.m3u8
 
 
 #EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Sony" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" group-title="todos" audio-track="spa", Sony.
 http://168.228.194.33:48001/play/a086/index.m3u8
 #EXTINF:-1 tvg-id="CanalSony.ar" tvg-name="SONY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" group-title="todos" audio-track="spa", Sony..
-http://191.98.179.21:50000/play/a006/index.m3u8
+http://201.222.44.219:4226/play/a079/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="Sony Movies HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="todos" audio-track="spa", Sony Movies.
 http://190.217.117.194:8000/play/a0gi/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="Sony Movies HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="todos" audio-track="spa", Sony Movies..
