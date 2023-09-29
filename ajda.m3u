@@ -605,8 +605,12 @@ https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Don gato" tvg-logo="" group-title="24/7" audio-track="spa", Don Gato*.
-http://bgtv.site/play/play-966.php?tlat=71&token=sdf
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Don gato" tvg-logo="" group-title="24/7" audio-track="spa", Don Gato.
+http://home-playtv.com:8080/Familia.Salazar.Murillo/QRPZW/169819
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Don gato" tvg-logo="" group-title="24/7" audio-track="spa", Don Gato..
+http://home-playtv.com:8080/TVPREMIUNS112/SZTGX/169819
+
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="maydayaircrashes" tvg-logo="" group-title="24/7" audio-track="spa", Alerta Aeropuerto
 http://sdmex.xyz:8080/Reyes/Reyes/203977
@@ -651,23 +655,23 @@ http://sdmx.vip:8080/Carlos242424/Carlos8888@/2090916
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="pinguinosmadagascar" tvg-logo="https://image1.challengermode.com/59e52a55-d8f6-40d2-2574-08dad30bb5c2_256_256" group-title="24/7" audio-track="spa", Pinguinos de Madagascar.
 http://tv.proyectox.vip:8080/jose123/QWsbRtFFnA/37830
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="pinguinosmadagascar" tvg-logo="https://image1.challengermode.com/59e52a55-d8f6-40d2-2574-08dad30bb5c2_256_256" group-title="24/7" audio-track="spa", Pinguinos de Madagascar..
-http://castlempire.site:8080/cristian.garcia/eE8V2QzYhHZ3/196922
+http://paputv.xyz:8080/PAPU1508231/Afk7uGRaUDkV/401850
 
 
 
 #EXTINF:-1 tvg-id="(20)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="", Big bang
 http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/2563
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="", Big bang 2
-http://tutv.online:8080/Luis/Luis/178452
+http://paputv.xyz:8080/PAPU1508231/Afk7uGRaUDkV/373989
 #EXTINF:-1 tvg-id="" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" audio-track="spa" tvg-shift="", Big bang 3
 http://00322.xyz:8000/rances123/9IFBBCRBIX/2563
 #EXTINF:-1 tvg-id="" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" audio-track="spa" tvg-shift="", Big bang 4
-http://castlempire.site:8080/cristian.garcia/eE8V2QzYhHZ3/196994
+http://home-playtv.com:8080/miralatintv2032/GEKYF/216987
 
 
 
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="spa",  Dr. House.
-http://castlempire.site:8080/cristian.garcia/eE8V2QzYhHZ3/196828
+http://paputv.xyz:8080/PAPU1508231/Afk7uGRaUDkV/401819
 
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="spa",  Dr. House..
 http://tv.proyectox.vip:8080/jose123/QWsbRtFFnA/54925
