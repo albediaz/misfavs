@@ -56,7 +56,7 @@ http://167.250.222.35:16000/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="HBOPOP.mx" tvg-name="HBO POP HD" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/03/C_457-1.png" group-title="todos" audio-track="spa", HBO POP.
 http://177.53.153.21:8001/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="HBOPop.do" tvg-name="HBO POP HD" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/03/C_457-1.png" group-title="todos" audio-track="spa", HBO POP..
-http://191.97.55.241:8000/play/a04t/index.m3u8
+http://161.132.243.192:50001/play/a007/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOMundi.do" tvg-name="HBO Mundi" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="todos" audio-track="spa", HBO Mundi.
 http://00322.xyz:8000/coachprato/40437757/4800
@@ -105,7 +105,7 @@ http://190.90.251.194:8921/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="FMHFAMILY" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="todos" audio-track="spa", FMH FAMILY
 http://160.20.165.246:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="FMHrewind" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="todos" audio-track="spa", FMH rewind
-http://45.160.15.130:2909/play/a16c
+http://190.110.109.104:52321/play/a011/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="mxfamily" tvg-logo="" group-title="todos" audio-track="spa", MX Family
 http://45.160.15.130:2909/play/120
