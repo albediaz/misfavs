@@ -310,7 +310,7 @@ http://177.234.230.226:8010/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-name="Estrella TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65064_dark_360w_270h.png" group-title="todos" audio-track="spa", Estrella TV.
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalClaro.co" tvg-name="Canal Claro" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79664_dark_360w_270h.png" group-title="todos" audio-track="spa", Canal Claro.
-http://190.122.186.88:8000/play/a0e6/index.m3u8
+http://190.149.66.90:4000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE FAMILIAR" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png" group-title="todos" audio-track="spa", CINE FAMILIAR.
 http://177.234.230.226:8010/play/a00v/index.m3u8
 
@@ -546,18 +546,18 @@ http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" audio-track="spa", TUDN...
 http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" audio-track="spa", TUDN....
-http://50.7.66.234:8080/099792772/Futbol10/3963
+http://190.92.7.19:8000/play/a05d/index.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" audio-track="spa", TUDN.....
-http://50.7.66.234:8080/099792772/Futbol10/1156010
+http://170.82.37.21:8000/play/a015/index.m3u8
 
 
 
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="DEPORTES" audio-track="spa", Claro Sports
 http://186.148.163.18:8000/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="DEPORTES" audio-track="spa", Claro Sports 2.
-http://190.122.186.88:8000/play/a0gh/index.m3u8
+http://190.149.66.90:4000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="DEPORTES" audio-track="spa", Claro sports 2..
-http://45.170.225.210:58001/play/a022/index.m3u8
+http://190.149.66.90:4000/play/a02f/index.m3u8
 
 
 
