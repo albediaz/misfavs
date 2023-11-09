@@ -88,7 +88,7 @@ http://dt1.cdn.tvmp.co:25461/rocky/rocky/2648
 #EXTINF:0 tvg-logo="https://www.dafont.com/forum/attach/orig/9/9/994013.png" group-title="todos", DISTRITO COMEDIA (MX)
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27993
 #EXTINF:0 tvg-id="GalavisionCableNetwork(Spanish).us" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/Galavision.png.128x128_q85.jpg" group-title="todos", Galavision
-http://budtvlight.com:25461/Daniel/0000/9510
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
 
 
 
@@ -337,7 +337,7 @@ http://187.102.209.92:9010/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="spa", National Geographic.
 http://167.250.222.35:16000/play/a07v/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="spa", National Geographic..
-http://190.187.247.206:17070/play/a09b/index.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/716
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="spa", National Geographic...
 http://190.149.66.90:4000/play/a04y/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="spa", National Geographic....
@@ -354,7 +354,7 @@ http://thevdm.xyz:25461/James_axe1@comcast.net/h3hk5H7z6T/19937
 
 
 #EXTINF:-1 tvg-id="NationalGeographicworld.mx" tvg-name="National Geographic world" tvg-logo="https://i.pinimg.com/474x/4e/31/fa/4e31faa5e02eda1e90b7b916979df48e.jpg" group-title="todos" audio-track="spa", Nat Geo Mundo.
-http://tv.proyectox.vip:43201/az6131/7gnVxliAUK/34599
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/598
 #EXTINF:-1 tvg-id="NationalGeographicworld.mx" tvg-name="National Geographic world" tvg-logo="https://i.pinimg.com/474x/4e/31/fa/4e31faa5e02eda1e90b7b916979df48e.jpg" group-title="todos" audio-track="spa", Nat Geo Mundo..
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/267311
 
@@ -363,7 +363,7 @@ http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/267311
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" audio-track="spa", DISCOVERY CHANNEL.
 http://190.60.40.37:12500/play/a0ad/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" audio-track="spa", DISCOVERY CHANNEL..
-http://177.93.45.108:8000/play/a012/index.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" audio-track="spa", DISCOVERY CHANNEL...
 http://190.187.247.206:17070/play/a0br/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" audio-track="spa", DISCOVERY CHANNEL....
@@ -375,7 +375,7 @@ http://200.24.206.132:8000/play/a0e0/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY sci" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="todos" audio-track="spa", Discovery Science..
 http://dt1.cdn.tvmp.co:25461/rocky/rocky/754
 #EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY sci" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="todos" audio-track="spa", Discovery Science...
-http://190.217.117.194:8000/play/a0dt/index.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770
 
 #EXTINF:-1 tvg-id="DWEspanol.mx" tvg-name="DW Español" tvg-logo="https://media.tvalacarta.info/canales/256x256/dwspan.png" group-title="todos" audio-track="spa", DW
 http://177.93.48.30:8552/play/a00k/index.m3u8 
@@ -463,7 +463,7 @@ https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca siete" tvg-logo="https://storage.googleapis.com/www-paredro-com/uploads/2016/12/antes.jpeg" group-title="TV Abierta" audio-track="spa", Azteca 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/677
 #EXTINF:-1 tvg-id="Azteca24.mx" tvg-name="A+" tvg-logo="https://pbs.twimg.com/media/C7aA2AtU8AEckV8?format=jpg&name=large" group-title="TV Abierta" audio-track="spa", A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
@@ -497,8 +497,8 @@ http://170.254.172.10:8000/play/a089/index.m3u8
 
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="DEPORTES" tvg-shift="0",NFL NETWORK.
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15891
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="DEPORTES" tvg-shift="0",NFL NETWORK.
-http://50.7.66.234:8080/UY2028/816373917/18590
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="DEPORTES" tvg-shift="0",NFL NETWORK..
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616
 #EXTINF:-1 tvg-id="NFLREDZONE.us" tvg-name="NFLREDZONE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="DEPORTES" tvg-shift="0",NFL REDZONE
 http://50.7.66.234:8080/099792772/Futbol10/1091617
 #EXTINF:-1 tvg-id="NFL1SC(English).ca" tvg-name="NFL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="DEPORTES" tvg-shift="0",NFL GAMEPASS 1
