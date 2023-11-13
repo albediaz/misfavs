@@ -78,10 +78,10 @@ https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetaTV Kids | CL" tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png" group-title="todos" audio-track="spa", PlanetaTV Kids | CL
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super TV | CL" tvg-logo="https://i.paste.pics/61260e061568a10afcb0dcdf499311a8.png" group-title="todos" audio-track="spa", Super TV | CL
-https://stmv2.zcasthn.com.br/supertv/supertv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="+Cine" tvg-logo="" group-title="todos" audio-track="spa", +Cine
+https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png" group-title="todos" audio-track="spa", RETRO PLUS TV
-https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="WOWDirectResponseTv.us" tvg-name="WOW tv" tvg-logo="https://i.imgur.com/xGkDbcR.png" group-title="todos" audio-track="spa", WOW tv
 http://dt1.cdn.tvmp.co:25461/rocky/rocky/2648
 
@@ -109,8 +109,8 @@ http://190.110.109.104:52321/play/a011/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="chilevisualfilm" tvg-logo="" group-title="todos" audio-track="spa", Chile Visual Film
 https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="mxprime" tvg-logo="" group-title="todos" audio-track="spa", MX Prime
-http://45.160.15.130:2909/play/122
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="mxprime" tvg-logo="" group-title="todos" audio-track="spa", Chile Visual Retro
+https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="cinepremium" tvg-logo="" group-title="todos" audio-track="spa", Cine Premium
 http://190.60.36.103:8000/play/a053/index.m3u8
 
