@@ -105,7 +105,7 @@ http://190.90.251.194:8921/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="FMHFAMILY" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="todos" audio-track="spa", FMH FAMILY
 http://160.20.165.246:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="FMHrewind" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="todos" audio-track="spa", FMH rewind
-http://190.110.109.104:52321/play/a011/index.m3u8
+http://45.166.92.22:58001/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="chilevisualfilm" tvg-logo="" group-title="todos" audio-track="spa", Chile Visual Film
 https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8?PlaylistM3UCL
