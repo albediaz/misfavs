@@ -22,7 +22,7 @@ http://190.149.66.90:4000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.co" tvg-name="HBO 2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" audio-track="spa", HBO 2...
 http://161.132.108.76:50001/play/a01c/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" audio-track="spa", HBO 2....
-http://190.60.36.103:8000/play/a00n/index.m3u8
+http://190.108.85.20:9999/play/a01g
 #EXTINF:-1 tvg-id="HBO2.DO" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" audio-track="spa", HBO 2.....
 http://181.78.74.226:45000/play/a00z
 
@@ -35,7 +35,7 @@ http://190.187.247.206:17070/play/a0bt/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="todos" audio-track="spa", HBO Family..
 http://190.149.66.90:4000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="todos" audio-track="spa", HBO Family...
-http://190.60.36.103:8000/play/a00q/index.m3u8
+http://190.108.85.20:9999/play/a01h
 
 
 
@@ -54,7 +54,7 @@ http://190.149.66.90:4000/play/a00e/index.m3u8
 http://167.250.222.35:16000/play/a042/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPOP.mx" tvg-name="HBO POP HD" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/03/C_457-1.png" group-title="todos" audio-track="spa", HBO POP.
-http://191.97.55.241:8000/play/a04t/index.m3u8
+http://190.108.85.20:9999/play/a01j
 #EXTINF:-1 tvg-id="HBOPop.do" tvg-name="HBO POP HD" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/03/C_457-1.png" group-title="todos" audio-track="spa", HBO POP..
 http://161.132.243.192:50001/play/a007/index.m3u8
 
