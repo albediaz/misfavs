@@ -112,8 +112,8 @@ http://45.166.92.22:58001/play/a02n/index.m3u8
 https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="chilevisualretro" tvg-logo="" group-title="todos" audio-track="spa", Chile Visual Retro
 https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="cinepremium" tvg-logo="" group-title="todos" audio-track="spa", Cine Premium
-http://181.78.12.119:16123/play/ch49/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="cinepremium" tvg-logo="" group-title="todos" audio-track="", Cine Premium
+http://181.78.74.226:45000/play/a03x
 
 
 
@@ -235,9 +235,9 @@ http://45.166.92.22:58001/play/a00k/index.m3u8
 
 
 #EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="Universal Premiere" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121866_dark_360w_270h.png" group-title="todos" audio-track="spa", Universal Premiere.
-http://45.5.117.182:8000/play/a0ih/index.m3u8
+http://186.148.163.18:8000/play/a048/index.m3u8
 #EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="Universal Premiere" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121866_dark_360w_270h.png" group-title="todos" audio-track="es, track1", Universal Premiere..
-http://170.82.37.21:8000/play/a03j/index.m3u8
+http://200.113.4.75:7210/play/a02c/index.m3u8
 
 
 #EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="UNIVERSAL CINEMA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png" group-title="todos" audio-track="spa", UNIVERSAL CINEMA.
@@ -336,13 +336,13 @@ http://187.102.209.92:9010/play/a057/index.m3u8
 
 
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="spa", Nat Geo.
-http://190.187.247.206:17070/play/a09b/index.m3u8
+http://147.135.124.6:26503/play/a04c/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="spa", Nat Geo..
-http://138.59.177.34:8000/play/a074/index.m3u8
+http://38.43.132.86:8000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="spa", Nat Geo...
-http://167.250.222.35:16000/play/a07v/index.m3u8
+http://181.78.12.119:16123/play/ch30/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="spa", Nat Geo....
-http://45.166.92.22:58001/play/a01k/index.m3u8
+http://181.78.64.154:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="spa", Nat Geo.....
 http://190.95.220.212:8000/play/a022/index.m3u8
 
