@@ -9,16 +9,16 @@ http://161.132.108.76:50001/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="HBO.co" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="" audio-track="spa", HBO..
 http://181.78.74.226:45000/play/a02x
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="" audio-track="spa", HBO...
-http://201.222.44.219:4226/play/a04q/index.m3u8
+http://186.148.163.18:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="" audio-track="spa", HBO....
-http://138.59.177.34:8000/play/a01m/index.m3u8
+http://190.108.85.20:9999/play/a01f
 
 
 
 #EXTINF:-1 tvg-id="HBO2.co" tvg-name="HBO 2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" audio-track="spa", HBO 2.
-http://167.250.222.35:16000/play/a041/index.m3u8
+http://190.108.85.20:9999/play/a01g
 #EXTINF:-1 tvg-id="HBO2.co" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" audio-track="spa", HBO 2..
-http://190.149.66.90:4000/play/a00d/index.m3u8
+http://186.148.163.18:8000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.co" tvg-name="HBO 2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" audio-track="spa", HBO 2...
 http://161.132.108.76:50001/play/a01c/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" audio-track="spa", HBO 2....
@@ -31,27 +31,27 @@ http://181.78.74.226:45000/play/a00z
 
 
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="todos" audio-track="spa", HBO Family.
-http://190.187.247.206:17070/play/a0bt/index.m3u8
+http://186.148.163.18:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="todos" audio-track="spa", HBO Family..
-http://190.149.66.90:4000/play/a00f/index.m3u8
+http://190.108.85.20:9999/play/a01h
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="todos" audio-track="spa", HBO Family...
 http://190.108.85.20:9999/play/a01h
 
 
 
 #EXTINF:-1 tvg-id="HBOXtreme.co" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" audio-track="spa", HBO XTREME.
-http://190.149.66.90:4000/play/a00g/index.m3u8
+http://45.160.15.130:2909/play/020
 #EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" audio-track="spa", HBO XTREME..
 http://187.102.209.92:9010/play/a059/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" audio-track="spa", HBO Xtreme...
-http://170.82.37.21:8000/play/a02k/index.m3u8
+http://186.148.163.18:8000/play/a01p/index.m3u8
 
 
 
 #EXTINF:-1 tvg-id="HBOPlus.co" tvg-name="HBO Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="todos" audio-track="spa", HBO Plus.
-http://190.149.66.90:4000/play/a00e/index.m3u8
+http://45.160.15.130:2909/play/019
 #EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="todos" audio-track="spa", HBO PLUS..
-http://167.250.222.35:16000/play/a042/index.m3u8
+http://186.148.163.18:8000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPOP.mx" tvg-name="HBO POP HD" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/03/C_457-1.png" group-title="todos" audio-track="spa", HBO POP.
 http://190.108.85.20:9999/play/a01j
@@ -66,7 +66,7 @@ http://proiptvdigic.com:8080/reddline/w9ETyfGGeVzx/218722
 
 
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="todos" audio-track="spa", AMC.
-http://190.149.66.90:4000/play/a01m/index.m3u8
+http://190.187.247.206:17070/play/a09e/index.m3u8
 #EXTINF:0 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group="todos" audio-track="spa", AMC..
 http://45.166.92.22:58001/play/a00q/index.m3u8
 #EXTINF:0 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group="todos" audio-track="spa", AMC...
