@@ -242,7 +242,7 @@ http://200.113.4.75:7210/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="UNIVERSAL CINEMA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png" group-title="todos" audio-track="spa", UNIVERSAL CINEMA.
 http://45.5.117.182:8000/play/a0jz/index.m3u8
-#EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="Universal Cinema" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png" group-title="todos" audio-track="spa", Universal Cinema..
+#EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="Universal Cinema" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png" group-title="todos" audio-track="esp", Universal Cinema..
 http://190.149.66.90:4000/play/a056/index.m3u8
 
 
