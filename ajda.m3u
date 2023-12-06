@@ -417,9 +417,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df265697
 
 
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", CARTOON NETWORK.
-http://187.102.209.92:9010/play/a04j/index.m3u8
+http://45.177.53.7:8000/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", CARTOON NETWORK..
-http://181.78.12.119:16123/play/a0ab/index.m3u8
+http://200.59.188.3:8000/play/a022
 
 #EXTINF:-1 tvg-id="Nickelodeon(English).mx" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Nickelodeon
 http://190.149.66.90:4000/play/a046/index.m3u8
