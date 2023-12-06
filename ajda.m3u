@@ -362,11 +362,11 @@ http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/267311
 
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", DISCOVERY CHANNEL.
-http://190.60.40.37:12500/play/a0ad/index.m3u8
+http://190.149.66.90:4000/play/a051/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", DISCOVERY CHANNEL..
 http://190.149.66.90:4000/play/a036/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", DISCOVERY CHANNEL...
-http://190.187.247.206:17070/play/a0br/index.m3u8
+http://167.250.222.35:16000/play/a07y/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", DISCOVERY CHANNEL....
 http://200.24.206.132:8000/play/a0eo/index.m3u8
 
@@ -376,7 +376,7 @@ http://200.24.206.132:8000/play/a0e0/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY sci" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="todos" audio-track="esp,spa", Discovery Science..
 http://dt1.cdn.tvmp.co:25461/rocky/rocky/754
 #EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY sci" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="todos" audio-track="esp,spa", Discovery Science...
-http://161.132.243.192:50001/play/a039/index.m3u8
+http://167.114.156.136:25461/INFINITV/ZX89NM22/216
 
 #EXTINF:-1 tvg-id="DWEspanol.mx" tvg-name="DW Español" tvg-logo="https://media.tvalacarta.info/canales/256x256/dwspan.png" group-title="todos" audio-track="esp,spa", DW
 http://177.93.48.30:8552/play/a00k/index.m3u8 
