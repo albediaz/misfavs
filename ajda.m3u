@@ -529,9 +529,9 @@ http://186.148.178.214:8090/play/a00d/index.m3u8
 http://187.102.209.92:9010/play/a04g/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", ESPN 1.
-http://167.250.222.35:16000/play/a07r/index.m3u8
+http://190.149.66.90:4000/play/a04u/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES", ESPN 1..
-http://167.114.156.136:25461/INFINITV/ZX89NM22/35
+http://190.149.66.90:4000/play/a03a/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES", ESPN 2.
 http://190.149.66.90:4000/play/a04w/index.m3u8
