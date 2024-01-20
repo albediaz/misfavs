@@ -600,8 +600,7 @@ https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w2132115672.
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Plancha tv" tvg-logo="" group-title="Musica" audio-track="esp,spa", Soy Plancha TV
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="memorias tv" tvg-logo="" group-title="Musica" audio-track="esp,spa", Memorias TV
-https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="oldies hits tv" tvg-logo="" group-title="Musica" audio-track="esp,spa", Oldies hits TV
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3UCL
 
@@ -675,7 +674,7 @@ http://home-playtv.com:8080/miralatintv2032/GEKYF/216987
 
 
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="esp,spa",  Dr. House.
-http://paputv.xyz:8080/ESTEBANA/W43a42fH6U2G/401819
+http://51.222.241.122:8080/N.usuario/GG2024GD/358987
 
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="esp,spa",  Dr. House..
 http://tv.proyectox.vip:8080/jose123/QWsbRtFFnA/54925
@@ -702,10 +701,10 @@ http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/223069
 http://home-playtv.com:8080/Familia.Salazar.Murillo/QRPZW/107923
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pantera Rosa 80s" tvg-logo="https://i.pinimg.com/550x/fd/22/b4/fd22b489f86fa249bf28e51bd146d244.jpg" group-title="24/7" audio-track="esp,spa", Pantera Rosa 80s.
-http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/129347
+http://51.222.241.122:8080/N.usuario/GG2024GD/225488
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LooneyTunes" tvg-logo="https://www.pngkit.com/png/detail/321-3216119_looney-tunes-image-looney-tunes-logo-png.png" group-title="24/7" audio-track="esp,spa", LooneyTunes
-http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/129338
+http://51.222.241.122:8080/N.usuario/GG2024GD/359087
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="picapiedras" tvg-logo="https://images.justwatch.com/poster/76219363/s718/los-picapiedra.%7Bformat%7D" group-title="24/7" audio-track="esp,spa", Picapiedra.
@@ -715,8 +714,11 @@ http://tv.proyectox.vip:8080/jose123/QWsbRtFFnA/37854
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="familia" tvg-logo="" group-title="24/7" audio-track="esp,spa", Familia de 10
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="familia" tvg-logo="" group-title="24/7" audio-track="esp,spa", Familia de 10.
 http://home-playtv.com:8080/miralatintv2032/GEKYF/107928
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="familia" tvg-logo="" group-title="24/7" audio-track="esp,spa", Familia de 10..
+http://51.222.241.122:8080/N.usuario/GG2024GD/358977
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="vecinos" tvg-logo="" group-title="24/7" audio-track="esp,spa", Vecinos.
 http://home-playtv.com:8080/miralatintv2032/GEKYF/107932
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="vecinos" tvg-logo="" group-title="24/7" audio-track="esp,spa", Vecinos..
