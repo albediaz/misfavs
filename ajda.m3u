@@ -66,7 +66,7 @@ http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/10863
 
 
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", AMC.
-http://187.102.209.92:9010/play/a04f/index.m3u8
+http://45.172.218.126:8000/play/a00b/index.m3u8
 #EXTINF:0 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group="todos" audio-track="esp,spa", AMC..
 http://209.45.81.84:8000/play/a00p
 #EXTINF:0 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group="todos" audio-track="esp,spa", AMC...
@@ -318,7 +318,7 @@ http://177.234.230.226:8010/play/a00v/index.m3u8
 
 
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", History Channel.
-http://187.102.209.92:9010/play/a03f/index.m3u8
+http://45.172.218.126:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", History Channel..
 http://181.78.105.146:2000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", History Channel...
@@ -328,11 +328,11 @@ http://190.90.154.73:8080/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="History2.mx" tvg-name="History 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", History 2.
 http://181.78.105.146:2000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="History2.mx" tvg-name="H2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", History 2..
-http://187.102.209.92:9010/play/a057/index.m3u8
+http://45.172.218.126:8000/play/a01w/index.m3u8
 
 
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Nat Geo.
-http://187.102.209.92:9010/play/a04c/index.m3u8
+http://45.172.218.126:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Nat Geo..
 http://190.60.40.37:12500/play/a09e/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Nat Geo...
