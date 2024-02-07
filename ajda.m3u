@@ -493,7 +493,7 @@ http://190.149.66.90:4000/play/a054/index.m3u8
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="DEPORTES" tvg-shift="0",NFL NETWORK.
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15891
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="DEPORTES" tvg-shift="0",NFL NETWORK..
-http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/220259
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15891
 #EXTINF:-1 tvg-id="NFLREDZONE.us" tvg-name="NFLREDZONE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="DEPORTES" tvg-shift="0",NFL REDZONE
 http://50.7.66.234:8080/099792772/Futbol10/1091617
 #EXTINF:-1 tvg-id="NFL1SC(English).ca" tvg-name="NFL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="DEPORTES" tvg-shift="0",NFL GAMEPASS 1
@@ -515,7 +515,7 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/42
 http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
 
 #EXTINF:0 tvg-id="FOXSports2(ConoNorte).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES",FOX SPORTS 2.
-http://offshore.lat:8080/play/vI9i1Cs20LAaXQntedmTm5VUZsfxUDCp-9AramislUm8djTf5yNxhYC8l1UQqwb0
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28009
 #EXTINF:-1 tvg-id="FOXSports2(ConoNorte).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES", Fox Sports 2..
 http://38.43.150.125:8000/play/a025/index.m3u8
 
@@ -539,7 +539,7 @@ http://190.149.66.90:4000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES", ESPN 3.
 http://167.250.222.35:16000/play/a07s/index.m3u8
 #EXTINF:-1 tvg-id="ESPN3.do" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES", ESPN 4.
-http://167.250.222.35:16000/play/a07n/index.m3u8
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27998
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", ESPN Extra.
 http://offshore.lat:8080/play/vI9i1Cs20LAaXQntedmTm_BnWA2lgR8v-roVQHWYW1OSZnLdQ7H_aO_4XtLt66sL
 
