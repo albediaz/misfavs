@@ -78,8 +78,8 @@ https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetaTV Kids | CL" tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png" group-title="todos" audio-track="esp,spa", PlanetaTV Kids | CL
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="+Cine" tvg-logo="" group-title="todos" audio-track="esp,spa", +Cine
-https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="+Cine" tvg-logo="" group-title="todos" audio-track="esp,spa", Classic
+http://tvlatino.club:2082/Jh754e999j/HNG7dAmukxcV/344439
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png" group-title="todos" audio-track="esp,spa", RETRO PLUS TV
 http://200.59.188.3:8000/play/a0c7
 #EXTINF:-1 tvg-id="WOWDirectResponseTv.us" tvg-name="WOW tv" tvg-logo="https://i.imgur.com/xGkDbcR.png" group-title="todos" audio-track="esp,spa", WOW tv
@@ -615,8 +615,8 @@ http://offshore.lat:8080/play/vI9i1Cs20LAaXQntedmTm5VUZsfxUDCp-9AramislUnw3Sdyd6
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="maydayaircrashes" tvg-logo="" group-title="24/7" audio-track="esp,spa", Good Doctor
-http://offshore.lat:8080/play/vI9i1Cs20LAaXQntedmTm5VUZsfxUDCp-9AramislUltBBEeyUj5VgvJQhVfuBZk
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="maydayaircrashes" tvg-logo="" group-title="24/7" audio-track="esp,spa", Capitan Cavernicola
+http://tvlatino.club:2082/Jh754e999j/HNG7dAmukxcV/304443
 
 
 
@@ -639,8 +639,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5a
 #EXTINF:-1 tvg-id="(17)" tvg-name="Alf" tvg-logo="https://es.digitaltrends.com/wp-content/uploads/2022/02/180-alf.jpg?p=1" group-title="24/7" audio-track="esp,spa", Alf.
 http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/129321
 
-#EXTINF:0 type="stream" tvg-name="Alf" tvg-logo="https://es.digitaltrends.com/wp-content/uploads/2022/02/180-alf.jpg?p=1" group="24/7", Alf..
-http://31.42.185.216:8000/decaicedo22/LYP8385l0j/129321
+#EXTINF:0 type="stream" tvg-name="Alf" tvg-logo="" group="24/7", Gallo Claudio
+http://tvlatino.club:2082/Jh754e999j/HNG7dAmukxcV/304406
 
 
 
@@ -674,7 +674,7 @@ http://home-playtv.com:8080/miralatintv2032/GEKYF/216987
 
 
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="esp,spa",  Dr. House.
-hhttp://bgtv.site/play/play-200.php?ul=1548&token=sdfasdfas
+http://tvlatino.club:2082/Jh754e999j/HNG7dAmukxcV/341048
 
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="esp,spa",  Dr. House..
 http://tv.proyectox.vip:8080/jose123/QWsbRtFFnA/54925
@@ -701,10 +701,10 @@ http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/223069
 http://home-playtv.com:8080/Familia.Salazar.Murillo/QRPZW/107923
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pantera Rosa 80s" tvg-logo="https://i.pinimg.com/550x/fd/22/b4/fd22b489f86fa249bf28e51bd146d244.jpg" group-title="24/7" audio-track="esp,spa", Pantera Rosa 80s.
-http://51.222.241.122:8080/N.usuario/GG2024GD/225488
+http://tvlatino.club:2082/Jh754e999j/HNG7dAmukxcV/304408
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LooneyTunes" tvg-logo="https://www.pngkit.com/png/detail/321-3216119_looney-tunes-image-looney-tunes-logo-png.png" group-title="24/7" audio-track="esp,spa", LooneyTunes
-http://51.222.241.122:8080/N.usuario/GG2024GD/359087
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LooneyTunes" tvg-logo="" group-title="24/7" audio-track="esp,spa", El coyote y el correcaminos
+http://tvlatino.club:2082/Jh754e999j/HNG7dAmukxcV/304409
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="picapiedras" tvg-logo="https://images.justwatch.com/poster/76219363/s718/los-picapiedra.%7Bformat%7D" group-title="24/7" audio-track="esp,spa", Picapiedra.
