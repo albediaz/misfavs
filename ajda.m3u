@@ -219,7 +219,9 @@ http://45.166.92.22:58001/play/a049/index.m3u8
 
 
 #EXTINF:-1 tvg-id="FilmandArts.co" tvg-name="Film&Arts" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Film&Arts
-http://190.61.57.2:1010/play/FILMANDARTS/index.m3u8
+http://190.61.57.2:1010/play/FILMANDARTS/index.m3u8.
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="europa europa" tvg-logo="https://th.bing.com/th/id/OIP.VAG5KL0ALah1vfEE_f7fIgAAAA?rs=1&pid=ImgDetMain" group-title="todos" audio-track="esp,spa", Europa Europa
+http://190.90.154.73:8080/play/a07n/index.m3u8
 
 
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal tv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53218_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Universal tv.
@@ -534,10 +536,10 @@ http://181.78.105.146:2000/play/a064/index.m3u8
 http://190.149.66.90:4000/play/a03a/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES", ESPN 2.
-http://190.149.66.90:4000/play/a04w/index.m3u8
+http://190.149.66.90:4000/play/a03b/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN4.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES", ESPN 3.
-http://167.250.222.35:16000/play/a07s/index.m3u8
+http://190.149.66.90:4000/play/a02g/index.m3u8
 #EXTINF:-1 tvg-id="ESPN3.do" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES", ESPN 4.
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27998
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", ESPN Extra.
@@ -577,10 +579,10 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/145474
 #EXTINF:0 type="stream" channelId="tntsports" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsports@2x.png" group="DEPORTES", TNT Sports 1
 http://186.190.231.178:8000/play/a01m/index.m3u8
 #EXTINF:0 type="stream" channelId="tntsports" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsports@2x.png" group="DEPORTES", TNT Sports 2
-http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/25340
+http://190.90.154.73:8080/play/a07k/index.m3u8
 
 #EXTINF:0 type="stream" channelId="tntsports" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsports@2x.png" group="DEPORTES", TNT Sports 3
-http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/25366
+http://190.90.154.73:8080/play/a00t/index.m3u8
 
 
 
@@ -589,8 +591,7 @@ http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/25366
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="turbo mix" tvg-logo="https://www.sarbidemusic.com/wp-content/uploads/2016/12/Claro-m%C3%BAsica-300x131.jpg" group-title="Musica" audio-track="esp,spa", Turbo mix
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="sabrosuratv" tvg-logo="https://cdn-profiles.tunein.com/s292490/images/logod.png?t=638217242920000000" group-title="Musica" audio-track="esp,spa", Sabrosura TV
-https://tv.streaming-chile.com:1936/radiosabrosura/radiosabrosura/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VintageMusic" tvg-logo="" group-title="Musica" audio-track="esp,spa", Vintage Music
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
 
