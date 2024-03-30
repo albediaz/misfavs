@@ -154,7 +154,7 @@ http://131.161.53.2:8000/play/a03w/index.m3u8
 #EXTINF:-1 tvg-id="Golden.do" tvg-name="Golden" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Golden.
 http://190.149.66.90:4000/play/a02l/index.m3u8
 #EXTINF:-1 tvg-id="Golden.co" tvg-name="Golden" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Golden..
-http://167.250.222.35:16000/play/a05l/index.m3u8
+http://131.161.53.2:8000/play/a04d/index.m3u8
 
 #EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden EDGE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Golden EDGE.
 http://190.60.33.167:8004/play/a05b/index.m3u8
@@ -165,11 +165,11 @@ http://138.59.177.34:8000/play/a018/index.m3u8
 http://131.161.53.2:8000/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Golden Plus.
-http://livex.pop-app.live/s4n/poplive/ch511/playlist.m3u8
+http://177.128.115.21:8080/live/Binet/6UkGawEA4z/160.m3u8
 
 
 #EXTINF:-1 tvg-id="Multipremier.mx" tvg-name="Multipremier" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18169_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Multipremier.
-http://167.250.222.35:16000/play/a07a/index.m3u8
+http://190.149.66.90:4000/play/a04j/index.m3u8
 #EXTINF:-1 tvg-id="Multipremier.mx" tvg-name="MULTIPREMIER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18169_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Multipremier..
 http://168.181.122.234:8000/play/a03r/index.m3u8
 #EXTINF:-1 tvg-id="MC.mx" tvg-name="MULTICINEMA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18329_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", MULTICINEMA.
@@ -239,7 +239,7 @@ http://170.82.37.21:8000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal tv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53218_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Universal tv.
 http://45.179.140.242:8000/play/a0jw
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal tv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53218_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Universal tv..
-http://167.250.222.35:16000/play/a078/index.m3u8
+http://181.78.105.146:2000/play/a03d/index.m3u8
 
 
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Studio Universal.
