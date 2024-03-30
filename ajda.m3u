@@ -80,19 +80,19 @@ https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="+Cine" tvg-logo="" group-title="todos" audio-track="esp,spa", Net Channel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" audio-track="esp,spa", Net Channel
 https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO TV" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/animacion/chiquilines.png" group-title="todos" audio-track="esp,spa", Chiquilines FreeTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/animacion/chiquilines.png" group-title="todos" audio-track="esp,spa", Chiquilines FreeTV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="TNT novelas" tvg-logo="http://131.161.53.2:8000/play/a03w/index.m3u8" group-title="todos" audio-track="esp,spa", Accion FreeTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://131.161.53.2:8000/play/a03w/index.m3u8" group-title="todos" audio-track="esp,spa", Accion FreeTV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_estelar_1080x1080_02092024.jpg" group-title="todos" audio-track="esp,spa", Estelar FreeTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_estelar_1080x1080_02092024.jpg" group-title="todos" audio-track="esp,spa", Estelar FreeTV
 http://177.234.230.226:8010/play/a01u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_drama_1080x1080_02092024_0.jpg" group-title="todos" audio-track="esp,spa", Drama FreeTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_drama_1080x1080_02092024_0.jpg" group-title="todos" audio-track="esp,spa", Drama FreeTV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-id="WOWDirectResponseTv.us" tvg-name="WOW tv" tvg-logo="" group-title="todos" audio-track="esp,spa", Moni TV
+#EXTINF:-1 tvg-id="" tvg-name="WOW tv" tvg-logo="" group-title="todos" audio-track="esp,spa", Moni TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
 
 #EXTINF:0 tvg-logo="https://www.dafont.com/forum/attach/orig/9/9/994013.png" group-title="todos", DISTRITO COMEDIA (MX)
