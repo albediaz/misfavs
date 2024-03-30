@@ -35,7 +35,7 @@ http://38.43.132.86:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", HBO Family..
 http://186.148.163.18:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", HBO Family...
-http://livex.pop-app.live/s4n/poplive/ch515/playlist.m3u8
+http://45.160.15.130:2909/play/018
 
 
 
@@ -78,12 +78,22 @@ https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetaTV Kids | CL" tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png" group-title="todos" audio-track="esp,spa", PlanetaTV Kids | CL
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="+Cine" tvg-logo="" group-title="todos" audio-track="esp,spa", Classic
-http://45.181.121.57:2909/play/121
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png" group-title="todos" audio-track="esp,spa", RETRO PLUS TV
-https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w2055970615.m3u8
-#EXTINF:-1 tvg-id="WOWDirectResponseTv.us" tvg-name="WOW tv" tvg-logo="https://i.imgur.com/xGkDbcR.png" group-title="todos" audio-track="esp,spa", WOW tv
-http://dt1.cdn.tvmp.co:25461/rocky/rocky/2648
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="+Cine" tvg-logo="" group-title="todos" audio-track="esp,spa", Net Channel
+https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO TV" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/animacion/chiquilines.png" group-title="todos" audio-track="esp,spa", Chiquilines FreeTV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="TNT novelas" tvg-logo="http://131.161.53.2:8000/play/a03w/index.m3u8" group-title="todos" audio-track="esp,spa", Accion FreeTV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_estelar_1080x1080_02092024.jpg" group-title="todos" audio-track="esp,spa", Estelar FreeTV
+http://177.234.230.226:8010/play/a01u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_drama_1080x1080_02092024_0.jpg" group-title="todos" audio-track="esp,spa", Drama FreeTV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="WOWDirectResponseTv.us" tvg-name="WOW tv" tvg-logo="" group-title="todos" audio-track="esp,spa", Moni TV
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
 
 #EXTINF:0 tvg-logo="https://www.dafont.com/forum/attach/orig/9/9/994013.png" group-title="todos", DISTRITO COMEDIA (MX)
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27993
@@ -137,7 +147,7 @@ http://190.60.33.167:8004/play/a03x/index.m3u8
 http://190.149.66.90:4000/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV TCS+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TCS_35_2017.png" group-title="todos" audio-track="esp,spa", VTV TCS+
-http://167.250.222.35:16000/play/a055/index.m3u8
+http://131.161.53.2:8000/play/a03w/index.m3u8
 
 
 
@@ -195,8 +205,7 @@ http://190.149.66.90:4000/play/a007/index.m3u8
 http://181.78.105.146:2000/play/a01s/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Tntnovelas.mx" tvg-name="TNT novelas" tvg-logo="https://vermastele.weebly.com/uploads/5/1/3/4/51344345/tnt-novelas.png" group-title="todos" audio-track="esp,spa", TNT NOVELAS
-http://190.60.33.167:8004/play/a00b/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", TNT Series.
@@ -304,10 +313,8 @@ http://190.149.66.90:4000/play/a04s/index.m3u8
 
 #EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SyFy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56727_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", SyFy.
 http://167.114.156.136:25461/INFINITV/ZX89NM22/80
-#EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SyFy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56727_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", SyFy..
-http://186.148.163.18:8000/play/a03j/index.m3u8
-#EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SyFy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56727_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", SyFy...
-http://177.234.230.226:8010/play/a01u/index.m3u8
+
+
 
 
 
@@ -602,8 +609,8 @@ https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
 https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w2132115672.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Plus 2" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/466deabbd42d619f75a9134701c3e39b.webp" group-title="Musica" audio-track="esp,spa", Retro Plus 2
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Plancha tv" tvg-logo="" group-title="Musica" audio-track="esp,spa", Soy Plancha TV
-https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Plancha tv" tvg-logo="" group-title="Musica" audio-track="esp,spa", Memorias TV
+https://rpn3.bozztv.com/ssh101/ssh101/musica/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="oldies hits tv" tvg-logo="" group-title="Musica" audio-track="esp,spa", Oldies hits TV
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3UCL
