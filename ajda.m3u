@@ -96,7 +96,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/p
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
 
 #EXTINF:0 tvg-logo="https://www.dafont.com/forum/attach/orig/9/9/994013.png" group-title="todos", DISTRITO COMEDIA (MX)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27993
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 #EXTINF:0 tvg-id="GalavisionCableNetwork(Spanish).us" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/Galavision.png.128x128_q85.jpg" group-title="todos", Galavision
 http://offshore.lat:8080/play/vI9i1Cs20LAaXQntedmTm5VUZsfxUDCp-9AramislUnk6tUKlPc2kn4pxXvH0e33
 
@@ -152,12 +152,12 @@ http://131.161.53.2:8000/play/a03w/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Golden.do" tvg-name="Golden" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Golden.
-http://190.149.66.90:4000/play/a02l/index.m3u8
+https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Golden.co" tvg-name="Golden" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Golden..
 http://131.161.53.2:8000/play/a04d/index.m3u8
 
 #EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden EDGE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Golden EDGE.
-http://190.60.33.167:8004/play/a05b/index.m3u8
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="Golden Premier" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Golden Premier.
 http://138.59.177.34:8000/play/a018/index.m3u8
@@ -165,7 +165,7 @@ http://138.59.177.34:8000/play/a018/index.m3u8
 http://131.161.53.2:8000/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Golden Plus.
-http://177.128.115.21:8080/live/Binet/6UkGawEA4z/160.m3u8
+https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Multipremier.mx" tvg-name="Multipremier" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18169_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Multipremier.
@@ -190,7 +190,7 @@ http://181.78.105.146:6060/play/a02l
 
 
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105689_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", FX.
-http://190.149.66.90:4000/play/a029/index.m3u8
+http://167.114.156.136:25461/INFINITV/ZX89NM22/70
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105689_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", FX..
 http://190.149.66.90:4000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="FX HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105689_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", FX...
@@ -395,7 +395,7 @@ http://190.149.66.90:4000/play/a052/index.m3u8
 http://45.166.92.22:58001/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="InvestigationDiscovery(English).mx" tvg-name="Discovery ID HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65342_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Discovery ID.
-http://190.149.66.90:4000/play/a055/index.m3u8
+http://167.114.156.136:25461/INFINITV/ZX89NM22/220
 #EXTINF:-1 tvg-id="InvestigationDiscovery(English).mx" tvg-name="Discovery ID" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65342_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Discovery ID..
 http://190.149.66.90:4000/play/a055/index.m3u8
 
@@ -474,7 +474,7 @@ http://tvlatino.club:2082/Jh754e999j/HNG7dAmukxcV/319538
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-id="adn40.mx" tvg-name="ADN 40 | MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15384_dark_360w_270h.png" group-title="TV Abierta" audio-track="esp,spa", ADN 40 | MX
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/646ccd3681844c000974d6f4/master.m3u8?advertisingId=&appName=web&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&app_name=web&clientDeviceType=0&clientID=15411c8e-6a0e-42f9-8dd4-9a2929b6695b&clientModelNumber=1.0.0&country=MX&deviceDNT=false&deviceId=15411c8e-6a0e-42f9-8dd4-9a2929b6695b&deviceLat=19.6800&deviceLon=-99.0700&deviceMake=edge-chromium&deviceModel=web&deviceType=web&deviceVersion=123.0.0&marketingRegion=VE&serverSideAds=false&sessionID=68471e8b-f63b-11ee-b87e-72543af848bb&sid=68471e8b-f63b-11ee-b87e-72543af848bb&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImM0M2YwNmY4LTdjYTMtNDc0ZC1hZjc1LWU1Njg0MTI3MmJjOSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI2ODQ3MWU4Yi1mNjNiLTExZWUtYjg3ZS03MjU0M2FmODQ4YmIiLCJjbGllbnRJUCI6IjE4Ny4xOTAuMTg3LjIyNSIsImNpdHkiOiJUdWx0aXRsYW4gRGUgTWFyaWFubyBFc2NvYmVkbyIsInBvc3RhbENvZGUiOiI1NDkyNyIsImNvdW50cnkiOiJNWCIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiVkUiLCJkZXZpY2VMYXQiOjE5LjY4MDAwMDMwNTE3NTc4LCJkZXZpY2VMb24iOi05OS4wNjk5OTk2OTQ4MjQyMiwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlcyIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTIzLjAuMCIsImRldmljZU1ha2UiOiJlZGdlLWNocm9taXVtIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjguMC4wLTExMWIyYjlkYzAwYmQwYmVhOTAzMGIzMDY2MjE1OWVkOWU3YzhiYzYiLCJjbGllbnRJRCI6IjE1NDExYzhlLTZhMGUtNDJmOS04ZGQ0LTlhMjkyOWI2Njk1YiIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL01leGljb19DaXR5Iiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJpc1N0aXRjaGVyRWtzIjp0cnVlLCJtdWx0aVBvZEFkcyI6eyJlbmFibGVkIjp0cnVlfX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiMTU0MTFjOGUtNmEwZS00MmY5LThkZDQtOWEyOTI5YjY2OTViIiwiZndWY0lEMkNvcHBhIjoiMTU0MTFjOGUtNmEwZS00MmY5LThkZDQtOWEyOTI5YjY2OTViIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiIxNTQxMWM4ZS02YTBlLTQyZjktOGRkNC05YTI5MjliNjY5NWIiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5LDEwMDAzIn19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TVRVME1URmpPR1V0Tm1Fd1pTMDBNbVk1TFRoa1pEUXRPV0V5T1RJNVlqWTJPVFZpIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTcxMjczMDk1MCwiaWF0IjoxNzEyNjQ0NTUwLCJqdGkiOiIwYTI5Y2E3ZC0xNjA5LTRhNWMtODhmNS01YTI3Y2YwZDYyMzEifQ.ZlO7ENORhBPCUy2V3m2wWWLnGR-hblsoUyWj8iHWlGw&masterJWTPassthrough=true&includeExtendedEvents=true&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%220bc0c12b-30bb-4ae3-a7d7-826294103fb4%22%2Csu
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 
 #EXTINF:-1 tvg-id="financiero.mx" tvg-name="Financiero" tvg-logo="https://pbs.twimg.com/profile_images/1232100284870033408/FZZDYWU0_400x400.jpg" group-title="TV Abierta" audio-track="esp,spa", El financiero TV
@@ -581,7 +581,7 @@ http://190.149.66.90:4000/play/a02f/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="DEPORTES" audio-track="esp,spa", Afizzionados.
-http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
+https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="DEPORTES" audio-track="esp,spa", Afizzionados..
 http://gotv.vip:8880/enrique12/enrique12/15
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="DEPORTES" audio-track="esp,spa", Afizzionados...
