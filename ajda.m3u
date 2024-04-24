@@ -331,7 +331,7 @@ http://177.234.230.226:8010/play/a00v/index.m3u8
 
 
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", History Channel.
-http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/159
+http://45.143.220.209:8080/Davidherrera/cj8qpHuNCy4k/159?token=HUNQAkVfEw5ECA0LBgNfWwtQVwUIUlFcAANWVVEABVRUVg1UUwRVBVQSGREWRRRdU1s7Cl0RCAgHCxsRR0dXRTkIXEEMFQUCUQkAEUkTElFfU0ZZCAQDCgsAAgoCBR4VFghcQQwVAw1eBQQRSRMDQEZTFg1YX21dV0ReUFcWCFkTDVRPFFhfawJVWFILVUQCEAZGTxtaQUkQCBVwVloFAEYnaiIUGxNWD0RHUhFURAIQBFFUDxEeG1FdQl1GRksVXEN/IRQbE1EeRFBdFlgJVhAMRhdKER4bW0FoQVdHRkUDAFUGRBULFlYSGREIUB5nUVkKDVxQRlBdXEQRCBYBFUpDVQxYXkVbFG9FWgETXBoDBFxUDhFP
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", History Channel..
 http://181.78.75.83:5013/play/a09y/index.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", History Channel...
@@ -667,7 +667,7 @@ http://europass.site:8080/hugoproano/C5U4dAEKef/37761
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="timonypumba" tvg-logo="https://storage.googleapis.com/sticker-prod/PmGrS8ifHxuylCD3AzVt/cover.thumb256.png" group-title="24/7" audio-track="esp,spa", TIMON Y PUMBA.
 http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/2090916
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="24/7" audio-track="esp,spa", Loud House
-http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/79400
+http://emuligl.info:8080/Davidherrera/cj8qpHuNCy4k/79400
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="pinguinosmadagascar" tvg-logo="https://image1.challengermode.com/59e52a55-d8f6-40d2-2574-08dad30bb5c2_256_256" group-title="24/7" audio-track="esp,spa", Pinguinos de Madagascar.
 http://europass.site:8080/arodriguez/rL28zyRGFz/37830
