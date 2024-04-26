@@ -732,8 +732,14 @@ http://europass.site:8080/hugoproano/C5U4dAEKef/37854
 http://home-playtv.com:8080/miralatintv2032/GEKYF/107928
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="familia" tvg-logo="" group-title="24/7" audio-track="esp,spa", Familia de 10..
 http://europass.site:8080/hugoproano/C5U4dAEKef/37776
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="familia" tvg-logo="" group-title="24/7" audio-track="esp,spa", Familia de 10...
+http://1play.cool:25461/live/3056329261/e882f32165/165432.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="vecinos" tvg-logo="" group-title="24/7" audio-track="esp,spa", Vecinos.
 http://home-playtv.com:8080/miralatintv2032/GEKYF/107932
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="vecinos" tvg-logo="" group-title="24/7" audio-track="esp,spa", Vecinos..
 http://europass.site:8080/hugoproano/C5U4dAEKef/37785
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="vecinos" tvg-logo="" group-title="24/7" audio-track="esp,spa", Vecinos...
+http://1play.cool:25461/live/3056329261/e882f32165/165433.m3u8
+
+
