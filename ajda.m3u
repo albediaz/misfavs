@@ -344,13 +344,13 @@ http://181.78.105.146:2000/play/a00v/index.m3u8
 
 
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Nat Geo.
-http://novared.pro:8080/J83hFMQ2xp67/hqfV6B3AVJQc/53491
+http://181.78.75.83:5013/play/a0am/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Nat Geo..
 http://190.60.40.37:12500/play/a09e/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Nat Geo...
 http://177.53.153.20:8001/play/a036/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Nat Geo....
-http://novared.pro:8080/J83hFMQ2xp67/hqfV6B3AVJQc/53491
+http://181.78.27.128:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Nat Geo.....
 http://147.135.124.6:26503/play/a04c/index.m3u8
 
