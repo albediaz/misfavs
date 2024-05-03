@@ -519,12 +519,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762e
 
 
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", Fox Sports Premium.
-http://emuligl.info:8080/Davidherrera/cj8qpHuNCy4k/27857
+http://ultrapremium.cloud:8080/647439252/22042022/24775
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", Fox Sports Premium..
 http://premierchile.shop:8080/PLAYLIFE485166/gHAqfHJG52yu/24775
 
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", Fox Sports 1.
-http://1play.cool:25461/live/3056329261/e882f32165/133866.m3u8
+http://ultrapremium.cloud:8080/647439252/22042022/59401
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", Fox Sports 1..
 http://emuligl.info:8080/Davidherrera/cj8qpHuNCy4k/375
 
@@ -571,9 +571,9 @@ http://45.5.117.182:8000/play/a0km/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", Claro Sports
-http://novared.pro:8080/J83hFMQ2xp67/hqfV6B3AVJQc/68639
+https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", Claro Sports 2.
-http://novared.pro:8080/J83hFMQ2xp67/hqfV6B3AVJQc/115785
+http://ultrapremium.cloud:8080/647439252/22042022/463
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", Claro sports 2..
 http://premierchile.shop:8080/PLAYLIFE485166/gHAqfHJG52yu/463
 
@@ -581,9 +581,9 @@ http://premierchile.shop:8080/PLAYLIFE485166/gHAqfHJG52yu/463
 
 
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="DEPORTES" audio-track="esp,spa", Afizzionados.
-http://premierchile.shop:8080/PLAYLIFE485166/gHAqfHJG52yu/579
+https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="DEPORTES" audio-track="esp,spa", Afizzionados..
-http://gotv.vip:8880/enrique12/enrique12/15
+https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="DEPORTES" audio-track="esp,spa", Afizzionados...
 http://00322.xyz:8000/rances123/9IFBBCRBIX/145474
 
