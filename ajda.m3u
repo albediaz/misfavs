@@ -352,7 +352,7 @@ http://177.53.153.20:8001/play/a036/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Nat Geo....
 http://181.78.27.128:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Nat Geo.....
-http://147.135.124.6:26503/play/a04c/index.m3u8
+http://181.205.130.194:4000/play/a06c/index.m3u8
 
 
 
