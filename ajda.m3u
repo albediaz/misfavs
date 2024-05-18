@@ -415,7 +415,7 @@ http://177.53.153.20:8001/play/a0bo/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Animal Planet.
 http://45.166.92.22:58001/play/a00m/index.m3u8
 #EXTINF:0 tvg-id="AnimalPlanet.mx" type="stream" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group="todos" audio-track="esp,spa", Animal Planet..
-http://148.102.58.76:4000/play/a0f4/index.m3u8
+http://181.78.75.83:5013/play/a06h/index.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PLUTO VIDA REAL" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" group-title="todos" audio-track="esp,spa", PLUTO VIDA REAL
@@ -424,12 +424,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1e
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="Tooncast.mx" tvg-name="Tooncast" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Tooncast
-http://177.53.153.20:8001/play/a085/index.m3u8
+http://177.53.153.20:8001/play/a0wp/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", CARTOON NETWORK.
 http://45.177.53.7:8000/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", CARTOON NETWORK..
-http://200.59.188.3:8000/play/a022
+http://177.53.153.20:8001/play/a0ui/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon(English).mx" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Nickelodeon
 http://181.78.105.146:2000/play/a014/index.m3u8
