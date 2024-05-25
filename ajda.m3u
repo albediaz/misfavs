@@ -449,7 +449,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="IMAGEN TV 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101096_dark_360w_270h.png" group-title="TV Abierta" audio-track="esp,spa", IMAGEN TV 3
 http://ultrapremium.cloud:8080/69keru29gu82mu72w/m45emma93m/59627
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="IMAGEN TV 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101096_dark_360w_270h.png" group-title="TV Abierta" audio-track="esp,spa", IMAGEN TV 3.4 Excelsior TV
-http://45.88.0.2:8080/69keru29gu82mu72w/m45emma93m/59627?token=HhtfWEVRFQ5BAAYHUQUDUlcGVQcCVAwCUAEDVQRUAlVWCgEJV10OAQdDTxdAQBdSV1s5DVZADwBaVAMGHBcUQgBLaFBSGw0WUVVTAAoWSRVCXwsBEFgEAlJUAgUGBFAJSRtHUFIbDRZRU1MNBRZJFVNOEgFADFRZPAZUR1lWBBNfV0JVWhUVWw0+B1BeVQtTFAxEVRBOF1wQEhMLXkANXUkbVVBCS1ZABkNZW0ZYCRsUVQkRXBZHTEFYE3ZyF00TAEFDXFhKXlsNQ1kXR0dHGxRfFTtAB0ZBEQdQXFVHQwtHCRUVFFRWTDwCDFtdUQZDX1kIFxBYFwZBThNcX1sIRQpLaElfXRUOQVNSDAIDR0o=
+http://gzytv.vip:8880/ruthy/ST9hpJ4gk7wa/637
 
 #EXTINF:-1 tvg-id="ForoTv.mx" tvg-name="forotv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="TV Abierta" audio-track="esp,spa", Foro TV 4
 http://spaticplas.org:8080/Y629hwoe/DqUYbegCYepv/214
@@ -461,7 +461,7 @@ http://tvlatino.club:2082/Jh754e999j/HNG7dAmukxcV/319547
 
 
 #EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="MULTIMEDIOS 6" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91505_dark_360w_270h.png" group-title="TV Abierta" audio-track="esp,spa", MULTIMEDIOS 6
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/652e91fd6208700008dcaf7blivestitch/823680/playlist.m3u8?terminate=false&sid=4dc0ed3c-f63e-11ee-bbac-5263885d906a&deviceDNT=0&deviceLat=19.68000030517578&deviceLon=-99.06999969482422&deviceModel=web&deviceVersion=123.0.0&includeExtendedEvents=true&appName=web&DRMCapabilities=widevine&deviceId=15411c8e-6a0e-42f9-8dd4-9a2929b6695b&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceType=web&deviceMake=edge-chromium&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImM0M2YwNmY4LTdjYTMtNDc0ZC1hZjc1LWU1Njg0MTI3MmJjOSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI0ZGMwZWQzYy1mNjNlLTExZWUtYmJhYy01MjYzODg1ZDkwNmEiLCJjbGllbnRJUCI6IjE4Ny4xOTAuMTg3LjIyNSIsImNpdHkiOiJUdWx0aXRsYW4gRGUgTWFyaWFubyBFc2NvYmVkbyIsInBvc3RhbENvZGUiOiI1NDkyNyIsImNvdW50cnkiOiJNWCIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiVkUiLCJkZXZpY2VMYXQiOjE5LjY4MDAwMDMwNTE3NTc4LCJkZXZpY2VMb24iOi05OS4wNjk5OTk2OTQ4MjQyMiwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlcyIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTIzLjAuMCIsImRldmljZU1ha2UiOiJlZGdlLWNocm9taXVtIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjguMC4wLTExMWIyYjlkYzAwYmQwYmVhOTAzMGIzMDY2MjE1OWVkOWU3YzhiYzYiLCJjbGllbnRJRCI6IjE1NDExYzhlLTZhMGUtNDJmOS04ZGQ0LTlhMjkyOWI2Njk1YiIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL01leGljb19DaXR5Iiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJpc1N0aXRjaGVyRWtzIjp0cnVlLCJtdWx0aVBvZEFkcyI6eyJlbmFibGVkIjp0cnVlfX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiMTU0MTFjOGUtNmEwZS00MmY5LThkZDQtOWEyOTI5YjY2OTViIiwiZndWY0lEMkNvcHBhIjoiMTU0MTFjOGUtNmEwZS00MmY5LThkZDQtOWEyOTI5YjY2OTViIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiIxNTQxMWM4ZS02YTBlLTQyZjktOGRkNC05YTI5MjliNjY5NWIiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDA5LDEwMDAzLDEwMDAwIn19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TVRVME1URmpPR1V0Tm1Fd1pTMDBNbVk1TFRoa1pEUXRPV0V5T1RJNVlqWTJPVFZpIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTcxMjczMjE5NCwiaWF0IjoxNzEyNjQ1Nzk0LCJqdGkiOiIyZDY1Y2IzYS0wYzM1LTQxNTEtYTYxOS1mNjA3MTlkNTBmYzQifQ.GmCCI7q5l8XOZxg-R2MxfeIJAUG89BUnuRNOxWrXH_I&CMCD=mtp%3D16100%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22670b80dd-c1f9-42d3-86a1-1ef90409c66e%22
+http://gzytv.vip:8880/ruthy/ST9hpJ4gk7wa/977
 #EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="MULTIMEDIOS 6" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91505_dark_360w_270h.png" group-title="TV Abierta" audio-track="esp,spa", MULTIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Abierta", canal 44 CD JUAREZ
@@ -502,8 +502,10 @@ http://201.159.113.219:49000/play/a05m/index.m3u8
 #EXTINF:-1 tvg-id="UnivisionNetwork.mx" tvg-name="univision" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="TV Abierta" audio-track="esp,spa", Univision...
 http://204.199.122.4:8000/play/b027/index.m3u8
 
+
+
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="DEPORTES" tvg-shift="0",NFL NETWORK.
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15891
+http://gzytv.vip:8880/ruthy/ST9hpJ4gk7wa/1942
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES" tvg-shift="0", Movistar Deportes
 http://191.97.49.194:8000/play/a02f/index.m3u8
 
@@ -524,7 +526,7 @@ http://ultrapremium.cloud:8080/647439252/22042022/24775
 http://premierchile.shop:8080/PLAYLIFE485166/gHAqfHJG52yu/24775
 
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", Fox Sports 1.
-http://ultrapremium.cloud:8080/647439252/22042022/59401
+http://gzytv.vip:8880/ruthy/ST9hpJ4gk7wa/1753
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", Fox Sports 1..
 http://emuligl.info:8080/Davidherrera/cj8qpHuNCy4k/375
 
@@ -551,9 +553,9 @@ http://premierchile.shop:8080/108176385/TCmrajAAHKnJ/521
 http://tv.proyectox.vip:8080/johnvalen2012/71myZbfGF7/1899
 
 #EXTINF:-1 tvg-id="ESPN3.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES", ESPN 3.
-http://tv.proyectox.vip:8080/johnvalen2012/71myZbfGF7/1897
+http://gzytv.vip:8880/ruthy/ST9hpJ4gk7wa/1984
 #EXTINF:-1 tvg-id="ESPN4.do" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES", ESPN 4.
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27998
+http://gzytv.vip:8880/ruthy/ST9hpJ4gk7wa/1989
 #EXTINF:-1 tvg-id="ESPN4.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", ESPN Extra.
 http://tv.proyectox.vip:8080/johnvalen2012/71myZbfGF7/1539
 
@@ -591,7 +593,7 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/145474
 #EXTINF:0 type="stream" channelId="tntsports" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsports@2x.png" group="DEPORTES", TNT Sports 1
 http://186.190.231.178:8000/play/a01m/index.m3u8
 #EXTINF:0 type="stream" channelId="tntsports" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsports@2x.png" group="DEPORTES", TNT Sports 2
-http://premierchile.shop:8080/PLAYLIFE485166/gHAqfHJG52yu/99
+http://gzytv.vip:8880/ruthy/ST9hpJ4gk7wa/1788
 
 #EXTINF:0 type="stream" channelId="tntsports" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsports@2x.png" group="DEPORTES", TNT Sports 3
 http://38.56.118.88:4000/play/a00a/index.m3u8
@@ -601,21 +603,21 @@ http://38.56.118.88:4000/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111169_dark_360w_270h.png" group-title="Musica" audio-track="esp,spa", Recuerdos retro
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="turbo mix" tvg-logo="https://www.sarbidemusic.com/wp-content/uploads/2016/12/Claro-m%C3%BAsica-300x131.jpg" group-title="Musica" audio-track="esp,spa", Turbo mix
-https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Musica" audio-track="esp,spa", 80's
+http://gzytv.vip:8880/ruthy/ST9hpJ4gk7wa/67
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VintageMusic" tvg-logo="" group-title="Musica" audio-track="esp,spa", Vintage Music
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Plus 1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/466deabbd42d619f75a9134701c3e39b.webp" group-title="Musica" audio-track="esp,spa", Retro Plus 1
 https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w2132115672.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Plus 2" tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png" group-title="Musica" audio-track="esp,spa", Planeta Music
-http://premierchile.shop:8080/PLAYLIFE485166/gHAqfHJG52yu/68769
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Plancha tv" tvg-logo="" group-title="Musica" audio-track="esp,spa", Memorias TV
-https://rpn3.bozztv.com/ssh101/ssh101/musica/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Musica" audio-track="esp,spa", Classics Esp
+http://gzytv.vip:8880/ruthy/ST9hpJ4gk7wa/58
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Musica" audio-track="esp,spa", Rock Latino
+http://gzytv.vip:8880/ruthy/ST9hpJ4gk7wa/60
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="oldies hits tv" tvg-logo="" group-title="Musica" audio-track="esp,spa", Oldies hits TV
-https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Musica" audio-track="esp,spa", Exitos Español
+http://gzytv.vip:8880/ruthy/ST9hpJ4gk7wa/62
 
 
 
