@@ -276,7 +276,7 @@ http://45.166.92.22:58001/play/a041/index.m3u8
 http://177.53.153.20:8001/play/a0c3/index.m3u8
 
 #EXTINF:-1 tvg-id="Atrescine.mx" tvg-name="A3Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82808_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", A3Cine..
-http://novared.pro:8080/J83hFMQ2xp67/hqfV6B3AVJQc/13444
+http://lat.iptvlatino.me:8880/txkr48ga/kyptuha7/1174
 
 
 #EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Universal Comedy.
@@ -692,9 +692,10 @@ http://home-playtv.com:8080/miralatintv2032/GEKYF/216987
 http://zeuspro.xyz:8080/jorbusmedina1/1nB1dJJHTD/54925
 
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="esp,spa",  Dr. House..
-http://181.214.220.140:25461/jorbusmedina1/1nB1dJJHTD/54925?token=GkMOV0pdG18SBwBYAFZRAlUMAQAGUw1UXQNWVQNRUFMHVF5XAQFYU1UXGUNHFxRXAllmXVYVDgNQCVRQHUcWEgQTOV9dFwNHBAUAUgFWRB5BQFBZVxUOB1MBUVQCU1RWVk1ERlBRG18SDQNYFk9EVxtAXEZcVlhpAFUQDFIAQVsPFApaFRdWC29RUAxVDQIQWRYJFh4VXUUUElwLRAkPTUMDD0JLVE0AEg8XUAZVXhBPFlpbR1lARB0SXEd/KUFNQwQeQlxbSgxfWxdbFhcVEE8WUEdtRVFFEEIDBFwAEUNbQ1YUFRdUBEhqVg5aDQNRF11WWkEVDhRXEkpHXAoNCBUOFGlJXF1HChcEVARXVBAe
+http://lat.iptvlatino.me:8880/txkr48ga/kyptuha7/744940977
 
-
+#EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="esp,spa",  Dr. House..
+http://lat.iptvlatino.me:8880/txkr48ga/kyptuha7/744943379
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="24/7" tvg-shift="", Malcom el de enmedio
 http://gzytv.vip:8880/ruthy/ST9hpJ4gk7wa/765
