@@ -506,16 +506,16 @@ http://204.199.122.4:8000/play/b027/index.m3u8
 
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="DEPORTES" tvg-shift="0",NFL NETWORK.
 http://gzytv.vip:8880/ruthy/ST9hpJ4gk7wa/1942
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES" tvg-shift="0", Movistar Deportes
-http://191.97.49.194:8000/play/a02f/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES" tvg-shift="0", La 1
-http://587650786853321276.ofgh525.xyz:80/play/XHHT635586/KH88425568/321276.ts
-
-#EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="" tvg-logo="https://i.blogs.es/08b300/paramount-1-/1366_2000.jpeg" group-title="DEPORTES" tvg-shift="0", Liga Premier Paramount+
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://periodistas-es.com/wp-content/uploads/2024/06/uefa-eurocopa-2024-logo.jpg" group-title="DEPORTES" tvg-shift="0", La 1 Eurocopa 2024.
+http://672000509959321276.otjb0606.xyz:80/play/ja219570/urWAPVT49c73/321276.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://periodistas-es.com/wp-content/uploads/2024/06/uefa-eurocopa-2024-logo.jpg" group-title="DEPORTES" tvg-shift="0", La 1 Eurocopa 2024..
+http://672000509959321277.otjb0606.xyz:80/play/ja219570/urWAPVT49c73/321277.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://periodistas-es.com/wp-content/uploads/2024/06/uefa-eurocopa-2024-logo.jpg" group-title="DEPORTES" tvg-shift="0", La 1 Eurocopa 2024...
+http://672000509959321278.otjb0606.xyz:80/play/ja219570/urWAPVT49c73/321278.ts
 
 
 
