@@ -518,9 +518,17 @@ http://45.228.234.167:8000/play/a030/index.m3u8
 http://177.93.46.163:8000/play/a015
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://periodistas-es.com/wp-content/uploads/2024/06/uefa-eurocopa-2024-logo.jpg" group-title="DEPORTES" tvg-shift="0", ESPN Arg Euro2024
 http://181.78.64.71:16123/play/ch17
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://periodistas-es.com/wp-content/uploads/2024/06/uefa-eurocopa-2024-logo.jpg" group-title="DEPORTES" tvg-shift="0", ESPN2 Arg Euro2024
+http://arboltv.xyz:8080/54fGvyvx/ufqWh8TW/124193
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://periodistas-es.com/wp-content/uploads/2024/06/uefa-eurocopa-2024-logo.jpg" group-title="DEPORTES" tvg-shift="0", ESPN Arg3 Euro2024
+http://arboltv.xyz:8080/54fGvyvx/ufqWh8TW/124194
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2024/05/1A-CopaAmerica2024_PRINCIPAL_RGB_Full-color_FondoClaro.jpg?w=300" group-title="DEPORTES" tvg-shift="0", Copa America 2024 TyC Sports
-http://200.59.188.3:8000/play/a02n
+http://arboltv.xyz:8080/54fGvyvx/ufqWh8TW/124218
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2024/05/1A-CopaAmerica2024_PRINCIPAL_RGB_Full-color_FondoClaro.jpg?w=300" group-title="DEPORTES" tvg-shift="0", Copa America 2024 TVmax
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 
@@ -703,7 +711,7 @@ http://home-playtv.com:8080/miralatintv2032/GEKYF/216987
 http://zeuspro.xyz:8080/jorbusmedina1/1nB1dJJHTD/54925
 
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="esp,spa",  Dr. House..
-http://lat.iptvlatino.me:8880/txkr48ga/kyptuha7/744940977
+https://sdmx.vip:443/belpley/sYqKZQrTZa/2090997
 
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="esp,spa",  Dr. House..
 http://lat.iptvlatino.me:8880/txkr48ga/kyptuha7/744943379
