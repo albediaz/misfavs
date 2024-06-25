@@ -276,7 +276,7 @@ http://45.166.92.22:58001/play/a041/index.m3u8
 http://177.53.153.20:8001/play/a0c3/index.m3u8
 
 #EXTINF:-1 tvg-id="Atrescine.mx" tvg-name="A3Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82808_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", A3Cine..
-http://lat.iptvlatino.me:8880/txkr48ga/kyptuha7/1174
+http://lat.iptvlatino.me:8880/txkr48ga/8rjn37ea/1174
 
 
 #EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Universal Comedy.
@@ -647,15 +647,15 @@ http://ultrapremium.cloud:8080/69keru29gu82mu72w/m45emma93m/731
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24/7" audio-track="esp,spa", Los Simpson.
-http://lat.iptvlatino.me:8880/txkr48ga/kyptuha7/744939540
+http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744939540
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24/7" audio-track="esp,spa", Los Simpson..
-http://lat.iptvlatino.me:8880/txkr48ga/kyptuha7/744942890
+http://lat.iptvlatino.me:8880/txkr48ga/8rjn37ea/744942890
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24/7" audio-track="esp,spa", Los Simpson...
-http://lat.iptvlatino.me:8880/txkr48ga/kyptuha7/744943039
+http://lat.iptvlatino.me:8880/txkr48ga/8rjn37ea/744943039
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24/7" audio-track="esp,spa", Los Simpson....
-http://lat.iptvlatino.me:8880/txkr48ga/kyptuha7/744943040
+http://lat.iptvlatino.me:8880/txkr48ga/8rjn37ea/744943040
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24/7" audio-track="esp,spa", Los Simpson.....
-http://lat.iptvlatino.me:8880/txkr48ga/kyptuha7/744943041
+http://lat.iptvlatino.me:8880/txkr48ga/8rjn37ea/744943041
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://blogbibliotecacid.files.wordpress.com/2017/12/pinkyandthebrain.jpg" group-title="24/7" tvg-shift="", Pinky y Cerebro
 http://1play.cool:25461/live/3056329261/e882f32165/61150.m3u8
@@ -716,8 +716,14 @@ http://zeuspro.xyz:8080/jorbusmedina1/1nB1dJJHTD/54925
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="esp,spa",  Dr. House..
 https://sdmx.vip:443/belpley/sYqKZQrTZa/2090997
 
-#EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="esp,spa",  Dr. House..
-http://lat.iptvlatino.me:8880/txkr48ga/kyptuha7/744943379
+#EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="esp,spa",  Dr. House...
+http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744940977
+
+#EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="esp,spa",  Dr. House....
+http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744943379
+
+
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="24/7" tvg-shift="", Malcom el de enmedio
 http://gzytv.vip:8880/ruthy/ST9hpJ4gk7wa/765
