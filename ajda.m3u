@@ -531,7 +531,10 @@ http://arboltv.xyz:8080/54fGvyvx/ufqWh8TW/124194
 http://arboltv.xyz:8080/54fGvyvx/ufqWh8TW/124218
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2024/05/1A-CopaAmerica2024_PRINCIPAL_RGB_Full-color_FondoClaro.jpg?w=300" group-title="DEPORTES" tvg-shift="0", Copa America 2024 TVmax
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2024/05/1A-CopaAmerica2024_PRINCIPAL_RGB_Full-color_FondoClaro.jpg?w=300" group-title="DEPORTES" tvg-shift="0", Copa America 2024 Win Sport+
+http://200.59.188.3:8000/play/a028
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2024/05/1A-CopaAmerica2024_PRINCIPAL_RGB_Full-color_FondoClaro.jpg?w=300" group-title="DEPORTES" tvg-shift="0", Copa America 2024 Win Sport
+http://177.93.41.134:4000/play/a06i/index.m3u8
 
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", Fox Sports Premium.
 http://ultrapremium.cloud:8080/647439252/22042022/24775
