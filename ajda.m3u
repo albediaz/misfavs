@@ -588,7 +588,10 @@ https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 http://ultrapremium.cloud:8080/647439252/22042022/463
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", Claro sports 2..
 http://1play.cool:25461/live/3056329261/e882f32165/174645.m3u8
-
+#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", Claro sports 3.
+http://pro.boxdigital.org:8080/mickelaj/4TaWty9tZbNH/285543
+#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", Claro sports 4.
+http://pro.boxdigital.org:8080/mickelaj/4TaWty9tZbNH/285544
 
 
 
@@ -600,8 +603,8 @@ http://gzytv.vip:8880/ruthy/ST9hpJ4gk7wa/2572
 http://00322.xyz:8000/rances123/9IFBBCRBIX/145474
 
 
-#EXTINF:0 type="stream" channelId="tntsports" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsports@2x.png" group="DEPORTES", TNT Sports 1
-http://186.190.231.178:8000/play/a01m/index.m3u8
+#EXTINF:0 type="stream" channelId="" tvg-logo="" group="DEPORTES", TVC Deportes
+http://pro.boxdigital.org:8080/mickelaj/4TaWty9tZbNH/260526
 #EXTINF:0 type="stream" channelId="tntsports" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsports@2x.png" group="DEPORTES", TNT Sports 2
 http://gzytv.vip:8880/ruthy/ST9hpJ4gk7wa/1788
 
@@ -635,20 +638,20 @@ http://gzytv.vip:8880/ruthy/ST9hpJ4gk7wa/62
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Don gato" tvg-logo="" group-title="24/7" audio-track="esp,spa", Don Gato.
 http://home-playtv.com:8080/Familia.Salazar.Murillo/QRPZW/169819
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Don gato" tvg-logo="" group-title="24/7" audio-track="esp,spa", Don Gato..
-http://ultrapremium.cloud:8080/69keru29gu82mu72w/m45emma93m/731
+http://arboltv.xyz:8080/54fGvyvx/ufqWh8TW/264421
 
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24/7" audio-track="esp,spa", Los Simpson.
-http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744939540
+http://arboltv.xyz:8080/54fGvyvx/ufqWh8TW/264476
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24/7" audio-track="esp,spa", Los Simpson..
-http://1play.cool:25461/live/3056329261/e882f32165/63570.m3u8
+http://arboltv.xyz:8080/54fGvyvx/ufqWh8TW/264477
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24/7" audio-track="esp,spa", Los Simpson...
-http://1play.cool:25461/live/3056329261/e882f32165/155639.m3u8
+http://arboltv.xyz:8080/54fGvyvx/ufqWh8TW/264478
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24/7" audio-track="esp,spa", Los Simpson....
-http://lat.iptvlatino.me:8880/txkr48ga/8rjn37ea/744943040
+http://arboltv.xyz:8080/54fGvyvx/ufqWh8TW/264479
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24/7" audio-track="esp,spa", Los Simpson.....
-http://lat.iptvlatino.me:8880/txkr48ga/8rjn37ea/744943041
+http://arboltv.xyz:8080/54fGvyvx/ufqWh8TW/264480
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://blogbibliotecacid.files.wordpress.com/2017/12/pinkyandthebrain.jpg" group-title="24/7" tvg-shift="", Pinky y Cerebro
 http://1play.cool:25461/live/3056329261/e882f32165/61150.m3u8
@@ -740,14 +743,14 @@ http://1play.cool:25461/live/3056329261/e882f32165/63576.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pantera Rosa 80s" tvg-logo="https://i.pinimg.com/550x/fd/22/b4/fd22b489f86fa249bf28e51bd146d244.jpg" group-title="24/7" audio-track="esp,spa", Pantera Rosa 80s.
 http://premierchile.shop:8080/34save87ra35pu87/m64waddu32m/726
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LooneyTunes" tvg-logo="" group-title="24/7" audio-track="esp,spa", El coyote y el correcaminos
-http://alfatv.lat:2082/Yovani01/fSacs7ZTku6Q/256397
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="24/7" audio-track="esp,spa", El coyote y el correcaminos
+http://arboltv.xyz:8080/54fGvyvx/ufqWh8TW/264434
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="picapiedras" tvg-logo="https://images.justwatch.com/poster/76219363/s718/los-picapiedra.%7Bformat%7D" group-title="24/7" audio-track="esp,spa", Picapiedra.
 http://1play.cool:25461/live/3056329261/e882f32165/117811.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="picapiedras" tvg-logo="https://images.justwatch.com/poster/76219363/s718/los-picapiedra.%7Bformat%7D" group-title="24/7" audio-track="esp,spa", Picapiedra..
-http://ultrapremium.cloud:8080/69keru29gu82mu72w/m45emma93m/725
+http://arboltv.xyz:8080/54fGvyvx/ufqWh8TW/264432
 
 
 
