@@ -59,7 +59,7 @@ http://1play.cool:25461/live/3056329261/e882f32165/62798.m3u8
 
 
 #EXTINF:-1 tvg-id="HBOMundi.do" tvg-name="HBO Mundi" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="todos" audio-track="esp,spa", HBO Mundi.
-http://181.78.208.237:8000/play/a04d/index.m3u8
+http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1077
 #EXTINF:-1 tvg-id="HBOMundi.do" tvg-name="HBO Mundi" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="todos" audio-track="esp,spa", HBO Mundi..
 http://1play.cool:25461/live/3056329261/e882f32165/133844.m3u8
 
@@ -323,8 +323,8 @@ http://1play.cool:25461/live/3056329261/e882f32165/133878.m3u8
 
 #EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-name="Estrella TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65064_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Estrella TV.
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalClaro.co" tvg-name="Canal Claro" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79664_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Canal Claro.
-http://138.59.177.34:8000/play/a05b/index.m3u8
+#EXTINF:-1 tvg-id="CanalClaro.co" tvg-name="Canal Claro" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79664_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Claro Cinema
+http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/2028
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE FAMILIAR" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png" group-title="todos" audio-track="esp,spa", CINE FAMILIAR.
 http://1play.cool:25461/live/3056329261/e882f32165/79186.m3u8
 
@@ -543,7 +543,7 @@ http://1play.cool:25461/live/3056329261/e882f32165/133866.m3u8
 #EXTINF:0 tvg-id="FOXSports2(ConoNorte).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES",FOX SPORTS 2.
 http://1play.cool:25461/live/3056329261/e882f32165/133867.m3u8
 #EXTINF:-1 tvg-id="FOXSports2(ConoNorte).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES", Fox Sports 2..
-http://tv.proyectox.vip:8080/johnvalen2012/71myZbfGF7/26815
+http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1065
 
 #EXTINF:-1 tvg-id="FOXSports3.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES", Fox Sports 3.
 http://1play.cool:25461/live/3056329261/e882f32165/133868.m3u8
@@ -552,15 +552,15 @@ http://45.166.92.22:58001/play/a01j/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN+" tvg-logo="https://m.media-amazon.com/images/I/41lChb5Q+KL.png" group-title="DEPORTES" audio-track="esp,spa", ESPN+
-http://premierchile.shop:8080/108176385/TCmrajAAHKnJ/522
+http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1147
 
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", ESPN 1.
-http://premierchile.shop:8080/108176385/TCmrajAAHKnJ/519
+http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1048
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES", ESPN 1..
-http://premierchile.shop:8080/108176385/TCmrajAAHKnJ/521
+http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1049
 
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES", ESPN 2.
-http://1play.cool:25461/live/3056329261/e882f32165/72166.m3u8
+http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1050
 
 #EXTINF:-1 tvg-id="ESPN3.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES", ESPN 3.
 http://gzytv.vip:8880/ruthy/ST9hpJ4gk7wa/1984
@@ -574,7 +574,7 @@ http://45.5.117.182:8000/play/lh0jp/index.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", TUDN..
 http://1play.cool:25461/live/3056329261/e882f32165/30458.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", TUDN...
-http://200.115.120.1:8000/play/ca074/index.m3u8
+http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1113
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", TUDN....
 http://170.82.37.21:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", TUDN.....
@@ -605,11 +605,11 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/145474
 
 #EXTINF:0 type="stream" channelId="" tvg-logo="" group="DEPORTES", TVC Deportes
 http://pro.boxdigital.org:8080/mickelaj/4TaWty9tZbNH/260526
-#EXTINF:0 type="stream" channelId="tntsports" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsports@2x.png" group="DEPORTES", TNT Sports 2
-http://gzytv.vip:8880/ruthy/ST9hpJ4gk7wa/1788
+#EXTINF:0 type="stream" channelId="tntsports" tvg-logo="" group="DEPORTES", Sky sports
+http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1185
 
-#EXTINF:0 type="stream" channelId="tntsports" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsports@2x.png" group="DEPORTES", TNT Sports 3
-http://1play.cool:25461/live/3056329261/e882f32165/61301.m3u8
+#EXTINF:0 type="stream" channelId="tntsports" tvg-logo="" group="DEPORTES", Sky sports C
+http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1156
 
 
 
@@ -700,7 +700,7 @@ http://gzytv.vip:8880/ruthy/ST9hpJ4gk7wa/211
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="", Big bang 2
 http://home-playtv.com:8080/miralatintv2032/GEKYF/51331
 #EXTINF:-1 tvg-id="" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" audio-track="esp,spa" tvg-shift="", Big bang 3
-http://oscurodirecto.ovh:8080/play/E_OnBRdrbiJr7Hdh8nLaKxWnNHf-OSQZnECWDvOL1H4
+http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744940017
 #EXTINF:-1 tvg-id="" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" audio-track="esp,spa" tvg-shift="", Big bang 4
 http://home-playtv.com:8080/miralatintv2032/GEKYF/216987
 
@@ -727,8 +727,8 @@ http://fastream.xyz:8080/Gabrielsilva1511/L8C5YFXykCDn/806
 https://sdmx.vip:443/belpley/sYqKZQrTZa/2090984
 
 
-#EXTINF:-1 tvg-id="(35)" tvg-name="monster64" tvg-logo="" group-title="24/7" audio-track="esp,spa", Lilo y Stitch
-http://1play.cool:25461/live/3056329261/e882f32165/155636.m3u8
+#EXTINF:-1 tvg-id="(35)" tvg-name="" tvg-logo="" group-title="24/7" audio-track="esp,spa", Como conoci a tu madre
+http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744940481
 #EXTINF:-1 tvg-id="(35)" tvg-name="" tvg-logo="https://cdn.playpilot.tech/c3a636c69f3b11eea7240a58a9feac02/src/img?optimizer=image&quality=75&width=320&aspect_ratio=2%3A3" group-title="24/7" audio-track="esp,spa", Mayday Catastrofes aereas
 http://1play.cool:25461/live/3056329261/e882f32165/176967.m3u8
 
@@ -741,7 +741,7 @@ http://gzytv.vip:8880/ruthy/ST9hpJ4gk7wa/1067
 http://1play.cool:25461/live/3056329261/e882f32165/63576.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pantera Rosa 80s" tvg-logo="https://i.pinimg.com/550x/fd/22/b4/fd22b489f86fa249bf28e51bd146d244.jpg" group-title="24/7" audio-track="esp,spa", Pantera Rosa 80s.
-http://premierchile.shop:8080/34save87ra35pu87/m64waddu32m/726
+http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744940312
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="24/7" audio-track="esp,spa", El coyote y el correcaminos
 http://arboltv.xyz:8080/54fGvyvx/ufqWh8TW/264434
