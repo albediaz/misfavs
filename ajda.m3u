@@ -96,7 +96,7 @@ http://1play.cool:25461/live/3056329261/e882f32165/165384.m3u8
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
 #EXTINF:0 tvg-id="DistritoComedia.mx" tvg-logo="https://www.dafont.com/forum/attach/orig/9/9/994013.png" group-title="todos", DISTRITO COMEDIA (MX)
-http://181.78.105.146:2000/play/a08t/index.m3u8
+http://tv.proyectox.vip:8080/jorbusmedina1/1nB1dJJHTD/9645
 #EXTINF:0 tvg-id="GalavisionCableNetwork(Spanish).us" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/Galavision.png.128x128_q85.jpg" group-title="todos", Galavision
 http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONAUSTIN&calidad=sd&.m3u8
 
@@ -661,7 +661,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5a
 
 
 #EXTINF:-1 tvg-id="(17)" tvg-name="Alf" tvg-logo="https://es.digitaltrends.com/wp-content/uploads/2022/02/180-alf.jpg?p=1" group-title="24/7" audio-track="esp,spa", Alf.
-http://gzytv.vip:8880/ruthy/ST9hpJ4gk7wa/744
+http://tv.proyectox.vip:8080/jorbusmedina1/1nB1dJJHTD/85755
 
 #EXTINF:0 type="stream" tvg-name="" tvg-logo="" group="24/7", Gallo Claudio
 http://fastream.xyz:8080/Gabrielsilva1511/L8C5YFXykCDn/798
@@ -728,7 +728,7 @@ http://1play.cool:25461/2013750522/b4aaec821e/176967
 
 
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="Friends" tvg-logo="https://p7.hiclipart.com/preview/840/692/965/5bbc448fd13e2.jpg" group-title="24/7" tvg-shift="", Friends.
-http://gzytv.vip:8880/ruthy/ST9hpJ4gk7wa/1067
+http://tv.proyectox.vip:8080/jorbusmedina1/1nB1dJJHTD/85872
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Friends" tvg-logo="https://p7.hiclipart.com/preview/840/692/965/5bbc448fd13e2.jpg" group-title="24/7" tvg-shift="", Friends..
 http://1play.cool:25461/2013750522/b4aaec821e/63576
 
