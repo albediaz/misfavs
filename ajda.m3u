@@ -607,13 +607,13 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1156
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111169_dark_360w_270h.png" group-title="Musica" audio-track="esp,spa", Recuerdos retro
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Musica" audio-track="esp,spa", 80's
-http://gzytv.vip:8880/ruthy/ST9hpJ4gk7wa/67
+http://chiletv.ddns.me:2082/live/Ale96/ale1218/19639.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VintageMusic" tvg-logo="" group-title="Musica" audio-track="esp,spa", Vintage Music
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Plus 1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/466deabbd42d619f75a9134701c3e39b.webp" group-title="Musica" audio-track="esp,spa", Retro Plus 1
-https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w2132115672.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Plus 1" tvg-logo="" group-title="Musica" audio-track="esp,spa", V Classics
+http://chiletv.ddns.me:2082/live/Ale96/ale1218/48305.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Musica" audio-track="esp,spa", Classics Esp
 http://gzytv.vip:8880/ruthy/ST9hpJ4gk7wa/58
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Musica" audio-track="esp,spa", Rock Latino
@@ -652,7 +652,7 @@ http://fastream.xyz:8080/Gabrielsilva1511/L8C5YFXykCDn/808
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="24/7" tvg-shift="", Familia Peluche
-http://1play.cool:25461/2013750522/b4aaec821e/155605
+http://cincotv.org:25461/junior1807/jmiranda1809/25195
 
 
 
@@ -701,7 +701,7 @@ http://home-playtv.com:8080/miralatintv2032/GEKYF/216987
 http://tv.proyectox.vip:8080/jorbusmedina1/1nB1dJJHTD/85828
 
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="esp,spa",  Dr. House..
-https://sdmx.vip:443/belpley/sYqKZQrTZa/2090997
+http://tv.proyectox.vip:8080/luzspitia023/keUXzC84Cz/85828
 
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" audio-track="esp,spa",  Dr. House...
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744940977
