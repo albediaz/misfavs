@@ -86,10 +86,10 @@ https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://131.161.53.2:8000/play/a03w/index.m3u8" group-title="todos" audio-track="esp,spa", Accion FreeTV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="todos" audio-track="esp,spa", Atacama TV
-https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="todos" audio-track="esp,spa", Cine Estrella TV
-http://1play.cool:25461/live/3056329261/e882f32165/165384.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="todos" audio-track="esp,spa", Retro tv
+http://home-playtv.com:8080/L@100.-qaS/WZDfQjrnsQN3/550156
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="todos" audio-track="esp,spa", Super classic
+http://home-playtv.com:8080/L@100.-qaS/WZDfQjrnsQN3/483626
 
 
 #EXTINF:-1 tvg-id="" tvg-name="WOW tv" tvg-logo="https://monitv.net/wp-content/uploads/2024/02/monitvojos.png" group-title="todos" audio-track="esp,spa", Moni TV
