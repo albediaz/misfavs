@@ -80,12 +80,9 @@ https://premium.tvcontrolcp.com:19360/8062/8062.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" audio-track="esp,spa", Net Channel
-https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/animacion/chiquilines.png" group-title="todos" audio-track="esp,spa", Chiquilines FreeTV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://131.161.53.2:8000/play/a03w/index.m3u8" group-title="todos" audio-track="esp,spa", Accion FreeTV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" audio-track="esp,spa", Pantalla Clasica
+https://ssh101-fl.bozztv.com/ssh101/ecuadoralmundo/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="todos" audio-track="esp,spa", Retro tv
 http://home-playtv.com:8080/AngieMiranda/5wrxryJaxS/550156
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="todos" audio-track="esp,spa", DTV
