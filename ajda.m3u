@@ -548,7 +548,7 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1065
 #EXTINF:-1 tvg-id="FOXSports3.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES", Fox Sports 3.
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1066
 #EXTINF:0 tvg-id="FOXSports3.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES", FOX SPORTS 3..
-http://45.166.92.22:58001/play/a01j/index.m3u8
+http://389948515772912477.ofbo1005.xyz:80/live/wa826126/nBCpg5Ee8bgW/912477.ts
 
 
 #EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN+" tvg-logo="https://m.media-amazon.com/images/I/41lChb5Q+KL.png" group-title="DEPORTES" audio-track="esp,spa", ESPN+
@@ -557,15 +557,17 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1147
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", ESPN 1.
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1048
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES", ESPN 1..
-http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1049
+http://181.78.105.146:2000/play/a064/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES", ESPN 2.
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1050
 
 #EXTINF:-1 tvg-id="ESPN3.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES", ESPN 3.
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1161
-#EXTINF:-1 tvg-id="ESPN4.do" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES", ESPN 4.
-http://gzytv.vip:8880/ruthy/ST9hpJ4gk7wa/1989
+#EXTINF:-1 tvg-id="ESPN4.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES", ESPN 4.
+http://200.59.188.3:8000/play/a01z
+#EXTINF:-1 tvg-id="ESPN5.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES", ESPN 5
+http://45.4.85.214:58001/play/a018
 #EXTINF:-1 tvg-id="ESPN4.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", ESPN Extra.
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1147
 
