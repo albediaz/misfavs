@@ -444,7 +444,7 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1000527
 
 
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="DEPORTES" tvg-shift="0",NFL RED ZONE.
-http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/7449
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/108408
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="DEPORTES" tvg-shift="0",NFL RED ZONE..
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1093355
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="DEPORTES" tvg-shift="0",NFL RED ZONE...
@@ -466,7 +466,7 @@ http://200.59.188.3:8000/play/a028
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", Fox Sports Premium.
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1055
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", Fox Sports Premium..
-http://chiletv.ddns.me:2082/Yerkoirach/933464860/5616
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/158454
 
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", Fox Sports 1.
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1022
@@ -494,6 +494,9 @@ http://190.97.183.98:8000/play/a0px/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES", ESPN 2.
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1050
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES", ESPN 2.
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/518965
+
 
 #EXTINF:-1 tvg-id="ESPN3.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES", ESPN 3.
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1161
@@ -520,16 +523,15 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/9708
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", Claro Sports
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", Claro Sports 2.
-http://ultrapremium.cloud:8080/647439252/22042022/463
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/469053
 
 
 
-#EXTINF:-1 tvg-id="aymsports" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="DEPORTES" audio-track="esp,spa", AYM Sports
+#EXTINF:-1 tvg-id="aymsports" tvg-name="Afizzionados.mx" tvg-logo="" group-title="DEPORTES" audio-track="esp,spa", AYM Sports
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
-#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="DEPORTES" audio-track="esp,spa", Afizzionados..
-http://gzytv.vip:8880/ruthy/ST9hpJ4gk7wa/2572
-#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="DEPORTES" audio-track="esp,spa", Afizzionados...
-http://00322.xyz:8000/rances123/9IFBBCRBIX/145474
+#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados.mx" tvg-logo="" group-title="DEPORTES" audio-track="esp,spa", TVC deportes
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/36406
+
 
 
 
