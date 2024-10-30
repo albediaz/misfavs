@@ -9,7 +9,7 @@ http://45.167.3.81:45000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="" audio-track="esp,spa", HBO..
 http://177.93.46.163:8000/play/a01z
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="" audio-track="esp,spa", HBO...
-http://45.4.85.214:58001/play/a03r
+http://200.59.188.3:8000/play/a03r
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="" audio-track="esp,spa", HBO....
 http://45.4.85.214:58001/play/a04u
 
@@ -80,8 +80,8 @@ https://premium.tvcontrolcp.com:19360/8062/8062.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" audio-track="esp,spa", Pantalla Clasica
-https://ssh101-fl.bozztv.com/ssh101/ecuadoralmundo/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" audio-track="esp,spa", OpinionSur Series
+https://fl1002.bozztv.com/ssh101/opinionsurs/tracks-v1a1/mono.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="todos" audio-track="esp,spa", Retro tv
 http://home-playtv.com:8080/AngieMiranda/5wrxryJaxS/550156
@@ -120,8 +120,8 @@ http://160.20.165.246:8000/play/a01f/index.m3u8
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="chilevisualretro" tvg-logo="" group-title="todos" audio-track="esp,spa", De Pelicula
 http://45.175.139.194:8000/play/37
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="cinepremium" tvg-logo="" group-title="todos" audio-track="", Cine Premium
-http://181.78.74.226:45000/play/a03x
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="cinepremium" tvg-logo="" group-title="todos" audio-track="", +Cine
+https://tv.streaming-chile.com:19360/8142/8142.m3u8?WebM3UCL
 
 
 
@@ -543,21 +543,21 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1156
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111169_dark_360w_270h.png" group-title="Musica" audio-track="esp,spa", Recuerdos retro
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Musica" audio-track="esp,spa", 80's
-http://chiletv.ddns.me:2082/live/Ale96/ale1218/19639.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Musica" audio-track="esp,spa", Recuerdos retro
+https://panel.tvstream.cl:1936/8034/8034/chunklist_w836561572.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VintageMusic" tvg-logo="" group-title="Musica" audio-track="esp,spa", Vintage Music
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Plus 1" tvg-logo="" group-title="Musica" audio-track="esp,spa", V Classics
-http://chiletv.ddns.me:2082/live/Ale96/ale1218/48305.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Musica" audio-track="esp,spa", Classics Esp
-http://gzytv.vip:8880/ruthy/ST9hpJ4gk7wa/58
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Musica" audio-track="esp,spa", Rock Latino
-http://gzytv.vip:8880/ruthy/ST9hpJ4gk7wa/60
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Plus 1" tvg-logo="" group-title="Musica" audio-track="esp,spa", Retroplus tv
+https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w1734762803.m3u8?WebM3UCL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Musica" audio-track="esp,spa", Retroplus TV 2
+https://tls-cl.cdnz.cl/retroplustvdos/live/chunklist_w905919208.m3u8?WebM3UCL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Musica" audio-track="esp,spa", Parentesis TV
+https://freya.mivideo.pro:8081/parentesistv/tracks-v1a1/mono.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Musica" audio-track="esp,spa", Exitos Español
-http://gzytv.vip:8880/ruthy/ST9hpJ4gk7wa/62
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Musica" audio-track="esp,spa", Soy Plancha TV
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/chunklist_w506636238.m3u8?WebM3UCL
 
 
 
