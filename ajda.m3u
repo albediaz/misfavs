@@ -11,7 +11,7 @@ http://177.93.46.163:8000/play/a01z
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="" audio-track="esp,spa", HBO...
 http://200.59.188.3:8000/play/a03r
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="" audio-track="esp,spa", HBO....
-http://45.4.85.214:58001/play/a04u
+http://181.188.234.21:8000/play/a04e/index.m3u8
 
 
 
@@ -628,11 +628,11 @@ http://billigaskall.ga:8080/FidelGLZ/u6bWjRtWfK/1725786
 #EXTINF:-1 tvg-id="(20)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="", Big bang
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744943188
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="", Big bang 2
-http://home-playtv.com:8080/miralatintv2032/GEKYF/51331
+http://fast-tv.xyz:8080/2GERARDOURRRUTIA0531/ZPHnXPBCHQd3/151679
 #EXTINF:-1 tvg-id="" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" audio-track="esp,spa" tvg-shift="", Big bang 3
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744940017
 #EXTINF:-1 tvg-id="" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" audio-track="esp,spa" tvg-shift="", Big bang 4
-http://home-playtv.com:8080/miralatintv2032/GEKYF/216987
+https://zona593.live:8443/play/3790A3fir0gewowkwdwhe8HnpOK5g9Zvv95NvTL4QAY/ts
 
 
 
@@ -662,7 +662,7 @@ http://home-playtv.com:8080/AndresG27/NQKRH/107944
 #EXTINF:-1 tvg-id="(35)" tvg-name="" tvg-logo="" group-title="24/7" audio-track="esp,spa", Como conoci a tu madre
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744940481
 #EXTINF:-1 tvg-id="(35)" tvg-name="" tvg-logo="" group-title="24/7" audio-track="esp,spa", Dos Hombres y Medio
-http://home-playtv.com:8080/AndresG27/NQKRH/177379
+http://23.153.217.119:25461/Pilar123/123Pilar/2372?token=QkFdUEdcQwMbUVAFAlBQVgQMUgMCUloOVQgOUAtVX1cJUlNQVwNYXQAVShMVQRRVAFVuXVUVWQsHDwRIEBcVUEs8XFUWDkMIDQdSBkQZREQIVVQWCwZUCgUOBVAHV1UZGxNcVRYOQwsJDlYJRBlEVRlMVEZfVg9mUF1ADVEHRA9XFlldGBYOV2ZTA1wHWwISWxoBFh0VCkpEGgwKRw4KGRsBXEVGVRVcGw1EAFUHXhJNGlJbRFkXS00aDEZ1IEQZGwZNRVFaElBWWUQLREEVEk0aWEduRQZKQEpTBV8HFBcDQQUTGBYMWEFoBV4IWwNTFVFeWkIVWRsGGhpGXw0IXE0MR25EXQUbAxVUAV4DVRIc
 
 
 
