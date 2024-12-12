@@ -43,7 +43,7 @@ http://45.167.3.81:45000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", HBO XTREME..
 http://158.69.52.98:25461/BETO2/BETOMTL2/3186
 #EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", HBO Xtreme...
-http://177.93.46.163:8000/play/a00o
+https://daleplay.club:443/live/wilsonc322/PwDCNYZ8ardP/6056fa27-2c06-4163-8070-b744777478ea.m3u
 
 
 
@@ -260,7 +260,7 @@ http://177.93.46.163:8000/play/a00u
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Cinemax.
 http://177.93.46.163:8000/play/a020
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CINEMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", CINEMAX..
-http://200.59.188.3:8000/play/a016
+https://daleplay.club:443/live/wilsonc322/PwDCNYZ8ardP/0fe88a29-dcd2-4128-ac7f-1ad34d5beed6.m3u
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Cinemax...
 http://200.59.188.3:8000/play/a03s
 
@@ -303,7 +303,7 @@ http://190.109.176.90:8000/play/a099/index.m3u8
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="Space HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Space.
 http://177.93.46.163:8000/play/a023
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Space..
-http://45.4.85.214:58001/play/a041
+https://daleplay.club:443/live/wilsonc322/PwDCNYZ8ardP/c705ff14-c764-4e22-b5c8-8ad4e1d70bc4.m3u
 
 
 #EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SyFy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56727_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", SyFy.
@@ -344,22 +344,17 @@ http://177.93.46.163:8000/play/a005
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Nat Geo...
 http://200.59.188.3:8000/play/a01v
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Nat Geo....
-http://190.97.183.98:8000/play/a0fh/index.m3u8
+https://daleplay.club:443/live/wilsonc322/PwDCNYZ8ardP/9f181436-5614-4958-8f51-d71a5bad1a53.m3u
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Nat Geo.....
-http://177.93.46.163:8000/play/a005
+https://daleplay.club:443/live/wilsonc322/PwDCNYZ8ardP/e1284c96-44fd-4f74-86ac-b99395fe4400.m3u
 
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery H&H" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Discovery Home & Health.
+https://daleplay.club:443/live/wilsonc322/PwDCNYZ8ardP/749a80fd-b31d-4478-a088-dbc7e58ba050.m3u
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Discovery Home & Health..
+http://158.69.52.98:25461/BETO2/BETOMTL2/139
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Discovery Home & Health...
+http://45.5.117.182:8000/play/a0iw/index.m3u8
 
-
-#EXTINF:-1 tvg-id="NationalGeographicwild.mx" tvg-name="National Geographic Wild" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_09/large.1795120606_NatGeoWild.png.2c6ef94abd656f8b702a0853d19e510c.png" group-title="todos" audio-track="esp,spa", Nat Geo Wild.
-http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9807
-#EXTINF:-1 tvg-id="NationalGeographicwild.mx" tvg-name="National Geographic Wild" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_09/large.1795120606_NatGeoWild.png.2c6ef94abd656f8b702a0853d19e510c.png" group-title="todos" audio-track="esp,spa", Nat Geo Wild..
-http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9849
-
-
-#EXTINF:-1 tvg-id="NationalGeographicworld.mx" tvg-name="National Geographic world" tvg-logo="https://i.pinimg.com/474x/4e/31/fa/4e31faa5e02eda1e90b7b916979df48e.jpg" group-title="todos" audio-track="esp,spa", Nat Geo Mundo.
-http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9848
-#EXTINF:-1 tvg-id="NationalGeographicworld.mx" tvg-name="National Geographic world" tvg-logo="https://i.pinimg.com/474x/4e/31/fa/4e31faa5e02eda1e90b7b916979df48e.jpg" group-title="todos" audio-track="esp,spa", Nat Geo Mundo..
-http://1play.cool:25461/live/3056329261/e882f32165/62614.m3u8
 
 
 
@@ -380,29 +375,39 @@ http://158.69.52.98:25461/BETO2/BETOMTL2/142
 #EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY sci" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="todos" audio-track="esp,spa", Discovery Science...
 http://181.78.105.146:8800/play/a00e
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PLUTO VIDA REAL" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" group-title="todos" audio-track="esp,spa", PLUTO VIDA REAL
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PLUTO VIDA REAL" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" group-title="todos" audio-track="esp,spa", PLUTO VIDA REAL..
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 tvg-id="DWEnespanol.mx" tvg-name="DW Español" tvg-logo="https://media.tvalacarta.info/canales/256x256/dwspan.png" group-title="todos" audio-track="esp,spa", DW
 http://177.93.48.30:8552/play/a00k/index.m3u8 
 
 #EXTINF:0 tvg-id="DiscoveryWorld.mx" type="stream" channelId="2839" tvg-logo="https://d3g9pb5nvr3u7.cloudfront.net/sites/544508a0cae62ee423f75edb/500231485/256.jpg" group="todos", Discovery World.
 http://190.97.183.98:8000/play/a0fl/index.m3u8
 #EXTINF:0 tvg-id="DiscoveryWorld.mx" type="stream" channelId="2839" tvg-logo="https://d3g9pb5nvr3u7.cloudfront.net/sites/544508a0cae62ee423f75edb/500231485/256.jpg"  group="todos", Discovery World..
-http://170.83.242.9:4000/play/a017
+https://daleplay.club:443/live/wilsonc322/PwDCNYZ8ardP/41c8d5ea-135b-4940-921d-2d2f2ced49af.m3u
 
 #EXTINF:-1 tvg-id="InvestigationDiscovery(English).mx" tvg-name="Discovery ID HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65342_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Discovery ID.
 http://45.167.3.81:45000/play/a061/index.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery(English).mx" tvg-name="Discovery ID" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65342_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Discovery ID..
 http://177.93.46.163:8000/play/a01f
 
-#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery H&H" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Discovery Home & Health.
-http://45.167.3.81:45000/play/a055/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Discovery Home & Health..
-http://158.69.52.98:25461/BETO2/BETOMTL2/139
-#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Discovery Home & Health...
-http://45.5.117.182:8000/play/a0iw/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicwild.mx" tvg-name="National Geographic Wild" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_09/large.1795120606_NatGeoWild.png.2c6ef94abd656f8b702a0853d19e510c.png" group-title="todos" audio-track="esp,spa", Nat Geo Wild.
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9807
+#EXTINF:-1 tvg-id="NationalGeographicwild.mx" tvg-name="National Geographic Wild" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_09/large.1795120606_NatGeoWild.png.2c6ef94abd656f8b702a0853d19e510c.png" group-title="todos" audio-track="esp,spa", Nat Geo Wild..
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9849
+
+
+#EXTINF:-1 tvg-id="NationalGeographicworld.mx" tvg-name="National Geographic world" tvg-logo="https://i.pinimg.com/474x/4e/31/fa/4e31faa5e02eda1e90b7b916979df48e.jpg" group-title="todos" audio-track="esp,spa", Nat Geo Mundo.
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9848
+#EXTINF:-1 tvg-id="NationalGeographicworld.mx" tvg-name="National Geographic world" tvg-logo="https://i.pinimg.com/474x/4e/31/fa/4e31faa5e02eda1e90b7b916979df48e.jpg" group-title="todos" audio-track="esp,spa", Nat Geo Mundo..
+http://1play.cool:25461/live/3056329261/e882f32165/62614.m3u8
+
 
 
 #EXTINF:-1 tvg-id="LoveNature(English).co" tvg-name="Love Nature" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/06/Love-Nature-1.png" group-title="todos" audio-track="esp,spa", Love Nature
-http://200.59.188.3:8000/play/a02t
+https://daleplay.club:443/live/wilsonc322/PwDCNYZ8ardP/babf4387-f648-4045-8c37-136aa8dfdef9.m3u
 
 
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Animal Planet.
@@ -411,13 +416,10 @@ http://45.167.3.81:45000/play/a01v/index.m3u8
 http://177.93.46.163:8000/play/a010
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PLUTO VIDA REAL" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" group-title="todos" audio-track="esp,spa", PLUTO VIDA REAL
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PLUTO VIDA REAL" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" group-title="todos" audio-track="esp,spa", PLUTO VIDA REAL..
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 
 #EXTINF:-1 tvg-id="Tooncast.mx" tvg-name="Tooncast" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Tooncast
-http://200.59.188.3:8000/play/a0hf
+https://daleplay.club:443/live/wilsonc322/PwDCNYZ8ardP/09ce7b8f-0a3f-4234-93d0-5dc79f41ebc4.m3u
 
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", CARTOON NETWORK.
 http://45.167.3.81:45000/play/a010/index.m3u8
@@ -543,8 +545,8 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1156
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111169_dark_360w_270h.png" group-title="Musica" audio-track="esp,spa", Recuerdos retro
-https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111169_dark_360w_270h.png" group-title="Musica" audio-track="esp,spa", Vevo 80's
+https://daleplay.club:443/live/wilsonc322/PwDCNYZ8ardP/0dc4f516-c32c-44ea-b135-56dc9a2fec35.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Musica" audio-track="esp,spa", Recuerdos retro
 https://panel.tvstream.cl:1936/8034/8034/chunklist_w836561572.m3u8?WebM3UCL
 
@@ -591,7 +593,7 @@ http://home-playtv.com:8080/AndresG27/NQKRH/217139
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="24/7" tvg-shift="", Familia Peluche
-http://home-playtv.com:8080/AndresG27/NQKRH/107929
+https://daleplay.club:443/live/wilsonc322/PwDCNYZ8ardP/ebde806b-c420-4231-848b-654372db5dc9.m3u
 
 
 
@@ -611,7 +613,7 @@ http://ultrapremium.cloud:8080/958078662tv/6x37j3/798
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7" audio-track="esp,spa",  Huevo cartoon
 http://billigaskall.ga:8080/FidelGLZ/u6bWjRtWfK/1665662
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7" audio-track="esp,spa",  El chavo del 8
-http://chiletv.ddns.me:2082/Yerkoirach/933464860/14720
+https://daleplay.club:443/live/wilsonc322/PwDCNYZ8ardP/2b71ff72-ab2f-405d-922a-dbd7dae0cf54.m3u
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="timonypumba" tvg-logo="https://storage.googleapis.com/sticker-prod/PmGrS8ifHxuylCD3AzVt/cover.thumb256.png" group-title="24/7" audio-track="esp,spa", TIMON Y PUMBA.
 https://sdmx.vip:443/play/_bnn3jQhu-yVGbXsZ6T6dFroAMphRvqO1WY-B-RsCA2j7yU9OlL3j6aTbhbbLBrt
