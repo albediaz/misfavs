@@ -41,7 +41,7 @@ http://45.5.117.182:8000/play/a0ep/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.co" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", HBO XTREME.
 http://45.167.3.81:45000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", HBO XTREME..
-http://200.59.188.3:8000/play/a035
+http://158.69.52.98:25461/BETO2/BETOMTL2/3186
 #EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", HBO Xtreme...
 http://177.93.46.163:8000/play/a00o
 
@@ -157,7 +157,7 @@ http://45.5.117.182:8000/play/a0lz/index.m3u8
 http://200.115.120.1:8000/play/ca037/index.m3u8
 
 #EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="Golden Premier" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Golden Premier.
-http://168.181.122.234:8000/play/a01t/index.m3u8
+http://158.69.52.98:25461/BETO2/BETOMTL2/14163
 #EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="GOLDEN PREMIER 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Golden Premier..
 http://190.97.183.98:8000/play/a08a/index.m3u8
 
@@ -266,7 +266,7 @@ http://200.59.188.3:8000/play/a03s
 
 
 #EXTINF:-1 tvg-id="Antena3.mx" tvg-name="ANTENA 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90309_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", ANTENA 3
-http://200.59.188.3:8000/play/a0f3
+http://158.69.52.98:25461/BETO2/BETOMTL2/376
 #EXTINF:-1 tvg-id="Antena3Internacional.do" tvg-name="A3 SERIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16800_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", A3 SERIES.
 http://160.20.165.246:8000/play/a00f/index.m3u8
 
@@ -376,7 +376,7 @@ http://45.5.117.182:8000/play/a0ht/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY sci" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="todos" audio-track="esp,spa", Discovery Science.
 http://190.97.183.98:8000/play/a07x/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY sci" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="todos" audio-track="esp,spa", Discovery Science..
-http://45.4.85.214:58001/play/a00c
+http://158.69.52.98:25461/BETO2/BETOMTL2/142
 #EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY sci" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="todos" audio-track="esp,spa", Discovery Science...
 http://181.78.105.146:8800/play/a00e
 
@@ -396,7 +396,7 @@ http://177.93.46.163:8000/play/a01f
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery H&H" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Discovery Home & Health.
 http://45.167.3.81:45000/play/a055/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Discovery Home & Health..
-http://200.59.188.3:8000/play/a01e
+http://158.69.52.98:25461/BETO2/BETOMTL2/139
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" audio-track="esp,spa", Discovery Home & Health...
 http://45.5.117.182:8000/play/a0iw/index.m3u8
 
@@ -459,8 +459,8 @@ http://177.93.46.163:8000/play/a015
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2024/05/1A-CopaAmerica2024_PRINCIPAL_RGB_Full-color_FondoClaro.jpg?w=300" group-title="DEPORTES" tvg-shift="0", Copa America 2024 Win Sport+
-http://200.59.188.3:8000/play/a028
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES" tvg-shift="0", Liga de campeones
+http://158.69.52.98:25461/BETO2/BETOMTL2/4636
 
 
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", Fox Sports Premium.
@@ -501,9 +501,9 @@ http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/518965
 #EXTINF:-1 tvg-id="ESPN3.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES", ESPN 3.
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1161
 #EXTINF:-1 tvg-id="ESPN4.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES", ESPN 4.
-http://200.59.188.3:8000/play/a01z
+http://158.69.52.98:25461/BETO2/BETOMTL2/14049
 #EXTINF:-1 tvg-id="ESPN5.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES", ESPN 5
-http://45.4.85.214:58001/play/a018
+http://158.69.52.98:25461/BETO2/BETOMTL2/168
 #EXTINF:-1 tvg-id="ESPN4.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" audio-track="esp,spa", ESPN Extra.
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1147
 
