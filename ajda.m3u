@@ -416,17 +416,20 @@ http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/108408
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1093355
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", NFL
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1096056
+
+
+
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN Arg Euro2024" tvg-logo="https://periodistas-es.com/wp-content/uploads/2024/06/uefa-eurocopa-2024-logo.jpg" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN Arg Euro2024
 http://177.93.46.163:8000/play/a015
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Liga de campeones" tvg-logo="" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Liga de campeones
 http://158.69.52.98:25461/BETO2/BETOMTL2/4636
-#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Fox Sports
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Fox Sports Premium.
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1055
-#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Fox Sports
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Fox Sports Premium..
 http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/158454
-#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Fox Sports
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Fox Sports 1.
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1022
-#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Fox Sports
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Fox Sports 1..
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1063
 #EXTINF:-1 tvg-id="FOXSports2(ConoNorte).mx" tvg-name="FOX SPORTS 2." tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", FOX SPORTS 2.
 http://home-playtv.com:8080/WsjuERvJJKFG@/56dL8b9fXJ4r/19495
@@ -438,13 +441,13 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1066
 http://389948515772912477.ofbo1005.xyz:80/live/wa826126/nBCpg5Ee8bgW/912477.ts
 #EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN+" tvg-logo="https://m.media-amazon.com/images/I/41lChb5Q+KL.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN+
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1147
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN.
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1048
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN..
 http://190.97.183.98:8000/play/a0px/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN 2.
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1050
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN 2..
 http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/518965
 #EXTINF:-1 tvg-id="ESPN3.mx" tvg-name="ESPN 3." tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN 3.
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1161
@@ -452,23 +455,23 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1161
 http://158.69.52.98:25461/BETO2/BETOMTL2/14049
 #EXTINF:-1 tvg-id="ESPN5.mx" tvg-name="ESPN 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN 5
 http://158.69.52.98:25461/BETO2/BETOMTL2/168
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUDN
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUDN.
 http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/185148
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUDN
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUDN..
 http://200.115.120.1:8000/play/ca039/index.m3u8
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUDN
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUDN...
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1113
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUDN
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUDN....
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/9707
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUDN
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUDN.....
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/9708
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Claro Sports
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Claro Sports 2
 http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/469053
-#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados.mx" tvg-logo="" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Afizzionados.mx
+#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados.mx" tvg-logo="" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", AYM
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
-#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados.mx" tvg-logo="" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Afizzionados.mx
+#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados.mx" tvg-logo="" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TVC
 http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/36406
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky sports" tvg-logo="" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Sky sports.
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1185
@@ -499,7 +502,7 @@ https://59ef525c24caa.streamlock.net/vmtv/soyplancha/chunklist_w506636238.m3u8?W
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Don gato" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Don gato.
 http://home-playtv.com:8080/Familia.Salazar.Murillo/QRPZW/169819
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Don gato" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Don gato..
-http://home-playtv.com:8080/AndresG27/NQKRH/169819
+http://rey-stream.us:8880/play/oo_gm3-bQ_s6M-skuT3578CwQW4zNy8bj5PN-umjh4w
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpson." tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Los Simpson.
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744939540
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpson.." tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Los Simpson..
@@ -548,7 +551,7 @@ http://fast-tv.xyz:8080/2GERARDOURRRUTIA0531/ZPHnXPBCHQd3/151679
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Bigbang Theory...
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744940017
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Bigbang Theory...
-https://zona593.live:8443/play/3790A3fir0gewowkwdwhe8HnpOK5g9Zvv95NvTL4QAY/ts
+http://rey-stream.us:8880/play/oo_gm3-bQ_s6M-skuT3573kX34eHkgpxwlDKg9nq_9A
 
 
 
@@ -579,7 +582,7 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744940481
 
 
 #EXTINF:-1 tvg-id="(35)" tvg-name="Dos Hombres y Medio" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Dos Hombres y Medio
-http://23.153.217.119:25461/Pilar123/123Pilar/2372?token=QkFdUEdcQwMbUVAFAlBQVgQMUgMCUloOVQgOUAtVX1cJUlNQVwNYXQAVShMVQRRVAFVuXVUVWQsHDwRIEBcVUEs8XFUWDkMIDQdSBkQZREQIVVQWCwZUCgUOBVAHV1UZGxNcVRYOQwsJDlYJRBlEVRlMVEZfVg9mUF1ADVEHRA9XFlldGBYOV2ZTA1wHWwISWxoBFh0VCkpEGgwKRw4KGRsBXEVGVRVcGw1EAFUHXhJNGlJbRFkXS00aDEZ1IEQZGwZNRVFaElBWWUQLREEVEk0aWEduRQZKQEpTBV8HFBcDQQUTGBYMWEFoBV4IWwNTFVFeWkIVWRsGGhpGXw0IXE0MR25EXQUbAxVUAV4DVRIc
+http://tvbross.com:8880/Pilar123/123Pilar/2372
 
 
 
@@ -600,7 +603,7 @@ http://billigaskall.ga:8080/FidelGLZ/u6bWjRtWfK/1725230
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="picapiedras" tvg-logo="https://images.justwatch.com/poster/76219363/s718/los-picapiedra.%7Bformat%7D" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Picapiedras.
-http://home-playtv.com:8080/AndresG27/NQKRH/177126
+http://tvbross.com:8880/Pilar123/123Pilar/2376
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="picapiedras" tvg-logo="https://images.justwatch.com/poster/76219363/s718/los-picapiedra.%7Bformat%7D" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Picapiedras..
 http://1play.cool:25461/JoseWilmer01/dd4e607d89/117811
 
