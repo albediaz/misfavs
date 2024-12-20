@@ -320,6 +320,9 @@ http://200.59.188.3:8000/play/a01v
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic....
 https://daleplay.club:443/live/wilsonc322/PwDCNYZ8ardP/357db601-5db2-4e87-be84-149fab15f920.m3u
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic.....
+http://espatv.xyz:8080/334852/N7pSnv/67577
+
+#EXTINF:-1 tvg-id="NatGeoMundo(Spanish).us" tvg-name="National Geo Mundo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Nat Geo Mundo.
 https://daleplay.club:443/live/wilsonc322/PwDCNYZ8ardP/e1284c96-44fd-4f74-86ac-b99395fe4400.m3u
 
 
@@ -538,7 +541,7 @@ http://hdhd.tk:80/robert1234/robert1234/33761
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="pinguinosmadagascar" tvg-logo="https://image1.challengermode.com/59e52a55-d8f6-40d2-2574-08dad30bb5c2_256_256" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Pingüinos de Madagascar.
-http://home-playtv.com:8080/AndresG27/NQKRH/177118
+http://espatv.xyz:8080/334852/N7pSnv/160714
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="pinguinosmadagascar" tvg-logo="https://image1.challengermode.com/59e52a55-d8f6-40d2-2574-08dad30bb5c2_256_256" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Pingüinos de Madagascar..
 http://billigaskall.ga:8080/FidelGLZ/u6bWjRtWfK/1725786
 
