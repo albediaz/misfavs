@@ -314,11 +314,11 @@ http://190.60.38.114:1010/play/a04j/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic(Spanish).mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic.
 http://181.188.234.21:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic(Spanish).mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic..
-http://177.93.46.163:8000/play/a005
+http://45.167.3.81:45000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic(Spanish).mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic...
-http://200.59.188.3:8000/play/a01v
+http://181.78.27.128:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic....
-https://daleplay.club:443/live/wilsonc322/PwDCNYZ8ardP/357db601-5db2-4e87-be84-149fab15f920.m3u
+http://megaxtv.com/anderson123/anderson123/292242
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic.....
 http://espatv.xyz:8080/334852/N7pSnv/67577
 
@@ -369,7 +369,7 @@ http://177.93.48.30:8552/play/a00k/index.m3u8
 http://45.167.3.81:45000/play/a061/index.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery(English).mx" tvg-name="Discovery ID" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65342_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery ID..
 http://177.93.46.163:8000/play/a01f
-#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic Wild" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_09/large.1795120606_NatGeoWild.png.2c6ef94abd656f8b702a0853d19e510c.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic Wild.
+#EXTINF:-1 tvg-id="NationalGeographicWild.mx" tvg-name="National Geographic Wild" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_09/large.1795120606_NatGeoWild.png.2c6ef94abd656f8b702a0853d19e510c.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic Wild.
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9807
 #EXTINF:-1 tvg-id="NationalGeographicwild.mx" tvg-name="National Geographic Wild" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_09/large.1795120606_NatGeoWild.png.2c6ef94abd656f8b702a0853d19e510c.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic Wild..
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9849
