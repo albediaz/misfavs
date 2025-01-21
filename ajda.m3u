@@ -87,6 +87,10 @@ https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 http://ultrapremium.cloud:8080/56927160/08092023g/53
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="cinepremium" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Showtime east
 http://ultrapremium.cloud:8080/56927160/08092023g/197
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="cinepremium" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Coco TV
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="cinepremium" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Neo TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
 
@@ -159,7 +163,7 @@ http://45.167.3.81:45000/play/a05e/index.m3u8
 
 
 #EXTINF:-1 tvg-id="MC.mx" tvg-name="MULTICINEMA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18329_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", MULTICINEMA.
-http://45.4.85.214:58001/play/a04q
+http://181.78.105.146:2000/play/a01o/index.m3u8
 #EXTINF:-1 tvg-id="MC.mx" tvg-name="MULTICINEMA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18329_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", MULTICINEMA..
 http://181.78.105.146:6060/play/a05q/index.m3u8
 
@@ -560,7 +564,7 @@ http://rey-stream.us:8880/play/oo_gm3-bQ_s6M-skuT3573kX34eHkgpxwlDKg9nq_9A
 
 
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Dr. House.
-http://ultrapremium.cloud:8080/958078662tv/6x37j3/250477
+http://ultrapremium.cloud:8080/56927160/08092023g/250477
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Dr. House..
 http://ultrapremium.cloud:8080/56934067472wspztv/140721ztv/250477
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Dr. House...
@@ -578,7 +582,7 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744942822
 
 
 #EXTINF:-1 tvg-id="(20)" tvg-name="Años Maravillosos" tvg-logo="https://ih1.redbubble.net/image.2131767850.4358/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Años Maravillosos
-http://home-playtv.com:8080/AndresG27/NQKRH/107944
+http://newultra.xyz:8080/56821648/28052022pp/250571
 
 
 #EXTINF:-1 tvg-id="(35)" tvg-name="Como conoci a tu madre" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Como conoci a tu madre
