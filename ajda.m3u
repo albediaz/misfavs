@@ -38,9 +38,9 @@ http://181.78.27.128:8000/play/a028/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Plus.
-http://177.93.46.163:8000/play/a00n
+http://ultrapremium.cloud:8080/56927160/08092023g/144
 #EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO PLUS..
-http://200.59.188.3:8000/play/a06m
+http://ultrapremium.cloud:8080/56927160/08092023g/146
 
 
 #EXTINF:-1 tvg-id="HBOPOP.mx" tvg-name="HBO POP HD" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/03/C_457-1.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO POP.
@@ -71,8 +71,8 @@ https://live.obslivestream.com/planetatv/index.m3u8
 https://premium.tvcontrolcp.com:19360/8062/8062.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OpinionSur Series" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", +Cine
 https://glb.bozztv.com/glb/ssh101/mascineclasico/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro tv" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Retro tv
-http://home-playtv.com:8080/AngieMiranda/5wrxryJaxS/550156
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro tv" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Outermax
+http://ultrapremium.cloud:8080/56927160/08092023g/190
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DTV" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DTV
 https://s.emisoras.tv:8081/dtv/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MONITV" tvg-logo="https://monitv.net/wp-content/uploads/2024/02/monitvojos.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", MONITV
@@ -81,6 +81,12 @@ https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 http://160.20.165.246:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="FMHkids" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="todos" tvg-shift="-7", audio-track="esp,spa", FMH kids
 http://160.20.165.246:8000/play/a01f/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="mxseries" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", El pituco
+https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="chilevisualretro" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", La Red
+http://ultrapremium.cloud:8080/56927160/08092023g/53
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="cinepremium" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Showtime east
+http://ultrapremium.cloud:8080/56927160/08092023g/197
 
 
 
@@ -103,12 +109,7 @@ http://45.167.3.81:45000/play/a01y/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="mxseries" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", El pituco
-https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="chilevisualretro" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Chile visual retro
-http://45.175.139.194:8000/play/37
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="cinepremium" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cinepremium
-https://tv.streaming-chile.com:19360/8142/8142.m3u8?WebM3UCL
+
 
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINECANAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", CINECANAL.
@@ -215,7 +216,7 @@ http://45.167.3.81:45000/play/a047/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Eurochannel.mx" tvg-name="Eurochannel" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Eurochannel
-http://181.174.228.123:6890/play/a09w/index.m3u8
+http://ultrapremium.cloud:8080/56927160/08092023g/185
 
 
 
@@ -254,7 +255,7 @@ http://200.59.188.3:8000/play/a03s
 #EXTINF:-1 tvg-id="Antena3.mx" tvg-name="ANTENA 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90309_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", ANTENA 3
 http://158.69.52.98:25461/BETO2/BETOMTL2/376
 #EXTINF:-1 tvg-id="Antena3Internacional.do" tvg-name="A3 SERIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16800_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", A3 SERIES
-http://160.20.165.246:8000/play/a00f/index.m3u8
+http://ultrapremium.cloud:8080/56927160/08092023g/146
 #EXTINF:-1 tvg-id="Atrescine.mx" tvg-name="A3Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82808_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", A3Cine
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1174
 
@@ -299,7 +300,7 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/2028
 
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", History Channel.
-http://177.93.46.163:8000/play/a006
+http://ultrapremium.cloud:8080/56927160/08092023g/431
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", History Channel..
 http://181.78.105.146:2000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", History Channel...
@@ -318,7 +319,7 @@ http://45.167.3.81:45000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic(Spanish).mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic...
 http://181.78.27.128:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic....
-http://megaxtv.com/anderson123/anderson123/292242
+http://ultrapremium.cloud:8080/56927160/08092023g/236364
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic.....
 http://espatv.xyz:8080/334852/N7pSnv/67577
 
@@ -347,7 +348,7 @@ http://45.5.117.182:8000/play/a0ht/index.m3u8
 
 
 #EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY sci" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DISCOVERY sci.
-http://190.97.183.98:8000/play/a07x/index.m3u8
+http://ultrapremium.cloud:8080/56927160/08092023g/416
 #EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY sci" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DISCOVERY sci..
 http://158.69.52.98:25461/BETO2/BETOMTL2/142
 #EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY sci" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DISCOVERY sci...
@@ -362,7 +363,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df265697
 
 
 #EXTINF:-1 tvg-id="DWEnespanol.mx" tvg-name="DW Español" tvg-logo="https://media.tvalacarta.info/canales/256x256/dwspan.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DW Español
-http://177.93.48.30:8552/play/a00k/index.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-id="InvestigationDiscovery(English).mx" tvg-name="Discovery ID" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65342_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery ID.
@@ -517,9 +518,9 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744943041
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="X Men" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", X Men
 http://billigaskall.ga:8080/FidelGLZ/u6bWjRtWfK/1723826
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pinky y Cerebro" tvg-logo="https://blogbibliotecacid.files.wordpress.com/2017/12/pinkyandthebrain.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Pinky y Cerebro
-http://ultrapremium.cloud:8080/958078662tv/6x37j3/250528
+http://ultrapremium.cloud:8080/56927160/08092023g/808
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gallo Claudio" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Gallo Claudio
-http://ultrapremium.cloud:8080/958078662tv/6x37j3/798
+http://ultrapremium.cloud:8080/56927160/08092023g/798
 
 #EXTINF:-1 tvg-id="(lista16)" tvg-name="Miraculous" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Miraculous
 http://home-playtv.com:8080/AndresG27/NQKRH/217139
@@ -532,7 +533,7 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744941525
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Huevo cartoon" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Huevo cartoon
 http://billigaskall.ga:8080/FidelGLZ/u6bWjRtWfK/1665662
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El chavo del 8" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", El chavo del 8
-https://daleplay.club:443/live/wilsonc322/PwDCNYZ8ardP/2b71ff72-ab2f-405d-922a-dbd7dae0cf54.m3u
+http://ultrapremium.cloud:8080/56927160/08092023g/705
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="timonypumba" tvg-logo="https://storage.googleapis.com/sticker-prod/PmGrS8ifHxuylCD3AzVt/cover.thumb256.png" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Timon y Pumba
 https://sdmx.vip:443/play/_bnn3jQhu-yVGbXsZ6T6dFroAMphRvqO1WY-B-RsCA2j7yU9OlL3j6aTbhbbLBrt
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Just for Laughs" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Just for Laughs
@@ -608,7 +609,7 @@ http://billigaskall.ga:8080/FidelGLZ/u6bWjRtWfK/1725230
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="picapiedras" tvg-logo="https://images.justwatch.com/poster/76219363/s718/los-picapiedra.%7Bformat%7D" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Picapiedras.
 http://tvbross.com:8880/Pilar123/123Pilar/2376
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="picapiedras" tvg-logo="https://images.justwatch.com/poster/76219363/s718/los-picapiedra.%7Bformat%7D" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Picapiedras..
-http://1play.cool:25461/JoseWilmer01/dd4e607d89/117811
+http://ultrapremium.cloud:8080/56927160/08092023g/784
 
 
 
