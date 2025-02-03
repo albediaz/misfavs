@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa",  audio-track="esp,spa", HBO.
-http://45.167.3.81:45000/play/a00l/index.m3u8
+http://181.78.27.128:8000/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO..
 http://177.93.46.163:8000/play/a01z
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO...
@@ -14,7 +14,7 @@ http://181.188.234.21:8000/play/a04e/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO 2.
 http://181.78.27.128:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO 2..
-http://45.167.3.81:45000/play/a00m/index.m3u8
+http://181.205.130.194:4000/play/a0do
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO 2...
 http://45.5.117.182:8000/play/a0eP/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO 2....
@@ -38,9 +38,9 @@ http://181.78.27.128:8000/play/a028/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Plus.
-http://ultrapremium.cloud:8080/56927160/08092023g/144
+http://200.59.188.3:8000/play/a06m
 #EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO PLUS..
-http://ultrapremium.cloud:8080/56927160/08092023g/146
+http://181.78.27.128:8000/play/a027/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBOPOP.mx" tvg-name="HBO POP HD" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/03/C_457-1.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO POP.
