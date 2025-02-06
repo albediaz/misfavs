@@ -149,7 +149,7 @@ http://200.115.120.1:8000/play/ca037/index.m3u8
 #EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="Golden Premier" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Golden Premier.
 http://158.69.52.98:25461/BETO2/BETOMTL2/14163
 #EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="GOLDEN PREMIER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", GOLDEN PREMIER..
-http://tv.proyectox.vip:8080/live/MANUELTV23/The6vcHE5U/9663.m3u8
+http://playtvpremium.xyz:2095/56999047297play/090424play/315126
 
 
 #EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Golden Plus
@@ -386,7 +386,7 @@ http://181.78.27.128:8000/play/a041/index.m3u8
 
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.mx" tvg-name="National Geographic Wild" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_09/large.1795120606_NatGeoWild.png.2c6ef94abd656f8b702a0853d19e510c.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic Wild.
-http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9807
+http://playtvpremium.xyz:2095/56999047297play/090424play/99941
 #EXTINF:-1 tvg-id="NationalGeographicwild.mx" tvg-name="National Geographic Wild" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_09/large.1795120606_NatGeoWild.png.2c6ef94abd656f8b702a0853d19e510c.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic Wild..
 http://espatv.xyz:8080/334852/N7pSnv/409009
 
@@ -395,6 +395,11 @@ http://espatv.xyz:8080/334852/N7pSnv/409009
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9848
 #EXTINF:-1 tvg-id="NationalGeographicworld.mx" tvg-name="National Geographic world" tvg-logo="https://i.pinimg.com/474x/4e/31/fa/4e31faa5e02eda1e90b7b916979df48e.jpg" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic world..
 http://espatv.xyz:8080/334852/N7pSnv/409002
+
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World." tvg-logo="https://d3g9pb5nvr3u7.cloudfront.net/sites/544508a0cae62ee423f75edb/500231485/256.jpg" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery World.
+http://playtvpremium.xyz:2095/56999047297play/090424play/99929
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World.." tvg-logo="https://d3g9pb5nvr3u7.cloudfront.net/sites/544508a0cae62ee423f75edb/500231485/256.jpg" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery World..
+https://daleplay.club:443/live/wilsonc322/PwDCNYZ8ardP/41c8d5ea-135b-4940-921d-2d2f2ced49af.m3u
 
 
 #EXTINF:-1 tvg-id="LoveNature(English).co" tvg-name="Love Nature" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/06/Love-Nature-1.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Love Nature
@@ -422,10 +427,7 @@ http://181.78.27.128:8000/play/a03j/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World." tvg-logo="https://d3g9pb5nvr3u7.cloudfront.net/sites/544508a0cae62ee423f75edb/500231485/256.jpg" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery World.
-http://181.78.105.146:8800/play/a05b
-#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World.." tvg-logo="https://d3g9pb5nvr3u7.cloudfront.net/sites/544508a0cae62ee423f75edb/500231485/256.jpg" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery World..
-https://daleplay.club:443/live/wilsonc322/PwDCNYZ8ardP/41c8d5ea-135b-4940-921d-2d2f2ced49af.m3u
+
 
 
 
@@ -459,7 +461,7 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1055
 http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/158454
 
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico)(Spanish).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Fox Sports 1.
-http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1022
+http://playtvpremium.xyz:2095/56999047297play/090424play/99641
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico)(Spanish).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Fox Sports 1..
 http://680803391295912479.ofxn1112.xyz:80/live/Rufino1234/Muley9876/912479.ts
 
@@ -506,7 +508,7 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1113
 #EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUDN....
 http://45.5.117.182:8000/play/lh0jp/index.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUDN.....
-http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/9708
+http://playtvpremium.xyz:2095/56999047297play/090424play/99725
 
 
 #EXTINF:-1 tvg-id="ClaroSports(Spanish).mx" tvg-name="Claro Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Claro Sports
@@ -546,7 +548,7 @@ https://59ef525c24caa.streamlock.net/vmtv/soyplancha/chunklist_w506636238.m3u8?W
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Don gato" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Don gato.
 http://home-playtv.com:8080/Familia.Salazar.Murillo/QRPZW/169819
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Don gato" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Don gato..
-http://rey-stream.us:8880/play/oo_gm3-bQ_s6M-skuT3578CwQW4zNy8bj5PN-umjh4w
+http://playtvpremium.xyz:2095/56999047297play/090424play/306149
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpson." tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Los Simpson.
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744939540
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpson.." tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Los Simpson..
@@ -558,7 +560,7 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744943041
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="X Men" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", X Men
 http://billigaskall.ga:8080/FidelGLZ/u6bWjRtWfK/1723826
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pinky y Cerebro" tvg-logo="https://blogbibliotecacid.files.wordpress.com/2017/12/pinkyandthebrain.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Pinky y Cerebro
-http://ultrapremium.cloud:8080/56927160/08092023g/808
+http://playtvpremium.xyz:2095/56999047297play/090424play/306131
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gallo Claudio" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Gallo Claudio
 http://ultrapremium.cloud:8080/56927160/08092023g/798
 
@@ -573,7 +575,7 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744941525
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Huevo cartoon" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Huevo cartoon
 http://billigaskall.ga:8080/FidelGLZ/u6bWjRtWfK/1665662
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El chavo del 8" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", El chavo del 8
-http://ultrapremium.cloud:8080/56927160/08092023g/705
+http://playtvpremium.xyz:2095/56999047297play/090424play/99891
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="timonypumba" tvg-logo="https://storage.googleapis.com/sticker-prod/PmGrS8ifHxuylCD3AzVt/cover.thumb256.png" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Timon y Pumba
 https://sdmx.vip:443/play/_bnn3jQhu-yVGbXsZ6T6dFroAMphRvqO1WY-B-RsCA2j7yU9OlL3j6aTbhbbLBrt
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Just for Laughs" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Just for Laughs
@@ -663,7 +665,7 @@ http://billigaskall.ga:8080/FidelGLZ/u6bWjRtWfK/1395050
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="vecinos" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Vecinos.
-https://zona593.live:8443/play/3790A3fir0gewowkwdwhewoUtZw9LdVuko8NAvZBhe0/ts
+http://playtvpremium.xyz:2095/56999047297play/090424play/306314
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="vecinos" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Vecinos..
 http://home-playtv.com:8080/AndresG27/NQKRH/107932
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="vecinos" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Vecinos...
