@@ -109,7 +109,7 @@ http://177.93.46.163:8000/play/a022
 #EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E." tvg-logo="https://cdn.mitvstatic.com/channels/co_a-e-mundo-hd_m.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", A&E.
 http://181.78.105.146:2000/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E.." tvg-logo="https://cdn.mitvstatic.com/channels/co_a-e-mundo-hd_m.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", A&E..
-http://181.78.105.146:8800/play/a04r
+http://tvbross.com:8880/Pilar123/123Pilar/25918
 
 
 
@@ -149,7 +149,7 @@ http://200.115.120.1:8000/play/ca037/index.m3u8
 #EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="Golden Premier" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Golden Premier.
 http://158.69.52.98:25461/BETO2/BETOMTL2/14163
 #EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="GOLDEN PREMIER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", GOLDEN PREMIER..
-http://playtvpremium.xyz:2095/56999047297play/090424play/315126
+http://tvbross.com:8880/Pilar123/123Pilar/436
 
 
 #EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Golden Plus
@@ -268,7 +268,7 @@ http://200.59.188.3:8000/play/a03s
 #EXTINF:-1 tvg-id="Antena3Internacional.do" tvg-name="A3 SERIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16800_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", A3 SERIES
 http://ultrapremium.cloud:8080/56927160/08092023g/146
 #EXTINF:-1 tvg-id="Atrescine.mx" tvg-name="A3Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82808_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", A3Cine
-http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1174
+http://tvbross.com:8880/Pilar123/123Pilar/25916
 
 #EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Universal Comedy.
 http://181.78.105.146:8800/play/a06b
@@ -375,8 +375,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1e
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
-#EXTINF:-1 tvg-id="DWEnespanol.mx" tvg-name="DW Español" tvg-logo="https://media.tvalacarta.info/canales/256x256/dwspan.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DW Español
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HGTV Español
+http://tvbross.com:8880/Pilar123/123Pilar/18
 
 
 #EXTINF:-1 tvg-id="InvestigationDiscovery(English).mx" tvg-name="Discovery ID" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65342_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery ID.
@@ -453,7 +453,7 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1096056
 http://177.93.46.163:8000/play/a015
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Liga de campeones" tvg-logo="" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Liga de campeones
-http://158.69.52.98:25461/BETO2/BETOMTL2/4636
+http://tvbross.com:8880/Pilar123/123Pilar/31422
 
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico)(Spanish).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Fox Sports Premium.
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1055
@@ -481,9 +481,9 @@ http://389948515772912477.ofbo1005.xyz:80/live/wa826126/nBCpg5Ee8bgW/912477.ts
 http://200.113.4.75:7210/play/a00d/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN(Spanish).mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN.
-http://45.167.3.81:45000/play/a042/index.m3u8
+http://tvbross.com:8880/Pilar123/123Pilar/1075
 #EXTINF:-1 tvg-id="ESPN(Spanish).mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN..
-http://190.97.183.98:8000/play/a0px/index.m3u8
+http://tvbross.com:8880/Pilar123/123Pilar/80
 
 #EXTINF:-1 tvg-id="ESPN2(Spanish).mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN 2.
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1050
@@ -506,9 +506,9 @@ http://200.115.120.1:8000/play/ca039/index.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUDN...
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1113
 #EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUDN....
-http://45.5.117.182:8000/play/lh0jp/index.m3u8
+http://tvbross.com:8880/Pilar123/123Pilar/39463
 #EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUDN.....
-http://playtvpremium.xyz:2095/56999047297play/090424play/99725
+http://tvbross.com:8880/Pilar123/123Pilar/16044
 
 
 #EXTINF:-1 tvg-id="ClaroSports(Spanish).mx" tvg-name="Claro Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Claro Sports
@@ -562,7 +562,7 @@ http://billigaskall.ga:8080/FidelGLZ/u6bWjRtWfK/1723826
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pinky y Cerebro" tvg-logo="https://blogbibliotecacid.files.wordpress.com/2017/12/pinkyandthebrain.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Pinky y Cerebro
 http://playtvpremium.xyz:2095/56999047297play/090424play/306131
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gallo Claudio" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Gallo Claudio
-http://ultrapremium.cloud:8080/56927160/08092023g/798
+http://tvbross.com:8880/Pilar123/123Pilar/17746
 
 #EXTINF:-1 tvg-id="(lista16)" tvg-name="Miraculous" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Miraculous
 http://espatv.xyz:8080/334852/N7pSnv/160679
@@ -651,8 +651,7 @@ http://billigaskall.ga:8080/FidelGLZ/u6bWjRtWfK/1725230
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="picapiedras" tvg-logo="https://images.justwatch.com/poster/76219363/s718/los-picapiedra.%7Bformat%7D" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Picapiedras.
 http://tvbross.com:8880/Pilar123/123Pilar/2376
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="picapiedras" tvg-logo="https://images.justwatch.com/poster/76219363/s718/los-picapiedra.%7Bformat%7D" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Picapiedras..
-http://ultrapremium.cloud:8080/56927160/08092023g/784
-
+http://tvbross.com:8880/Pilar123/123Pilar/2376
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="familia" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Familia de diez.
