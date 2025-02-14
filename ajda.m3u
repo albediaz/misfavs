@@ -85,6 +85,8 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitvhd/chunks.m3u8
 http://160.20.165.246:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="FMHkids" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="todos" tvg-shift="-7", audio-track="esp,spa", FMH kids
 http://160.20.165.246:8000/play/a01f/index.m3u8
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="mxseries" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", El pituco
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="chilevisualretro" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Estelar
@@ -562,7 +564,7 @@ http://billigaskall.ga:8080/FidelGLZ/u6bWjRtWfK/1723826
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pinky y Cerebro" tvg-logo="https://blogbibliotecacid.files.wordpress.com/2017/12/pinkyandthebrain.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Pinky y Cerebro
 http://playtvpremium.xyz:2095/56999047297play/090424play/306131
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gallo Claudio" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Gallo Claudio
-http://tvbross.com:8880/Pilar123/123Pilar/17746
+http://fastream.xyz:8080/999442862tv/2602FHje/798
 
 #EXTINF:-1 tvg-id="(lista16)" tvg-name="Miraculous" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Miraculous
 http://espatv.xyz:8080/334852/N7pSnv/160679
@@ -600,7 +602,7 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744940017
 http://espatv.xyz:8080/334852/N7pSnv/42159
 
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Dr. House.
-http://ultrapremium.cloud:8080/56927160/08092023g/250477
+http://fastream.xyz:8080/999442862tv/2602FHje/250477
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Dr. House..
 http://ultrapremium.cloud:8080/56934067472wspztv/140721ztv/250477
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Dr. House...
@@ -618,7 +620,7 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744942822
 
 
 #EXTINF:-1 tvg-id="(20)" tvg-name="Años Maravillosos" tvg-logo="https://ih1.redbubble.net/image.2131767850.4358/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Años Maravillosos
-http://newultra.xyz:8080/56821648/28052022pp/250571
+http://fastream.xyz:8080/999442862tv/2602FHje/250571
 
 
 #EXTINF:-1 tvg-id="(35)" tvg-name="Como conoci a tu madre" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Como conoci a tu madre
