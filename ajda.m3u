@@ -76,8 +76,11 @@ https://glb.bozztv.com/glb/ssh101/mascineclasico/index.m3u8?PlaylistM3UCL
 http://tvbross.com:8880/Pilar123/123Pilar/57
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DTV" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", CINE P
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/87744
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MONITV" tvg-logo="https://monitv.net/wp-content/uploads/2024/02/monitvojos.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", MONITV
-https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitvhd/chunks.m3u8
+
+
 #EXTINF:-1 tvg-id="-1" tvg-name="FMHFAMILY" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="todos" tvg-shift="-7", audio-track="esp,spa", FMH FAMILY
 http://160.20.165.246:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="FMHkids" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="todos" tvg-shift="-7", audio-track="esp,spa", FMH kids
