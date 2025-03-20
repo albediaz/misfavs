@@ -153,10 +153,9 @@ http://45.5.117.182:8000/play/a0lz/index.m3u8
 http://200.115.120.1:8000/play/ca037/index.m3u8
 
 #EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="Golden Premier" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Golden Premier.
-http://45.228.234.167:8000/play/a00j/index.m3u8
+http://star-flix.net:8080/GustavoA/GBjdZx5h8f/1595752
 #EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="GOLDEN PREMIER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", GOLDEN PREMIER..
-http://45.228.234.167:8000/play/a00k/index.m3u8
-
+http://star-flix.net:8080/GustavoA/GBjdZx5h8f/1165053
 
 #EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Golden Plus
 http://190.0.241.181:8000/play/GOLDENNUEVO/index.m3u8
@@ -274,7 +273,7 @@ http://200.59.188.3:8000/play/a03s
 #EXTINF:-1 tvg-id="Antena3Internacional.do" tvg-name="A3 SERIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16800_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", A3 SERIES
 http://ultrapremium.cloud:8080/56927160/08092023g/146
 #EXTINF:-1 tvg-id="Atrescine.mx" tvg-name="A3Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82808_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", A3Cine
-http://tvbross.com:8880/Pilar123/123Pilar/25916
+http://star-flix.net:8080/GustavoA/GBjdZx5h8f/1595948
 
 #EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Universal Comedy.
 http://181.78.105.146:8800/play/a06b
@@ -548,7 +547,7 @@ https://59ef525c24caa.streamlock.net/vmtv/soyplancha/chunklist_w506636238.m3u8?W
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Don gato" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Don gato.
 http://espatv.xyz:8080/334852/N7pSnv/160726
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Don gato" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Don gato..
-http://playtvpremium.xyz:2095/56999047297play/090424play/306149
+http://star-flix.net:8080/GustavoA/GBjdZx5h8f/1913496
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpson." tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Los Simpson.
@@ -582,6 +581,15 @@ http://espatv.xyz:8080/334852/N7pSnv/160209
 https://sdmx.vip:443/play/_bnn3jQhu-yVGbXsZ6T6dFroAMphRvqO1WY-B-RsCA2j7yU9OlL3j6aTbhbbLBrt
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Just for Laughs" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Just for Laughs
 http://hdhd.tk:80/robert1234/robert1234/33761
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Just for Laughs" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Me caigo de risa.
+http://star-flix.net:8080/GustavoA/GBjdZx5h8f/1930490
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Just for Laughs" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Me caigo de risa..
+http://star-flix.net:8080/GustavoA/GBjdZx5h8f/1930492
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Just for Laughs" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Me caigo de risa...
+http://star-flix.net:8080/GustavoA/GBjdZx5h8f/1930495
+
 
 
 
@@ -655,7 +663,7 @@ http://tvbross.com:8880/Pilar123/123Pilar/2376
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="familia" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Familia de diez.
-http://tvlat2020.com:8080/AlvaroMallarino/BG879KQ7T8/152719
+http://star-flix.net:8080/GustavoA/GBjdZx5h8f/1373628
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="familia" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Familia de diez..
 http://billigaskall.ga:8080/FidelGLZ/u6bWjRtWfK/1373628
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="familia" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Familia de diez...
@@ -664,8 +672,8 @@ http://billigaskall.ga:8080/FidelGLZ/u6bWjRtWfK/1395050
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="vecinos" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Vecinos.
-http://playtvpremium.xyz:2095/56999047297play/090424play/306314
+http://star-flix.net:8080/GustavoA/GBjdZx5h8f/1203606
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="vecinos" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Vecinos..
-http://home-playtv.com:8080/AndresG27/NQKRH/107932
+http://star-flix.net:8080/GustavoA/GBjdZx5h8f/1373627
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="vecinos" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Vecinos...
 http://billigaskall.ga:8080/FidelGLZ/u6bWjRtWfK/1373627
