@@ -97,8 +97,7 @@ https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="chilevisualretro" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Estelar
 http://espatv.xyz:8080/334852/N7pSnv/401017
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="cinepremium" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Coco TV
-https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+
 
 
 
