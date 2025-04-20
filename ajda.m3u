@@ -45,9 +45,9 @@ http://star-flix.net:8080/GustavoA/GBjdZx5h8f/1310588
 
 
 #EXTINF:-1 tvg-id="HBOPOP.mx" tvg-name="HBO POP HD" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/03/C_457-1.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO POP.
-http://200.59.188.3:8000/play/a00m
+http://star-flix.net:8080/GustavoA/GBjdZx5h8f/1595694
 #EXTINF:-1 tvg-id="HBOPOP.mx" tvg-name="HBO POP HD" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/03/C_457-1.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO POP..
-http://200.59.188.3:8000/play/a00m
+http://star-flix.net:8080/GustavoA/GBjdZx5h8f/1165013
 
 
 
@@ -96,28 +96,18 @@ http://160.20.165.246:8000/play/a01f/index.m3u8
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="chilevisualretro" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Estelar
 http://espatv.xyz:8080/334852/N7pSnv/401017
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cinerama
+http://star-flix.net:8080/GustavoA/GBjdZx5h8f/1930644
 
 
 
 
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DISTRITO COMEDIA" tvg-logo="https://www.dafont.com/forum/attach/orig/9/9/994013.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Distrito Comedia
-http://190.90.252.200:16001/play/a07n/index.m3u8
+http://star-flix.net:8080/GustavoA/GBjdZx5h8f/81903
 #EXTINF:-1 tvg-id="GalavisionCableNetwork(Pacific)(Spanish).us" tvg-name="Galavision" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/Galavision.png.128x128_q85.jpg" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Galavision
-http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONAUSTIN&calidad=sd&.m3u8
+http://star-flix.net:8080/GustavoA/GBjdZx5h8f/1403691
 
 
-#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032017/untitled-2_15.png?itok=Ps6ewae2" group-title="todos" tvg-shift="-7", audio-track="esp,spa", AXN.
-http://190.60.38.114:1010/play/a02e/index.m3u8
-#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032017/untitled-2_15.png?itok=Ps6ewae2" group-title="todos" tvg-shift="-7", audio-track="esp,spa", AXN..
-http://177.93.46.163:8000/play/a022
-
-
-#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E." tvg-logo="https://cdn.mitvstatic.com/channels/co_a-e-mundo-hd_m.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", A&E.
-http://190.60.38.114:1010/play/a085/index.m3u8
-#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E.." tvg-logo="https://cdn.mitvstatic.com/channels/co_a-e-mundo-hd_m.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", A&E..
-http://45.228.234.167:8000/play/a02u/index.m3u8
 
 
 
@@ -205,6 +195,19 @@ http://45.228.234.167:8000/play/a01a/index.m3u8
 http://45.228.234.167:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="PARAMOUNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106214_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", PARAMOUNT..
 http://45.228.234.167:8000/play/a05m/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032017/untitled-2_15.png?itok=Ps6ewae2" group-title="todos" tvg-shift="-7", audio-track="esp,spa", AXN.
+http://190.60.38.114:1010/play/a02e/index.m3u8
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032017/untitled-2_15.png?itok=Ps6ewae2" group-title="todos" tvg-shift="-7", audio-track="esp,spa", AXN..
+http://177.93.46.163:8000/play/a022
+
+
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E." tvg-logo="https://cdn.mitvstatic.com/channels/co_a-e-mundo-hd_m.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", A&E.
+http://190.60.38.114:1010/play/a085/index.m3u8
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E.." tvg-logo="https://cdn.mitvstatic.com/channels/co_a-e-mundo-hd_m.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", A&E..
+http://45.228.234.167:8000/play/a02u/index.m3u8
 
 
 
