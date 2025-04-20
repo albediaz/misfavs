@@ -298,15 +298,14 @@ http://181.188.234.21:8000/play/a03c/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Clover HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXHWhljNSS32rolwDdiINS3leQTSwALGt8dQr4P=s900-c-k-c0x00ffffff-no-rj" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Clover.
 http://160.20.165.246:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CLOVER" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXHWhljNSS32rolwDdiINS3leQTSwALGt8dQr4P=s900-c-k-c0x00ffffff-no-rj" group-title="todos" tvg-shift="-7", audio-track="esp,spa", CLOVER..
-http://190.109.176.90:8000/play/a099/index.m3u8
+
 
 
 
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="Space HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Space.
-http://181.78.27.128:8000/play/a034/index.m3u8
+http://177.93.46.163:8000/play/a023
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Space..
-https://daleplay.club:443/live/wilsonc322/PwDCNYZ8ardP/c705ff14-c764-4e22-b5c8-8ad4e1d70bc4.m3u
+http://45.228.234.167:8000/play/a04g/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SyFy.mx" tvg-name="SyFy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56727_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", USA
@@ -350,7 +349,7 @@ http://espatv.xyz:8080/334852/N7pSnv/67577
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery Home & Health.
 http://star-flix.net:8080/GustavoA/GBjdZx5h8f/81713
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery Home & Health..
-http://158.69.52.98:25461/BETO2/BETOMTL2/139
+http://190.60.38.114:1010/play/a06q/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery Home & Health...
 http://star-flix.net:8080/GustavoA/GBjdZx5h8f/19397
 
