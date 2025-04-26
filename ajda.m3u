@@ -24,11 +24,11 @@ http://espatv.xyz:8080/334852/N7pSnv/408965
 #EXTINF:-1 tvg-id="HBO2(Spanish).mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO 2....
 http://star-flix.net:8080/GustavoA/GBjdZx5h8f/1595689
 #EXTINF:-1 tvg-id="HBO2(Spanish).mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO 2.....
-http://star-flix.net:8080/GustavoA/GBjdZx5h8f/19392
+http://clubtv.link/abr22/phpcode/lista0.php?c=23&token=Tecnoplus11&f=.m3u8
 
 
 #EXTINF:-1 tvg-id="HBOFamily(Spanish).mx" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Family.
-http://star-flix.net:8080/GustavoA/GBjdZx5h8f/19374
+http://clubtv.link/abr22/phpcode/lista0.php?c=22&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 tvg-id="HBOFamily(Spanish).mx" tvg-name="HBO Family HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Family..
 http://star-flix.net:8080/GustavoA/GBjdZx5h8f/1310604
 
