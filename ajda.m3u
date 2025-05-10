@@ -24,11 +24,11 @@ https://nxt.plus:8443/sofiargg/231015/7090
 #EXTINF:-1 tvg-id="HBO2(Spanish).mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO 2....
 http://ch3.tdpsr.fyi:8080/sofiargg/231015/7090?token=QhBQV0pRFg1HUg0AUgYNBVFXUQIBVA0HAl4NVQwCCwIBUF1VD10ABwdAGRZEQEpQVQ5vWQYQAlQHXwhIG0dLVUttUVIbAxYGVFYCBhUYGkFdDlUSWAMPVwFSClAACgEcG0JRUhsDFgVRWgYMDgUaGRYGSEQHQFYCWzlcAU9bW1UbCFZDVVUYFQoMalBSWVlbUEEKElIQFEFeFUhGAxB1Ag0FGHNMS1tHAEJmZnsWFBdWCkRCA0ZdQQ1EC1wLBRocG1FXQ1dNRk5HWBdmeBYUF1EbRFUMQVEMWUQCRk1BGhwbW0tpS1xHQxcHVFlSRhoPFlMSHEBfWRtoBVcKV1dbRFBdVkUbAxYER04XWVhaUUFbEW9AC1YaWRVTClINCwwSRA==
 #EXTINF:-1 tvg-id="HBO2(Spanish).mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO 2.....
-http://clubtv.link/may0105/phpcode/lista0.php?c=23&token=Tecnoplus11&f=.m3u8
+http://clubtv.link/1005my/phpcode/lista0.php?c=23&token=Tecnoplus11&f=.m3u8
 
 
 #EXTINF:-1 tvg-id="HBOFamily(Spanish).mx" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Family.
-http://clubtv.link/may0105/phpcode/lista0.php?c=22&token=Tecnoplus11&f=.m3u8
+http://clubtv.link/1005my/phpcode/lista0.php?c=22&token=Tecnoplus11&f=.m3u8
 
 
 #EXTINF:-1 tvg-id="HBOFamily(Spanish).mx" tvg-name="HBO Family HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Family..
@@ -36,7 +36,7 @@ https://nxt.plus:8443/sofiargg/231015/3273
 
 
 #EXTINF:-1 tvg-id="HBOXtreme(Spanish).mx" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO XTREME.
-http://clubtv.link/may0105/phpcode/lista0.php?c=16&token=Tecnoplus11&f=.m3u8
+http://clubtv.link/1005my/phpcode/lista0.php?c=16&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme(Spanish).mx" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO XTREME..
 https://nxt.plus:8443/sofiargg/231015/59123
 #EXTINF:-1 tvg-id="HBOXtreme(Spanish).mx" tvg-name="HBO Xtreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Xtreme...
@@ -62,12 +62,12 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1077
 http://home-playtv.com:8080/AngieMiranda/5wrxryJaxS/19547
 
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa",  audio-track="esp,spa", HBO Signature.
-http://clubtv.link/may0105/phpcode/lista0.php?c=20&token=Tecnoplus11&f=.m3u8
+http://clubtv.link/1005my/phpcode/lista0.php?c=20&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa",  audio-track="esp,spa", HBO Signature..
 https://nxt.plus:8443/sofiargg/231015/13894
 
 #EXTINF:-1 tvg-id="AMC(Spanish).mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", AMC.
-http://clubtv.link/may0105/phpcode/lista0.php?c=57&token=Tecnoplus11&f=.m3u8
+http://clubtv.link/1005my/phpcode/lista0.php?c=57&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 tvg-id="AMC(Spanish).mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", AMC..
 https://nxt.plus:8443/sofiargg/231015/24818
 #EXTINF:-1 tvg-id="AMC(Spanish).mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", AMC...
@@ -153,7 +153,7 @@ http://200.115.120.1:8000/play/ca037/index.m3u8
 http://my-flashtv.com:8080/Vecinodemirella2020/9eieutaGVy/81866
 
 #EXTINF:-1 tvg-id="GoldenPremier(Spanish).mx" tvg-name="Golden Premier" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Golden Premier.
-http://clubtv.link/may0105/phpcode/lista0.php?c=25&token=Tecnoplus11&f=.m3u8
+http://clubtv.link/1005my/phpcode/lista0.php?c=25&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 tvg-id="goldenpremier(Spanish).mx" tvg-name="GOLDEN PREMIER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", GOLDEN PREMIER..
 http://my-flashtv.com:8080/Vecinodemirella2020/9eieutaGVy/1364626
 
@@ -343,7 +343,7 @@ http://181.188.234.21:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic..
 http://177.93.46.163:8000/play/a005
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic...
-http://clubtv.link/may0105/phpcode/lista0.php?c=15&token=Tecnoplus11&f=.m3u8
+http://clubtv.link/1005my/phpcode/lista0.php?c=15&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic....
 http://my-flashtv.com:8080/Vecinodemirella2020/9eieutaGVy/1114624
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic.....
