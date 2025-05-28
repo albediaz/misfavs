@@ -6,11 +6,11 @@ url-tvg="https://raw.githubusercontent.com/Mcarv00/IKS66EPG/master/Merezco.xml"
 
 
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa",  audio-track="esp,spa", HBO.
-https://nxt.plus:8443/sofiargg/231015/16897
+https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20HBO%20HD?token=liSta_3
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO..
 http://181.188.234.21:8000/play/a04e/index.m3u8
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO...
-http://vipgerretger.top:8080/VIP01380172651224498/5ed2a05da42b/4774
+https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20HBO%20FHD?token=liSta_3
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO....
 http://181.188.234.21:8000/play/a04e/index.m3u8
 
@@ -24,19 +24,17 @@ https://nxt.plus:8443/sofiargg/231015/7090
 #EXTINF:-1 tvg-id="HBO2(Spanish).mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO 2....
 http://vipgerretger.top:8080/VIP01380172651224498/5ed2a05da42b/4775
 #EXTINF:-1 tvg-id="HBO2(Spanish).mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO 2.....
-http://clubtv.link/1005my/phpcode/lista0.php?c=23&token=Tecnoplus11&f=.m3u8
+https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20HBO%202%20FHD?token=liSta_3
 
 
 #EXTINF:-1 tvg-id="HBOFamily(Spanish).mx" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Family.
-http://clubtv.link/1005my/phpcode/lista0.php?c=22&token=Tecnoplus11&f=.m3u8
-
-
+https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20HBO%20Family%20FHD?token=liSta_3
 #EXTINF:-1 tvg-id="HBOFamily(Spanish).mx" tvg-name="HBO Family HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Family..
 https://nxt.plus:8443/sofiargg/231015/3273
 
 
 #EXTINF:-1 tvg-id="HBOXtreme(Spanish).mx" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO XTREME.
-http://clubtv.link/1005my/phpcode/lista0.php?c=16&token=Tecnoplus11&f=.m3u8
+https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20HBO%20Xtreme%20HD?token=liSta_3
 #EXTINF:-1 tvg-id="HBOXtreme(Spanish).mx" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO XTREME..
 https://nxt.plus:8443/sofiargg/231015/59123
 #EXTINF:-1 tvg-id="HBOXtreme(Spanish).mx" tvg-name="HBO Xtreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Xtreme...
@@ -46,7 +44,7 @@ https://nxt.plus:8443/sofiargg/231015/169451
 #EXTINF:-1 tvg-id="HBOPlus(Spanish).mx" tvg-name="HBO Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Plus.
 https://nxt.plus:8443/sofiargg/231015/43538
 #EXTINF:-1 tvg-id="HBOPlus(Spanish).mx" tvg-name="HBO PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO PLUS..
-http://ch2.tdpsr.fyi:8080/sofiargg/231015/43538?token=QhBQV0pRFg1HUAwAAAdbBwJTBlEAVgtSAAJdVQ0GClQNAF4ACgEABVZAGRZEQEpQVQ5vWQYQAlcEUwtcFRBNQ1xAZ19dGw4VVFMBAwUWFBdACl1VQAgJVANQDFYMAAgHFRBIX10bDhVXUwMCABYUF1EbRFUQXFkPaAJdElBRXRIDXE1aVRUWWAs9UVFaVVZRFlkSAEAeGgpEFhpeG1sLdBdcXUIZexphR04XVl5ASlRABhIKQAMAVANEFEZaXU1eTUBBFAMbentHThdRT0BdW0cKX15ACBoXREQURlBBZ0JcQUxEXFhZUhdADxYHFhQXWQJIbwFdVg1SBUwNVlxLEgMQCxQVG1lYCwtBW0VrSFxQQQoSUAoAUQNERQ==
+https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20HBO%20Plus%20FHD?token=liSta_3
 
 
 #EXTINF:-1 tvg-id="HBOPOP(Spanish).mx" tvg-name="HBO POP HD" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/03/C_457-1.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO POP.
@@ -62,12 +60,12 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1077
 http://home-playtv.com:8080/AngieMiranda/5wrxryJaxS/19547
 
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa",  audio-track="esp,spa", HBO Signature.
-http://clubtv.link/1005my/phpcode/lista0.php?c=20&token=Tecnoplus11&f=.m3u8
+https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20HBO%20Signature%20HD?token=liSta_3
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa",  audio-track="esp,spa", HBO Signature..
 https://nxt.plus:8443/sofiargg/231015/13894
 
 #EXTINF:-1 tvg-id="AMC(Spanish).mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", AMC.
-http://clubtv.link/1005my/phpcode/lista0.php?c=57&token=Tecnoplus11&f=.m3u8
+https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20AMC%20%28MX%29?token=%20listA_2
 #EXTINF:-1 tvg-id="AMC(Spanish).mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", AMC..
 https://nxt.plus:8443/sofiargg/231015/24818
 #EXTINF:-1 tvg-id="AMC(Spanish).mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", AMC...
@@ -76,8 +74,8 @@ https://nxt.plus:8443/sofiargg/231015/187845
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetaTV Movies | CL" tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", PlanetaTV Movies | CL
 https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetaTV Kids | CL" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", P Comedia
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetaTV Kids | CL" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Avengers
+https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20Avengers?token=LiStA_1
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OpinionSur Series" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", P Drama
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -101,8 +99,8 @@ http://160.20.165.246:8000/play/a01f/index.m3u8
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="chilevisualretro" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Estelar
 http://espatv.xyz:8080/334852/N7pSnv/401017
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cinerama
-http://star-flix.net:8080/GustavoA/GBjdZx5h8f/1930644
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cool
+https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20Cinema%20Marvel%20Studios?token=LiStA_1
 
 
 
@@ -126,7 +124,7 @@ http://181.188.234.21:8000/play/a022/index.m3u8
 
 
 #EXTINF:-1 tvg-id="CineLatino(Spanish).mx" tvg-name="Cine Latino" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Latino.
-http://vipgerretger.top:8080/VIP01380172651224498/5ed2a05da42b/4739
+https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20Cine%20Latino%20%28MX%29?token=LiStA_1
 #EXTINF:-1 tvg-id="CineLatino(Spanish).mx" tvg-name="CINE LATINO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", CINE LATINO..
 http://45.228.234.167:8000/play/a047/index.m3u8
 
@@ -150,12 +148,12 @@ http://vipgerretger.top:8080/VIP01380172651224498/5ed2a05da42b/5050
 http://200.115.120.1:8000/play/ca037/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLDENPLUS(Spanish).mx" tvg-name="Golden Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Golden Plus
-http://my-flashtv.com:8080/Vecinodemirella2020/9eieutaGVy/81866
+https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20Golden%20Edge%20FHD?token=liSta_3
 
 #EXTINF:-1 tvg-id="GoldenPremier(Spanish).mx" tvg-name="Golden Premier" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Golden Premier.
-http://clubtv.link/1005my/phpcode/lista0.php?c=25&token=Tecnoplus11&f=.m3u8
+https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20Golden%20Premier%20FHD?token=lIsTA_6
 #EXTINF:-1 tvg-id="goldenpremier(Spanish).mx" tvg-name="GOLDEN PREMIER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", GOLDEN PREMIER..
-http://my-flashtv.com:8080/Vecinodemirella2020/9eieutaGVy/1364626
+https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20Golden%20Premier%20HD?token=lIsTA_6
 
 
 
@@ -204,7 +202,7 @@ http://45.228.234.167:8000/play/a05m/index.m3u8
 
 
 #EXTINF:-1 tvg-id="AXN(Spanish).mx" tvg-name="AXN HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032017/untitled-2_15.png?itok=Ps6ewae2" group-title="todos" tvg-shift="-7", audio-track="esp,spa", AXN.
-http://190.60.38.114:1010/play/a02e/index.m3u8
+https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20AXN%20%28MX%29?token=LiStA_1
 #EXTINF:-1 tvg-id="AXN(Spanish).mx" tvg-name="AXN HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032017/untitled-2_15.png?itok=Ps6ewae2" group-title="todos" tvg-shift="-7", audio-track="esp,spa", AXN..
 http://177.93.46.163:8000/play/a022
 
@@ -283,9 +281,9 @@ http://200.59.188.3:8000/play/a03s
 
 
 #EXTINF:-1 tvg-id="Antena3Internacional.do" tvg-name="A3 SERIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16800_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", A3 SERIES
-http://ultrapremium.cloud:8080/56927160/08092023g/146
+https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20Atreseries%20%28MX%29?token=%20listA_2
 #EXTINF:-1 tvg-id="Atrescine.mx" tvg-name="A3Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82808_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", A3Cine
-http://my-flashtv.com:8080/Vecinodemirella2020/9eieutaGVy/1595948
+https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20A3cine%20%28MX%29?token=%20listA_2
 
 #EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Universal Comedy.
 http://45.228.234.167:8000/play/a03l/index.m3u8
@@ -334,14 +332,14 @@ http://vipgerretger.top:8080/VIP01380172651224498/5ed2a05da42b/4778
 
 
 #EXTINF:-1 tvg-id="History2.mx" tvg-name="History 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", History 2.
-http://my-flashtv.com:8080/Vecinodemirella2020/9eieutaGVy/1165118
+https://tatiana2006.pythonanywhere.com/stream/CL%20%7C%20H2%20FHD?token=liSta_3
 #EXTINF:-1 tvg-id="History2.mx" tvg-name="History 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", History 2..
-http://190.60.38.114:1010/play/a04j/index.m3u8
+https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20History%202%20FHD?token=liSta_3
 
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic.
 http://181.188.234.21:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic..
-http://177.93.46.163:8000/play/a005
+https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20National%20Geographic%20HD?token=liSta_3
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic...
 http://vipgerretger.top:8080/VIP01380172651224498/5ed2a05da42b/5189
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic....
@@ -355,7 +353,7 @@ http://espatv.xyz:8080/334852/N7pSnv/67577
 
 
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery Home & Health.
-https://nxt.plus:8443/sofiargg/231015/169438
+https://tatiana2006.pythonanywhere.com/stream/CUL%20%7C%20Discovery%20Familia?token=LiStA_1
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery Home & Health..
 http://vipgerretger.top:8080/VIP01380172651224498/5ed2a05da42b/5069
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery Home & Health...
@@ -369,7 +367,7 @@ http://177.93.46.163:8000/play/a00z
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DISCOVERY CHANNEL...
 https://nxt.plus:8443/sofiargg/231015/59087
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DISCOVERY CHANNEL....
-https://nxt.plus:8443/sofiargg/231015/2826
+https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20Discovery%20Channel%20%28MX%29?token=LiStA_1
 
 
 
@@ -410,9 +408,9 @@ http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9848
 http://espatv.xyz:8080/334852/N7pSnv/409002
 
 #EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World." tvg-logo="https://d3g9pb5nvr3u7.cloudfront.net/sites/544508a0cae62ee423f75edb/500231485/256.jpg" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery World.
-http://playtvpremium.xyz:2095/56999047297play/090424play/99929
+https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20Discovery%20World%20%28MX%29?token=LiStA_1
 #EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World.." tvg-logo="https://d3g9pb5nvr3u7.cloudfront.net/sites/544508a0cae62ee423f75edb/500231485/256.jpg" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery World..
-https://daleplay.club:443/live/wilsonc322/PwDCNYZ8ardP/41c8d5ea-135b-4940-921d-2d2f2ced49af.m3u
+https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20Discovery%20Theather%20%28MX%29?token=LiStA_1
 
 
 #EXTINF:-1 tvg-id="LoveNature(English).co" tvg-name="Love Nature" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/06/Love-Nature-1.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Love Nature
@@ -475,19 +473,19 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1055
 http://my-flashtv.com:8080/Vecinodemirella2020/9eieutaGVy/1165017
 
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico)(Spanish).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Fox Sports 1.
-http://my-flashtv.com:8080/Vecinodemirella2020/9eieutaGVy/1165109
+https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20Fox%20Sports%20HD?token=liSta_3
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico)(Spanish).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Fox Sports 1..
 http://680803391295912479.ofxn1112.xyz:80/live/Rufino1234/Muley9876/912479.ts
 
 #EXTINF:-1 tvg-id="FOXSports2(ConoNorte)(Spanish).mx" tvg-name="FOX SPORTS 2." tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", FOX SPORTS 2.
-http://my-flashtv.com:8080/Vecinodemirella2020/9eieutaGVy/1165110
+https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20Fox%20Sports%202%20HD?token=liSta_3
 #EXTINF:-1 tvg-id="FOXSports2(ConoNorte)(Spanish).mx" tvg-name="Fox Sports 2.." tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Fox Sports 2..
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1065
 
 #EXTINF:-1 tvg-id="FOXSports3(Spanish).mx" tvg-name="Fox Sports 3." tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Fox Sports 3.
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1066
 #EXTINF:-1 tvg-id="FOXSports3(Spanish).mx" tvg-name="FOX SPORTS 3.." tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", FOX SPORTS 3..
-http://my-flashtv.com:8080/Vecinodemirella2020/9eieutaGVy/1165111
+https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20Fox%20Sports%203%20HD%20%28%E1%B4%8Dx%29?token=liSta_3
 
 
 
@@ -502,7 +500,7 @@ http://my-flashtv.com:8080/Vecinodemirella2020/9eieutaGVy/1165121
 #EXTINF:-1 tvg-id="ESPN2(Spanish).mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN 2.
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1050
 #EXTINF:-1 tvg-id="ESPN2(Spanish).mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN 2..
-http://my-flashtv.com:8080/Vecinodemirella2020/9eieutaGVy/1165097
+https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20ESPN%202%20HD?token=liSta_3
 
 #EXTINF:-1 tvg-id="ESPN3(Spanish).mx" tvg-name="ESPN 3." tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN 3.
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1161
@@ -514,15 +512,15 @@ http://my-flashtv.com:8080/Vecinodemirella2020/9eieutaGVy/1492439
 http://my-flashtv.com:8080/Vecinodemirella2020/9eieutaGVy/81931
 
 #EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUDN.
-http://my-flashtv.com:8080/Vecinodemirella2020/9eieutaGVy/1310580
+https://tatiana2006.pythonanywhere.com/stream/US%20%7C%20TUDN?token=LiStA_5
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUDN..
 http://200.115.120.1:8000/play/ca039/index.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUDN...
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1113
 #EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUDN....
-http://tvbross.com:8880/Pilar123/123Pilar/39463
+https://tatiana2006.pythonanywhere.com/stream/US%20%7C%20TUDN%20FHD?token=LiStA_5
 #EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUDN.....
-http://my-flashtv.com:8080/Vecinodemirella2020/9eieutaGVy/1310664
+https://tatiana2006.pythonanywhere.com/stream/US%20%7C%20TUDN%20HD?token=LiStA_5
 
 
 #EXTINF:-1 tvg-id="ClaroSports(Spanish).mx" tvg-name="Claro Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Claro Sports
@@ -573,8 +571,10 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744942890
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744943039
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpson...." tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Los Simpson....
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744943041
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="X Men" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", X Men
-http://my-flashtv.com:8080/Vecinodemirella2020/9eieutaGVy/1723826
+http://starfamily.vip:80/Luismacias7./gVVjBEXuWDtD/1974024.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pinky y Cerebro" tvg-logo="https://blogbibliotecacid.files.wordpress.com/2017/12/pinkyandthebrain.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Pinky y Cerebro
 https://nxt.plus:8443/sofiargg/231015/140885
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gallo Claudio" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Gallo Claudio
@@ -583,7 +583,7 @@ http://my-flashtv.com:8080/Vecinodemirella2020/9eieutaGVy/1386343
 #EXTINF:-1 tvg-id="(lista16)" tvg-name="Miraculous" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Miraculous
 http://espatv.xyz:8080/334852/N7pSnv/160679
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Familia Peluche" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Familia Peluche
-https://nxt.plus:8443/sofiargg/231015/177640
+https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20La%20Familia%20Peluche?token=LiStA_5
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL ENCANTADOR DE PERROS" tvg-logo="https://www.formulatv.com/images/programas/posters/300/322/dest_3.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", EL ENCANTADOR DE PERROS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="(17)" tvg-name="Alf" tvg-logo="https://es.digitaltrends.com/wp-content/uploads/2022/02/180-alf.jpg?p=1" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Alf
@@ -591,7 +591,7 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744941525
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Los cuentos de Sammy
 http://my-flashtv.com:8080/Vecinodemirella2020/9eieutaGVy/1440075
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El chavo del 8" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", El chavo del 8
-http://my-flashtv.com:8080/Vecinodemirella2020/9eieutaGVy/1921340
+https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20El%20Chavo%20del%208?token=LiStA_5
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="timonypumba" tvg-logo="https://storage.googleapis.com/sticker-prod/PmGrS8ifHxuylCD3AzVt/cover.thumb256.png" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Timon y Pumba
 https://sdmx.vip:443/play/_bnn3jQhu-yVGbXsZ6T6dFroAMphRvqO1WY-B-RsCA2j7yU9OlL3j6aTbhbbLBrt
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Just for Laughs" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Just for Laughs
@@ -658,11 +658,11 @@ http://tvbross.com:8880/Pilar123/123Pilar/2372
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="Friends" tvg-logo="https://p7.hiclipart.com/preview/840/692/965/5bbc448fd13e2.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Friends.
 http://espatv.xyz:8080/334852/N7pSnv/160755
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Friends" tvg-logo="https://p7.hiclipart.com/preview/840/692/965/5bbc448fd13e2.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Friends..
-http://my-flashtv.com:8080/Vecinodemirella2020/9eieutaGVy/1440074
+http://starfamily.vip:80/Luismacias7./gVVjBEXuWDtD/1240567.ts
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pantera Rosa 80s" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Star Wars
-http://tv.proyectox.vip:8080/live/MANUELTV23/The6vcHE5U/94948.m3u8
+https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20Star%20Wars?token=LiStA_5
 
 
 
@@ -687,7 +687,7 @@ http://billigaskall.ga:8080/FidelGLZ/u6bWjRtWfK/1395050
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="vecinos" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Vecinos.
-https://nxt.plus:8443/sofiargg/231015/245562
+https://tatiana2006.pythonanywhere.com/stream/Vecinos?token=%20listA_2
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="vecinos" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Vecinos..
 http://my-flashtv.com:8080/Vecinodemirella2020/9eieutaGVy/1203606
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="vecinos" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Vecinos...
