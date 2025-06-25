@@ -6,11 +6,11 @@ url-tvg="https://raw.githubusercontent.com/Mcarv00/IKS66EPG/master/Merezco.xml"
 
 
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa",  audio-track="esp,spa", HBO.
-https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20HBO%20HD?token=liSta_3
+http://tv.nousiptv.com:8080/rafaelpagano/RP1217448RP/1155792
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO..
 http://181.188.234.21:8000/play/a04e/index.m3u8
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO...
-https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20HBO%20FHD?token=liSta_3
+http://tv.nousiptv.com:8080/rafaelpagano/RP1217448RP/4112
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO....
 http://181.188.234.21:8000/play/a04e/index.m3u8
 
@@ -24,19 +24,19 @@ https://nxt.plus:8443/sofiargg/231015/7090
 #EXTINF:-1 tvg-id="HBO2(Spanish).mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO 2....
 http://vipgerretger.top:8080/VIP01380172651224498/5ed2a05da42b/4775
 #EXTINF:-1 tvg-id="HBO2(Spanish).mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO 2.....
-https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20HBO%202%20FHD?token=liSta_3
+http://tv.nousiptv.com:8080/rafaelpagano/RP1217448RP/1155794
 
 
 #EXTINF:-1 tvg-id="HBOFamily(Spanish).mx" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Family.
-https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20HBO%20Family%20FHD?token=liSta_3
+http://tv.nousiptv.com:8080/rafaelpagano/RP1217448RP/4017
 #EXTINF:-1 tvg-id="HBOFamily(Spanish).mx" tvg-name="HBO Family HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Family..
 https://nxt.plus:8443/sofiargg/231015/3273
 
 
 #EXTINF:-1 tvg-id="HBOXtreme(Spanish).mx" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO XTREME.
-https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20HBO%20Xtreme%20HD?token=liSta_3
+http://tv.nousiptv.com:8080/rafaelpagano/RP1217448RP/8226
 #EXTINF:-1 tvg-id="HBOXtreme(Spanish).mx" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO XTREME..
-https://nxt.plus:8443/sofiargg/231015/59123
+http://tv.nousiptv.com:8080/rafaelpagano/RP1217448RP/44341
 #EXTINF:-1 tvg-id="HBOXtreme(Spanish).mx" tvg-name="HBO Xtreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Xtreme...
 https://nxt.plus:8443/sofiargg/231015/169451
 
@@ -44,11 +44,10 @@ https://nxt.plus:8443/sofiargg/231015/169451
 #EXTINF:-1 tvg-id="HBOPlus(Spanish).mx" tvg-name="HBO Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Plus.
 https://nxt.plus:8443/sofiargg/231015/43538
 #EXTINF:-1 tvg-id="HBOPlus(Spanish).mx" tvg-name="HBO PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO PLUS..
-https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20HBO%20Plus%20FHD?token=liSta_3
-
+http://tv.nousiptv.com:8080/rafaelpagano/RP1217448RP/44341
 
 #EXTINF:-1 tvg-id="HBOPOP(Spanish).mx" tvg-name="HBO POP HD" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/03/C_457-1.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO POP.
-https://nxt.plus:8443/sofiargg/231015/183273
+http://tv.nousiptv.com:8080/rafaelpagano/RP1217448RP/47445
 #EXTINF:-1 tvg-id="HBOPOP(Spanish).mx" tvg-name="HBO POP HD" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/03/C_457-1.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO POP..
 https://nxt.plus:8443/sofiargg/231015/16902
 
@@ -57,10 +56,10 @@ https://nxt.plus:8443/sofiargg/231015/16902
 #EXTINF:-1 tvg-id="HBOMundi(Spanish).mx" tvg-name="HBO Mundi" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Mundi.
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1077
 #EXTINF:-1 tvg-id="HBOMundi(Spanish).mx" tvg-name="HBO Mundi" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Mundi..
-http://home-playtv.com:8080/AngieMiranda/5wrxryJaxS/19547
+https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20HBO%20Mundi%20HD?token=iPTV_6
 
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa",  audio-track="esp,spa", HBO Signature.
-https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20HBO%20Signature%20HD?token=liSta_3
+https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20HBO%20Signature?token=iPTV_6
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa",  audio-track="esp,spa", HBO Signature..
 https://nxt.plus:8443/sofiargg/231015/13894
 
@@ -127,22 +126,22 @@ http://181.188.234.21:8000/play/a022/index.m3u8
 
 
 #EXTINF:-1 tvg-id="CineLatino(Spanish).mx" tvg-name="Cine Latino" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Latino.
-https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20Cine%20Latino%20%28MX%29?token=LiStA_1
+http://tv.nousiptv.com:8080/rafaelpagano/RP1217448RP/4136
 #EXTINF:-1 tvg-id="CineLatino(Spanish).mx" tvg-name="CINE LATINO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", CINE LATINO..
-http://45.228.234.167:8000/play/a047/index.m3u8
+https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20Cine%20Latino%20%28MX%29?token=IPTV1
 
 
 #EXTINF:-1 tvg-id="CanalDHE.mx" tvg-name="DHE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s81622_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DHE.
 https://nxt.plus:8443/sofiargg/231015/16929
 #EXTINF:-1 tvg-id="CanalDHE.mx" tvg-name="DHE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s81622_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DHE..
-http://45.228.234.167:8000/play/a01d/index.m3u8
+https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20DHE%20HD?token=IPTV1
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV TCS+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TCS_35_2017.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", VTV TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
 
 
 
 #EXTINF:-1 tvg-id="Golden(Spanish).mx" tvg-name="Golden" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Golden.
-http://45.228.234.167:8000/play/a029/index.m3u8
+https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20Golden%20HD?token=iPTV_6
 #EXTINF:-1 tvg-id="Golden(Spanish).mx" tvg-name="Golden" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Golden..
 http://vipgerretger.top:8080/VIP01380172651224498/5ed2a05da42b/5050
 
@@ -151,12 +150,12 @@ http://vipgerretger.top:8080/VIP01380172651224498/5ed2a05da42b/5050
 http://200.115.120.1:8000/play/ca037/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLDENPLUS(Spanish).mx" tvg-name="Golden Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Golden Plus
-https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20Golden%20Edge%20FHD?token=liSta_3
+https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20Golden%20Plus%20HD?token=iPTV_6
 
 #EXTINF:-1 tvg-id="GoldenPremier(Spanish).mx" tvg-name="Golden Premier" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Golden Premier.
-https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20Golden%20Premier%20FHD?token=lIsTA_6
+https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20Golden%20Premier?token=iPTV_6
 #EXTINF:-1 tvg-id="goldenpremier(Spanish).mx" tvg-name="GOLDEN PREMIER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", GOLDEN PREMIER..
-https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20Golden%20Premier%20HD?token=lIsTA_6
+https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20Golden%20Premier%20HD?token=iPTV_6
 
 
 
@@ -356,9 +355,9 @@ http://espatv.xyz:8080/334852/N7pSnv/67577
 
 
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery Home & Health.
-https://tatiana2006.pythonanywhere.com/stream/CUL%20%7C%20Discovery%20Familia?token=LiStA_1
+https://tatiana2006.pythonanywhere.com/stream/CUL%20%7C%20Discovery%20Familia?token=IPTV1
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery Home & Health..
-http://vipgerretger.top:8080/VIP01380172651224498/5ed2a05da42b/5069
+https://tatiana2006.pythonanywhere.com/stream/CUL%20%7C%20Discovery%20Familia%20HD?token=IPTV1
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery Home & Health...
 http://vipgerretger.top:8080/VIP01380172651224498/5ed2a05da42b/5141
 
@@ -370,7 +369,7 @@ http://177.93.46.163:8000/play/a00z
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DISCOVERY CHANNEL...
 https://nxt.plus:8443/sofiargg/231015/59087
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DISCOVERY CHANNEL....
-https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20Discovery%20Channel%20%28MX%29?token=LiStA_1
+https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20Discovery%20Channel%20%28MX%29?token=IPTV1
 
 
 
