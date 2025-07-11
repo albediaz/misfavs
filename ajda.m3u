@@ -74,7 +74,7 @@ https://nxt.plus:8443/sofiargg/231015/187845
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetaTV Movies | CL" tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", PlanetaTV Movies | CL
 https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetaTV Kids | CL" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Avengers
-https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20Avengers?token=LiStA_1
+https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20Avengers?token=IPTV1
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OpinionSur Series" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", P Drama
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -645,7 +645,7 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744940481
 
 
 #EXTINF:-1 tvg-id="(35)" tvg-name="Dos Hombres y Medio" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Dos Hombres y Medio
-http://tvbross.com:8880/Pilar123/123Pilar/2372
+https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20Two%20and%20Half%20Men?token=IPTV_5
 
 
 
@@ -666,7 +666,7 @@ http://billigaskall.ga:8080/FidelGLZ/u6bWjRtWfK/1725230
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="picapiedras" tvg-logo="https://images.justwatch.com/poster/76219363/s718/los-picapiedra.%7Bformat%7D" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Picapiedras.
-http://tvbross.com:8880/Pilar123/123Pilar/2376
+https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20Los%20Picapiedras?token=IPTV_5
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="picapiedras" tvg-logo="https://images.justwatch.com/poster/76219363/s718/los-picapiedra.%7Bformat%7D" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Picapiedras..
 http://tvbross.com:8880/Pilar123/123Pilar/2376
 
