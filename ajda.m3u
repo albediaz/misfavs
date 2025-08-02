@@ -30,7 +30,7 @@ http://tv.nousiptv.com:8080/rafaelpagano/RP1217448RP/1155794
 #EXTINF:-1 tvg-id="HBOFamily(Spanish).mx" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Family.
 http://tv.nousiptv.com:8080/rafaelpagano/RP1217448RP/4017
 #EXTINF:-1 tvg-id="HBOFamily(Spanish).mx" tvg-name="HBO Family HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Family..
-http://norxoaf.top:8080/321693985676103/2021693985676234/18421
+https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20HBO%20Family%20FHD?token=iPTv_6
 
 
 #EXTINF:-1 tvg-id="HBOXtreme(Spanish).mx" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO XTREME.
@@ -56,15 +56,15 @@ https://nxt.plus:8443/sofiargg/231015/16902
 #EXTINF:-1 tvg-id="HBOMundi(Spanish).mx" tvg-name="HBO Mundi" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Mundi.
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1077
 #EXTINF:-1 tvg-id="HBOMundi(Spanish).mx" tvg-name="HBO Mundi" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Mundi..
-https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20HBO%20Mundi%20HD?token=iPTV_6
+https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20HBO%20Mundi?token=ipTV3
 
-#EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa",  audio-track="esp,spa", HBO Signature.
-https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20HBO%20Signature?token=iPTV_6
-#EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa",  audio-track="esp,spa", HBO Signature..
+#EXTINF:-1 tvg-id="HBOSignature(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa",  audio-track="esp,spa", HBO Signature.
+https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20HBO%20Signature%20HD?token=iPTv_6
+#EXTINF:-1 tvg-id="HBOSignature(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa",  audio-track="esp,spa", HBO Signature..
 https://nxt.plus:8443/sofiargg/231015/13894
 
 #EXTINF:-1 tvg-id="AMC(Spanish).mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", AMC.
-https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20AMC%20%28MX%29?token=Iptv2
+https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20AMC%20Networks%20FHD?token=iPTv_6
 #EXTINF:-1 tvg-id="AMC(Spanish).mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", AMC..
 https://nxt.plus:8443/sofiargg/231015/24818
 #EXTINF:-1 tvg-id="AMC(Spanish).mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", AMC...
@@ -74,7 +74,7 @@ https://nxt.plus:8443/sofiargg/231015/187845
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetaTV Movies | CL" tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", PlanetaTV Movies | CL
 https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetaTV Kids | CL" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Avengers
-https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20Avengers?token=IPTV1
+https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20Avengers?token=IPTv1
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OpinionSur Series" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", P Drama
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -102,7 +102,7 @@ https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="chilevisualretro" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Estelar
 http://espatv.xyz:8080/334852/N7pSnv/401017
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cool .Cinema marvel studio
-https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20Cinema%20Marvel%20Studios?token=IPTV1
+https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20Cinema%20Marvel%20Studios?token=IPTv1
 
 
 
@@ -128,7 +128,7 @@ http://181.188.234.21:8000/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="CineLatino(Spanish).mx" tvg-name="Cine Latino" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Latino.
 http://tv.nousiptv.com:8080/rafaelpagano/RP1217448RP/4136
 #EXTINF:-1 tvg-id="CineLatino(Spanish).mx" tvg-name="CINE LATINO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", CINE LATINO..
-https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20Cine%20Latino%20%28MX%29?token=IPTV1
+https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20DHE%20%28MX%29?token=IPTv1
 
 
 #EXTINF:-1 tvg-id="CanalDHE.mx" tvg-name="DHE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s81622_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DHE.
@@ -141,7 +141,7 @@ https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c
 
 
 #EXTINF:-1 tvg-id="Golden(Spanish).mx" tvg-name="Golden" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Golden.
-https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20Golden%20HD?token=iPTV_6
+https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20Golden%20HD?token=iPTv_6
 #EXTINF:-1 tvg-id="Golden(Spanish).mx" tvg-name="Golden" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Golden..
 http://vipgerretger.top:8080/VIP01380172651224498/5ed2a05da42b/5050
 
@@ -150,12 +150,12 @@ http://vipgerretger.top:8080/VIP01380172651224498/5ed2a05da42b/5050
 http://200.115.120.1:8000/play/ca037/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLDENPLUS(Spanish).mx" tvg-name="Golden Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Golden Plus
-https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20Golden%20Plus%20HD?token=iPTV_6
+https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20Golden%20Plus%20FHD?token=IPtV_5
 
 #EXTINF:-1 tvg-id="GoldenPremier(Spanish).mx" tvg-name="Golden Premier" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Golden Premier.
-https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20Golden%20Premier?token=iPTV_6
+https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20Golden%20Premier?token=iPTv_6
 #EXTINF:-1 tvg-id="goldenpremier(Spanish).mx" tvg-name="GOLDEN PREMIER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", GOLDEN PREMIER..
-https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20Golden%20Premier%20HD?token=iPTV_6
+https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20Golden%20Premier%20HD?token=iPTv_6
 
 
 
@@ -173,127 +173,126 @@ http://tv.nousiptv.com:8080/rafaelpagano/RP1217448RP/1148845
 
 
 #EXTINF:-1 tvg-id="CanalSony(Spanish).mx" tvg-name="Sony" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Sony.
-https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20Sony%20Channel%20FHD?token=iPTV3
+https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20Sony%20Channel%20FHD?token=ipTV3
 #EXTINF:-1 tvg-id="CanalSony(Spanish).ar" tvg-name="SONY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", SONY..
-http://177.93.46.163:8000/play/a021
+https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20Sony%20Channel%20%28MX%29?token=IPtV_5
 
 
 #EXTINF:-1 tvg-id="SonyMovieChannel(Spanish).us" tvg-name="Sony Movies" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Sony Movies.
 http://tv.nousiptv.com:8080/mariasuazo/123456/1143816
 #EXTINF:-1 tvg-id="SonyMovieChannel(Spanish).us" tvg-name="Sony Movies" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Sony Movies..
-http://181.78.27.128:8000/play/a03i/index.m3u8
+https://tatiana2006.pythonanywhere.com/stream/SERIE%20%7C%20Sony%20Channel%20HD?token=IPtV_5
 
 
 
 #EXTINF:-1 tvg-id="FX(Spanish).mx" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105689_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", FX.
-http://177.93.46.163:8000/play/a024
+https://tatiana2006.pythonanywhere.com/stream/SERIE%20%7C%20FX%20HD?token=IPtV_5
 #EXTINF:-1 tvg-id="FX(Spanish).mx" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105689_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", FX..
-http://45.228.234.167:8000/play/a01x/index.m3u8
-
+https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20FX%20%28MX%29?token=IPtV_5
 
 
 
 #EXTINF:-1 tvg-id="ParamountNetwork(Spanish).mx" tvg-name="Paramount" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106214_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Paramount.
-https://tatiana2006.pythonanywhere.com/stream/CL%20%7C%20Paramount%20FHD?token=iPTV3
+https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20Paramount%20HD?token=ipTV3
 #EXTINF:-1 tvg-id="ParamountNetwork(Spanish).mx" tvg-name="PARAMOUNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106214_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", PARAMOUNT..
-https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20Paramount%20HD?token=iPTV3
+https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20Paramount%20%28MX%29?token=IPtV_5
 
 
 
 #EXTINF:-1 tvg-id="AXN(Spanish).mx" tvg-name="AXN HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032017/untitled-2_15.png?itok=Ps6ewae2" group-title="todos" tvg-shift="-7", audio-track="esp,spa", AXN.
-http://norxoaf.top:8080/321693985676103/2021693985676234/52479
+https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20AXN%20%28MX%29?token=IPTv1
 #EXTINF:-1 tvg-id="AXN(Spanish).mx" tvg-name="AXN HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032017/untitled-2_15.png?itok=Ps6ewae2" group-title="todos" tvg-shift="-7", audio-track="esp,spa", AXN..
-http://177.93.46.163:8000/play/a022
+https://tatiana2006.pythonanywhere.com/stream/SERIE%20%7C%20AXN%20HD?token=IPTv1
 
 
 #EXTINF:-1 tvg-id="AandE(Spanish).mx" tvg-name="A&E." tvg-logo="https://cdn.mitvstatic.com/channels/co_a-e-mundo-hd_m.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", A&E.
-https://tatiana2006.pythonanywhere.com/stream/SERIE%20%7C%20A%26E%20FHD?token=Iptv2
+https://tatiana2006.pythonanywhere.com/stream/SERIE%20%7C%20A%26E?token=iPTv_6
 #EXTINF:-1 tvg-id="AandE(Spanish).mx" tvg-name="A&E.." tvg-logo="https://cdn.mitvstatic.com/channels/co_a-e-mundo-hd_m.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", A&E..
-https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20A%26E%20HD?token=iPTV3
+https://tatiana2006.pythonanywhere.com/stream/SERIE%20%7C%20A%26E%20FHD?token=iptv2
 
 
 
 #EXTINF:-1 tvg-id="TNTSeries(Spanish).mx" tvg-name="TNT Series" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", TNT Series.
-http://181.78.27.128:8000/play/a04c/index.m3u8
+https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20TNT%20Series%20HD?token=ipTV3
 #EXTINF:-1 tvg-id="TNTSeries(Spanish).mx" tvg-name="TNT Series" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", TNT Series..
-http://181.78.27.128:8000/play/a04c/index.m3u8
+https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20TNT%20Series%20%28MX%29?token=IPtV_5
 
 
 #EXTINF:-1 tvg-id="TNT(Spanish).mx" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", TNT.
-http://200.59.188.3:8000/play/a010
+https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20TNT%20FHD?token=ipTV3
 #EXTINF:-1 tvg-id="TNT(Spanish).mx" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", TNT..
-http://177.93.46.163:8000/play/a00e
+https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20TNT%20HD?token=iPTv_6
 #EXTINF:-1 tvg-id="TNT(Spanish).mx" tvg-name="TNT HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", TNT...
-http://181.78.23.26:45000/play/a00a
+https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20TNT%20%28MX%29?token=IPtV_5
 
 
 
 #EXTINF:-1 tvg-id="WarnerChannel(Spanish).co" tvg-name="WARNER CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", WARNER CHANNEL.
-http://181.78.27.128:8000/play/a04s/index.m3u8
+https://tatiana2006.pythonanywhere.com/stream/CL%20%7C%20Warner%20Channel%20FHD?token=ipTV3
 #EXTINF:-1 tvg-id="WarnerChannel(Spanish).mx" tvg-name="WARNER CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", WARNER CHANNEL..
-http://200.59.188.3:8000/play/a00h
+https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20Warner%20Channel%20%28MX%29?token=IPtV_5
 #EXTINF:-1 tvg-id="WarnerChannel(Spanish).mx" tvg-name="WARNER CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", WARNER CHANNEL...
-http://177.93.46.163:8000/play/a011
+https://tatiana2006.pythonanywhere.com/stream/SERIE%20%7C%20Warner%20Channel%20FHD?token=IPtV_5
 
 
 
 #EXTINF:-1 tvg-id="Eurochannel(Spanish).mx" tvg-name="Eurochannel" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Eurochannel
-http://190.109.176.90:8000/play/a0fl/index.m3u8
+https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20Europa%20Europa%20HD?token=IPtV_5
 
 
 
 #EXTINF:-1 tvg-id="UniversalTV(Spanish).mx" tvg-name="Universal tv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53218_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Universal tv.
-http://177.93.46.163:8000/play/a008
+https://tatiana2006.pythonanywhere.com/stream/SERIE%20%7C%20Universal%20TV?token=IPtV_5
 #EXTINF:-1 tvg-id="UniversalTV(Spanish).mx" tvg-name="Universal tv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53218_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Universal tv..
-http://181.188.234.21:8000/play/a03a/index.m3u8
+https://tatiana2006.pythonanywhere.com/stream/SERIE%20%7C%20Universal%20TV%20FHD?token=IPtV_5
 
 
 
 
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Studio Universal.
-https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20Studio%20Universal%20FHD?token=iPTV3
+https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20Studio%20Universal%20FHD?token=iPTv_6
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Studio Universal..
 http://181.188.234.21:8000/play/a05s/index.m3u8
 
 
 #EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="Universal Premiere" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121866_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Universal Premiere.
-https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20Universal%20Premier%20West%20HD?token=iPTV3
+https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20Universal%20Premiere%20HD?token=IPtV_5
 #EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="Universal Premiere" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121866_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Universal Premiere..
-https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20Universal%20Premiere%20HD?token=IPTV_5
+https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20Universal%20Premier%20West%20HD?token=ipTV3
 
 
 #EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="UNIVERSAL CINEMA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", UNIVERSAL CINEMA.
-https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20Universal%20Cinema%20HD?token=iPTV3
+https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20Universal%20Cinema%20HD?token=ipTV3
 #EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="Universal Cinema" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Universal Cinema..
-https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20Universal%20Cinema%20%28MX%29?token=IPTV_5
+https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20Universal%20Cinema?token=IPtV_5
 
 
 
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cinemax.
 http://181.188.234.21:8000/play/a04f/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CINEMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", CINEMAX..
-http://181.78.27.128:8000/play/a02b/index.m3u8
+https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20Cinemax%20HD?token=iPTv_6
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cinemax...
-http://200.59.188.3:8000/play/a03s
+https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20Cinemax?token=IPtV_5
 
 
 
 
 #EXTINF:-1 tvg-id="Antena3Internacional.do" tvg-name="A3 SERIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16800_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", A3 SERIES
-https://tatiana2006.pythonanywhere.com/stream/ENT%20%7C%20A3Series%20HD?token=Iptv2
+https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20A3Series%20Int%20HD?token=ipTV3
 #EXTINF:-1 tvg-id="Atrescine.mx" tvg-name="A3Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82808_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", A3Cine
-https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20A3cine%20%28MX%29?token=Iptv2
+https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20A3cine%20%28MX%29?token=iptv2
 
 #EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Universal Comedy.
-https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20Universal%20Comedy%20%28MX%29?token=IPTV_5
+https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20Universal%20Comedy%20%28MX%29?token=IPtV_5
 #EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="UNIVERSAL COMEDY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", UNIVERSAL COMEDY..
-https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20Universal%20Comedy?token=IPTV_5
+https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20Universal%20Comedy%20HD?token=IPtV_5
 
 
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="STAR CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", STAR CHANNEL.
-http://177.93.46.163:8000/play/a00b
+https://tatiana2006.pythonanywhere.com/stream/SERIE%20%7C%20Star%20Channel%20FHD?token=iPTv_6
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="STAR CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", STAR CHANNEL..
-https://tatiana2006.pythonanywhere.com/stream/CL%20%7C%20Star%20Channel%20FHD?token=iPTV3
+https://tatiana2006.pythonanywhere.com/stream/SERIE%20%7C%20Star%20Channel?token=iPTv_6
 #EXTINF:-1 tvg-id="StarChannel.do" tvg-name="STAR CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", STAR CHANNEL...
 http://181.188.234.21:8000/play/a03c/index.m3u8
 
@@ -308,9 +307,9 @@ http://160.20.165.246:8000/play/a006/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="Space HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Space.
-http://177.93.46.163:8000/play/a023
+https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20Space%20FHD?token=iPTv_6
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Space..
-https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20Space%20HD?token=iPTV3
+https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20Space%20HD?token=iPTv_6
 
 
 #EXTINF:-1 tvg-id="USA(Spanish).mx" tvg-name="SyFy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56727_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", USA
@@ -325,13 +324,13 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/2028
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", History Channel.
 http://181.188.234.21:8000/play/a039/index.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", History Channel..
-http://177.93.46.163:8000/play/a006
+https://tatiana2006.pythonanywhere.com/stream/CUL%20%7C%20History%20Channel?token=IPtV_5
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", History Channel...
 http://vipgerretger.top:8080/VIP01380172651224498/5ed2a05da42b/4778
 
 
 #EXTINF:-1 tvg-id="History2.mx" tvg-name="History 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", History 2.
-https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20History%202%20FHD?token=iPTV3
+https://tatiana2006.pythonanywhere.com/stream/CUL%20%7C%20History%202%20HD?token=IPtV_5
 #EXTINF:-1 tvg-id="History2.mx" tvg-name="History 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", History 2..
 http://200.115.96.66:4000/play/a016/index.m3u8
 
@@ -341,11 +340,11 @@ http://200.115.96.66:4000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic.
 http://181.188.234.21:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic..
-https://tatiana2006.pythonanywhere.com/stream/BR%20%7C%20Natgeo%20HD?token=IPTV_5
+https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20National%20Geographic%20%28MX%29?token=IPtV_5
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic...
-https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20National%20Geographic%20HD?token=iPTV3
+https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20National%20Geographic%20%28MX%29?token=IPtV_5
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic....
-https://tatiana2006.pythonanywhere.com/stream/ES%20%7C%20National%20Geographic%20HD?token=IPTV_5
+https://tatiana2006.pythonanywhere.com/stream/ES%20%7C%20National%20Geographic%20HD?token=IPtV_5
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic.....
 http://espatv.xyz:8080/334852/N7pSnv/67577
 
@@ -355,9 +354,9 @@ http://espatv.xyz:8080/334852/N7pSnv/67577
 
 
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery Home & Health.
-https://tatiana2006.pythonanywhere.com/stream/CUL%20%7C%20Discovery%20Familia?token=IPTV1
+https://tatiana2006.pythonanywhere.com/stream/CUL%20%7C%20Discovery%20Familia?token=IPTv1
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery Home & Health..
-https://tatiana2006.pythonanywhere.com/stream/CUL%20%7C%20Discovery%20Familia%20HD?token=IPTV1
+https://tatiana2006.pythonanywhere.com/stream/CUL%20%7C%20Discovery%20Familia%20HD?token=IPTv1
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery Home & Health...
 http://vipgerretger.top:8080/VIP01380172651224498/5ed2a05da42b/5141
 
@@ -365,9 +364,9 @@ http://vipgerretger.top:8080/VIP01380172651224498/5ed2a05da42b/5141
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DISCOVERY CHANNEL.
 http://vipgerretger.top:8080/VIP01380172651224498/5ed2a05da42b/4954
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DISCOVERY CHANNEL..
-http://177.93.46.163:8000/play/a00z
+https://tatiana2006.pythonanywhere.com/stream/CUL%20%7C%20Discovery%20Channel%20HD?token=IPtV_5
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DISCOVERY CHANNEL...
-https://nxt.plus:8443/sofiargg/231015/59087
+https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20Discovery%20Channel%20HD?token=ipTV3
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DISCOVERY CHANNEL....
 https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20Discovery%20Channel%20%28MX%29?token=IPTV1
 
@@ -576,23 +575,23 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744943041
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="X Men" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", X Men
-http://starfamily.vip:80/Luismacias7./gVVjBEXuWDtD/1974024.ts
+https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20XMen?token=IPtV_5
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pinky y Cerebro" tvg-logo="https://blogbibliotecacid.files.wordpress.com/2017/12/pinkyandthebrain.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Pinky y Cerebro
-https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20Pinky%20y%20Cerebro?token=IPTV_5
+https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20Pinky%20y%20Cerebro?token=IPtV_5
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gallo Claudio" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Gallo Claudio
 http://tv.nousiptv.com:8080/mariasuazo/123456/1241333
 
 #EXTINF:-1 tvg-id="(lista16)" tvg-name="Miraculous" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Miraculous
 http://espatv.xyz:8080/334852/N7pSnv/160679
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Familia Peluche" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Familia Peluche
-https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20La%20Familia%20Peluche?token=IPTV_5
+https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20La%20Familia%20Peluche?token=IPtV_5
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL ENCANTADOR DE PERROS" tvg-logo="https://www.formulatv.com/images/programas/posters/300/322/dest_3.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", EL ENCANTADOR DE PERROS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="(17)" tvg-name="Alf" tvg-logo="https://es.digitaltrends.com/wp-content/uploads/2022/02/180-alf.jpg?p=1" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Alf
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744941525
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El chavo del 8" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", El chavo del 8
-https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20El%20Chavo%20del%208?token=IPTV_5
+https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20El%20Chavo%20del%208?token=IPtV_5
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="timonypumba" tvg-logo="https://storage.googleapis.com/sticker-prod/PmGrS8ifHxuylCD3AzVt/cover.thumb256.png" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Timon y Pumba
 https://sdmx.vip:443/play/_bnn3jQhu-yVGbXsZ6T6dFroAMphRvqO1WY-B-RsCA2j7yU9OlL3j6aTbhbbLBrt
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Just for Laughs" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Just for Laughs
@@ -645,7 +644,7 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744940481
 
 
 #EXTINF:-1 tvg-id="(35)" tvg-name="Dos Hombres y Medio" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Dos Hombres y Medio
-https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20Two%20and%20Half%20Men?token=IPTV_5
+https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20Two%20and%20Half%20Men?token=IPtV_5
 
 
 
@@ -656,7 +655,7 @@ http://priv.cucodash.xyz:8080/PabloOrdenes/Pablito123456/250548
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pantera Rosa 80s" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Star Wars
-https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20Star%20Wars?token=IPTV_5
+https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20Star%20Wars?token=IPtV_5
 
 
 
@@ -666,7 +665,7 @@ http://billigaskall.ga:8080/FidelGLZ/u6bWjRtWfK/1725230
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="picapiedras" tvg-logo="https://images.justwatch.com/poster/76219363/s718/los-picapiedra.%7Bformat%7D" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Picapiedras.
-https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20Los%20Picapiedras?token=IPTV_5
+https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20Los%20Picapiedras?token=IPtV_5
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="picapiedras" tvg-logo="https://images.justwatch.com/poster/76219363/s718/los-picapiedra.%7Bformat%7D" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Picapiedras..
 http://tvbross.com:8880/Pilar123/123Pilar/2376
 
