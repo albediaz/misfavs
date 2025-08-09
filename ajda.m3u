@@ -660,7 +660,7 @@ https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20Star%20Wars?token=IPtV
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kung FU Panda" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Kung FU Panda
-https://archive.org/embed/cantinflasshow
+<iframe src="https://archive.org/embed/cantinflasshow" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
 
 
 
