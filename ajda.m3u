@@ -455,16 +455,7 @@ http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="" tvg-logo="" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Liga de Campeones
-http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/8213
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Liga de campeones" tvg-logo="" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Liga de campeones
-http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9601
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Liga de campeones" tvg-logo="" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUBI Fox sports MX
-https://aegis-cloudfront-1.tubi.video/63c84a5d-300a-4b9d-b1e8-40edbefb1ef6/index_1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Liga de campeones" tvg-logo="" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUBI Fox sports US
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
 
 
@@ -513,7 +504,7 @@ http://my-flashtv.com:8080/Vecinodemirella2020/9eieutaGVy/1492439
 http://my-flashtv.com:8080/Vecinodemirella2020/9eieutaGVy/81931
 
 #EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUDN.
-http://alexyatvcasa.xyz:8080/Juanmigueliptv/aqD9CbK/47657
+http://45.5.119.43:4000/play/a05q/index.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUDN..
 http://200.115.120.1:8000/play/ca039/index.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUDN...
@@ -525,17 +516,13 @@ https://tatiana2006.pythonanywhere.com/stream/US%20%7C%20TUDN%20HD?token=LiStA_5
 
 
 #EXTINF:-1 tvg-id="ClaroSports(Spanish).mx" tvg-name="Claro Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Claro Sports
-https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
+http://45.5.119.43:4000/play/a0kz/index.m3u8
 #EXTINF:-1 tvg-id="ClaroSports2.co" tvg-name="Claro Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Claro Sports 2
-http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/469053
+http://45.5.119.43:4000/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="AyMSports(Spanish).mx" tvg-name="Afizzionados.mx" tvg-logo="" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", AYM
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 #EXTINF:-1 tvg-id="TVCDeportes(Spanish).mx" tvg-name="Afizzionados.mx" tvg-logo="" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TVC
 http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/36406
-#EXTINF:-1 tvg-id="LaLigaSkySports(Spanish).mx" tvg-name="Sky sports" tvg-logo="" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Sky sports.
-http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1185
-#EXTINF:-1 tvg-id="LaLigaSkySports(Spanish).mx" tvg-name="Sky sports" tvg-logo="" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Sky sports..
-http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/1156
 
 
 
