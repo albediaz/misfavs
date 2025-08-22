@@ -64,7 +64,7 @@ https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20HBO%20Signature%20HD?
 https://nxt.plus:8443/sofiargg/231015/13894
 
 #EXTINF:-1 tvg-id="AMC(Spanish).mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", AMC.
-http://alexyatvcasa.xyz:8080/Juanmigueliptv/aqD9CbK/48954
+http://190.104.67.8:234/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="AMC(Spanish).mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", AMC..
 https://nxt.plus:8443/sofiargg/231015/24818
 #EXTINF:-1 tvg-id="AMC(Spanish).mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", AMC...
@@ -134,7 +134,7 @@ http://alexyatvcasa.xyz:8080/Juanmigueliptv/aqD9CbK/48960
 #EXTINF:-1 tvg-id="CanalDHE.mx" tvg-name="DHE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s81622_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DHE.
 https://nxt.plus:8443/sofiargg/231015/16929
 #EXTINF:-1 tvg-id="CanalDHE.mx" tvg-name="DHE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s81622_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DHE..
-http://alexyatvcasa.xyz:8080/Juanmigueliptv/aqD9CbK/48972
+http://190.104.67.8:234/play/a0p6/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV TCS+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TCS_35_2017.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", VTV TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
 
