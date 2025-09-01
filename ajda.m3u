@@ -308,9 +308,9 @@ http://160.20.165.246:8000/play/a006/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="Space HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Space.
-https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20Space%20FHD?token=iPTv_6
+http://tv.masterplaytv.club:8080/YOwUqqZLqa/b4cdd8a5c5f6/9718
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Space..
-https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20Space%20HD?token=iPTv_6
+http://tv.masterplaytv.club:8080/YOwUqqZLqa/b4cdd8a5c5f6/9717
 
 
 #EXTINF:-1 tvg-id="USA(Spanish).mx" tvg-name="SyFy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56727_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", USA
@@ -325,13 +325,13 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/2028
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", History Channel.
 http://181.188.234.21:8000/play/a039/index.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", History Channel..
-https://tatiana2006.pythonanywhere.com/stream/CUL%20%7C%20History%20Channel?token=IPtV_5
+http://tv.masterplaytv.club:8080/YOwUqqZLqa/b4cdd8a5c5f6/9838
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", History Channel...
 http://vipgerretger.top:8080/VIP01380172651224498/5ed2a05da42b/4778
 
 
 #EXTINF:-1 tvg-id="History2.mx" tvg-name="History 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", History 2.
-https://tatiana2006.pythonanywhere.com/stream/CUL%20%7C%20History%202%20HD?token=IPtV_5
+http://tv.masterplaytv.club:8080/YOwUqqZLqa/b4cdd8a5c5f6/9839
 #EXTINF:-1 tvg-id="History2.mx" tvg-name="History 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", History 2..
 http://200.115.96.66:4000/play/a016/index.m3u8
 
@@ -341,13 +341,13 @@ http://200.115.96.66:4000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic.
 http://181.188.234.21:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic..
-https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20National%20Geographic%20%28MX%29?token=IPtV_5
+http://tv.masterplaytv.club:8080/YOwUqqZLqa/b4cdd8a5c5f6/9846
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic...
-https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20National%20Geographic%20%28MX%29?token=IPtV_5
+http://tv.masterplaytv.club:8080/YOwUqqZLqa/b4cdd8a5c5f6/9848
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic....
-https://tatiana2006.pythonanywhere.com/stream/ES%20%7C%20National%20Geographic%20HD?token=IPtV_5
+http://tv.masterplaytv.club:8080/YOwUqqZLqa/b4cdd8a5c5f6/8220
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic.....
-https://tatiana2006.pythonanywhere.com/stream/ES%20%7C%20National%20Geographic%20HD?token=IPtV_5
+http://tv.masterplaytv.club:8080/YOwUqqZLqa/b4cdd8a5c5f6/8221
 
 
 
@@ -355,9 +355,9 @@ https://tatiana2006.pythonanywhere.com/stream/ES%20%7C%20National%20Geographic%2
 
 
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery Home & Health.
-https://tatiana2006.pythonanywhere.com/stream/CUL%20%7C%20Discovery%20Familia?token=IPTv1
+http://tv.masterplaytv.club:8080/YOwUqqZLqa/b4cdd8a5c5f6/9783
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery Home & Health..
-https://tatiana2006.pythonanywhere.com/stream/CUL%20%7C%20Discovery%20Familia%20HD?token=IPTv1
+http://tv.masterplaytv.club:8080/YOwUqqZLqa/b4cdd8a5c5f6/9784
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery Home & Health...
 http://vipgerretger.top:8080/VIP01380172651224498/5ed2a05da42b/5141
 
@@ -365,20 +365,20 @@ http://vipgerretger.top:8080/VIP01380172651224498/5ed2a05da42b/5141
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DISCOVERY CHANNEL.
 http://vipgerretger.top:8080/VIP01380172651224498/5ed2a05da42b/4954
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DISCOVERY CHANNEL..
-https://tatiana2006.pythonanywhere.com/stream/CUL%20%7C%20Discovery%20Channel%20HD?token=IPtV_5
+http://tv.masterplaytv.club:8080/YOwUqqZLqa/b4cdd8a5c5f6/9816
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DISCOVERY CHANNEL...
-https://tatiana2006.pythonanywhere.com/stream/MX%20%7C%20Discovery%20Channel%20HD?token=ipTV3
+http://tv.masterplaytv.club:8080/YOwUqqZLqa/b4cdd8a5c5f6/9814
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DISCOVERY CHANNEL....
-https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20Discovery%20Channel%20%28MX%29?token=IPTV1
+http://tv.masterplaytv.club:8080/YOwUqqZLqa/b4cdd8a5c5f6/9782
 
 
 
 #EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY sci" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DISCOVERY sci.
 https://nxt.plus:8443/sofiargg/231015/30423
 #EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY sci" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DISCOVERY sci..
-http://vipgerretger.top:8080/VIP01380172651224498/5ed2a05da42b/5143
+http://tv.masterplaytv.club:8080/YOwUqqZLqa/b4cdd8a5c5f6/9822
 #EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY sci" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DISCOVERY sci...
-http://vipgerretger.top:8080/VIP01380172651224498/5ed2a05da42b/5067
+http://tv.masterplaytv.club:8080/YOwUqqZLqa/b4cdd8a5c5f6/9823
 
 
 
