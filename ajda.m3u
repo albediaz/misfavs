@@ -527,7 +527,7 @@ http://45.5.119.43:4000/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="AyMSports(Spanish).mx" tvg-name="Afizzionados.mx" tvg-logo="" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", AYM
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 #EXTINF:-1 tvg-id="TVCDeportes(Spanish).mx" tvg-name="Afizzionados.mx" tvg-logo="" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TVC
-http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/36406
+http://live.fuxxion.club:8080/LRobles111021/3Kk2nGddLk/87610
 
 
 
@@ -551,13 +551,13 @@ https://59ef525c24caa.streamlock.net/vmtv/soyplancha/chunklist_w506636238.m3u8?W
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Don gato" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Don gato.
-http://jumangis.cloud:2082/live/luisvillag44/5d4d63d3dbec601a/498848.m3u
+http://live.fuxxion.club:8080/LRobles111021/3Kk2nGddLk/110032
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Don gato" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Don gato..
 https://nxt.plus:8443/sofiargg/231015/114413
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpson." tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Los Simpson.
-http://jumangis.cloud:2082/live/luisvillag44/5d4d63d3dbec601a/501892.m3u
+http://live.fuxxion.club:8080/LRobles111021/3Kk2nGddLk/94881
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpson.." tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Los Simpson..
 http://jumangis.cloud:2082/live/luisvillag44/5d4d63d3dbec601a/501893.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpson..." tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Los Simpson...
@@ -569,23 +569,23 @@ http://jumangis.cloud:2082/live/luisvillag44/5d4d63d3dbec601a/501895.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="X Men" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", X Men
 https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20XMen?token=IPtV_5
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pinky y Cerebro" tvg-logo="https://blogbibliotecacid.files.wordpress.com/2017/12/pinkyandthebrain.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Pinky y Cerebro
-https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20Pinky%20y%20Cerebro?token=IPtV_5
+http://live.fuxxion.club:8080/LRobles111021/3Kk2nGddLk/144761
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gallo Claudio" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Gallo Claudio
 http://tv.nousiptv.com:8080/mariasuazo/123456/1241333
 
 #EXTINF:-1 tvg-id="(lista16)" tvg-name="Miraculous" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Miraculous
 http://195.66.210.10:80/EdwinSP/EGPKP/217139
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Familia Peluche" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Familia Peluche
-https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20La%20Familia%20Peluche?token=IPtV_5
+http://live.fuxxion.club:8080/LRobles111021/3Kk2nGddLk/94859
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL ENCANTADOR DE PERROS" tvg-logo="https://www.formulatv.com/images/programas/posters/300/322/dest_3.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", EL ENCANTADOR DE PERROS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="(17)" tvg-name="Alf" tvg-logo="https://es.digitaltrends.com/wp-content/uploads/2022/02/180-alf.jpg?p=1" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Alf
-http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744941525
+http://live.fuxxion.club:8080/LRobles111021/3Kk2nGddLk/96690
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El chavo del 8" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", El chavo del 8
-https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20El%20Chavo%20del%208?token=IPtV_5
+http://live.fuxxion.club:8080/LRobles111021/3Kk2nGddLk/94993
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="timonypumba" tvg-logo="https://storage.googleapis.com/sticker-prod/PmGrS8ifHxuylCD3AzVt/cover.thumb256.png" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Timon y Pumba
-https://sdmx.vip:443/play/_bnn3jQhu-yVGbXsZ6T6dFroAMphRvqO1WY-B-RsCA2j7yU9OlL3j6aTbhbbLBrt
+http://live.fuxxion.club:8080/LRobles111021/3Kk2nGddLk/102588
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Remi
 http://jumangis.cloud:2082/live/luisvillag44/5d4d63d3dbec601a/55215.m3u
 
@@ -594,7 +594,7 @@ http://jumangis.cloud:2082/live/luisvillag44/5d4d63d3dbec601a/55215.m3u
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="pinguinosmadagascar" tvg-logo="https://image1.challengermode.com/59e52a55-d8f6-40d2-2574-08dad30bb5c2_256_256" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Pingüinos de Madagascar.
-http://home-playtv.com:8080/AngieMiranda/5wrxryJaxS/177118
+http://live.fuxxion.club:8080/LRobles111021/3Kk2nGddLk/95028
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="pinguinosmadagascar" tvg-logo="https://image1.challengermode.com/59e52a55-d8f6-40d2-2574-08dad30bb5c2_256_256" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Pingüinos de Madagascar..
 http://tv.nousiptv.com:8080/mariasuazo/123456/1241354
 
@@ -603,7 +603,7 @@ http://tv.nousiptv.com:8080/mariasuazo/123456/1241354
 #EXTINF:-1 tvg-id="(20)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Bigbang Theory.
 http://tv.masterplaytv.club:8080/3476265303/3476265503/94867
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Bigbang Theory..
-http://fullgo.xyz:8880/jorgeluis93/X5t8QctY47sS/437995
+http://live.fuxxion.club:8080/LRobles111021/3Kk2nGddLk/94867
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Bigbang Theory...
 http://fullgo.xyz:8880/jorgeluis93/X5t8QctY47sS/437995
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Bigbang Theory....
@@ -623,12 +623,12 @@ http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/744943379
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malcom el de enmedio." tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Malcom el de enmedio.
 http://tv.masterplaytv.club:8080/3476265303/3476265503/94860
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malcom el de enmedio.." tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Malcom el de enmedio..
-http://jumangis.cloud:2082/live/luisvillag44/5d4d63d3dbec601a/149644.m3u
+http://live.fuxxion.club:8080/LRobles111021/3Kk2nGddLk/94860
 
 
 
 #EXTINF:-1 tvg-id="(20)" tvg-name="Años Maravillosos" tvg-logo="https://ih1.redbubble.net/image.2131767850.4358/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Años Maravillosos
-http://jumangis.cloud:2082/live/luisvillag44/5d4d63d3dbec601a/149673.m3u
+http://live.fuxxion.club:8080/LRobles111021/3Kk2nGddLk/96782
 
 
 #EXTINF:-1 tvg-id="(35)" tvg-name="Como conoci a tu madre" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Como conoci a tu madre
@@ -641,7 +641,7 @@ http://195.66.210.10:80/EdwinSP/EGPKP/177379
 
 
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="Friends" tvg-logo="https://p7.hiclipart.com/preview/840/692/965/5bbc448fd13e2.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Friends.
-http://195.66.210.10:80/EdwinSP/EGPKP/107923
+http://live.fuxxion.club:8080/LRobles111021/3Kk2nGddLk/94854
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Friends" tvg-logo="https://p7.hiclipart.com/preview/840/692/965/5bbc448fd13e2.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Friends..
 http://tv.masterplaytv.club:8080/3476265303/3476265503/94854
 
@@ -663,7 +663,7 @@ http://tv.masterplaytv.club:8080/3476265303/3476265503/96695
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="familia" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Familia de diez.
-http://goflixpro.com:80/live/2023jhoanrodriguez/jhoanr2023/8c6ef550-82fa-49e3-836c-7270fe5f743c.m3u
+http://live.fuxxion.club:8080/LRobles111021/3Kk2nGddLk/94871
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="familia" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Familia de diez..
 http://tv.zapping.life:8080/diegomiranda/tFIV5FhJKK/94871
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="familia" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Familia de diez...
@@ -672,7 +672,7 @@ http://jumangis.cloud:2082/live/luisvillag44/5d4d63d3dbec601a/149613.m3u
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="vecinos" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Vecinos.
-https://tatiana2006.pythonanywhere.com/stream/Vecinos?token=Iptv2
+http://live.fuxxion.club:8080/LRobles111021/3Kk2nGddLk/94872
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="vecinos" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Vecinos..
 http://home-playtv.com:8080/AngieMiranda/5wrxryJaxS/107932
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="vecinos" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Vecinos...
