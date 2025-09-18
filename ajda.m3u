@@ -73,8 +73,8 @@ http://tv.masterplaytv.club:8080/YOwUqqZLqa/b4cdd8a5c5f6/9619
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetaTV Movies | CL" tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", PlanetaTV Movies | CL
 https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetaTV Kids | CL" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Avengers
-https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20Avengers?token=IPTv1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Disney
+http://tv.masterplaytv.club:8080/HVWHVcxCaP/Fc5S9HKxg9/95622
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OpinionSur Series" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", P Drama
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -99,8 +99,8 @@ http://160.20.165.246:8000/play/a01f/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", El pituco
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="chilevisualretro" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Estelar
-http://espatv.xyz:8080/334852/N7pSnv/401017
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="chilevisualretro" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Comedia
+http://tv.masterplaytv.club:8080/HVWHVcxCaP/Fc5S9HKxg9/95620
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cool .Cinema marvel studio
 http://live.fuxxion.club:8080/LRobles111021/3Kk2nGddLk/94944
 
@@ -141,7 +141,7 @@ https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c
 
 
 #EXTINF:-1 tvg-id="Golden(Spanish).mx" tvg-name="Golden" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Golden.
-https://tatiana2006.pythonanywhere.com/stream/CINE%20%7C%20Golden%20HD?token=iPTv_6
+http://tv.masterplaytv.club:8080/HVWHVcxCaP/Fc5S9HKxg9/9657
 #EXTINF:-1 tvg-id="Golden(Spanish).mx" tvg-name="Golden" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Golden..
 http://tv.masterplaytv.club:8080/YOwUqqZLqa/b4cdd8a5c5f6/9657
 
@@ -605,7 +605,7 @@ http://tv.masterplaytv.club:8080/3476265303/3476265503/94867
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Bigbang Theory..
 http://live.fuxxion.club:8080/LRobles111021/3Kk2nGddLk/94867
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Bigbang Theory...
-http://fullgo.xyz:8880/jorgeluis93/X5t8QctY47sS/437995
+http://tv.masterplaytv.club:8080/HVWHVcxCaP/Fc5S9HKxg9/94867
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Bigbang Theory....
 http://tv.masterplaytv.club:8080/3476265303/3476265503/94867
 
@@ -665,7 +665,7 @@ http://tv.masterplaytv.club:8080/3476265303/3476265503/96695
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="familia" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Familia de diez.
 http://live.fuxxion.club:8080/LRobles111021/3Kk2nGddLk/94871
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="familia" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Familia de diez..
-http://tv.zapping.life:8080/diegomiranda/tFIV5FhJKK/94871
+http://tv.masterplaytv.club:8080/HVWHVcxCaP/Fc5S9HKxg9/94871
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="familia" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Familia de diez...
 http://jumangis.cloud:2082/live/luisvillag44/5d4d63d3dbec601a/149613.m3u
 
