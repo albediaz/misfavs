@@ -339,7 +339,7 @@ http://200.115.96.66:4000/play/a016/index.m3u8
 
 
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic.
-http://181.188.234.21:8000/play/a021/index.m3u8
+http://177.93.46.163:8000/play/a005
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic..
 http://tv.masterplaytv.club:8080/YOwUqqZLqa/b4cdd8a5c5f6/9846
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic...
