@@ -6,7 +6,7 @@ url-tvg="https://raw.githubusercontent.com/Mcarv00/IKS66EPG/master/Merezco.xml"
 
 
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa",  audio-track="esp,spa", HBO.
-http://tvdirecto.pro:8080/live/michel/michel/3396.m3u
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9666
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO..
 http://ultrapremium.cloud:8080/986346320tv/8s535p/140
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO...
@@ -28,13 +28,13 @@ http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9673
 
 
 #EXTINF:-1 tvg-id="HBOFamily(Spanish).mx" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Family.
-http://tvdirecto.pro:8080/live/michel/michel/3398.m3u
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9678
 #EXTINF:-1 tvg-id="HBOFamily(Spanish).mx" tvg-name="HBO Family HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Family..
 http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9676
 
 
 #EXTINF:-1 tvg-id="HBOXtreme(Spanish).mx" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO XTREME.
-http://tvdirecto.pro:8080/live/michel/michel/3399.m3u
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9697
 #EXTINF:-1 tvg-id="HBOXtreme(Spanish).mx" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO XTREME..
 http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9698
 #EXTINF:-1 tvg-id="HBOXtreme(Spanish).mx" tvg-name="HBO Xtreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Xtreme...
@@ -47,9 +47,9 @@ http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9685
 http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9686
 
 #EXTINF:-1 tvg-id="HBOPOP(Spanish).mx" tvg-name="HBO POP HD" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/03/C_457-1.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO POP.
-http://blast.lat:8080//live/Zenteno/sEbDaKWfMZkV/120068.ts
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9689
 #EXTINF:-1 tvg-id="HBOPOP(Spanish).mx" tvg-name="HBO POP HD" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/03/C_457-1.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO POP..
-http://blast.lat:8080//live/Zenteno/sEbDaKWfMZkV/120069.ts
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9690
 
 
 
@@ -59,7 +59,7 @@ http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9682
 http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9683
 
 #EXTINF:-1 tvg-id="HBOSignature(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa",  audio-track="esp,spa", HBO Signature.
-http://tvdirecto.pro:8080/live/michel/michel/3395.m3u
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9693
 #EXTINF:-1 tvg-id="HBOSignature(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa",  audio-track="esp,spa", HBO Signature..
 http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9692
 
@@ -68,13 +68,13 @@ http://ultrapremium.cloud:8080/986346320tv/8s535p/104
 #EXTINF:-1 tvg-id="AMC(Spanish).mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", AMC..
 http://ultrapremium.cloud:8080/986346320tv/8s535p/105
 #EXTINF:-1 tvg-id="AMC(Spanish).mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", AMC...
-http://tvdirecto.pro:8080/live/michel/michel/3361.m3u
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9619
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetaTV Movies | CL" tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", PlanetaTV Movies | CL
 https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Comedia
-http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/95620
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Disney Animacion
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/95623
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OpinionSur Series" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", P Drama
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -87,7 +87,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf07
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MONITV" tvg-logo="https://monitv.net/wp-content/uploads/2024/02/monitvojos.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", MONITV..
-https://tv.arkeo.cl:19360/8134/8134.m3u8
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/95630
 
 
 
@@ -282,7 +282,7 @@ http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9635
 #EXTINF:-1 tvg-id="Antena3Internacional.do" tvg-name="A3 SERIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16800_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", A3 SERIES
 http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/8138
 #EXTINF:-1 tvg-id="Atrescine.mx" tvg-name="A3Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82808_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", A3Cine
-http://esproipingttm.top:8080/es621741529797244/204a24f463bf/20
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/8197
 
 #EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Universal Comedy.
 http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9759
@@ -318,11 +318,11 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 http://lat.iptvlatino.me:8880/udhwe4ta/8rjn37ea/2028
 
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", History Channel.
-http://tvdirecto.pro:8080/live/michel/michel/281496.m3u
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9797
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", History Channel..
 http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9840
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", History Channel...
-http://blast.lat:8080//live/Zenteno/sEbDaKWfMZkV/119683.ts
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9838
 
 
 #EXTINF:-1 tvg-id="History2.mx" tvg-name="History 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", History 2.
@@ -362,9 +362,9 @@ http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9814
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DISCOVERY CHANNEL..
 http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9816
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DISCOVERY CHANNEL...
-http://tv.masterplaytv.club:8080/YOwUqqZLqa/b4cdd8a5c5f6/9814
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9814
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DISCOVERY CHANNEL....
-http://live.fuxxion.club:8080/LRobles111021/3Kk2nGddLk/9814
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9782
 
 
 
@@ -390,7 +390,7 @@ http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9819
 #EXTINF:-1 tvg-id="InvestigationDiscovery(English).mx" tvg-name="Discovery ID" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65342_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery ID.
 http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9842
 #EXTINF:-1 tvg-id="InvestigationDiscovery(English).mx" tvg-name="Discovery ID" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65342_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery ID..
-http://177.93.46.163:8000/play/a01f
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9785
 
 
 #EXTINF:-1 tvg-id="TLC" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", TLC
@@ -399,9 +399,9 @@ http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9825
 
 
 #EXTINF:-1 tvg-id="NationalGeographicworld.mx" tvg-name="National Geographic world" tvg-logo="https://i.pinimg.com/474x/4e/31/fa/4e31faa5e02eda1e90b7b916979df48e.jpg" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic world.
-http://live.fuxxion.club:8080/LRobles111021/3Kk2nGddLk/9831
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9807
 #EXTINF:-1 tvg-id="NationalGeographicworld.mx" tvg-name="National Geographic world" tvg-logo="https://i.pinimg.com/474x/4e/31/fa/4e31faa5e02eda1e90b7b916979df48e.jpg" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic world..
-http://live.fuxxion.club:8080/LRobles111021/3Kk2nGddLk/9833
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9807
 
 #EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World." tvg-logo="https://d3g9pb5nvr3u7.cloudfront.net/sites/544508a0cae62ee423f75edb/500231485/256.jpg" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery World.
 http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9831
@@ -445,10 +445,15 @@ https://nxt.plus:8443/sofiargg/231015/16908
 
 
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", NFL
-http://blast.lat:8080//live/Zenteno/sEbDaKWfMZkV/311596.ts
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/157286
 
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", NFL
-http://blast.lat:8080//live/Zenteno/sEbDaKWfMZkV/311598.ts
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/157366
+
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", NFL
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/157367
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", NFL
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/157368
 
 
 
@@ -459,12 +464,12 @@ http://blast.lat:8080//live/Zenteno/sEbDaKWfMZkV/311598.ts
 
 
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico)(Spanish).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Fox Sports Premium.
-http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9571
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9593
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico)(Spanish).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Fox Sports Premium..
 http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9593
 
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico)(Spanish).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Fox Sports 1.
-http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9579
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9593
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico)(Spanish).mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Fox Sports 1..
 http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9578
 
@@ -481,7 +486,7 @@ http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/10780
 
 
 #EXTINF:-1 tvg-id="ESPN(Spanish).mx" tvg-name="ESPN+" tvg-logo="https://m.media-amazon.com/images/I/41lChb5Q+KL.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN+
-http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/84667
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9547
 
 #EXTINF:-1 tvg-id="ESPN(Spanish).mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN.
 http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9523
@@ -551,9 +556,9 @@ https://nxt.plus:8443/sofiargg/231015/114413
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpson." tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Los Simpson.
-http://ultrapremium.cloud:8080/live/986346320tv/8s535p/789.m3u8
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/94881
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpson.." tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Los Simpson..
-http://latintvplus.com:8000/garetadc/IQA819I/129313
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/94883
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpson..." tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Los Simpson...
 http://sdmx.vip:80/play/jg5HX2TA-VjD5WbfAU_wQcZ55lhv4BhmzdREAjF5clE
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpson...." tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Los Simpson....
@@ -570,7 +575,7 @@ http://ultrapremium.cloud:8080/live/986346320tv/8s535p/798.m3u8
 #EXTINF:-1 tvg-id="(lista16)" tvg-name="Miraculous" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Miraculous
 http://sdmx.vip:80/play/jg5HX2TA-VjD5WbfAU_wQZezB0xgl0HBpvcZpvdXm54
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Familia Peluche" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Familia Peluche
-http://live.fuxxion.club:8080/LRobles111021/3Kk2nGddLk/94859
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/94859
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL ENCANTADOR DE PERROS" tvg-logo="https://www.formulatv.com/images/programas/posters/300/322/dest_3.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", EL ENCANTADOR DE PERROS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="(17)" tvg-name="Alf" tvg-logo="https://es.digitaltrends.com/wp-content/uploads/2022/02/180-alf.jpg?p=1" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Alf
@@ -601,7 +606,7 @@ http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/94867
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Bigbang Theory...
 http://supersonictv.live:8080/Reco123/Reco123/81253
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Bigbang Theory....
-http://195.66.210.10:80/WilberTv02/RCHWbxnRqP/216987
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/94867
 
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Dr. House.
 http://tv.masterplaytv.club:8080/YOwUqqZLqa/b4cdd8a5c5f6/95600
@@ -626,7 +631,7 @@ http://sdmx.vip:80/play/jg5HX2TA-VjD5WbfAU_wQQYuwRYY6zy-2PB9uAiJI98
 
 
 #EXTINF:-1 tvg-id="(35)" tvg-name="Como conoci a tu madre" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Como conoci a tu madre
-http://tv.masterplaytv.club:8080/YOwUqqZLqa/b4cdd8a5c5f6/94857
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/94857
 
 
 #EXTINF:-1 tvg-id="(35)" tvg-name="Dos Hombres y Medio" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Dos Hombres y Medio
@@ -651,7 +656,7 @@ http://fivetv.org:25461/OmariR1210/RMRt947951/23854
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="picapiedras" tvg-logo="https://images.justwatch.com/poster/76219363/s718/los-picapiedra.%7Bformat%7D" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Picapiedras.
-https://tatiana2006.pythonanywhere.com/stream/24H%20%7C%20Los%20Picapiedras?token=IPtV_5
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/110033
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="agente86" tvg-logo="https://m.media-amazon.com/images/I/71cBViwQHSL._UF894,1000_QL80_.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Super agente 86
 http://sdmx.vip:80/play/jg5HX2TA-VjD5WbfAU_wQSGcCl4UC-6AUtjpSQ3K350
 
@@ -668,6 +673,6 @@ http://jumangis.cloud:2082/live/luisvillag44/5d4d63d3dbec601a/149613.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="vecinos" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Vecinos.
 http://sdmx.vip:80/play/jg5HX2TA-VjD5WbfAU_wQQV2ZGun0Q4apZ2oDZU3dQc
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="vecinos" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Vecinos..
-http://home-playtv.com:8080/AngieMiranda/5wrxryJaxS/107932
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/94872
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="vecinos" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Vecinos...
 http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/94872
