@@ -154,17 +154,17 @@ http://200.115.120.1:8000/play/ca037/index.m3u8
 http://ultrapremium.cloud:8080/986346320tv/8s535p/65219
 
 #EXTINF:-1 tvg-id="GoldenPremier(Spanish).mx" tvg-name="Golden Premier" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Golden Premier.
-http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9663
+http://www.1play.cool:25461/JimmyLopez68/e2aeb7d9d22b/128510
 #EXTINF:-1 tvg-id="goldenpremier(Spanish).mx" tvg-name="GOLDEN PREMIER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", GOLDEN PREMIER..
-http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9665
+http://www.1play.cool:25461/JimmyLopez68/e2aeb7d9d22b/30448
 
 
 
 
 #EXTINF:-1 tvg-id="Multipremier(Spanish).mx" tvg-name="Multipremier" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18169_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Multipremier.
-http://tv.nousiptv.com:8080/rafaelpagano/RP1217448RP/1188239
+http://www.1play.cool:25461/JimmyLopez68/e2aeb7d9d22b/134310
 #EXTINF:-1 tvg-id="Multipremier(Spanish).mx" tvg-name="MULTIPREMIER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18169_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", MULTIPREMIER..
-http://tv.nousiptv.com:8080/mariasuazo/123456/1188239
+http://www.1play.cool:25461/JimmyLopez68/e2aeb7d9d22b/30495
 
 
 #EXTINF:-1 tvg-id="MC(Spanish).mx" tvg-name="MULTICINEMA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18329_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", MULTICINEMA.
@@ -280,7 +280,7 @@ http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9635
 
 
 #EXTINF:-1 tvg-id="Antena3Internacional.do" tvg-name="A3 SERIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16800_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", A3 SERIES
-http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/8138
+http://www.1play.cool:25461/JimmyLopez68/e2aeb7d9d22b/134284
 #EXTINF:-1 tvg-id="Atrescine.mx" tvg-name="A3Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82808_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", A3Cine
 http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/8197
 
@@ -309,7 +309,7 @@ http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9718
 
 
 #EXTINF:-1 tvg-id="USA(Spanish).mx" tvg-name="SyFy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56727_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", USA
-http://181.188.234.21:8000/play/a03i/index.m3u8
+http://www.1play.cool:25461/JimmyLopez68/e2aeb7d9d22b/29833
 
 #EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-name="Estrella TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65064_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Estrella TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
@@ -350,7 +350,7 @@ http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/8221
 
 
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery Home & Health.
-http://177.93.46.163:8000/play/a01i
+http://www.1play.cool:25461/JimmyLopez68/e2aeb7d9d22b/29802
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery Home & Health..
 http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9821
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery Home & Health...
@@ -369,9 +369,9 @@ http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9782
 
 
 #EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY sci" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DISCOVERY sci.
-https://nxt.plus:8443/sofiargg/231015/30423
+http://www.1play.cool:25461/JimmyLopez68/e2aeb7d9d22b/133887
 #EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY sci" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DISCOVERY sci..
-http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9822
+http:\\www.1play.cool:25461\JimmyLopez68\e2aeb7d9d22b\29742
 #EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY sci" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DISCOVERY sci...
 http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9823
 
@@ -602,7 +602,7 @@ http://tv.diablotv.net:8080/lurdescont1/jfXdcweN9K/95028
 #EXTINF:-1 tvg-id="(20)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Bigbang Theory.
 http://sdmx.vip:80/play/jg5HX2TA-VjD5WbfAU_wQS-uuzgqh7QKzO-A5EZKY7U
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Bigbang Theory..
-http://sdmx.vip:80/play/jg5HX2TA-VjD5WbfAU_wQS-uuzgqh7QKzO-A5EZKY7U
+http://daleplaytv.vip:80/hagedn527/6137bhm/316947
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Bigbang Theory...
 http://supersonictv.live:8080/Reco123/Reco123/81253
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Bigbang Theory....
