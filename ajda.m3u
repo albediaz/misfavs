@@ -486,7 +486,7 @@ http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/10780
 
 
 #EXTINF:-1 tvg-id="ESPN(Spanish).mx" tvg-name="ESPN+" tvg-logo="https://m.media-amazon.com/images/I/41lChb5Q+KL.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN+
-http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9547
+http://www.1play.cool:25461/JimmyLopez68/e2aeb7d9d22b/182809
 
 #EXTINF:-1 tvg-id="ESPN(Spanish).mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN.
 http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9523
@@ -502,10 +502,10 @@ http://tv.masterplaytv.club:8080/YOwUqqZLqa/b4cdd8a5c5f6/9531
 http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9539
 
 #EXTINF:-1 tvg-id="ESPN4(Spanish).mx" tvg-name="ESPN 4." tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN 4.
-http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9547
+http://www.1play.cool:25461/JimmyLopez68/e2aeb7d9d22b/30260
 
 #EXTINF:-1 tvg-id="ESPN5Centroamerica(Spanish).mx" tvg-name="ESPN 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN 5
-http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9539
+http://www.1play.cool:25461/JimmyLopez68/e2aeb7d9d22b/182807
 
 #EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUDN.
 http://45.5.119.43:4000/play/a05q/index.m3u8
