@@ -77,6 +77,9 @@ https://live.obslivestream.com/planetatv/index.m3u8
 http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/95623
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cinema Dreamworks
 http://hdshost.online:8880//live/FamDuarte/tsVh57rFZg/177326.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="chilevisualretro" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Dodo TV
+https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OpinionSur Series" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", P Drama
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -101,8 +104,7 @@ http://160.20.165.246:8000/play/a01f/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", El pituco
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="chilevisualretro" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Comedia
-http://hdshost.online:8880//live/FamDuarte/tsVh57rFZg/558325.ts
+
 
 
 
