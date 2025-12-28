@@ -10,13 +10,13 @@ http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9666
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO..
 http://ultrapremium.cloud:8080/986346320tv/8s535p/140
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO...
-http://hdshost.online:8880//live/FamDuarte/tsVh57rFZg/54282.ts
+http://45.5.119.43:4000/play/a0l2/index.m3u8
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO....
 http://ultrapremium.cloud:8080/986346320tv/8s535p/141
 
 
 #EXTINF:-1 tvg-id="HBO2(Spanish).mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO 2.
-http://hdshost.online:8880//live/FamDuarte/tsVh57rFZg/19579.ts
+http://45.5.119.43:4000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="HBO2(Spanish).mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO 2..
 http://181.205.130.194:4000/play/a0do
 #EXTINF:-1 tvg-id="HBO2(Spanish).mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO 2...
@@ -28,7 +28,7 @@ http://hdshost.online:8880//live/FamDuarte/tsVh57rFZg/286151.ts
 
 
 #EXTINF:-1 tvg-id="HBOFamily(Spanish).mx" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Family.
-http://hdshost.online:8880//live/FamDuarte/tsVh57rFZg/12854.ts
+http://45.5.119.43:4000/play/a0l5/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamily(Spanish).mx" tvg-name="HBO Family HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Family..
 http://hdshost.online:8880//live/FamDuarte/tsVh57rFZg/73200.ts
 
@@ -36,13 +36,13 @@ http://hdshost.online:8880//live/FamDuarte/tsVh57rFZg/73200.ts
 #EXTINF:-1 tvg-id="HBOXtreme(Spanish).mx" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO XTREME.
 http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9697
 #EXTINF:-1 tvg-id="HBOXtreme(Spanish).mx" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO XTREME..
-http://hdshost.online:8880//live/FamDuarte/tsVh57rFZg/54164.ts
+http://45.5.119.43:4000/play/a0l6/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme(Spanish).mx" tvg-name="HBO Xtreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Xtreme...
 http://ultrapremium.cloud:8080/986346320tv/8s535p/157
 
 
 #EXTINF:-1 tvg-id="HBOPlus(Spanish).mx" tvg-name="HBO Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Plus.
-http://hdshost.online:8880//live/FamDuarte/tsVh57rFZg/19581.ts
+http://45.5.119.43:4000/play/a0l4/index.m3u8
 #EXTINF:-1 tvg-id="HBOPlus(Spanish).mx" tvg-name="HBO PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO PLUS..
 http://hdshost.online:8880//live/FamDuarte/tsVh57rFZg/159125.ts
 
@@ -478,7 +478,7 @@ http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9593
 http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9578
 
 #EXTINF:-1 tvg-id="FOXSports2(ConoNorte)(Spanish).mx" tvg-name="FOX SPORTS 2." tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", FOX SPORTS 2.
-http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9584
+http://181.78.106.127:9000/play/ca032/index.m3u8
 #EXTINF:-1 tvg-id="FOXSports2(ConoNorte)(Spanish).mx" tvg-name="Fox Sports 2.." tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Fox Sports 2..
 http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9585
 
@@ -495,18 +495,18 @@ http://www.1play.cool:25461/JimmyLopez68/e2aeb7d9d22b/182809
 #EXTINF:-1 tvg-id="ESPN(Spanish).mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN.
 http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9544
 #EXTINF:-1 tvg-id="ESPN(Spanish).mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN..
-http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9544
+http://45.5.119.43:4000/play/a052/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2(Spanish).mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN 2.
-http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9543
+http://45.5.119.43:4000/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2(Spanish).mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN 2..
-http://tv.masterplaytv.club:8080/YOwUqqZLqa/b4cdd8a5c5f6/9531
+http://181.78.106.127:9000/play/ca034/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN3(Spanish).mx" tvg-name="ESPN 3." tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN 3.
-http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/9539
+http://45.5.119.43:4000/play/a054/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN4(Spanish).mx" tvg-name="ESPN 4." tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN 4.
-http://www.1play.cool:25461/JimmyLopez68/e2aeb7d9d22b/30260
+http://181.78.106.127:9000/play/a0sg/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN5Centroamerica(Spanish).mx" tvg-name="ESPN 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN 5
 http://www.1play.cool:25461/JimmyLopez68/e2aeb7d9d22b/182807
