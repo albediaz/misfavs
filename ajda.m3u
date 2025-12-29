@@ -174,7 +174,7 @@ http://www.1play.cool:25461/JimmyLopez68/e2aeb7d9d22b/30495
 
 
 #EXTINF:-1 tvg-id="MC(Spanish).mx" tvg-name="MULTICINEMA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18329_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", MULTICINEMA.
-http://hdshost.online:8880//live/FamDuarte/tsVh57rFZg/453506.ts
+http://38.49.128.38:8000/play/a0co/index.m3u8
 #EXTINF:-1 tvg-id="MC(Spanish).mx" tvg-name="MULTICINEMA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18329_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", MULTICINEMA..
 http://38.49.128.38:8000/play/a0lo/index.m3u8
 
