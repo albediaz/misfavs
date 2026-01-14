@@ -74,7 +74,7 @@ http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9619
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetaTV Movies | CL" tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", PlanetaTV Movies | CL
 https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Animacion
-https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_o-1Wso7HrCH64FYy53F2l4/ts
+http://tv.zeuspro.xyz:8080/JustinoGarcia2502/NRzad7f9bV/164958
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Animacion 2
 https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_l27aKS6-q3fudWLBIAkSng/ts
 
@@ -83,32 +83,32 @@ https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_kswsKWFjxCxYIv2Gs8XWJ0/ts
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cinema Dreamworks
-http://latino777.xyz:8080/crplaytv2025/MNB638ahI56/532072
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cinema Disney
+http://tv.zeuspro.xyz:8080/JustinoGarcia2502/NRzad7f9bV/164955
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="chilevisualretro" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Dodo TV
-https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="chilevisualretro" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine fantasia
+http://tv.zeuspro.xyz:8080/JustinoGarcia2502/NRzad7f9bV/164974
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OpinionSur Series" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", P Drama
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro tv" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", P Suspenso
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DTV" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Nuestro Cine P
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OpinionSur Series" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", C Accion
+http://tv.zeuspro.xyz:8080/JustinoGarcia2502/NRzad7f9bV/164581
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro tv" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Mision Imposible
+http://tv.zeuspro.xyz:8080/JustinoGarcia2502/NRzad7f9bV/164798
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DTV" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Amazon pr 2
+http://tv.zeuspro.xyz:8080/JustinoGarcia2502/NRzad7f9bV/164870
 
 
 
 
 
-#EXTINF:-1 tvg-id="-1" tvg-name="FMHFAMILY" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="todos" tvg-shift="-7", audio-track="esp,spa", FMH FAMILY
-http://160.20.165.246:8000/play/a01j/index.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="FMHkids" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="todos" tvg-shift="-7", audio-track="esp,spa", FMH kids
-http://160.20.165.246:8000/play/a01f/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="-1" tvg-name="FMHFAMILY" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Disney 1
+http://tv.zeuspro.xyz:8080/JustinoGarcia2502/NRzad7f9bV/164951
+#EXTINF:-1 tvg-id="-1" tvg-name="FMHkids" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Disney 2
+http://tv.zeuspro.xyz:8080/JustinoGarcia2502/NRzad7f9bV/164952
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", El pituco
@@ -614,19 +614,19 @@ http://tv.diablotv.net:8080/lurdescont1/jfXdcweN9K/95028
 
 
 #EXTINF:-1 tvg-id="(20)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Bigbang Theory.
-http://latino777.xyz:8080/crplaytv2025/MNB638ahI56/525876
+http://tv.zeuspro.xyz:8080/JustinoGarcia2502/NRzad7f9bV/162838
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Bigbang Theory..
 http://tv.proyectox.vip:8080/sampendante1/uEkfrcJgnP/162839
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Bigbang Theory...
 http://streamingtv.vip:80//live/danielperez2663/ctaplay844tv/316947.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Bigbang Theory....
-hhttp://liontv.es:8080/live/Alejandra2023/Alejandra2023/fb2b1939-190b-47dc-a2a9-502e75333c46.m3u
+http://tv.zeuspro.xyz:8080/JustinoGarcia2502/NRzad7f9bV/162843
 
 
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Dr. House.
 http://higherpro.xyz:8080/54bave98wa35pe88/58wumu473muwu85/250477
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Dr. House..
-http://sdmx.vip:80/play/jg5HX2TA-VjD5WbfAU_wQX7yoMXdyx4VdtzEm6IdmZc
+http://tv.zeuspro.xyz:8080/JustinoGarcia2502/NRzad7f9bV/162881
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Dr. House...
 http://ultrapremium.cloud:8080/986346320tv/8s535p/250477
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Dr. House....
@@ -646,7 +646,7 @@ http://sdmx.vip:80/play/jg5HX2TA-VjD5WbfAU_wQQYuwRYY6zy-2PB9uAiJI98
 
 
 #EXTINF:-1 tvg-id="(35)" tvg-name="Como conoci a tu madre" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Como conoci a tu madre
-http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/94857
+http://tv.zeuspro.xyz:8080/JustinoGarcia2502/NRzad7f9bV/166092
 
 
 #EXTINF:-1 tvg-id="(35)" tvg-name="Dos Hombres y Medio" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Dos Hombres y Medio
