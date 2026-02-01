@@ -71,14 +71,14 @@ http://ultrapremium.cloud:8080/986346320tv/8s535p/105
 http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9619
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetaTV Movies | CL" tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", PlanetaTV Movies | CL
-https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Animacion
-http://tv.zeuspro.xyz:8080/JustinoGarcia2502/NRzad7f9bV/164958
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetaTV Movies | CL" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Animacion 1
+https://tvgolat.org:8443/Oscarmogollon01/D175349g/214275.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Animacion 2
-https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_l27aKS6-q3fudWLBIAkSng/ts
-
+http://tv.zeuspro.xyz:8080/JustinoGarcia2502/NRzad7f9bV/164958
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Animacion 3
+https://tvgolat.org:8443/Oscarmogollon01/D175349g/266907.ts
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Animacion 4
 https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_kswsKWFjxCxYIv2Gs8XWJ0/ts
 
 
@@ -140,7 +140,7 @@ http://181.78.106.127:9000/play/ca095/index.m3u8
 #EXTINF:-1 tvg-id="CineLatino(Spanish).mx" tvg-name="Cine Latino" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Latino.
 http://38.49.128.38:8000/play/a0lq/index.m3u8
 #EXTINF:-1 tvg-id="CineLatino(Spanish).mx" tvg-name="CINE LATINO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", CINE LATINO..
-http://45.5.119.43:4000/play/a0ik/index.m3u8
+https://tvgolat.org:8443/Oscarmogollon01/D175349g/266453.ts
 
 
 #EXTINF:-1 tvg-id="CanalDHE.mx" tvg-name="DHE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s81622_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DHE.
@@ -151,7 +151,7 @@ http://190.104.67.8:234/play/a0p6/index.m3u8
 http://181.78.106.127:9000/play/a0s8/index.m3u8
 
 #EXTINF:-1 tvg-id="Antena3Internacional.do" tvg-name="A3 SERIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16800_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Español
-http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/8197
+https://tvgolat.org:8443/Oscarmogollon01/D175349g/172495.ts
 #EXTINF:-1 tvg-id="Atrescine.mx" tvg-name="A3Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82808_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", A3Cine
 http://www.1play.cool:25461/JimmyLopez68/e2aeb7d9d22b/134284
 
