@@ -71,7 +71,7 @@ http://ultrapremium.cloud:8080/986346320tv/8s535p/105
 http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9619
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetaTV Movies | CL" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Animacion 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Animacion 1
 https://tvgolat.org:8443/Oscarmogollon01/D175349g/214275.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Animacion 2
 http://tv.zeuspro.xyz:8080/JustinoGarcia2502/NRzad7f9bV/164958
@@ -79,7 +79,7 @@ http://tv.zeuspro.xyz:8080/JustinoGarcia2502/NRzad7f9bV/164958
 https://tvgolat.org:8443/Oscarmogollon01/D175349g/266907.ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Animacion 4
-https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_kswsKWFjxCxYIv2Gs8XWJ0/ts
+http://tv.zeuspro.xyz:8080/JustinoGarcia2502/NRzad7f9bV/164863
 
 
 
@@ -91,10 +91,10 @@ http://tv.zeuspro.xyz:8080/JustinoGarcia2502/NRzad7f9bV/164955
 http://tv.zeuspro.xyz:8080/JustinoGarcia2502/NRzad7f9bV/164974
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OpinionSur Series" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", C Accion
-http://tv.zeuspro.xyz:8080/JustinoGarcia2502/NRzad7f9bV/164581
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro tv" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Mision Imposible
-http://tv.zeuspro.xyz:8080/JustinoGarcia2502/NRzad7f9bV/164798
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OpinionSur Series" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", C Netflix
+http://tv.zeuspro.xyz:8080/JustinoGarcia2502/NRzad7f9bV/164934
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro tv" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", C Infantil
+http://tv.zeuspro.xyz:8080/JustinoGarcia2502/NRzad7f9bV/164943
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DTV" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Amazon pr 2
 http://tv.zeuspro.xyz:8080/JustinoGarcia2502/NRzad7f9bV/164870
 
