@@ -1,0 +1,16 @@
+#EXTM3U url-tvg=""""
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="→ 24/7 ←", big bang 12 01
+http://192.168.100.17/SERIES/La%20teoria%20del%20Big%20Bang/TEMP%2012/S12E01.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="→ 24/7 ←", big bang 12 02
+http://192.168.100.17/SERIES/La%20teoria%20del%20Big%20Bang/TEMP%2012/S12E02.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="→ 24/7 ←", big bang 12 03
+http://192.168.100.17/SERIES/La%20teoria%20del%20Big%20Bang/TEMP%2012/S12E03.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="→ 24/7 ←", big bang 12 04
+http://192.168.100.17/SERIES/La%20teoria%20del%20Big%20Bang/TEMP%2012/S12E04.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="→ 24/7 ←", big bang 12 05
+http://192.168.100.17/SERIES/La%20teoria%20del%20Big%20Bang/TEMP%2012/S12E05.mkv
