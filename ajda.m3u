@@ -137,8 +137,8 @@ http://45.5.119.43:4000/play/a0hq/index.m3u8
 http://181.78.106.127:9000/play/ca095/index.m3u8
 
 
-#EXTINF:-1 tvg-id="CineLatino(Spanish).mx" tvg-name="Cine Latino" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Latino.
-http://38.49.128.38:8000/play/a0lq/index.m3u8
+#EXTINF:-1 tvg-id="CineLatino(Spanish).mx" tvg-name="Cine Latino" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cinema Latino
+http://dplatino.net:80//live/Promotor68/gCNeuAe7SReb/317113.ts
 #EXTINF:-1 tvg-id="CineLatino(Spanish).mx" tvg-name="CINE LATINO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", CINE LATINO..
 https://tvgolat.org:8443/Oscarmogollon01/D175349g/266453.ts
 
@@ -332,11 +332,11 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 http://45.5.119.43:4000/play/a0fv/index.m3u8
 
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", History Channel.
-http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/79479.ts
+http://jumangis.cloud:2082/Robertomendez/b2VLn5SDzt/29306
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", History Channel..
 http://www.1play.cool:25461/JimmyLopez68/e2aeb7d9d22b/133856
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", History Channel...
-http://live.proyectoxpro.com:8080/roxanatv2020/wI6dAzDRkX/9838
+http://jumangis.cloud:2082/Robertomendez/b2VLn5SDzt/29304
 
 
 #EXTINF:-1 tvg-id="History2.mx" tvg-name="History 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", History 2.
@@ -354,7 +354,7 @@ http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/79486.ts
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic...
 http://45.5.119.43:4000/play/a0kk/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic....
-http://live.proyectoxpro.com:8080/roxanatv2020/wI6dAzDRkX/9846
+http://jumangis.cloud:2082/Robertomendez/b2VLn5SDzt/525390
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", National Geographic.....
 http://ultrapremium.cloud:8080/986346320tv/8s535p/236364
 
@@ -368,17 +368,17 @@ http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/415642.ts
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery Home & Health..
 http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/415641.ts
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Discovery Home & Health...
-http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9820
+http://jumangis.cloud:2082/Robertomendez/b2VLn5SDzt/29364
 
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DISCOVERY CHANNEL.
-http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9814
+http://jumangis.cloud:2082/Robertomendez/b2VLn5SDzt/29287
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DISCOVERY CHANNEL..
-http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9816
+http://jumangis.cloud:2082/Robertomendez/b2VLn5SDzt/29290
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DISCOVERY CHANNEL...
-http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9814
+https://moviezona593.com:8443/play/MMzLQi-sUBpYvWlL73mv8bR9VJDHZxWBUrD9Vm9PpDvFTCxdZubdQpczRGWBV6au/ts
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DISCOVERY CHANNEL....
-http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9782
+https://moviezona593.com:8443/play/MMzLQi-sUBpYvWlL73mv8bR9VJDHZxWBUrD9Vm9PpDuxgbUZwuEttU-cPPYwt81n/ts
 
 
 
@@ -563,7 +563,7 @@ https://59ef525c24caa.streamlock.net/vmtv/soyplancha/chunklist_w506636238.m3u8?W
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Don gato" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Don gato.
-http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/110032
+http://dplatino.net:80//live/Promotor68/gCNeuAe7SReb/362429.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Don gato" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Don gato..
 http://streamingtv.vip:80//live/danielperez2663/ctaplay844tv/362429.ts
 
@@ -574,8 +574,8 @@ http://higherpro.xyz:8080/54bave98wa35pe88/58wumu473muwu85/250509
 http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/94883
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpson..." tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Los Simpson...
 http://sdmx.vip:80/play/jg5HX2TA-VjD5WbfAU_wQcZ55lhv4BhmzdREAjF5clE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpson...." tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Los Simpson....
-http://sdmx.vip:80/play/jg5HX2TA-VjD5WbfAU_wQf4Nh1eNx9OWSUg5QgyfJG8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpson...." tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Jovenes Titanes
+http://dplatino.net:80//live/Promotor68/gCNeuAe7SReb/418941.ts
 
 
 
@@ -598,7 +598,7 @@ http://ultrapremium.cloud:8080/live/986346320tv/8s535p/250478.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="timonypumba" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Jimmy Neutron
 http://sdmx.vip:80/play/jg5HX2TA-VjD5WbfAU_wQbNH2KgWC11xcyXprF_p_wY
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", X-MEN
-http://higherpro.xyz:8080/54bave98wa35pe88/58wumu473muwu85/250526
+http://dplatino.net:80//live/Promotor68/gCNeuAe7SReb/317159.ts
 
 
 
@@ -607,7 +607,7 @@ http://higherpro.xyz:8080/54bave98wa35pe88/58wumu473muwu85/250526
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="pinguinosmadagascar" tvg-logo="https://image1.challengermode.com/59e52a55-d8f6-40d2-2574-08dad30bb5c2_256_256" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Pingüinos de Madagascar.
 http://streamingtv.vip:80//live/danielperez2663/ctaplay844tv/366250.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="pinguinosmadagascar" tvg-logo="https://image1.challengermode.com/59e52a55-d8f6-40d2-2574-08dad30bb5c2_256_256" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Pingüinos de Madagascar..
-http://tv.diablotv.net:8080/lurdescont1/jfXdcweN9K/95028
+http://dplatino.net:80//live/Promotor68/gCNeuAe7SReb/366250.ts
 
 
 
@@ -616,7 +616,7 @@ http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/575775.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Bigbang Theory..
 http://jumangis.cloud:2082/Robertomendez/b2VLn5SDzt/149649
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Bigbang Theory...
-http://tv.zapping.life:8080/NadCan04132019/81c35037b2af/166304
+http://jumangis.cloud:2082/Robertomendez/b2VLn5SDzt/149649
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Bigbang Theory....
 http://192.168.100.17/SERIES/La%20teoria%20del%20Big%20Bang/canal_T10-12.m3u
 
@@ -631,9 +631,9 @@ http://ultrapremium.cloud:8080/986346320tv/8s535p/250477
 http://tv.zeuspro.xyz:8080/Mabr30012024/60fcfaa2c3af/162881
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="X Men" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Planeta de los Simiios.
-http://tv.zeuspro.xyz:8080/Mabr30012024/60fcfaa2c3af/164981
+http://dplatino.net:80//live/Promotor68/gCNeuAe7SReb/317125.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="X Men" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Planeta de los Simiios..
-http://tv.zeuspro.xyz:8080/Mabr30012024/60fcfaa2c3af/164982
+http://dplatino.net:80//live/Promotor68/gCNeuAe7SReb/317158.ts
 
 
 
