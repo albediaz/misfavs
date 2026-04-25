@@ -6,7 +6,7 @@ url-tvg="http://m3u4u.com/epg/69wkng6qg4cxgg6eyq8g"
 
 
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa",  audio-track="esp,spa", HBO.
-http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/46146.ts
+http://miotv.cc:8080/Juan123/Juan123/187176
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO..
 http://ultrapremium.cloud:8080/986346320tv/8s535p/140
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO...
@@ -47,21 +47,21 @@ http://45.5.119.43:4000/play/a0l4/index.m3u8
 http://45.5.119.43:4000/play/a0l4/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPOP(Spanish).mx" tvg-name="HBO POP HD" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/03/C_457-1.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO POP.
-http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/96201.ts
+http://miotv.cc:8080/Juan123/Juan123/187179
 #EXTINF:-1 tvg-id="HBOPOP(Spanish).mx" tvg-name="HBO POP HD" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/03/C_457-1.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO POP..
-http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/96202.ts
+http://miotv.cc:8080/Juan123/Juan123/187180
 
 
 
 #EXTINF:-1 tvg-id="HBOMundi(Spanish).mx" tvg-name="HBO Mundi" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Mundi.
-http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/96204.ts
+http://miotv.cc:8080/Juan123/Juan123/425520
 #EXTINF:-1 tvg-id="HBOMundi(Spanish).mx" tvg-name="HBO Mundi" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Mundi..
 http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/96205.ts
 
 #EXTINF:-1 tvg-id="HBOSignature(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa",  audio-track="esp,spa", HBO Signature.
-http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/46162.ts
+http://miotv.cc:8080/Juan123/Juan123/187167
 #EXTINF:-1 tvg-id="HBOSignature(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa",  audio-track="esp,spa", HBO Signature..
-http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/46163.ts
+http://miotv.cc:8080/Juan123/Juan123/187168
 
 #EXTINF:-1 tvg-id="AMC(Spanish).mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", AMC.
 http://ultrapremium.cloud:8080/986346320tv/8s535p/104
@@ -596,7 +596,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5a
 http://higherpro.xyz:8080/54bave98wa35pe88/58wumu473muwu85/706
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El chavo del 8" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", El chavo del 8
-http://ultrapremium.cloud:8080/live/986346320tv/8s535p/250478.m3u8
+http://miotv.cc:8080/Juan123/Juan123/400767
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="timonypumba" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Hotel Transilvania
 http://tv.zapping.life:8080/Erasmo24/01db2dd93001/169546
 
@@ -615,7 +615,7 @@ http://galileatv.top:8080/dis-viktorgfx/cXETNdUfKmpJ/160714
 #EXTINF:-1 tvg-id="(20)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Bigbang Theory.
 http://somoseluno.blog:80//live/Pablo0811pad/TWD5mdmH7dju/316947.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Bigbang Theory..
-http://liontv.es:8080/ALVARADO2023/RENE2023/806413
+http://miotv.cc:8080/Juan123/Juan123/400770
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Bigbang Theory...
 http://liontv.es:8080/ALVARADO2023/RENE2023/806353
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Bigbang Theory....
