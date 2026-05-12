@@ -74,19 +74,19 @@ http://live.proyectoxpro.com:8080/roxanatv2020/wI6dAzDRkX/9619
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Animacion 1
 http://liontv.es:8080/ilianaargue289/5QYFvdMFZh/1422383
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Animacion 2
-http://liontv.es:8080/ilianaargue289/5QYFvdMFZh/1598520
+http://tv-max.online:80/roberto_soto/Soto2023Ro/615754.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Animacion 3
 http://liontv.es:8080/ilianaargue289/5QYFvdMFZh/1598518
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Animacion 4
-http://tv.diablotv.net:8080/live/miguelzota/7406e968bbe6/164949.m3u8
+http://tv-max.online:80/roberto_soto/Soto2023Ro/235579.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Animación 5
-http://tv.diablotv.net:8080/live/miguelzota/7406e968bbe6/164950.m3u8
+http://tv-max.online:80/roberto_soto/Soto2023Ro/615754.m3u8
 
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Estrenos
-http://somoseluno.blog:80//live/Pablo0811pad/TWD5mdmH7dju/317127.m3u8
+http://tv-max.online:80/roberto_soto/Soto2023Ro/235567.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="chilevisualretro" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Saga Hobbit
@@ -96,9 +96,9 @@ http://totalplay.site:80/pablo522soto/482vnei341/716546.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OpinionSur Series" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", C Netflix
-http://tv.diablotv.net:8080/live/miguelzota/7406e968bbe6/164944.m3u8
+http://tv-max.online:80/roberto_soto/Soto2023Ro/235584.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro tv" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", C Infantil
-http://somoseluno.blog:80//live/Pablo0811pad/TWD5mdmH7dju/317106.m3u8
+http://tv-max.online:80/roberto_soto/Soto2023Ro/235578.m3u8
 
 
 
@@ -109,9 +109,9 @@ http://somoseluno.blog:80//live/Pablo0811pad/TWD5mdmH7dju/317106.m3u8
 
 
 #EXTINF:-1 tvg-id="-1" tvg-name="FMHFAMILY" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine.
-http://tv.diablotv.net:8080/live/miguelzota/7406e968bbe6/164959.m3u8
+http://tv-max.online:80/roberto_soto/Soto2023Ro/235573.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="FMHkids" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine..
-http://tv.diablotv.net:8080/live/miguelzota/7406e968bbe6/164582.m3u8
+http://tv-max.online:80/roberto_soto/Soto2023Ro/235565.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", El pituco
@@ -149,7 +149,7 @@ https://tvgolat.org:8443/Oscarmogollon01/D175349g/266453.m3u8
 #EXTINF:-1 tvg-id="CanalDHE.mx" tvg-name="DHE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s81622_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DHE.
 http://45.5.119.43:4000/play/a0gy/index.m3u8
 #EXTINF:-1 tvg-id="CanalDHE.mx" tvg-name="DHE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s81622_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", DHE..
-http://tv.zapping.life:8080/Erasmo24/01db2dd93001/9643
+http://tv-max.online:80/roberto_soto/Soto2023Ro/46122.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV TCS+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TCS_35_2017.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", VTV TCS+
 http://181.78.106.127:9000/play/a0s8/index.m3u8
 
@@ -159,7 +159,7 @@ http://kawk2026zeta.la24tv.com:8080/live/kawk1233/SNmQJ9LRsTcY/55a571ea-dc1d-40b
 http://www.1play.cool:25461/JimmyLopez68/e2aeb7d9d22b/134284
 
 #EXTINF:-1 tvg-id="Golden(Spanish).mx" tvg-name="Golden" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Golden.
-http://ultrapremium.cloud:8080/986346320tv/8s535p/127
+http://tv-max.online:80/roberto_soto/Soto2023Ro/46142.m3u8
 #EXTINF:-1 tvg-id="Golden(Spanish).mx" tvg-name="Golden" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Golden..
 http://45.5.119.43:4000/play/a0jv/index.m3u8
 
@@ -598,7 +598,7 @@ http://dplatino.net:80//live/Limber2024/5295282Lr/366250.m3u8
 
 
 #EXTINF:-1 tvg-id="(20)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Bigbang Theory.
-http://tv.diablotv.net:8080/live/asCGSZY6yu/606c2ee81521/166304.m3u8
+http://tv-max.online:80/roberto_soto/Soto2023Ro/575775.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Bigbang Theory..
 http://miotv.cc:8080/Juan123/Juan123/400770
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigbang" tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/965ad7fe92ae4c14ad7fa9f7de26a3c8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Bigbang Theory...
