@@ -8,11 +8,11 @@ url-tvg="http://m3u4u.com/epg/69wkng6qg4cxgg6eyq8g"
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa",  audio-track="esp,spa", HBO.
 http://miotv.cc:8080/Juan123/Juan123/187176
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO..
-http://ultrapremium.cloud:8080/986346320tv/8s535p/140
+http://elpapanatas.space:8080/Oliver123/Oliver123/146580
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO...
 http://45.5.119.43:4000/play/a0l2/index.m3u8
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO....
-http://ultrapremium.cloud:8080/986346320tv/8s535p/141
+http://elpapanatas.space:8080/Oliver123/Oliver123/207963
 
 
 #EXTINF:-1 tvg-id="HBO2(Spanish).mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO 2.
@@ -20,9 +20,9 @@ http://45.5.119.43:4000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="HBO2(Spanish).mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO 2..
 http://181.205.130.194:4000/play/a0do
 #EXTINF:-1 tvg-id="HBO2(Spanish).mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO 2...
-http://ultrapremium.cloud:8080/986346320tv/8s535p/131
+http://elpapanatas.space:8080/Oliver123/Oliver123/146580
 #EXTINF:-1 tvg-id="HBO2(Spanish).mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO 2....
-http://ultrapremium.cloud:8080/986346320tv/8s535p/132
+http://elpapanatas.space:8080/Oliver123/Oliver123/245775
 #EXTINF:-1 tvg-id="HBO2(Spanish).mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO 2.....
 http://45.5.119.43:4000/play/a00c/index.m3u8
 
@@ -34,15 +34,15 @@ http://45.5.119.43:4000/play/a0l5/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBOXtreme(Spanish).mx" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO XTREME.
-http://38.49.128.38:8000/play/a096/index.m3u8
+http://elpapanatas.space:8080/Oliver123/Oliver123/245781
 #EXTINF:-1 tvg-id="HBOXtreme(Spanish).mx" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO XTREME..
 http://45.5.119.43:4000/play/a0l6/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme(Spanish).mx" tvg-name="HBO Xtreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Xtreme...
-http://ultrapremium.cloud:8080/986346320tv/8s535p/157
+http://elpapanatas.space:8080/Oliver123/Oliver123/146586
 
 
 #EXTINF:-1 tvg-id="HBOPlus(Spanish).mx" tvg-name="HBO Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Plus.
-http://45.5.119.43:4000/play/a0l4/index.m3u8
+http://elpapanatas.space:8080/Oliver123/Oliver123/245778
 #EXTINF:-1 tvg-id="HBOPlus(Spanish).mx" tvg-name="HBO PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO PLUS..
 http://45.5.119.43:4000/play/a0l4/index.m3u8
 
@@ -54,9 +54,9 @@ http://miotv.cc:8080/Juan123/Juan123/187180
 
 
 #EXTINF:-1 tvg-id="HBOMundi(Spanish).mx" tvg-name="HBO Mundi" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Mundi.
-http://miotv.cc:8080/Juan123/Juan123/425520
+http://elpapanatas.space:8080/Oliver123/Oliver123/146584
 #EXTINF:-1 tvg-id="HBOMundi(Spanish).mx" tvg-name="HBO Mundi" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Mundi..
-http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/96205.m3u8
+http://elpapanatas.space:8080/Oliver123/Oliver123/245779
 
 #EXTINF:-1 tvg-id="HBOSignature(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa",  audio-track="esp,spa", HBO Signature.
 http://miotv.cc:8080/Juan123/Juan123/187167
@@ -64,15 +64,15 @@ http://miotv.cc:8080/Juan123/Juan123/187167
 http://miotv.cc:8080/Juan123/Juan123/187168
 
 #EXTINF:-1 tvg-id="AMC(Spanish).mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", AMC.
-http://ultrapremium.cloud:8080/986346320tv/8s535p/104
+http://elpapanatas.space:8080/Oliver123/Oliver123/58200
 #EXTINF:-1 tvg-id="AMC(Spanish).mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", AMC..
-http://ultrapremium.cloud:8080/986346320tv/8s535p/105
+http://elpapanatas.space:8080/Oliver123/Oliver123/142555
 #EXTINF:-1 tvg-id="AMC(Spanish).mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", AMC...
-http://live.proyectoxpro.com:8080/roxanatv2020/wI6dAzDRkX/9619
+http://elpapanatas.space:8080/Oliver123/Oliver123/143201
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Animacion 1
-http://liontv.es:8080/ilianaargue289/5QYFvdMFZh/1422383
+http://elpapanatas.space:8080/Oliver123/Oliver123/143508
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Animacion 2
 http://tv-max.online:80/roberto_soto/Soto2023Ro/615754.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Animacion 3
@@ -91,8 +91,8 @@ http://tv-max.online:80/roberto_soto/Soto2023Ro/235567.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="chilevisualretro" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Saga Hobbit
 http://dplatino.net:80//live/Limber2024/5295282Lr/317126.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="chilevisualretro" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Saga Alien
-http://totalplay.site:80/pablo522soto/482vnei341/716546.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="chilevisualretro" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Game of Thrones
+http://elpapanatas.space:8080/Oliver123/Oliver123/415522
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OpinionSur Series" tvg-logo="" group-title="todos" tvg-shift="-7", audio-track="esp,spa", C Netflix
@@ -169,7 +169,7 @@ http://45.5.119.43:4000/play/a0jv/index.m3u8
 http://200.115.120.1:8000/play/ca037/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLDENPLUS(Spanish).mx" tvg-name="Golden Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Golden Plus
-http://ultrapremium.cloud:8080/986346320tv/8s535p/65219
+http://elpapanatas.space:8080/Oliver123/Oliver123/146583
 
 #EXTINF:-1 tvg-id="GoldenPremier(Spanish).mx" tvg-name="Golden Premier" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Golden Premier.
 http://totalplay.site:80/pablo522soto/482vnei341/46140.m3u8
@@ -520,16 +520,35 @@ http://181.78.106.127:9000/play/a0sg/index.m3u8
 #EXTINF:-1 tvg-id="ESPN5Centroamerica(Spanish).mx" tvg-name="ESPN 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN 5
 http://www.1play.cool:25461/JimmyLopez68/e2aeb7d9d22b/182807
 
-#EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUDN.
+#EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", TUDN.
 http://45.5.119.43:4000/play/a05q/index.m3u8
-#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUDN..
+#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", TUDN..
 http://elpapanatas.space:8080/Felipe123/Felipe123/61978
-#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUDN...
+#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", TUDN...
 http://elpapanatas.space:8080/Felipe123/Felipe123/61996
-#EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUDN....
+#EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", TUDN....
 http://elpapanatas.space:8080/Felipe123/Felipe123/61983
-#EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", TUDN.....
+#EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", TUDN.....
 http://elpapanatas.space:8080/Felipe123/Felipe123/138862
+#EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="https://cdn.prod.website-files.com/667d9e22669ca919a891cfef/6683d50e8dd81a3d59136e15_MonterreyFWC_Logo_Colour.svg" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", DSPORTS 1 ARG.
+http://elpapanatas.space:8080/Oliver123/Oliver123/258844
+#EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="https://cdn.prod.website-files.com/667d9e22669ca919a891cfef/6683d50e8dd81a3d59136e15_MonterreyFWC_Logo_Colour.svg" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", DSPORTS 1 URU.
+http://elpapanatas.space:8080/Oliver123/Oliver123/258843
+#EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="https://cdn.prod.website-files.com/667d9e22669ca919a891cfef/6683d50e8dd81a3d59136e15_MonterreyFWC_Logo_Colour.svg" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", DSPORTS 2 ECU.
+http://elpapanatas.space:8080/Oliver123/Oliver123/258836
+#EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="https://cdn.prod.website-files.com/667d9e22669ca919a891cfef/6683d50e8dd81a3d59136e15_MonterreyFWC_Logo_Colour.svg" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", DSPORTS+ CHI.
+http://elpapanatas.space:8080/Oliver123/Oliver123/258838
+#EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="https://cdn.prod.website-files.com/667d9e22669ca919a891cfef/6683d50e8dd81a3d59136e15_MonterreyFWC_Logo_Colour.svg" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", DSPORTS+ LAT.
+http://elpapanatas.space:8080/Oliver123/Oliver123/258759
+#EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="https://cdn.prod.website-files.com/667d9e22669ca919a891cfef/6683d50e8dd81a3d59136e15_MonterreyFWC_Logo_Colour.svg" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", DSPORTS+ LAT.
+http://elpapanatas.space:8080/Oliver123/Oliver123/258832
+#EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="https://cdn.prod.website-files.com/667d9e22669ca919a891cfef/6683d50e8dd81a3d59136e15_MonterreyFWC_Logo_Colour.svg" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", DGO
+http://elpapanatas.space:8080/Oliver123/Oliver123/437192
+#EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="https://cdn.prod.website-files.com/667d9e22669ca919a891cfef/6683d50e8dd81a3d59136e15_MonterreyFWC_Logo_Colour.svg" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", FIFA+
+http://elpapanatas.space:8080/Oliver123/Oliver123/141390
+#EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="https://cdn.prod.website-files.com/667d9e22669ca919a891cfef/6683d50e8dd81a3d59136e15_MonterreyFWC_Logo_Colour.svg" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", TELEMUND CHICAGO
+http://elpapanatas.space:8080/Oliver123/Oliver123/147562
+
 
 
 #EXTINF:-1 tvg-id="ClaroSports(Spanish).mx" tvg-name="Claro Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Claro Sports
@@ -591,7 +610,7 @@ http://tv.zapping.life:8080/Erasmo24/01db2dd93001/169546
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="pinguinosmadagascar" tvg-logo="https://image1.challengermode.com/59e52a55-d8f6-40d2-2574-08dad30bb5c2_256_256" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Pingüinos de Madagascar.
-http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/160714
+http://elpapanatas.space:8080/Oliver123/Oliver123/309638
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="pinguinosmadagascar" tvg-logo="https://image1.challengermode.com/59e52a55-d8f6-40d2-2574-08dad30bb5c2_256_256" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Pingüinos de Madagascar..
 http://dplatino.net:80//live/Limber2024/5295282Lr/366250.m3u8
 
@@ -612,7 +631,7 @@ http://liontv.es:8080/ilianaargue289/5QYFvdMFZh/762438
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Dr. House.
 http://elpapanatas.space:8080/Felipe123/Felipe123/415569
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Dr. House..
-http://tv.zeuspro.xyz:8080/JustinoGarcia2502/NRzad7f9bV/162881
+http://elpapanatas.space:8080/Oliver123/Oliver123/415569
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Dr. House...
 http://miotv.cc:8080/Juan123/Juan123/400770
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="drhouse" tvg-logo="https://i.pinimg.com/originals/c5/05/66/c50566e86354dd5cee6b28984d1cf84b.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Dr. House....
@@ -621,19 +640,19 @@ http://tv-max.online:80/roberto_soto/Soto2023Ro/575775.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="X Men" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Planeta de los Simiios.
 http://liontv.es:8080/ALVARADO2023/RENE2023/772782
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="X Men" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Volver al Futuro
-http://liontv.es:8080/ALVARADO2023/RENE2023/1367562
+http://elpapanatas.space:8080/Oliver123/Oliver123/354254
 
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malcom el de enmedio." tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Malcom el de enmedio.
-http://tv.zapping.life:8080/Erasmo24/01db2dd93001/166096
+http://elpapanatas.space:8080/Oliver123/Oliver123/415629
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malcom el de enmedio.." tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Malcom el de enmedio..
 http://ultrapremium.cloud:8080/live/986346320tv/8s535p/250578.m3u8
 
 
 
 #EXTINF:-1 tvg-id="(20)" tvg-name="Años Maravillosos" tvg-logo="https://ih1.redbubble.net/image.2131767850.4358/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Años Maravillosos
-http://tv.zapping.life:8080/Erasmo24/01db2dd93001/177133
+http://elpapanatas.space:8080/Oliver123/Oliver123/415600
 
 
 #EXTINF:-1 tvg-id="(35)" tvg-name="Como conoci a tu madre" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Como conoci a tu madre
@@ -641,12 +660,12 @@ http://tv.zapping.life:8080/Erasmo24/01db2dd93001/166092
 
 
 #EXTINF:-1 tvg-id="(35)" tvg-name="Dos Hombres y Medio" tvg-logo="" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Dos Hombres y Medio
-http://tv.zapping.life:8080/Erasmo24/01db2dd93001/166307
+http://elpapanatas.space:8080/Oliver123/Oliver123/349613
 
 
 
 #EXTINF:-1 tvg-id="(lista15)" tvg-name="Friends" tvg-logo="https://p7.hiclipart.com/preview/840/692/965/5bbc448fd13e2.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Friends.
-http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/160755
+http://elpapanatas.space:8080/Oliver123/Oliver123/415575
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Friends" tvg-logo="https://p7.hiclipart.com/preview/840/692/965/5bbc448fd13e2.jpg" group-title="24/7" tvg-shift="-7", audio-track="esp,spa", Friends..
 http://tv.diablotv.net:8080/live/burronmarvin2/4db74e0cbe94/166087.m3u8
 
