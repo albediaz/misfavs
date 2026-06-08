@@ -460,13 +460,7 @@ http://45.5.119.43:4000/play/a0i8/index.m3u8
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", NFL.
 http://www.1play.cool:25461/JimmyLopez68/e2aeb7d9d22b/30155
 
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", NFL..
-http://www.1play.cool:25461/JimmyLopez68/e2aeb7d9d22b/30156
 
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", NFL...
-http://tv.diablotv.net:8080/MarbeliceArenas/L5wq9z4kiq/10828
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest/scale-to-width-down/200?cb=20100602105713" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", NFL....
-http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/84666
 
 
 
@@ -525,17 +519,23 @@ http://45.5.119.43:4000/play/a05q/index.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", TUDN..
 http://elpapanatas.space:8080/Felipe123/Felipe123/61978
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", TUDN...
-http://elpapanatas.space:8080/Felipe123/Felipe123/61996
+http://gol-tv.online:80/Ernesto/Ernesto/973697
 #EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", TUDN....
 http://elpapanatas.space:8080/Felipe123/Felipe123/61983
 #EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", TUDN.....
 http://elpapanatas.space:8080/Felipe123/Felipe123/138862
-#EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="https://cdn.prod.website-files.com/667d9e22669ca919a891cfef/6683d50e8dd81a3d59136e15_MonterreyFWC_Logo_Colour.svg" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", DSPORTS 1 ARG.
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.prod.website-files.com/667d9e22669ca919a891cfef/6683d50e8dd81a3d59136e15_MonterreyFWC_Logo_Colour.svg" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", DSPORTS 1 ARG.
 http://elpapanatas.space:8080/Oliver123/Oliver123/258844
-#EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="https://cdn.prod.website-files.com/667d9e22669ca919a891cfef/6683d50e8dd81a3d59136e15_MonterreyFWC_Logo_Colour.svg" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", DSPORTS 1 URU.
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.prod.website-files.com/667d9e22669ca919a891cfef/6683d50e8dd81a3d59136e15_MonterreyFWC_Logo_Colour.svg" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", DSPORTS 1 ARG..
+http://gol-tv.online:80/Ernesto/Ernesto/973705
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.prod.website-files.com/667d9e22669ca919a891cfef/6683d50e8dd81a3d59136e15_MonterreyFWC_Logo_Colour.svg" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", DSPORTS 1 URU.
 http://elpapanatas.space:8080/Oliver123/Oliver123/258843
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.prod.website-files.com/667d9e22669ca919a891cfef/6683d50e8dd81a3d59136e15_MonterreyFWC_Logo_Colour.svg" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", DSPORTS 1 URU..
+
 #EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="https://cdn.prod.website-files.com/667d9e22669ca919a891cfef/6683d50e8dd81a3d59136e15_MonterreyFWC_Logo_Colour.svg" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", DSPORTS 2 ECU.
 http://elpapanatas.space:8080/Oliver123/Oliver123/258836
+
+
 #EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="https://cdn.prod.website-files.com/667d9e22669ca919a891cfef/6683d50e8dd81a3d59136e15_MonterreyFWC_Logo_Colour.svg" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", DSPORTS+ CHI.
 http://elpapanatas.space:8080/Oliver123/Oliver123/258838
 #EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="https://cdn.prod.website-files.com/667d9e22669ca919a891cfef/6683d50e8dd81a3d59136e15_MonterreyFWC_Logo_Colour.svg" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", DSPORTS+ LAT.
@@ -546,9 +546,18 @@ http://elpapanatas.space:8080/Oliver123/Oliver123/258832
 http://elpapanatas.space:8080/Oliver123/Oliver123/437192
 #EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="https://cdn.prod.website-files.com/667d9e22669ca919a891cfef/6683d50e8dd81a3d59136e15_MonterreyFWC_Logo_Colour.svg" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", FIFA+
 http://elpapanatas.space:8080/Oliver123/Oliver123/141390
-#EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="https://cdn.prod.website-files.com/667d9e22669ca919a891cfef/6683d50e8dd81a3d59136e15_MonterreyFWC_Logo_Colour.svg" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", TELEMUND CHICAGO
+#EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="https://cdn.prod.website-files.com/667d9e22669ca919a891cfef/6683d50e8dd81a3d59136e15_MonterreyFWC_Logo_Colour.svg" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", TELEMUND0.00
 http://elpapanatas.space:8080/Oliver123/Oliver123/147562
 
+
+#EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="https://cdn.prod.website-files.com/667d9e22669ca919a891cfef/6683d50e8dd81a3d59136e15_MonterreyFWC_Logo_Colour.svg" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", TELEMUND0.
+http://gol-tv.online:80/Ernesto/Ernesto/973695
+#EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="https://cdn.prod.website-files.com/667d9e22669ca919a891cfef/6683d50e8dd81a3d59136e15_MonterreyFWC_Logo_Colour.svg" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", DAZN ESP.
+http://gol-tv.online:80/Ernesto/Ernesto/856410
+#EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="https://cdn.prod.website-files.com/667d9e22669ca919a891cfef/6683d50e8dd81a3d59136e15_MonterreyFWC_Logo_Colour.svg" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", DAZN ESP..
+http://gol-tv.online:80/Ernesto/Ernesto/856412
+#EXTINF:-1 tvg-id="TUDN(Spanish).mx" tvg-name="TUDN" tvg-logo="https://cdn.prod.website-files.com/667d9e22669ca919a891cfef/6683d50e8dd81a3d59136e15_MonterreyFWC_Logo_Colour.svg" group-title="DEPORTES MUNDIAL" tvg-shift="-7", audio-track="esp,spa", DAZN ESP...
+http://gol-tv.online:80/Ernesto/Ernesto/856420
 
 
 #EXTINF:-1 tvg-id="ClaroSports(Spanish).mx" tvg-name="Claro Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", Claro Sports
