@@ -154,7 +154,7 @@ http://flive.lat:8080/live/kp6026/maZ8yakt4EVn/455128.m3u8
 http://flive.lat:8080/live/kp6026/maZ8yakt4EVn/455261.m3u8
 
 #EXTINF:-1 tvg-id="Antena3Internacional.do" tvg-name="A3 SERIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16800_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", Cine Español
-http://stechnology.xyz:80/Ernesto_Fernandez/3GQZeJFN5Q/327769.m3u8
+http://31.43.191.125:8080/VIP0172168986878608/49d795fa5383/658
 #EXTINF:-1 tvg-id="Atrescine.mx" tvg-name="A3Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82808_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", A3Cine
 http://www.1play.cool:25461/JimmyLopez68/e2aeb7d9d22b/134284
 
